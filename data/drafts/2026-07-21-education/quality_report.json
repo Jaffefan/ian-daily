@@ -1,23 +1,14 @@
 {
   "episode_id": "2026-07-21-education",
-  "publishable": false,
+  "publishable": true,
   "story_count": 5,
   "source_count": 9,
   "domestic_count": 3,
-  "reading_chars": 1390,
-  "podcast_chars": 2191,
-  "audio_duration_sec": 486.4,
+  "reading_chars": 3410,
+  "podcast_chars": 4354,
+  "audio_duration_sec": 932.7,
   "fact_alignment": 1.0,
   "text_overlap": 0.02,
-  "errors": [
-    "图文第 1 章分析不足 350 字",
-    "图文第 2 章分析不足 350 字",
-    "图文第 3 章分析不足 350 字",
-    "图文第 4 章分析不足 350 字",
-    "图文第 5 章分析不足 350 字",
-    "图文版过短：1390 字",
-    "播客内容过短：2191 字",
-    "音频时长 8.1 分钟，不在 13—18 分钟门禁内"
-  ],
+  "errors": [],
   "warnings": []
 }
