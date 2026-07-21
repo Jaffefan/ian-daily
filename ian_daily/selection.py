@@ -54,11 +54,10 @@ def select_articles(
 
     domestic = [item for item in ordered if item.region == "domestic"]
     global_items = [item for item in ordered if item.region != "domestic"]
-    if len(domestic) >= 3 and len(global_items) >= 2:
-        return [*domestic[:3], *global_items[:2]]
-    if len(domestic) >= 2 and len(global_items) >= 2:
-        return [*domestic[:2], *global_items[:2]]
-    return []
+    preferred = [*domestic[:3], *global_items[:2]]
+    selected_ids = {item.id for item in preferred}
+    remainder = [item for item in ordered if item.id not in selected_ids]
+    return [*preferred, *remainder][:target_count]
 
 
 def is_72h_fill(article: Article, now: datetime | None = None) -> bool:

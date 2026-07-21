@@ -62,8 +62,6 @@ def build_site(store: EpisodeStore | None = None, include_ids: set[str] | None =
         latest = next((item for item in bundles if item.category == slug), None)
         if latest:
             cards.append(f'<article class="channel"><div class="date">{_e(latest.date_bjt)}</div><h2><a href="{slug}/{latest.episode_id}/">{_e(profile.name)}</a></h2><p>{_e(latest.podcast.description)}</p><a href="{slug}/{latest.episode_id}/">收听并阅读 →</a></article>')
-        else:
-            cards.append(f'<article class="channel"><h2>{_e(profile.name)}</h2><p class="empty">今天尚无通过质量门禁的节目。</p></article>')
     rows = "".join(f'<a class="archive-row" href="{b.category}/{b.episode_id}/"><span>{_e(b.date_bjt)}</span><span>{_e(b.category_name)}</span><strong>{_e(b.podcast.title)}</strong></a>' for b in bundles)
     body = f'<main class="wrap"><div class="eyebrow">三种视角，同一份对世界的好奇</div><h1 class="home-title">伊恩每日</h1><p class="lead">科技、教育与运动。每期既是一篇可以慢慢读的深度文章，也是一档为耳朵重新创作的完整播客。</p><section class="channel-grid">{"".join(cards)}</section><section class="archive"><h2>往期节目</h2>{rows or "<p class=empty>首期正在制作中。</p>"}</section></main>'
     (config.SITE_DIR / "index.html").write_text(_shell("伊恩每日", body), encoding="utf-8")
@@ -72,5 +70,5 @@ def build_site(store: EpisodeStore | None = None, include_ids: set[str] | None =
         target.mkdir(exist_ok=True)
         items = [item for item in bundles if item.category == slug]
         list_html = "".join(f'<a class="archive-row" href="{item.episode_id}/"><span>{_e(item.date_bjt)}</span><span>{round(item.podcast.total_duration_sec/60)} 分钟</span><strong>{_e(item.podcast.title)}</strong></a>' for item in items)
-        (target / "index.html").write_text(_shell(f"{profile.name} · 伊恩每日", f'<main class="wrap"><h1 class="home-title">{profile.name}</h1><section class="archive">{list_html or "<p class=empty>暂无节目。</p>"}</section></main>', 1), encoding="utf-8")
+        (target / "index.html").write_text(_shell(f"{profile.name} · 伊恩每日", f'<main class="wrap"><h1 class="home-title">{profile.name}</h1><section class="archive">{list_html}</section></main>', 1), encoding="utf-8")
     return config.SITE_DIR

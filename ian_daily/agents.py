@@ -204,17 +204,26 @@ def deepen_reading(category: str, edition: ReadingEdition, packs: list[FactPack]
 
 def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
     profile = config.CATEGORIES[category]
+    story_count = len(packs)
+    if story_count >= 4:
+        format_description, text_target, question_target = "约 15 分钟的完整播客栏目", "3300—4300", "2—3"
+    elif story_count == 3:
+        format_description, text_target, question_target = "约 8—14 分钟的短一期播客栏目", "2400—3300", "2—3"
+    elif story_count == 2:
+        format_description, text_target, question_target = "约 5—11 分钟的短一期播客栏目", "1700—2500", "2—3"
+    else:
+        format_description, text_target, question_target = "约 3—8 分钟的单主题播客栏目", "1000—1700", "1—2"
     system = f"""{IAN_CONSTITUTION}
 
-你正在独立创作「伊恩每日·{profile.name}」约 15 分钟的完整播客栏目。它与图文版共享事件和事实边界，但你看不到图文稿，也不得写成逐章念稿。
+你正在独立创作「伊恩每日·{profile.name}」{format_description}。它与图文版共享事件和事实边界，但你看不到图文稿，也不得写成逐章念稿。
 播客方法：{profile.podcast_lens}
 语气：{profile.tone}
 禁止：{profile.exclusions}
 
-节目必须有：建立当日主题的开场；按顺序故事化解读 {len(packs)} 个事件；2—3 次听众提问或质疑；跨事件主题复盘；自然收束。
+节目必须有：建立当日主题的开场；按顺序故事化解读 {story_count} 个事件；{question_target} 次听众提问或质疑；跨事件主题复盘；自然收束。
 伊恩负责所有事实和核心判断。听众问题由第二声音提出，每次不超过 70 个中文字符，不得引入新事实。
 伊恩块 speaker=ian，听众块 speaker=listener。role 仅可为 opening、story、question、answer、synthesis、closing。
-每个事件至少一个 story 块，story_id 必须来自事实包；问题和回答可带对应 story_id。整体文本目标 3300—4300 中文字符。
+每个事件至少一个 story 块，story_id 必须来自事实包；问题和回答可带对应 story_id。整体文本目标 {text_target} 中文字符。
 输出 JSON：title、description、blocks。blocks 每项含 block_id、speaker、role、text、story_id。"""
     data = _generate(system, {"fact_packs": _pack_payload(packs)}, 0.68)
     story_order = [pack.story_id for pack in packs]
@@ -290,7 +299,8 @@ def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
 def deepen_podcast(category: str, episode: PodcastEpisode, packs: list[FactPack]) -> PodcastEpisode:
     total = len(re.sub(r"\s+", "", "".join(block.text for block in episode.blocks)))
     story_blocks = [block for block in episode.blocks if block.role == "story"]
-    if total >= 4000 and all(len(re.sub(r"\s+", "", block.text)) >= 680 for block in story_blocks):
+    target_total = {1: 1200, 2: 1900, 3: 2700, 4: 3600, 5: 4000}.get(len(packs), 4000)
+    if total >= target_total and all(len(re.sub(r"\s+", "", block.text)) >= 680 for block in story_blocks):
         return episode
     profile = config.CATEGORIES[category]
     system = f"""{IAN_CONSTITUTION}

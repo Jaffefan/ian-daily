@@ -23,12 +23,12 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
     reading_chars = _length(bundle.reading.lead + bundle.reading.synthesis + "".join(s.body for s in bundle.reading.sections))
     podcast_chars = _length("".join(block.text for block in bundle.podcast.blocks))
 
-    if story_count not in {4, 5}:
-        errors.append(f"合格事件应为 4—5 条，当前为 {story_count} 条")
+    if not 1 <= story_count <= 5:
+        errors.append(f"合格事件应为 1—5 条，当前为 {story_count} 条")
     if bundle.category in {"education", "sports"}:
-        required_domestic = 3 if story_count == 5 else 2
+        required_domestic = min(3, story_count)
         if domestic_count < required_domestic:
-            errors.append(f"国内事件不足：需要 {required_domestic} 条，当前 {domestic_count} 条")
+            warnings.append(f"国内事件未达到优先目标：期望 {required_domestic} 条，当前 {domestic_count} 条")
 
     pack_ids = {item.story_id for item in bundle.story_set.fact_packs}
     reading_ids = {item.story_id for item in bundle.reading.sections}
@@ -45,14 +45,17 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
             errors.append(f"图文第 {index} 章分析不足 350 字")
         if re.search(r"(?<![A-Za-z])\d{2,}(?![A-Za-z])", section.body) and len({source.source for source in section.source_refs}) < 2:
             errors.append(f"图文第 {index} 章含数字但不足两个独立来源")
-    if reading_chars < 2000:
-        errors.append(f"图文版过短：{reading_chars} 字")
-    if podcast_chars < 2800:
-        errors.append(f"播客内容过短：{podcast_chars} 字")
+    minimum_reading_chars = max(500, story_count * 400)
+    minimum_podcast_chars = {1: 900, 2: 1500, 3: 2200, 4: 2800, 5: 2800}.get(story_count, 900)
+    if reading_chars < minimum_reading_chars:
+        errors.append(f"图文版过短：{reading_chars} 字，当前事件量至少需要 {minimum_reading_chars} 字")
+    if podcast_chars < minimum_podcast_chars:
+        errors.append(f"播客内容过短：{podcast_chars} 字，当前事件量至少需要 {minimum_podcast_chars} 字")
 
     listeners = [block for block in bundle.podcast.blocks if block.speaker == "listener"]
-    if not 2 <= len(listeners) <= 3:
-        errors.append(f"听众提问应为 2—3 次，当前 {len(listeners)} 次")
+    minimum_listeners = 1 if story_count == 1 else 2
+    if not minimum_listeners <= len(listeners) <= 3:
+        errors.append(f"听众提问应为 {minimum_listeners}—3 次，当前 {len(listeners)} 次")
     if any(_length(block.text) > 70 for block in listeners):
         errors.append("听众提问超过 70 字")
     if len({block.speaker for block in bundle.podcast.blocks}) < 2:
@@ -68,8 +71,19 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
     if require_audio:
         if not bundle.podcast.full_audio_file or duration <= 0:
             errors.append("缺少完整播客音频")
-        elif not 780 <= duration <= 1080:
-            errors.append(f"音频时长 {duration / 60:.1f} 分钟，不在 13—18 分钟门禁内")
+        else:
+            minimum_duration, maximum_duration = {
+                1: (180, 480),
+                2: (300, 660),
+                3: (480, 840),
+                4: (660, 1080),
+                5: (780, 1080),
+            }.get(story_count, (180, 1080))
+            if not minimum_duration <= duration <= maximum_duration:
+                errors.append(
+                    f"音频时长 {duration / 60:.1f} 分钟，不在当前事件量对应的 "
+                    f"{minimum_duration / 60:.0f}—{maximum_duration / 60:.0f} 分钟范围内"
+                )
         if not bundle.podcast.chapters:
             errors.append("缺少音频章节时间轴")
 

@@ -43,8 +43,8 @@ def generate_category(category: str, *, force: bool = False, skip_audio: bool = 
 
     candidates = fetch_category(category)
     selected = select_articles(candidates, category, store.published_story_ids(), claimed_ids, now=now)
-    if len(selected) < 4:
-        raise InsufficientContent(f"{config.CATEGORIES[category].name}在 72 小时内不足 4 条合格事件")
+    if not selected:
+        raise InsufficientContent(f"{config.CATEGORIES[category].name}在 72 小时内没有可发布事件")
     if claimed_ids is not None:
         claimed_ids.update(item.id for item in selected)
         claimed_ids.update(event_fingerprint(item.title) for item in selected)
@@ -73,6 +73,8 @@ def generate_category(category: str, *, force: bool = False, skip_audio: bool = 
         print("  [tts] 生成完整双声音频")
         try:
             bundle.podcast = generate_podcast_audio(bundle.podcast, category, episode_dir)
+        except InsufficientContent as exc:
+            print(f"  [skipped] {category}: {exc}")
         except Exception as exc:
             audit_errors.append(f"音频生成失败：{exc}")
         store.save_bundle(bundle)

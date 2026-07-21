@@ -7,12 +7,13 @@ import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from ian_daily.models import Article, AudioBlock, DailyStorySet, EpisodeBundle, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
+from ian_daily.models import Article, AudioBlock, Chapter, DailyStorySet, EpisodeBundle, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import generate_podcast_audio_async
 from ian_daily.agents import _remove_residual_numeric_precision, build_fact_packs, generate_podcast, generate_reading
 from ian_daily.publisher import notify_generation_failures
+from ian_daily.site import build_site
 
 BJT = timezone(timedelta(hours=8))
 
@@ -32,9 +33,12 @@ class SelectionTests(unittest.TestCase):
         items = [article(i, "domestic") for i in range(2)] + [article(i + 10, "global") for i in range(2)]
         self.assertEqual(4, len(select_articles(items, "sports")))
 
-    def test_stops_below_quota(self):
+    def test_publishes_available_items_below_old_quota(self):
         items = [article(1, "domestic"), article(2, "global"), article(3, "global"), article(4, "global")]
-        self.assertEqual([], select_articles(items, "education"))
+        self.assertEqual(4, len(select_articles(items, "education")))
+
+    def test_single_eligible_item_is_selected(self):
+        self.assertEqual(1, len(select_articles([article(1, "global")], "sports")))
 
     def test_direct_corroboration_is_kept_in_fact_pack(self):
         primary = article(1, "global", "tech")
@@ -59,6 +63,30 @@ class SelectionTests(unittest.TestCase):
 
 
 class QualityTests(unittest.TestCase):
+    def test_single_story_short_episode_can_publish(self):
+        item = article(1, "domestic")
+        ref = SourceRef(item.id, item.title, item.source, item.url, item.published_at_bjt, 1)
+        pack = FactPack(item.id, item.title, ["可核对事实" * 30], [ref])
+        reading = ReadingEdition(
+            "单主题", "导语" * 40,
+            [ReadingSection(item.id, item.title, "导读", "教育机制与现实影响" * 80, "继续观察", "", "", [item.id], [ref])],
+            "复盘" * 30,
+        )
+        podcast = PodcastEpisode(
+            "单主题播客", "简介",
+            [
+                AudioBlock("open", "ian", "opening", "声音开场" * 35),
+                AudioBlock("story", "ian", "story", "现场叙事与人物处境" * 120, item.id),
+                AudioBlock("question", "listener", "question", "这件事和普通人有什么关系？", item.id),
+                AudioBlock("answer", "ian", "answer", "具体回答与行动建议" * 35, item.id),
+                AudioBlock("close", "ian", "closing", "声音收束" * 30),
+            ],
+            [Chapter("story-1", "事件一", 20, item.id)], "episode.mp3", 300,
+        )
+        bundle = EpisodeBundle("2026-01-01-education", 2, "education", "教育", "2026-01-01", DailyStorySet("education", "2026-01-01", [item], [pack]), reading, podcast)
+        report = evaluate_bundle(bundle)
+        self.assertTrue(report.publishable, report.errors)
+
     def test_blocks_article_narration_and_missing_audio(self):
         articles = [article(i, "domestic" if i < 2 else "global") for i in range(4)]
         refs = [SourceRef(a.id, a.title, a.source, a.url, a.published_at_bjt, 1) for a in articles]
@@ -164,6 +192,16 @@ class NotificationTests(unittest.TestCase):
                 store_type.return_value.load_quality.return_value = report
                 notify_generation_failures()
             send.assert_called_once_with(None, report, "sports", "音频时长不足")
+
+
+class SiteTests(unittest.TestCase):
+    def test_empty_channels_do_not_expose_internal_status(self):
+        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.site.config.SITE_DIR", Path(temp)):
+            store = unittest.mock.Mock()
+            store.list_bundles.return_value = []
+            build_site(store)
+            homepage = (Path(temp) / "index.html").read_text(encoding="utf-8")
+        self.assertNotIn("今天尚无通过质量门禁的节目", homepage)
 
 
 if __name__ == "__main__":
