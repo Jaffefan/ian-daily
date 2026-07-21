@@ -43,7 +43,7 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
             errors.append(f"图文第 {index} 章没有可追溯来源")
         if _length(section.body) < 350:
             errors.append(f"图文第 {index} 章分析不足 350 字")
-        if re.search(r"\d", section.body) and len({source.source for source in section.source_refs}) < 2:
+        if re.search(r"(?<![A-Za-z])\d{2,}(?![A-Za-z])", section.body) and len({source.source for source in section.source_refs}) < 2:
             errors.append(f"图文第 {index} 章含数字但不足两个独立来源")
     if reading_chars < 2000:
         errors.append(f"图文版过短：{reading_chars} 字")

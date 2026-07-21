@@ -10,6 +10,7 @@ from ian_daily.models import Article, AudioBlock, DailyStorySet, EpisodeBundle, 
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import generate_podcast_audio_async
+from ian_daily.agents import generate_podcast
 
 BJT = timezone(timedelta(hours=8))
 
@@ -71,6 +72,24 @@ class AudioFallbackTests(unittest.IsolatedAsyncioTestCase):
             result = await generate_podcast_audio_async(podcast, "tech", Path(temp))
         self.assertEqual(["edge", "siliconflow"], calls)
         self.assertEqual("siliconflow", result.tts_provider)
+
+
+class AgentRepairTests(unittest.TestCase):
+    def test_podcast_restores_invalid_story_ids_in_order(self):
+        refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(5)]
+        packs = [FactPack(str(i), f"事件{i}", ["可核对事实" * 20], [refs[i]]) for i in range(5)]
+        first = {"title": "运动测试", "description": "测试", "blocks": [
+            {"block_id": "open", "speaker": "ian", "role": "opening", "text": "开场", "story_id": ""},
+            *[{"block_id": f"story-{i}", "speaker": "ian", "role": "story", "text": "短稿", "story_id": f"bad-{i}"} for i in range(5)],
+            {"block_id": "q1", "speaker": "listener", "role": "question", "text": "问题一", "story_id": ""},
+            {"block_id": "q2", "speaker": "listener", "role": "question", "text": "问题二", "story_id": ""},
+            {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
+        ]}
+        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 170} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
+        with patch("ian_daily.agents._generate", side_effect=[first, second]):
+            episode = generate_podcast("sports", packs)
+        self.assertEqual([str(i) for i in range(5)], [block.story_id for block in episode.blocks if block.role == "story"])
+        self.assertTrue(all(len(block.text) >= 650 for block in episode.blocks if block.role == "story"))
 
 
 if __name__ == "__main__":

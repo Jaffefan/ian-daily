@@ -121,12 +121,47 @@ def generate_reading(category: str, selected: list[Article], packs: list[FactPac
         ))
     if len(sections) != len(packs):
         raise ValueError(f"图文版章节数量应为 {len(packs)}，实际为 {len(sections)}")
-    return ReadingEdition(
+    edition = ReadingEdition(
         title=str(data.get("title") or f"伊恩每日·{profile.name}").strip(),
         lead=str(data.get("lead") or "").strip(),
         sections=sections,
         synthesis=str(data.get("synthesis") or "").strip(),
     )
+    return deepen_reading(category, edition, packs)
+
+
+def deepen_reading(category: str, edition: ReadingEdition, packs: list[FactPack]) -> ReadingEdition:
+    if all(len(re.sub(r"\s+", "", section.body)) >= 480 for section in edition.sections):
+        return edition
+    profile = config.CATEGORIES[category]
+    system = f"""{IAN_CONSTITUTION}
+
+你是「伊恩每日·{profile.name}」图文版的深度编辑。根据事实包扩写现有章节，不增加事实包以外的新事实。
+每章正文必须达到 480—650 个去空格后的中文字符，保留原判断方向，并进一步解释机制、现实代价、普通人影响和可执行观察。
+如果某个数字只有一个来源，不重复或放大该数字，改用不带精确数字的边界表达。
+输出 JSON：sections，每项只含 story_id 和 body；story_id 与输入完全一致。"""
+    result = _generate(system, {
+        "analysis_lens": profile.reading_lens,
+        "fact_packs": _pack_payload(packs),
+        "sections": [{"story_id": item.story_id, "body": item.body} for item in edition.sections],
+    }, 0.4)
+    replacements = {str(item.get("story_id")): str(item.get("body") or "").strip() for item in result.get("sections", [])}
+    pack_by_id = {pack.story_id: pack for pack in packs}
+    for section in edition.sections:
+        replacement = replacements.get(section.story_id, "")
+        if len(re.sub(r"\s+", "", replacement)) >= 450:
+            section.body = replacement
+        pack = pack_by_id[section.story_id]
+        if re.search(r"(?<![A-Za-z])\d{2,}(?![A-Za-z])", section.body):
+            existing = {source.source for source in section.source_refs}
+            for source in pack.sources:
+                if source.source not in existing:
+                    section.source_ids.append(source.article_id)
+                    section.source_refs.append(source)
+                    existing.add(source.source)
+                if len(existing) >= 2:
+                    break
+    return edition
 
 
 def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
@@ -144,11 +179,15 @@ def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
 每个事件至少一个 story 块，story_id 必须来自事实包；问题和回答可带对应 story_id。整体文本目标 3300—4300 中文字符。
 输出 JSON：title、description、blocks。blocks 每项含 block_id、speaker、role、text、story_id。"""
     data = _generate(system, {"fact_packs": _pack_payload(packs)}, 0.68)
-    story_ids = {pack.story_id for pack in packs}
+    story_order = [pack.story_id for pack in packs]
+    story_ids = set(story_order)
+    allowed_roles = {"opening", "story", "question", "answer", "synthesis", "closing"}
     blocks: list[AudioBlock] = []
     for index, raw in enumerate(data.get("blocks") or []):
         speaker = "listener" if raw.get("speaker") == "listener" else "ian"
-        role = str(raw.get("role") or "story")
+        role = str(raw.get("role") or "story").lower()
+        if role not in allowed_roles:
+            role = "question" if speaker == "listener" else "story"
         story_id = str(raw.get("story_id") or "")
         if story_id not in story_ids:
             story_id = ""
@@ -161,15 +200,57 @@ def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
         ))
     if not blocks:
         raise ValueError("播客生成结果没有音频块")
+    assigned: set[str] = set()
+    for block in blocks:
+        if block.role != "story":
+            continue
+        if block.story_id not in story_ids or block.story_id in assigned:
+            block.story_id = next((item for item in story_order if item not in assigned), "")
+        if block.story_id:
+            assigned.add(block.story_id)
     covered = {block.story_id for block in blocks if block.role == "story"}
     missing = story_ids - covered
     if missing:
         raise ValueError(f"播客未覆盖全部事件：{', '.join(sorted(missing))}")
-    return PodcastEpisode(
+    episode = PodcastEpisode(
         title=str(data.get("title") or f"伊恩每日·{profile.name}").strip(),
         description=str(data.get("description") or "").strip(),
         blocks=blocks,
     )
+    return deepen_podcast(category, episode, packs)
+
+
+def deepen_podcast(category: str, episode: PodcastEpisode, packs: list[FactPack]) -> PodcastEpisode:
+    total = len(re.sub(r"\s+", "", "".join(block.text for block in episode.blocks)))
+    story_blocks = [block for block in episode.blocks if block.role == "story"]
+    if total >= 4000 and all(len(re.sub(r"\s+", "", block.text)) >= 680 for block in story_blocks):
+        return episode
+    profile = config.CATEGORIES[category]
+    system = f"""{IAN_CONSTITUTION}
+
+你是「伊恩每日·{profile.name}」播客的深度制作编辑。图文稿不可见；只基于事实包和现有播客块补足声音叙事。
+每个 story 文本写到 720—850 个去空格后的中文字符：从具体场景进入，解释事实、冲突、机制、普通人代价，并给出有边界的伊恩判断。
+不要改成文章腔，不要使用小标题，不要复述同一句新闻。opening 120—180 字，synthesis 320—450 字，closing 100—160 字。
+不能增加事实包之外的数字、引语、赛况或因果。输出 JSON：stories、opening、synthesis、closing；stories 每项只含 story_id 和 text。"""
+    result = _generate(system, {
+        "podcast_lens": profile.podcast_lens,
+        "fact_packs": _pack_payload(packs),
+        "stories": [{"story_id": block.story_id, "text": block.text} for block in story_blocks],
+        "opening": next((block.text for block in episode.blocks if block.role == "opening"), ""),
+        "synthesis": next((block.text for block in episode.blocks if block.role == "synthesis"), ""),
+        "closing": next((block.text for block in episode.blocks if block.role == "closing"), ""),
+    }, 0.52)
+    replacements = {str(item.get("story_id")): str(item.get("text") or "").strip() for item in result.get("stories", [])}
+    for block in story_blocks:
+        replacement = replacements.get(block.story_id, "")
+        if len(re.sub(r"\s+", "", replacement)) >= 650:
+            block.text = replacement
+    for role in ("opening", "synthesis", "closing"):
+        replacement = str(result.get(role) or "").strip()
+        target = next((block for block in episode.blocks if block.role == role), None)
+        if target and replacement:
+            target.text = replacement
+    return episode
 
 
 def audit_editions(reading: ReadingEdition, podcast: PodcastEpisode, packs: list[FactPack]) -> list[str]:
