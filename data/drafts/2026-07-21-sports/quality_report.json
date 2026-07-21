@@ -1,16 +1,14 @@
 {
   "episode_id": "2026-07-21-sports",
-  "publishable": false,
+  "publishable": true,
   "story_count": 5,
   "source_count": 12,
   "domestic_count": 3,
-  "reading_chars": 3766,
-  "podcast_chars": 4031,
-  "audio_duration_sec": 808.3,
+  "reading_chars": 2937,
+  "podcast_chars": 4178,
+  "audio_duration_sec": 827.3,
   "fact_alignment": 1.0,
-  "text_overlap": 0.013,
-  "errors": [
-    "图文第 2 章含数字但不足两个独立来源"
-  ],
+  "text_overlap": 0.01,
+  "errors": [],
   "warnings": []
 }
