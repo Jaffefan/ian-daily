@@ -144,7 +144,13 @@ def generate_reading(category: str, selected: list[Article], packs: list[FactPac
         sections=sections,
         synthesis=str(data.get("synthesis") or "").strip(),
     )
-    return deepen_reading(category, edition, packs)
+    edition = deepen_reading(category, edition, packs)
+    pack_by_id = {pack.story_id: pack for pack in packs}
+    for section in edition.sections:
+        pack = pack_by_id[section.story_id]
+        section.source_ids = [source.article_id for source in pack.sources]
+        section.source_refs = list(pack.sources)
+    return edition
 
 
 def deepen_reading(category: str, edition: ReadingEdition, packs: list[FactPack]) -> ReadingEdition:
@@ -283,7 +289,7 @@ def deepen_podcast(category: str, episode: PodcastEpisode, packs: list[FactPack]
         if len(re.sub(r"\s+", "", replacement)) >= 650:
             block.text = replacement
         pack = next(item for item in packs if item.story_id == block.story_id)
-        target_length = 820 if category == "sports" else 700
+        target_length = 860 if category == "sports" else 700
         for _ in range(2):
             current_length = len(re.sub(r"\s+", "", block.text))
             if current_length >= target_length:

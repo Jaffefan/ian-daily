@@ -11,7 +11,7 @@ from ian_daily.models import Article, AudioBlock, DailyStorySet, EpisodeBundle, 
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import generate_podcast_audio_async
-from ian_daily.agents import build_fact_packs, generate_podcast
+from ian_daily.agents import build_fact_packs, generate_podcast, generate_reading
 from ian_daily.publisher import notify_generation_failures
 
 BJT = timezone(timedelta(hours=8))
@@ -43,6 +43,19 @@ class SelectionTests(unittest.TestCase):
         packs = build_fact_packs([primary], [primary, corroboration], {primary.id: [corroboration]})
         self.assertEqual(2, len(packs[0].sources))
         self.assertEqual({"来源1", "独立来源"}, {source.source for source in packs[0].sources})
+
+    def test_reading_exposes_all_fact_pack_sources(self):
+        primary = article(1, "global", "tech")
+        corroboration = article(2, "global", "tech")
+        corroboration.source = "独立来源"
+        pack = build_fact_packs([primary], [primary, corroboration], {primary.id: [corroboration]})[0]
+        generated = {"title": "标题", "lead": "导语", "synthesis": "复盘", "sections": [{
+            "story_id": primary.id, "title": "事件", "dek": "导读", "body": "分析" * 500,
+            "takeaway": "观察", "source_ids": [primary.id]
+        }]}
+        with patch("ian_daily.agents._generate", return_value=generated):
+            edition = generate_reading("tech", [primary], [pack])
+        self.assertEqual(2, len(edition.sections[0].source_refs))
 
 
 class QualityTests(unittest.TestCase):
@@ -95,7 +108,7 @@ class AgentRepairTests(unittest.TestCase):
             {"block_id": "q2", "speaker": "listener", "role": "question", "text": "问题二", "story_id": ""},
             {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
         ]}
-        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 210} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
+        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 220} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
         with patch("ian_daily.agents._generate", side_effect=[first, second]):
             episode = generate_podcast("sports", packs)
         self.assertEqual([str(i) for i in range(5)], [block.story_id for block in episode.blocks if block.role == "story"])
