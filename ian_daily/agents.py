@@ -336,4 +336,20 @@ def audit_editions(reading: ReadingEdition, podcast: PodcastEpisode, packs: list
         corrected = str(item.get("text") or "").strip()
         if target and len(re.sub(r"\s+", "", corrected)) >= 100:
             target.text = corrected
+    pack_by_id = {pack.story_id: pack for pack in packs}
+    numeric_claim = re.compile(r"(?<![A-Za-z])\d{2,}(?![A-Za-z])")
+    for section in reading.sections:
+        pack = pack_by_id[section.story_id]
+        if len({source.source for source in pack.sources}) >= 2 or not numeric_claim.search(section.body):
+            continue
+        sanitized = _generate(
+            """你是事实审校员。这个事件目前只有一个可信来源，因此不能保留无法交叉核对的精确数字。
+在不改变事件、分析角度和篇幅层次的前提下，把阿拉伯数字、精确日期、精确比分、金额和数量改成来源边界清楚的非精确表达。
+不得增加新事实，正文保持至少 350 个中文字符。输出 JSON：body。""",
+            {"fact_pack": pack.to_dict(), "body": section.body},
+            0.0,
+        )
+        corrected = str(sanitized.get("body") or "").strip()
+        if len(re.sub(r"\s+", "", corrected)) >= 350 and not numeric_claim.search(corrected):
+            section.body = corrected
     return [str(item) for item in result.get("blocking_errors", []) if str(item).strip()]
