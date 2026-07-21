@@ -253,6 +253,30 @@ def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
             assigned.add(block.story_id)
     covered = {block.story_id for block in blocks if block.role == "story"}
     missing = story_ids - covered
+    for story_id in story_order:
+        if story_id not in missing:
+            continue
+        pack = next(item for item in packs if item.story_id == story_id)
+        recovered = _generate(
+            f"""{IAN_CONSTITUTION}
+你正在补回「伊恩每日·{profile.name}」播客中缺失的一个事件段落。只依据这个 FactPack 写完整的声音叙事。
+从具体场景进入，讲清事实、冲突、机制、人的处境和普通人影响，最后给出有边界的伊恩判断。
+不得使用小标题，不得引入新数字、引语、赛况或因果。text 写 720—900 个中文字符。输出 JSON：text。""",
+            {"fact_pack": pack.to_dict(), "podcast_lens": profile.podcast_lens},
+            0.5,
+        )
+        text = str(recovered.get("text") or "").strip()
+        if len(re.sub(r"\s+", "", text)) < 300:
+            continue
+        recovered_block = AudioBlock(
+            block_id=f"recovered-{story_id}", speaker="ian", role="story",
+            text=text, story_id=story_id,
+        )
+        insert_at = next((index for index, block in enumerate(blocks) if block.role in {"synthesis", "closing"}), len(blocks))
+        blocks.insert(insert_at, recovered_block)
+        covered.add(story_id)
+    if missing:
+        missing = story_ids - covered
     if missing:
         raise ValueError(f"播客未覆盖全部事件：{', '.join(sorted(missing))}")
     episode = PodcastEpisode(

@@ -125,6 +125,22 @@ class AgentRepairTests(unittest.TestCase):
         self.assertEqual(4, sum(block.role == "story" for block in episode.blocks))
         self.assertEqual("answer", episode.blocks[-1].role)
 
+    def test_missing_story_block_is_recovered(self):
+        refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(4)]
+        packs = [FactPack(str(i), f"事件{i}", ["事实" * 30], [refs[i]]) for i in range(4)]
+        first = {"title": "测试", "description": "测试", "blocks": [
+            *[{"block_id": f"s{i}", "speaker": "ian", "role": "story", "text": "声音叙事" * 180, "story_id": str(i)} for i in range(3)],
+            {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
+        ]}
+        recovered = {"text": "补回叙事" * 180}
+        deepened = {"stories": [{"story_id": str(i), "text": "声音叙事" * 180} for i in range(3)] + [{"story_id": "3", "text": "补回叙事" * 180}]}
+        with patch("ian_daily.agents._generate", side_effect=[first, recovered, deepened]):
+            episode = generate_podcast("tech", packs)
+        self.assertEqual({"0", "1", "2", "3"}, {block.story_id for block in episode.blocks if block.role == "story"})
+        recovered_index = next(i for i, block in enumerate(episode.blocks) if block.block_id.startswith("recovered-"))
+        closing_index = next(i for i, block in enumerate(episode.blocks) if block.role == "closing")
+        self.assertLess(recovered_index, closing_index)
+
 
 class NotificationTests(unittest.TestCase):
     def test_quality_blocked_episode_sends_failure_card(self):
