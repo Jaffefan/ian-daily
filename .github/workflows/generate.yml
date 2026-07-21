@@ -7,6 +7,10 @@ on:
       force:
         type: boolean
         default: false
+      category:
+        description: Optional single channel (tech, education, sports)
+        type: string
+        default: ""
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -23,7 +27,7 @@ jobs:
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
-        run: python -m ian_daily generate ${{ inputs.force && '--force' || '' }}
+        run: python -m ian_daily generate ${{ inputs.category && format('--category {0}', inputs.category) || '' }} ${{ inputs.force && '--force' || '' }}
       - name: Commit generated drafts
         run: |
           git config user.name "ian-daily-bot"

@@ -85,11 +85,22 @@ class AgentRepairTests(unittest.TestCase):
             {"block_id": "q2", "speaker": "listener", "role": "question", "text": "问题二", "story_id": ""},
             {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
         ]}
-        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 180} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
+        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 210} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
         with patch("ian_daily.agents._generate", side_effect=[first, second]):
             episode = generate_podcast("sports", packs)
         self.assertEqual([str(i) for i in range(5)], [block.story_id for block in episode.blocks if block.role == "story"])
         self.assertTrue(all(len(block.text) >= 650 for block in episode.blocks if block.role == "story"))
+
+    def test_extra_story_block_becomes_answer(self):
+        refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(4)]
+        packs = [FactPack(str(i), f"事件{i}", ["事实" * 30], [refs[i]]) for i in range(4)]
+        blocks = [{"block_id": f"s{i}", "speaker": "ian", "role": "story", "text": "声音叙事" * 180, "story_id": "bad"} for i in range(5)]
+        first = {"title": "测试", "description": "测试", "blocks": blocks}
+        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 180} for i in range(4)]}
+        with patch("ian_daily.agents._generate", side_effect=[first, second]):
+            episode = generate_podcast("tech", packs)
+        self.assertEqual(4, sum(block.role == "story" for block in episode.blocks))
+        self.assertEqual("answer", episode.blocks[-1].role)
 
 
 if __name__ == "__main__":

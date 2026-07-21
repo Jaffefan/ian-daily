@@ -220,7 +220,12 @@ def generate_podcast(category: str, packs: list[FactPack]) -> PodcastEpisode:
         if block.role != "story":
             continue
         if block.story_id not in story_ids or block.story_id in assigned:
-            block.story_id = next((item for item in story_order if item not in assigned), "")
+            replacement_id = next((item for item in story_order if item not in assigned), "")
+            if not replacement_id:
+                block.role = "answer"
+                block.story_id = next((item for item in reversed(story_order) if item in assigned), "")
+                continue
+            block.story_id = replacement_id
         if block.story_id:
             assigned.add(block.story_id)
     covered = {block.story_id for block in blocks if block.role == "story"}
@@ -261,9 +266,10 @@ def deepen_podcast(category: str, episode: PodcastEpisode, packs: list[FactPack]
         if len(re.sub(r"\s+", "", replacement)) >= 650:
             block.text = replacement
         pack = next(item for item in packs if item.story_id == block.story_id)
+        target_length = 820 if category == "sports" else 700
         for _ in range(2):
             current_length = len(re.sub(r"\s+", "", block.text))
-            if current_length >= 700:
+            if current_length >= target_length:
                 break
             addition_result = _generate(
                 f"""{IAN_CONSTITUTION}
