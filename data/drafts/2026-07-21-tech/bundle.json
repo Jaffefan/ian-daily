@@ -725,7 +725,7 @@
     "total_duration_sec": 1001.1,
     "tts_provider": "edge"
   },
-  "status": "quality_passed",
+  "status": "published",
   "created_at_bjt": "2026-07-21T19:32:32+08:00",
-  "updated_at_bjt": "2026-07-21T19:33:52+08:00"
+  "updated_at_bjt": "2026-07-21T20:11:24+08:00"
 }
