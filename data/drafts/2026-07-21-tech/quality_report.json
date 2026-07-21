@@ -1,0 +1,19 @@
+{
+  "episode_id": "2026-07-21-tech",
+  "publishable": false,
+  "story_count": 5,
+  "source_count": 11,
+  "domestic_count": 1,
+  "reading_chars": 2395,
+  "podcast_chars": 2487,
+  "audio_duration_sec": 501.5,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.031,
+  "errors": [
+    "图文第 2 章含数字但不足两个独立来源",
+    "图文第 5 章含数字但不足两个独立来源",
+    "播客内容过短：2487 字",
+    "音频时长 8.4 分钟，不在 13—18 分钟门禁内"
+  ],
+  "warnings": []
+}
