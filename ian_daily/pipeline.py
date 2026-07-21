@@ -14,15 +14,19 @@ class InsufficientContent(RuntimeError):
     pass
 
 
-def _prepare(selected: list[Article], candidates: list[Article]) -> None:
+def _prepare(selected: list[Article], candidates: list[Article]) -> dict[str, list[Article]]:
+    corroboration_by_story: dict[str, list[Article]] = {}
     for article in selected:
         print(f"  [enrich] {article.source}: {article.title[:55]}")
         enrich_article(article)
         article.community_signals = fetch_community_signals(article)
         try:
-            candidates.extend(fetch_corroborating_articles(article, limit=4))
+            corroboration = fetch_corroborating_articles(article, limit=4)
+            candidates.extend(corroboration)
+            corroboration_by_story[article.id] = corroboration
         except Exception as exc:
             print(f"  [source-warning] {exc}")
+    return corroboration_by_story
 
 
 def generate_category(category: str, *, force: bool = False, skip_audio: bool = False, store: EpisodeStore | None = None, claimed_ids: set[str] | None = None) -> EpisodeBundle:
@@ -44,8 +48,8 @@ def generate_category(category: str, *, force: bool = False, skip_audio: bool = 
     if claimed_ids is not None:
         claimed_ids.update(item.id for item in selected)
         claimed_ids.update(event_fingerprint(item.title) for item in selected)
-    _prepare(selected, candidates)
-    packs = build_fact_packs(selected, candidates)
+    corroboration_by_story = _prepare(selected, candidates)
+    packs = build_fact_packs(selected, candidates, corroboration_by_story)
     story_set = DailyStorySet(category, now.strftime("%Y-%m-%d"), selected, packs)
 
     print("  [agent] 独立生成图文版")

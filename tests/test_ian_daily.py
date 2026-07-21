@@ -11,7 +11,7 @@ from ian_daily.models import Article, AudioBlock, DailyStorySet, EpisodeBundle, 
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import generate_podcast_audio_async
-from ian_daily.agents import generate_podcast
+from ian_daily.agents import build_fact_packs, generate_podcast
 from ian_daily.publisher import notify_generation_failures
 
 BJT = timezone(timedelta(hours=8))
@@ -35,6 +35,14 @@ class SelectionTests(unittest.TestCase):
     def test_stops_below_quota(self):
         items = [article(1, "domestic"), article(2, "global"), article(3, "global"), article(4, "global")]
         self.assertEqual([], select_articles(items, "education"))
+
+    def test_direct_corroboration_is_kept_in_fact_pack(self):
+        primary = article(1, "global", "tech")
+        corroboration = article(2, "global", "tech")
+        corroboration.source = "独立来源"
+        packs = build_fact_packs([primary], [primary, corroboration], {primary.id: [corroboration]})
+        self.assertEqual(2, len(packs[0].sources))
+        self.assertEqual({"来源1", "独立来源"}, {source.source for source in packs[0].sources})
 
 
 class QualityTests(unittest.TestCase):
