@@ -3,6 +3,7 @@ from __future__ import annotations
 import tempfile
 import unittest
 from unittest.mock import AsyncMock, patch
+import json
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -11,6 +12,7 @@ from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import generate_podcast_audio_async
 from ian_daily.agents import generate_podcast
+from ian_daily.publisher import notify_generation_failures
 
 BJT = timezone(timedelta(hours=8))
 
@@ -101,6 +103,24 @@ class AgentRepairTests(unittest.TestCase):
             episode = generate_podcast("tech", packs)
         self.assertEqual(4, sum(block.role == "story" for block in episode.blocks))
         self.assertEqual("answer", episode.blocks[-1].role)
+
+
+class NotificationTests(unittest.TestCase):
+    def test_quality_blocked_episode_sends_failure_card(self):
+        with tempfile.TemporaryDirectory() as temp:
+            data_dir = Path(temp)
+            (data_dir / "last_generation.json").write_text(json.dumps({
+                "failures": {}, "episodes": ["2026-01-01-sports"]
+            }), encoding="utf-8")
+            bundle = unittest.mock.Mock(status="failed", category="sports", episode_id="2026-01-01-sports")
+            report = unittest.mock.Mock(errors=["音频时长不足"])
+            with patch("ian_daily.publisher.config.DATA_DIR", data_dir), \
+                 patch("ian_daily.publisher.EpisodeStore") as store_type, \
+                 patch("ian_daily.publisher.send_channel_card") as send:
+                store_type.return_value.load_bundle.return_value = bundle
+                store_type.return_value.load_quality.return_value = report
+                notify_generation_failures()
+            send.assert_called_once_with(None, report, "sports", "音频时长不足")
 
 
 if __name__ == "__main__":

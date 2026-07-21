@@ -28,6 +28,20 @@ def notify_generation_failures() -> None:
         return
     import json
     payload = json.loads(path.read_text(encoding="utf-8"))
+    notified: set[str] = set()
     for category, error in payload.get("failures", {}).items():
         if category in config.CATEGORIES:
             send_channel_card(None, None, category, str(error))
+            notified.add(category)
+    store = EpisodeStore()
+    for episode_id in payload.get("episodes", []):
+        try:
+            bundle = store.load_bundle(str(episode_id))
+            if bundle.status != "failed" or bundle.category in notified:
+                continue
+            report = store.load_quality(bundle.episode_id)
+            reason = "；".join(report.errors[:3]) or "未通过质量门禁"
+            send_channel_card(None, report, bundle.category, reason)
+            notified.add(bundle.category)
+        except (OSError, ValueError, TypeError):
+            continue
