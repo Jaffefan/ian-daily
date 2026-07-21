@@ -152,6 +152,21 @@ def deepen_reading(category: str, edition: ReadingEdition, packs: list[FactPack]
         if len(re.sub(r"\s+", "", replacement)) >= 450:
             section.body = replacement
         pack = pack_by_id[section.story_id]
+        for _ in range(2):
+            current_length = len(re.sub(r"\s+", "", section.body))
+            if current_length >= 480:
+                break
+            addition_result = _generate(
+                f"""{IAN_CONSTITUTION}
+你是{profile.name}图文版的续写编辑。只补充一段与现有正文自然衔接的深度分析，不复述新闻，不引入事实包外信息。
+补充机制、现实代价、普通人影响或可执行观察。addition 写 220—320 个中文字符，禁止小标题。输出 JSON：addition。""",
+                {"fact_pack": pack.to_dict(), "existing_body": section.body},
+                0.38,
+            )
+            addition = str(addition_result.get("addition") or "").strip()
+            if len(re.sub(r"\s+", "", addition)) < 80:
+                break
+            section.body = f"{section.body}\n\n{addition}"
         if re.search(r"(?<![A-Za-z])\d{2,}(?![A-Za-z])", section.body):
             existing = {source.source for source in section.source_refs}
             for source in pack.sources:
@@ -245,6 +260,22 @@ def deepen_podcast(category: str, episode: PodcastEpisode, packs: list[FactPack]
         replacement = replacements.get(block.story_id, "")
         if len(re.sub(r"\s+", "", replacement)) >= 650:
             block.text = replacement
+        pack = next(item for item in packs if item.story_id == block.story_id)
+        for _ in range(2):
+            current_length = len(re.sub(r"\s+", "", block.text))
+            if current_length >= 700:
+                break
+            addition_result = _generate(
+                f"""{IAN_CONSTITUTION}
+你是{profile.name}播客的续写制作人。只补充一段能直接接在现有口播后的声音叙事，不写文章小标题，不复述新闻，不引入事实包外信息。
+补充冲突、机制、人的处境、普通人代价或有边界的伊恩判断。addition 写 260—380 个中文字符。输出 JSON：addition。""",
+                {"fact_pack": pack.to_dict(), "existing_audio_script": block.text},
+                0.48,
+            )
+            addition = str(addition_result.get("addition") or "").strip()
+            if len(re.sub(r"\s+", "", addition)) < 100:
+                break
+            block.text = f"{block.text}\n\n{addition}"
     for role in ("opening", "synthesis", "closing"):
         replacement = str(result.get(role) or "").strip()
         target = next((block for block in episode.blocks if block.role == role), None)
@@ -254,11 +285,26 @@ def deepen_podcast(category: str, episode: PodcastEpisode, packs: list[FactPack]
 
 
 def audit_editions(reading: ReadingEdition, podcast: PodcastEpisode, packs: list[FactPack]) -> list[str]:
-    system = f"""你是独立事实审校员。只依据事实包检查图文版和播客版中的数字、日期、人名、引语、因果、赛况与政策条款。
-不要评价文风。公众评论不能作事实。输出 JSON：errors，值为具体且可定位的问题数组；没有问题时返回空数组。"""
+    system = """你是独立事实审校员。只依据事实包检查图文版和播客版中的数字、日期、人名、引语、因果、赛况与政策条款。
+不要评价文风，不要把「与事实一致」「列举不完整但没有声称完整」写成问题。公众评论不能作事实。
+可通过删除、降级确定性或改写解决的问题，必须在 corrections 中给出修正后的完整正文，不得放入 blocking_errors。
+只有素材本身无法支持整条事件、无法通过改写修复时，才写入 blocking_errors。
+输出 JSON：reading_corrections、podcast_corrections、blocking_errors。reading_corrections 每项含 story_id、body；podcast_corrections 每项含 block_id、text。"""
     result = _generate(system, {
         "fact_packs": _pack_payload(packs),
         "reading": {"sections": [{"story_id": s.story_id, "body": s.body} for s in reading.sections]},
         "podcast": {"blocks": [{"block_id": b.block_id, "story_id": b.story_id, "text": b.text} for b in podcast.blocks]},
     }, 0.0)
-    return [str(item) for item in result.get("errors", []) if str(item).strip()]
+    reading_by_id = {section.story_id: section for section in reading.sections}
+    podcast_by_id = {block.block_id: block for block in podcast.blocks}
+    for item in result.get("reading_corrections", []):
+        target = reading_by_id.get(str(item.get("story_id") or ""))
+        corrected = str(item.get("body") or "").strip()
+        if target and len(re.sub(r"\s+", "", corrected)) >= 350:
+            target.body = corrected
+    for item in result.get("podcast_corrections", []):
+        target = podcast_by_id.get(str(item.get("block_id") or ""))
+        corrected = str(item.get("text") or "").strip()
+        if target and len(re.sub(r"\s+", "", corrected)) >= 100:
+            target.text = corrected
+    return [str(item) for item in result.get("blocking_errors", []) if str(item).strip()]

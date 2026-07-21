@@ -85,7 +85,7 @@ class AgentRepairTests(unittest.TestCase):
             {"block_id": "q2", "speaker": "listener", "role": "question", "text": "问题二", "story_id": ""},
             {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
         ]}
-        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 170} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
+        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 180} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
         with patch("ian_daily.agents._generate", side_effect=[first, second]):
             episode = generate_podcast("sports", packs)
         self.assertEqual([str(i) for i in range(5)], [block.story_id for block in episode.blocks if block.role == "story"])
