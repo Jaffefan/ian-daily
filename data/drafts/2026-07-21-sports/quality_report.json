@@ -1,0 +1,24 @@
+{
+  "episode_id": "2026-07-21-sports",
+  "publishable": false,
+  "story_count": 5,
+  "source_count": 12,
+  "domestic_count": 3,
+  "reading_chars": 1406,
+  "podcast_chars": 1736,
+  "audio_duration_sec": 359.8,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.006,
+  "errors": [
+    "图文第 1 章分析不足 350 字",
+    "图文第 2 章分析不足 350 字",
+    "图文第 3 章分析不足 350 字",
+    "图文第 3 章含数字但不足两个独立来源",
+    "图文第 4 章分析不足 350 字",
+    "图文第 5 章分析不足 350 字",
+    "图文版过短：1406 字",
+    "播客内容过短：1736 字",
+    "音频时长 6.0 分钟，不在 13—18 分钟门禁内"
+  ],
+  "warnings": []
+}

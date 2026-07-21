@@ -1,10 +1,9 @@
 {
-  "at_bjt": "2026-07-21T18:35:53+08:00",
-  "failures": {
-    "sports": "播客未覆盖全部事件：217076606c1bae03789e, 3d46f1a2d2af11f467b6, 5cd78406d15270e55add, c066d625ce85d7a0cf46, f9b5c169ae69388bc4aa"
-  },
+  "at_bjt": "2026-07-21T18:45:55+08:00",
+  "failures": {},
   "episodes": [
     "2026-07-21-tech",
-    "2026-07-21-education"
+    "2026-07-21-education",
+    "2026-07-21-sports"
   ]
 }
