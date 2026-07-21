@@ -1,17 +1,14 @@
 {
   "episode_id": "2026-07-21-tech",
-  "publishable": false,
+  "publishable": true,
   "story_count": 5,
-  "source_count": 11,
-  "domestic_count": 1,
-  "reading_chars": 3719,
-  "podcast_chars": 5356,
-  "audio_duration_sec": 1073.9,
+  "source_count": 15,
+  "domestic_count": 0,
+  "reading_chars": 3609,
+  "podcast_chars": 5087,
+  "audio_duration_sec": 1001.1,
   "fact_alignment": 1.0,
-  "text_overlap": 0.006,
-  "errors": [
-    "图文第 2 章含数字但不足两个独立来源",
-    "图文第 5 章含数字但不足两个独立来源"
-  ],
+  "text_overlap": 0.004,
+  "errors": [],
   "warnings": []
 }
