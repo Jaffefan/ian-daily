@@ -4,14 +4,15 @@
   "story_count": 5,
   "source_count": 12,
   "domestic_count": 3,
-  "reading_chars": 2905,
-  "podcast_chars": 3478,
-  "audio_duration_sec": 685.3,
+  "reading_chars": 3154,
+  "podcast_chars": 3856,
+  "audio_duration_sec": 779.8,
   "fact_alignment": 1.0,
-  "text_overlap": 0.003,
+  "text_overlap": 0.01,
   "errors": [
-    "图文第 4 章含数字但不足两个独立来源",
-    "音频时长 11.4 分钟，不在 13—18 分钟门禁内"
+    "图文第 3 章含数字但不足两个独立来源",
+    "图文第 5 章含数字但不足两个独立来源",
+    "音频时长 13.0 分钟，不在 13—18 分钟门禁内"
   ],
   "warnings": []
 }
