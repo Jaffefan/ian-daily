@@ -11,7 +11,7 @@ from ian_daily.models import Article, AudioBlock, DailyStorySet, EpisodeBundle, 
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import generate_podcast_audio_async
-from ian_daily.agents import build_fact_packs, generate_podcast, generate_reading
+from ian_daily.agents import _remove_residual_numeric_precision, build_fact_packs, generate_podcast, generate_reading
 from ian_daily.publisher import notify_generation_failures
 
 BJT = timezone(timedelta(hours=8))
@@ -98,6 +98,12 @@ class AudioFallbackTests(unittest.IsolatedAsyncioTestCase):
 
 
 class AgentRepairTests(unittest.TestCase):
+    def test_single_source_numeric_precision_fallback(self):
+        body = "官方宣布2026年安排，投入1200万元，目标覆盖85%的参与者，比分为102：98。"
+        corrected = _remove_residual_numeric_precision(body)
+        self.assertNotRegex(corrected, r"(?<![A-Za-z])\d{2,}(?![A-Za-z])")
+        self.assertIn("本年度", corrected)
+
     def test_podcast_restores_invalid_story_ids_in_order(self):
         refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(5)]
         packs = [FactPack(str(i), f"事件{i}", ["可核对事实" * 20], [refs[i]]) for i in range(5)]

@@ -374,6 +374,24 @@ def audit_editions(reading: ReadingEdition, podcast: PodcastEpisode, packs: list
             0.0,
         )
         corrected = str(sanitized.get("body") or "").strip()
-        if len(re.sub(r"\s+", "", corrected)) >= 350 and not numeric_claim.search(corrected):
+        if len(re.sub(r"\s+", "", corrected)) < 350:
+            continue
+        corrected = _remove_residual_numeric_precision(corrected)
+        if not numeric_claim.search(corrected):
             section.body = corrected
     return [str(item) for item in result.get("blocking_errors", []) if str(item).strip()]
+
+
+def _remove_residual_numeric_precision(text: str) -> str:
+    """Remove precise numeric residue after a single-source model rewrite."""
+    replacements = (
+        (r"(?:19|20)\d{2}年", "本年度"),
+        (r"\d{1,2}月\d{1,2}日", "近期"),
+        (r"\d+(?:\.\d+)?%", "相关比例"),
+        (r"\d+\s*(?:亿元|万元|元|美元|人民币)", "相关金额"),
+        (r"\d+\s*[:：比-]\s*\d+", "具体比分"),
+        (r"(?<![A-Za-z])\d{2,}(?![A-Za-z])", "相关数量"),
+    )
+    for pattern, replacement in replacements:
+        text = re.sub(pattern, replacement, text)
+    return text
