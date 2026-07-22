@@ -116,7 +116,7 @@ def resolve_story_images(category: str, articles: list[Article], reading: Readin
         source_url = article.image_url if article.image_url.startswith(("http://", "https://")) else article.image_source_url
         if not source_url:
             source_url = discover_article_image(article)
-        credit = article.image_credit or article.source
+        credit = article.source if source_url else (article.image_credit or article.source)
         kind = "source"
         status = "downloaded"
         if not _download(source_url, target, article.url):

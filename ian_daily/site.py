@@ -95,6 +95,7 @@ def build_site(store: EpisodeStore | None = None, include_ids: set[str] | None =
             or not (episode_dir / section.image_url).exists()
             or not section.image_phash
             or (section.image_kind == "fallback" and section.image_status != "source_unavailable")
+            or (section.image_kind == "source" and section.image_credit.startswith("伊恩每日"))
             for section in bundle.reading.sections
         )
         if needs_images:
