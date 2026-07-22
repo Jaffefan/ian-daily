@@ -4,9 +4,22 @@ from . import config
 from .models import EpisodeBundle, QualityReport
 
 
-def send_channel_card(bundle: EpisodeBundle | None, report: QualityReport | None, category: str, error: str = "") -> None:
+def send_ops_card(title: str, body: str, color: str = "orange") -> bool:
     if not config.FEISHU_WEBHOOK:
-        return
+        return False
+    try:
+        import httpx
+        response = httpx.post(config.FEISHU_WEBHOOK, json={"msg_type": "interactive", "card": {"header": {"title": {"tag": "plain_text", "content": title}, "template": color}, "elements": [{"tag": "markdown", "content": body}]}}, timeout=20)
+        response.raise_for_status()
+        return True
+    except Exception as exc:
+        print(f"  [feishu-warning] ops: {exc}")
+        return False
+
+
+def send_channel_card(bundle: EpisodeBundle | None, report: QualityReport | None, category: str, error: str = "") -> bool:
+    if not config.FEISHU_WEBHOOK:
+        return False
     try:
         import httpx
         name = config.CATEGORIES[category].name
@@ -25,5 +38,7 @@ def send_channel_card(bundle: EpisodeBundle | None, report: QualityReport | None
                      "elements": [{"tag": "markdown", "content": body}]},
         }, timeout=20)
         response.raise_for_status()
+        return True
     except Exception as exc:
         print(f"  [feishu-warning] {category}: {exc}")
+        return False

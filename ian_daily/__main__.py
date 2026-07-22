@@ -5,7 +5,8 @@ import sys
 
 from . import config
 from .pipeline import generate_all, generate_category
-from .publisher import notify_generation_failures, publish_ready
+from .model_api import usage_report
+from .publisher import finalize_release, notify_generation_failures, notify_release_overdue, prepare_release, publish_ready, verify_release
 from .review import run_review_server
 from .site import build_site
 
@@ -24,6 +25,15 @@ def parser() -> argparse.ArgumentParser:
     review.add_argument("--port", type=int, default=5211)
     review.add_argument("--token", default="")
     commands.add_parser("build-site", help="重新构建静态站")
+    prepare = commands.add_parser("prepare-release", help="构建待发布 Pages 产物")
+    prepare.add_argument("--date")
+    commands.add_parser("verify-release", help="验证 Pages 和音频已经上线")
+    commands.add_parser("finalize-release", help="完成发布状态并发送飞书")
+    commands.add_parser("notify-overdue", help="通知九点发布逾期")
+    commands.add_parser("migrate-storage", help="迁移为按频道分层的数据目录")
+    usage = commands.add_parser("usage", help="查看模型 token 与费用")
+    usage.add_argument("--date")
+    usage.add_argument("--days", type=int, default=1)
     commands.add_parser("notify-failures", help="发送三个频道各自的异常卡片")
     commands.add_parser("demo-site", help="生成不可发布的界面预览数据")
     return root
@@ -43,6 +53,20 @@ def main(argv: list[str] | None = None) -> int:
             run_review_server(args.host, args.port, args.token)
         elif args.command == "build-site":
             print(build_site())
+        elif args.command == "prepare-release":
+            print("待发布：", ", ".join(prepare_release(args.date)) or "无")
+        elif args.command == "verify-release":
+            verify_release(); print("Pages 验证通过")
+        elif args.command == "finalize-release":
+            print("已发布：", ", ".join(finalize_release()) or "无")
+        elif args.command == "notify-overdue":
+            notify_release_overdue()
+        elif args.command == "migrate-storage":
+            from .storage import EpisodeStore
+            print("已迁移：", ", ".join(EpisodeStore().migrate_legacy_layout()) or "无")
+        elif args.command == "usage":
+            import json
+            print(json.dumps(usage_report(args.date, args.days), ensure_ascii=False, indent=2))
         elif args.command == "notify-failures":
             notify_generation_failures()
         elif args.command == "demo-site":

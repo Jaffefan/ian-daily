@@ -4,16 +4,20 @@ import tempfile
 import unittest
 from unittest.mock import AsyncMock, patch
 import json
+import wave
+from array import array
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
-from ian_daily.models import Article, AudioBlock, Chapter, DailyStorySet, EpisodeBundle, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
+from ian_daily.models import Article, AudioBlock, Chapter, DailyStorySet, EpisodeBundle, FactPack, PodcastEpisode, QualityReport, ReadingEdition, ReadingSection, SourceRef
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
-from ian_daily.audio import generate_podcast_audio_async
-from ian_daily.agents import _remove_residual_numeric_precision, build_fact_packs, generate_podcast, generate_reading
-from ian_daily.publisher import notify_generation_failures
+from ian_daily.audio import _render_provider, generate_podcast_audio_async
+from ian_daily.agents import _remove_residual_numeric_precision, audit_editions, build_content_brief, build_fact_packs, generate_podcast, generate_reading
+from ian_daily.images import resolve_story_images
+from ian_daily.publisher import finalize_release, notify_generation_failures, prepare_release
 from ian_daily.site import build_site
+from ian_daily.storage import EpisodeStore
 
 BJT = timezone(timedelta(hours=8))
 
@@ -57,7 +61,7 @@ class SelectionTests(unittest.TestCase):
             "story_id": primary.id, "title": "事件", "dek": "导读", "body": "分析" * 500,
             "takeaway": "观察", "source_ids": [primary.id]
         }]}
-        with patch("ian_daily.agents._generate", return_value=generated):
+        with patch("ian_daily.agents._writer", return_value=generated):
             edition = generate_reading("tech", [primary], [pack])
         self.assertEqual(2, len(edition.sections[0].source_refs))
 
@@ -69,7 +73,7 @@ class QualityTests(unittest.TestCase):
         pack = FactPack(item.id, item.title, ["可核对事实" * 30], [ref])
         reading = ReadingEdition(
             "单主题", "导语" * 40,
-            [ReadingSection(item.id, item.title, "导读", "教育机制与现实影响" * 80, "继续观察", "", "", [item.id], [ref])],
+            [ReadingSection(item.id, item.title, "导读", "教育机制与现实影响" * 80, "继续观察", "images/test.webp", "测试", [item.id], [ref])],
             "复盘" * 30,
         )
         podcast = PodcastEpisode(
@@ -110,7 +114,7 @@ class AudioFallbackTests(unittest.IsolatedAsyncioTestCase):
         podcast = PodcastEpisode("标题", "简介", [AudioBlock("a", "ian", "opening", "开场"), AudioBlock("b", "listener", "question", "问题")])
         calls = []
 
-        async def render(podcast, category, root, provider):
+        async def render(podcast, category, root, provider, story_titles=None):
             calls.append(provider)
             if provider == "edge":
                 podcast.blocks[0].audio_file = "edge/partial.mp3"
@@ -132,48 +136,137 @@ class AgentRepairTests(unittest.TestCase):
         self.assertNotRegex(corrected, r"(?<![A-Za-z])\d{2,}(?![A-Za-z])")
         self.assertIn("本年度", corrected)
 
-    def test_podcast_restores_invalid_story_ids_in_order(self):
+    def test_podcast_covers_story_ids_in_order(self):
         refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(5)]
         packs = [FactPack(str(i), f"事件{i}", ["可核对事实" * 20], [refs[i]]) for i in range(5)]
-        first = {"title": "运动测试", "description": "测试", "blocks": [
+        generated = {"title": "运动测试", "description": "测试", "blocks": [
             {"block_id": "open", "speaker": "ian", "role": "opening", "text": "开场", "story_id": ""},
-            *[{"block_id": f"story-{i}", "speaker": "ian", "role": "story", "text": "短稿", "story_id": f"bad-{i}"} for i in range(5)],
+            *[{"block_id": f"story-{i}", "speaker": "ian", "role": "story", "text": "声音叙事" * 220, "story_id": str(i)} for i in range(5)],
             {"block_id": "q1", "speaker": "listener", "role": "question", "text": "问题一", "story_id": ""},
             {"block_id": "q2", "speaker": "listener", "role": "question", "text": "问题二", "story_id": ""},
             {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
         ]}
-        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 220} for i in range(5)], "opening": "开场" * 60, "synthesis": "复盘" * 120, "closing": "收束" * 50}
-        with patch("ian_daily.agents._generate", side_effect=[first, second]):
+        with patch("ian_daily.agents._writer", return_value=generated):
             episode = generate_podcast("sports", packs)
         self.assertEqual([str(i) for i in range(5)], [block.story_id for block in episode.blocks if block.role == "story"])
         self.assertTrue(all(len(block.text) >= 650 for block in episode.blocks if block.role == "story"))
 
-    def test_extra_story_block_becomes_answer(self):
+    def test_invalid_story_coverage_is_rejected(self):
         refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(4)]
         packs = [FactPack(str(i), f"事件{i}", ["事实" * 30], [refs[i]]) for i in range(4)]
-        blocks = [{"block_id": f"s{i}", "speaker": "ian", "role": "story", "text": "声音叙事" * 180, "story_id": "bad"} for i in range(5)]
-        first = {"title": "测试", "description": "测试", "blocks": blocks}
-        second = {"stories": [{"story_id": str(i), "text": "声音叙事" * 180} for i in range(4)]}
-        with patch("ian_daily.agents._generate", side_effect=[first, second]):
-            episode = generate_podcast("tech", packs)
-        self.assertEqual(4, sum(block.role == "story" for block in episode.blocks))
-        self.assertEqual("answer", episode.blocks[-1].role)
+        generated = {"title": "测试", "description": "测试", "blocks": [{"block_id": "s0", "speaker": "ian", "role": "story", "text": "声音叙事" * 180, "story_id": "0"}]}
+        with patch("ian_daily.agents._writer", return_value=generated):
+            with self.assertRaisesRegex(ValueError, "完整覆盖"):
+                generate_podcast("tech", packs)
 
-    def test_missing_story_block_is_recovered(self):
-        refs = [SourceRef(str(i), f"事件{i}", f"来源{i}", f"https://example.com/{i}", "2026-01-01T08:00:00+08:00", 1) for i in range(4)]
-        packs = [FactPack(str(i), f"事件{i}", ["事实" * 30], [refs[i]]) for i in range(4)]
-        first = {"title": "测试", "description": "测试", "blocks": [
-            *[{"block_id": f"s{i}", "speaker": "ian", "role": "story", "text": "声音叙事" * 180, "story_id": str(i)} for i in range(3)],
-            {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
-        ]}
-        recovered = {"text": "补回叙事" * 180}
-        deepened = {"stories": [{"story_id": str(i), "text": "声音叙事" * 180} for i in range(3)] + [{"story_id": "3", "text": "补回叙事" * 180}]}
-        with patch("ian_daily.agents._generate", side_effect=[first, recovered, deepened]):
-            episode = generate_podcast("tech", packs)
-        self.assertEqual({"0", "1", "2", "3"}, {block.story_id for block in episode.blocks if block.role == "story"})
-        recovered_index = next(i for i, block in enumerate(episode.blocks) if block.block_id.startswith("recovered-"))
-        closing_index = next(i for i, block in enumerate(episode.blocks) if block.role == "closing")
-        self.assertLess(recovered_index, closing_index)
+
+class LowCostPipelineTests(unittest.TestCase):
+    def test_normal_path_uses_two_prep_and_two_writer_calls(self):
+        item = article(1, "domestic", "tech")
+        ref = SourceRef(item.id, item.title, item.source, item.url, item.published_at_bjt, 1)
+        pack = FactPack(item.id, item.title, ["可核对事实" * 30], [ref])
+        calls = []
+
+        def generated(provider, model, system, payload, **kwargs):
+            calls.append((provider, kwargs["stage"]))
+            stage = kwargs["stage"]
+            if stage == "content_brief":
+                return {"stories": [{"story_id": item.id, "facts": pack.facts, "impact_angles": ["普通人影响"]}]}
+            if stage == "reading":
+                return {"title": "标题", "lead": "导语", "synthesis": "复盘", "sections": [{"story_id": item.id, "title": "事件", "dek": "导读", "body": "机制分析与现实影响" * 80, "takeaway": "继续观察"}]}
+            if stage == "podcast":
+                return {"title": "播客", "description": "简介", "blocks": [
+                    {"block_id": "open", "speaker": "ian", "role": "opening", "text": "开场", "story_id": ""},
+                    {"block_id": "story", "speaker": "ian", "role": "story", "text": "声音叙事" * 220, "story_id": item.id},
+                    {"block_id": "q", "speaker": "listener", "role": "question", "text": "这意味着什么？", "story_id": item.id},
+                    {"block_id": "answer", "speaker": "ian", "role": "answer", "text": "回答" * 80, "story_id": item.id},
+                    {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
+                ]}
+            return {"blocking_errors": []}
+
+        with patch("ian_daily.agents.siliconflow_model_available", return_value=True), patch("ian_daily.agents.generate_json", side_effect=generated):
+            brief = build_content_brief("tech", "2026-01-01", [pack])
+            reading = generate_reading("tech", [item], [pack], brief)
+            podcast = generate_podcast("tech", [pack], brief)
+            self.assertEqual([], audit_editions(reading, podcast, [pack], brief))
+        self.assertEqual([("siliconflow", "content_brief"), ("deepseek", "reading"), ("deepseek", "podcast"), ("siliconflow", "audit")], calls)
+
+
+class MediaPipelineTests(unittest.IsolatedAsyncioTestCase):
+    async def test_pcm_master_uses_sample_accurate_chapter_start(self):
+        podcast = PodcastEpisode("标题", "简介", [AudioBlock("open", "ian", "opening", "开场"), AudioBlock("story", "ian", "story", "正文", "story")])
+
+        async def fake_tts(text, output, voice, rate):
+            with wave.open(str(output), "wb") as target:
+                target.setnchannels(1); target.setsampwidth(2); target.setframerate(24000)
+                target.writeframes(array("h", [0] * 24000).tobytes())
+
+        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.audio._edge_text", side_effect=fake_tts):
+            result = await _render_provider(podcast, "tech", Path(temp) / "audio", "edge", {"story": "真实标题"})
+            chapter = next(item for item in result.chapters if item.story_id == "story")
+            self.assertAlmostEqual(1 + 1.2, chapter.start_sec, delta=0.01)
+            self.assertEqual("真实标题", chapter.title)
+            self.assertTrue(result.waveform_peaks)
+
+    def test_image_pipeline_always_creates_local_webp(self):
+        item = article(1, "global", "tech")
+        reading = ReadingEdition("标题", "导语", [ReadingSection(item.id, item.title, "导读", "正文" * 200, "观察", "", "", [], [])], "复盘")
+        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.images._download", return_value=False), patch("ian_daily.images._generate", return_value=False):
+            resolve_story_images("tech", [item], reading, Path(temp))
+            self.assertTrue((Path(temp) / reading.sections[0].image_url).exists())
+            self.assertTrue(reading.sections[0].image_url.endswith(".webp"))
+
+
+class StorageAndReleaseTests(unittest.TestCase):
+    def _bundle(self, status="quality_passed"):
+        item = article(1, "domestic", "tech")
+        ref = SourceRef(item.id, item.title, item.source, item.url, item.published_at_bjt, 1)
+        pack = FactPack(item.id, item.title, [item.summary], [ref])
+        reading = ReadingEdition("标题", "导语", [ReadingSection(item.id, item.title, "导读", "正文" * 200, "观察", "images/a.webp", "来源", [item.id], [ref])], "复盘")
+        podcast = PodcastEpisode("播客", "简介", [AudioBlock("story", "ian", "story", "声音" * 400, item.id)], [Chapter("story-1", item.title, 0, item.id)], "episode.mp3", 300)
+        return EpisodeBundle("2026-01-01-tech", 3, "tech", "科技", "2026-01-01", DailyStorySet("tech", "2026-01-01", [item], [pack]), reading, podcast, status=status)
+
+    def test_legacy_storage_migration_is_idempotent(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp); legacy = root / "drafts"; episodes = root / "episodes"
+            source = legacy / "2026-01-01-tech"; source.mkdir(parents=True)
+            (source / "bundle.json").write_text(json.dumps(self._bundle().to_dict(), ensure_ascii=False), encoding="utf-8")
+            store = EpisodeStore(episodes, legacy)
+            self.assertEqual(["2026-01-01-tech"], store.migrate_legacy_layout())
+            self.assertEqual([], store.migrate_legacy_layout())
+            self.assertTrue((episodes / "tech" / "2026-01-01-tech" / "bundle.json").exists())
+
+    def test_finalize_is_idempotent_and_notifies_once(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp); store = EpisodeStore(root / "episodes", root / "drafts")
+            bundle = self._bundle(); episode_dir = store.episode_dir(bundle.episode_id); episode_dir.mkdir(parents=True)
+            store.save_bundle(bundle)
+            store.save_quality(QualityReport(bundle.episode_id, True, 1, 1, 1, 800, 1200, 300, 1, 0, [], []))
+            (episode_dir / "episode.mp3").write_bytes(b"audio")
+            manifest = root / "manifest.json"; manifest.write_text(json.dumps({"episode_ids": [bundle.episode_id]}), encoding="utf-8")
+            with patch("ian_daily.publisher.send_channel_card", return_value=True) as send:
+                finalize_release(manifest, store); finalize_release(manifest, store)
+            self.assertEqual(1, send.call_count)
+            self.assertEqual("published", store.load_bundle(bundle.episode_id).status)
+
+    def test_prepare_retries_missing_feishu_notification(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp); store = EpisodeStore(root / "episodes", root / "drafts")
+            bundle = self._bundle(status="published")
+            store.save_bundle(bundle)
+            store.save_quality(QualityReport(bundle.episode_id, True, 1, 1, 1, 800, 1200, 300, 1, 0, [], []))
+            manifest = root / "manifest.json"
+            with patch("ian_daily.publisher.MANIFEST", manifest), patch("ian_daily.publisher.build_site"):
+                ids = prepare_release("2026-01-01", store)
+            self.assertEqual([bundle.episode_id], ids)
+
+    def test_legacy_published_bundle_is_not_renotified(self):
+        payload = self._bundle(status="published").to_dict()
+        payload["schema_version"] = 2
+        payload.pop("published_at_bjt", None)
+        payload.pop("feishu_notified_at_bjt", None)
+        migrated = EpisodeBundle.from_dict(payload)
+        self.assertTrue(migrated.feishu_notified_at_bjt)
 
 
 class NotificationTests(unittest.TestCase):

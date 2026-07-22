@@ -73,6 +73,17 @@ def _image_url(entry: object) -> str:
     return match.group(1) if match else ""
 
 
+def _meta_image(value: str) -> str:
+    for pattern in (
+        r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)',
+        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']',
+    ):
+        match = re.search(pattern, value, re.I)
+        if match:
+            return html.unescape(match.group(1)).strip()
+    return ""
+
+
 def fetch_feed(category: str, feed: Feed) -> list[Article]:
     try:
         import feedparser
@@ -181,6 +192,10 @@ def enrich_article(article: Article, max_chars: int = 7000) -> Article:
             response = httpx.get(url, headers=headers, timeout=20, follow_redirects=True)
             if response.status_code != 200 or len(response.text) < 300:
                 continue
+            if not url.startswith("https://r.jina.ai/") and not article.image_url:
+                article.image_url = _meta_image(response.text)
+                if article.image_url:
+                    article.image_credit = article.source
             body = response.text if url.startswith("https://r.jina.ai/") else _strip_html(response.text)
             article.full_body = body[:max_chars]
             return article

@@ -6,6 +6,8 @@ import json
 import re
 import shutil
 import subprocess
+import wave
+from array import array
 from pathlib import Path
 
 from . import config
@@ -66,11 +68,30 @@ def _concat(paths: list[Path], output: Path) -> None:
         manifest.unlink(missing_ok=True)
 
 
-def _pause(path: Path) -> None:
+def _to_pcm(source: Path, target: Path) -> None:
     subprocess.run([
-        _ffmpeg(), "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono",
-        "-t", str(config.CHAPTER_PAUSE_SEC), "-q:a", "9", "-acodec", "libmp3lame", str(path),
-    ], capture_output=True, text=True, timeout=30, check=True)
+        _ffmpeg(), "-y", "-i", str(source), "-ar", "24000", "-ac", "1", "-c:a", "pcm_s16le", str(target),
+    ], capture_output=True, text=True, timeout=180, check=True)
+
+
+def _waveform(path: Path, bins: int = 160) -> list[float]:
+    with wave.open(str(path), "rb") as source:
+        samples = array("h", source.readframes(source.getnframes()))
+    if not samples:
+        return []
+    width = max(1, len(samples) // bins)
+    peaks = [max(abs(item) for item in samples[index:index + width]) / 32768 for index in range(0, len(samples), width)]
+    return [round(value, 4) for value in peaks[:bins]]
+
+
+def waveform_peaks(path: Path, bins: int = 160) -> list[float]:
+    """Decode a published audio file and derive a stable display waveform."""
+    pcm = path.with_name(f".{path.stem}-waveform.wav")
+    try:
+        _to_pcm(path, pcm)
+        return _waveform(pcm, bins)
+    finally:
+        pcm.unlink(missing_ok=True)
 
 
 async def _edge_chunk(text: str, output: Path, voice: str, rate: str) -> None:
@@ -126,15 +147,13 @@ def _siliconflow_text(text: str, output: Path, voice: str) -> None:
         raise RuntimeError("SiliconFlow 返回了空音频")
 
 
-async def _render_provider(podcast: PodcastEpisode, category: str, root: Path, provider: str) -> PodcastEpisode:
+async def _render_provider(podcast: PodcastEpisode, category: str, root: Path, provider: str, story_titles: dict[str, str] | None = None) -> PodcastEpisode:
     rate = config.CATEGORIES[category].tts_rate
     provider_dir = root / provider
     provider_dir.mkdir(parents=True, exist_ok=True)
-    pause = provider_dir / "pause.mp3"
-    _pause(pause)
-    clips: list[Path] = []
+    story_titles = story_titles or {}
     chapters: list[Chapter] = []
-    cursor = 0.0
+    pcm_paths: list[Path] = []
     seen_story: set[str] = set()
     for index, block in enumerate(podcast.blocks):
         clip = provider_dir / f"block-{index + 1:02d}.mp3"
@@ -144,37 +163,51 @@ async def _render_provider(podcast: PodcastEpisode, category: str, root: Path, p
         else:
             voice = config.SILICONFLOW_LISTENER_VOICE if block.speaker == "listener" else config.SILICONFLOW_IAN_VOICE
             _siliconflow_text(block.text, clip, voice)
-        duration = audio_duration(clip)
-        if duration <= 0:
-            raise RuntimeError(f"无法读取音频块时长：{clip.name}")
-        block.audio_file = clip.relative_to(root.parent).as_posix()
-        block.start_sec = round(cursor, 2)
-        block.duration_sec = round(duration, 2)
-        if block.role == "opening" and not chapters:
-            chapters.append(Chapter("opening", "开场", round(cursor, 2)))
-        if block.story_id and block.story_id not in seen_story:
-            chapters.append(Chapter(f"story-{len(seen_story) + 1}", f"事件 {len(seen_story) + 1}", round(cursor, 2), block.story_id))
-            seen_story.add(block.story_id)
-        if block.role == "synthesis" and not any(item.chapter_id == "synthesis" for item in chapters):
-            chapters.append(Chapter("synthesis", "主题复盘", round(cursor, 2)))
-        clips.append(clip)
-        cursor += duration
-        if index < len(podcast.blocks) - 1:
-            clips.append(pause)
-            cursor += config.CHAPTER_PAUSE_SEC
-    full = root.parent / "full.mp3"
-    _concat(clips, full)
+        pcm = provider_dir / f"block-{index + 1:02d}.wav"
+        _to_pcm(clip, pcm)
+        pcm_paths.append(pcm)
+    master = root.parent / ".master.wav"
+    sample_rate = 24000
+    pause_frames = int(config.CHAPTER_PAUSE_SEC * sample_rate)
+    cursor_frames = 0
+    with wave.open(str(master), "wb") as output:
+        output.setnchannels(1); output.setsampwidth(2); output.setframerate(sample_rate)
+        for index, (block, pcm) in enumerate(zip(podcast.blocks, pcm_paths)):
+            with wave.open(str(pcm), "rb") as source:
+                frames = source.readframes(source.getnframes())
+                frame_count = source.getnframes()
+            start = cursor_frames / sample_rate
+            block.audio_file = ""
+            block.start_sec = round(start, 3)
+            block.duration_sec = round(frame_count / sample_rate, 3)
+            if block.role == "opening" and not chapters:
+                chapters.append(Chapter("opening", "开场", round(start, 3)))
+            if block.role == "story" and block.story_id and block.story_id not in seen_story:
+                chapters.append(Chapter(f"story-{len(seen_story) + 1}", story_titles.get(block.story_id, "本期事件"), round(start, 3), block.story_id))
+                seen_story.add(block.story_id)
+            if block.role == "synthesis" and not any(item.chapter_id == "synthesis" for item in chapters):
+                chapters.append(Chapter("synthesis", "主题复盘", round(start, 3)))
+            output.writeframes(frames)
+            cursor_frames += frame_count
+            if index < len(podcast.blocks) - 1:
+                output.writeframes(b"\x00\x00" * pause_frames)
+                cursor_frames += pause_frames
+    full = root.parent / "episode.mp3"
+    subprocess.run([_ffmpeg(), "-y", "-i", str(master), "-c:a", "libmp3lame", "-b:a", "96k", str(full)], capture_output=True, text=True, timeout=900, check=True)
     podcast.chapters = chapters
-    podcast.full_audio_file = "full.mp3"
+    podcast.full_audio_file = "episode.mp3"
     podcast.total_duration_sec = round(audio_duration(full), 1)
     podcast.tts_provider = provider
+    podcast.waveform_peaks = _waveform(master)
+    master.unlink(missing_ok=True)
+    shutil.rmtree(provider_dir, ignore_errors=True)
     return podcast
 
 
-async def generate_podcast_audio_async(podcast: PodcastEpisode, category: str, episode_dir: Path) -> PodcastEpisode:
+async def generate_podcast_audio_async(podcast: PodcastEpisode, category: str, episode_dir: Path, story_titles: dict[str, str] | None = None) -> PodcastEpisode:
     audio_root = episode_dir / "audio"
     try:
-        return await _render_provider(podcast, category, audio_root, "edge")
+        return await _render_provider(podcast, category, audio_root, "edge", story_titles)
     except Exception as edge_error:
         if not config.SILICONFLOW_API_KEY:
             raise RuntimeError(str(edge_error)) from edge_error
@@ -183,8 +216,8 @@ async def generate_podcast_audio_async(podcast: PodcastEpisode, category: str, e
             block.audio_file = ""
             block.start_sec = 0
             block.duration_sec = 0
-        return await _render_provider(podcast, category, audio_root, "siliconflow")
+        return await _render_provider(podcast, category, audio_root, "siliconflow", story_titles)
 
 
-def generate_podcast_audio(podcast: PodcastEpisode, category: str, episode_dir: Path) -> PodcastEpisode:
-    return asyncio.run(generate_podcast_audio_async(podcast, category, episode_dir))
+def generate_podcast_audio(podcast: PodcastEpisode, category: str, episode_dir: Path, story_titles: dict[str, str] | None = None) -> PodcastEpisode:
+    return asyncio.run(generate_podcast_audio_async(podcast, category, episode_dir, story_titles))

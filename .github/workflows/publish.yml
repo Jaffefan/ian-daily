@@ -1,11 +1,19 @@
-name: Publish quality-passed editions
+name: Publish verified daily editions
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 1 * * *"
+    - cron: "11 1 * * *"
+    - cron: "21 1 * * *"
+    - cron: "31 1 * * *"
+    - cron: "41 1 * * *"
+    - cron: "51 1 * * *"
   workflow_dispatch:
 jobs:
   publish:
     runs-on: ubuntu-latest
+    concurrency:
+      group: ian-daily-publish
+      cancel-in-progress: false
     permissions:
       contents: write
       pages: write
@@ -20,22 +28,33 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Publish only quality-passed channels
+      - name: Prepare without changing published state
         env:
-          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: python -m ian_daily publish
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+        run: python -m ian_daily prepare-release
       - run: touch site/.nojekyll
-      - name: Persist published status
-        run: |
-          git config user.name "ian-daily-bot"
-          git config user.email "actions@users.noreply.github.com"
-          git add data site
-          git diff --cached --quiet || git commit -m "publish: daily site"
-          git pull --rebase origin main
-          git push origin HEAD:main
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
+      - name: Verify public pages and audio
+        run: python -m ian_daily verify-release
+      - name: Finalize state and notify Feishu
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python -m ian_daily finalize-release
+      - name: Persist verified release
+        run: |
+          git config user.name "ian-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data site
+          git diff --cached --quiet || git commit -m "publish: verified daily site"
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Notify overdue channels after final retry
+        if: always() && github.event.schedule == '51 1 * * *'
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python -m ian_daily notify-overdue

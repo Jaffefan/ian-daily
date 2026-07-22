@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 import os
 import tempfile
+import shutil
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -36,13 +37,23 @@ def write_json(path: Path, data: dict[str, Any] | list[Any]) -> None:
 
 
 class EpisodeStore:
-    def __init__(self, root: Path | None = None):
-        self.root = Path(root or config.DRAFTS_DIR)
+    def __init__(self, root: Path | None = None, legacy_root: Path | None = None):
+        self.root = Path(root or config.EPISODES_DIR)
+        self.legacy_root = Path(legacy_root or (config.DRAFTS_DIR if root is None else root))
+
+    @staticmethod
+    def category_from_id(episode_id: str) -> str:
+        category = episode_id.rsplit("-", 1)[-1]
+        if category not in config.CATEGORIES:
+            raise ValueError(f"节目 ID 缺少有效分类：{episode_id}")
+        return category
 
     def episode_dir(self, episode_id: str) -> Path:
         if not episode_id or not all(char.isalnum() or char in "-_" for char in episode_id):
             raise ValueError(f"不安全的节目 ID：{episode_id}")
-        return self.root / episode_id
+        target = self.root / self.category_from_id(episode_id) / episode_id
+        legacy = self.legacy_root / episode_id
+        return target if target.exists() or not legacy.exists() else legacy
 
     def save_bundle(self, bundle: EpisodeBundle) -> Path:
         path = self.episode_dir(bundle.episode_id) / "bundle.json"
@@ -74,7 +85,10 @@ class EpisodeStore:
 
     def list_bundles(self, statuses: set[str] | None = None) -> list[EpisodeBundle]:
         result: list[EpisodeBundle] = []
-        for path in self.root.glob("*/bundle.json") if self.root.exists() else []:
+        paths = list(self.root.glob("*/*/bundle.json")) if self.root.exists() else []
+        if self.legacy_root.exists() and self.legacy_root != self.root:
+            paths.extend(self.legacy_root.glob("*/bundle.json"))
+        for path in paths:
             try:
                 bundle = EpisodeBundle.from_dict(json.loads(path.read_text(encoding="utf-8")))
                 if not statuses or bundle.status in statuses:
@@ -82,6 +96,20 @@ class EpisodeStore:
             except (OSError, ValueError, TypeError, json.JSONDecodeError):
                 continue
         return sorted(result, key=lambda item: item.created_at_bjt, reverse=True)
+
+    def migrate_legacy_layout(self) -> list[str]:
+        moved: list[str] = []
+        if not self.legacy_root.exists() or self.legacy_root == self.root:
+            return moved
+        for bundle_path in self.legacy_root.glob("*/bundle.json"):
+            episode_id = bundle_path.parent.name
+            target = self.root / self.category_from_id(episode_id) / episode_id
+            if target.exists():
+                continue
+            target.parent.mkdir(parents=True, exist_ok=True)
+            shutil.move(str(bundle_path.parent), str(target))
+            moved.append(episode_id)
+        return moved
 
     def published_story_ids(self, since_days: int = 30) -> set[str]:
         cutoff = now_bjt() - timedelta(days=since_days)

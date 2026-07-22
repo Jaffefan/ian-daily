@@ -71,6 +71,29 @@ class FactPack:
 
 
 @dataclass(slots=True)
+class BriefStory:
+    story_id: str
+    headline: str
+    facts: list[str]
+    numeric_claims: list[str]
+    uncertainties: list[str]
+    impact_angles: list[str]
+    sources: list[SourceRef]
+
+
+@dataclass(slots=True)
+class ContentBrief:
+    category: str
+    date_bjt: str
+    stories: list[BriefStory]
+    shared_theme: str = ""
+    risk_flags: list[str] = field(default_factory=list)
+
+    def to_dict(self) -> dict[str, Any]:
+        return asdict(self)
+
+
+@dataclass(slots=True)
 class DailyStorySet:
     category: str
     date_bjt: str
@@ -131,6 +154,7 @@ class PodcastEpisode:
     full_audio_file: str = ""
     total_duration_sec: float = 0.0
     tts_provider: str = ""
+    waveform_peaks: list[float] = field(default_factory=list)
 
 
 @dataclass(slots=True)
@@ -146,10 +170,19 @@ class EpisodeBundle:
     status: str = "generated"
     created_at_bjt: str = ""
     updated_at_bjt: str = ""
+    published_at_bjt: str = ""
+    feishu_notified_at_bjt: str = ""
 
     @classmethod
     def from_dict(cls, data: dict[str, Any]) -> "EpisodeBundle":
         payload = dict(data)
+        legacy_schema = int(payload.get("schema_version", 1))
+        payload.setdefault("published_at_bjt", "")
+        payload.setdefault("feishu_notified_at_bjt", "")
+        if legacy_schema < 3 and payload.get("status") == "published":
+            migrated_at = payload["published_at_bjt"] or payload.get("updated_at_bjt", "") or payload.get("created_at_bjt", "")
+            payload["published_at_bjt"] = migrated_at
+            payload["feishu_notified_at_bjt"] = migrated_at or "legacy-published"
         story = payload["story_set"]
         payload["story_set"] = DailyStorySet(
             category=story["category"], date_bjt=story["date_bjt"],
@@ -162,6 +195,7 @@ class EpisodeBundle:
         ) for item in reading["sections"]]
         payload["reading"] = ReadingEdition(**reading)
         podcast = payload["podcast"]
+        podcast.setdefault("waveform_peaks", [])
         podcast["blocks"] = [AudioBlock(**item) for item in podcast.get("blocks", [])]
         podcast["chapters"] = [Chapter(**item) for item in podcast.get("chapters", [])]
         payload["podcast"] = PodcastEpisode(**podcast)

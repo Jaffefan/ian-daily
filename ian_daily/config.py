@@ -9,6 +9,8 @@ from urllib.parse import quote_plus
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = Path(os.environ.get("IAN_DAILY_DATA_DIR", ROOT / "data"))
 DRAFTS_DIR = DATA_DIR / "drafts"
+EPISODES_DIR = DATA_DIR / "episodes"
+USAGE_DIR = DATA_DIR / "usage"
 SITE_DIR = Path(os.environ.get("IAN_DAILY_SITE_DIR", ROOT / "site"))
 PUBLIC_BASE = os.environ.get("IAN_DAILY_PUBLIC_BASE", "/ian-daily/")
 if not PUBLIC_BASE.startswith("/"):
@@ -18,8 +20,11 @@ if not PUBLIC_BASE.endswith("/"):
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
 DEEPSEEK_BASE_URL = os.environ.get("DEEPSEEK_BASE_URL", "https://api.deepseek.com")
-DEEPSEEK_MODEL = os.environ.get("IAN_DAILY_MODEL", "deepseek-chat")
+DEEPSEEK_MODEL = os.environ.get("IAN_DAILY_WRITER_MODEL", os.environ.get("IAN_DAILY_MODEL", "deepseek-v4-flash"))
 SILICONFLOW_API_KEY = os.environ.get("SILICONFLOW_API_KEY", "")
+SILICONFLOW_BASE_URL = os.environ.get("SILICONFLOW_BASE_URL", "https://api.siliconflow.cn/v1")
+PREP_MODEL = os.environ.get("IAN_DAILY_PREP_MODEL", "Qwen/Qwen3.5-4B")
+IMAGE_MODEL = os.environ.get("IAN_DAILY_IMAGE_MODEL", "Kwai-Kolors/Kolors")
 SILICONFLOW_TTS_URL = os.environ.get("SILICONFLOW_TTS_URL", "https://api.siliconflow.cn/v1/audio/speech")
 SILICONFLOW_TTS_MODEL = os.environ.get("SILICONFLOW_TTS_MODEL", "FunAudioLLM/CosyVoice2-0.5B")
 SILICONFLOW_IAN_VOICE = os.environ.get("SILICONFLOW_IAN_VOICE", "FunAudioLLM/CosyVoice2-0.5B:diana")

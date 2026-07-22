@@ -39,6 +39,8 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
         errors.append("图文版与播客版没有完整覆盖同一组事件")
 
     for index, section in enumerate(bundle.reading.sections, 1):
+        if not section.image_url:
+            errors.append(f"图文第 {index} 章没有有效配图")
         if not section.source_refs:
             errors.append(f"图文第 {index} 章没有可追溯来源")
         if _length(section.body) < 350:

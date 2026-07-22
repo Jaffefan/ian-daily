@@ -6,3 +6,5 @@ __pycache__/
 data/preview-fixtures/
 data/drafts/*/audio/edge/.*
 data/drafts/*/audio/siliconflow/.*
+data/episodes/*/*/audio/
+data/episodes/*/*/.master.wav
