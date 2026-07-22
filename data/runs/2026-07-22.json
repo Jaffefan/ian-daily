@@ -3,11 +3,11 @@
   "channels": {
     "tech": {
       "attempts": 0,
-      "status": "pending",
+      "status": "published",
       "stages": {},
       "errors": [],
-      "episode_id": "",
-      "updated_at_bjt": ""
+      "episode_id": "2026-07-22-tech",
+      "updated_at_bjt": "2026-07-22T17:04:42+08:00"
     },
     "education": {
       "attempts": 0,
@@ -86,5 +86,5 @@
       "at_bjt": "2026-07-22T17:03:52+08:00"
     }
   },
-  "updated_at_bjt": "2026-07-22T17:03:52+08:00"
+  "updated_at_bjt": "2026-07-22T17:04:42+08:00"
 }
