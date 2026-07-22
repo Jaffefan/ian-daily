@@ -15,6 +15,7 @@ from ian_daily.images import resolve_story_images
 from ian_daily.model_api import _record, usage_report
 from ian_daily.models import Article, AudioBlock, BriefStory, ContentBrief, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
 from ian_daily.operations import RunLedgerStore
+from ian_daily.sources import _meta_image
 
 
 def _article(index: int) -> Article:
@@ -66,6 +67,10 @@ class DoctorAndUsageTests(unittest.TestCase):
 
 
 class CalibrationAndImageTests(unittest.TestCase):
+    def test_meta_image_resolves_relative_url(self):
+        markup = '<meta content="/media/cover.jpg" property="og:image">'
+        self.assertEqual("https://news.example/media/cover.jpg", _meta_image(markup, "https://news.example/story/1"))
+
     def test_each_category_has_ten_fixed_calibration_cases(self):
         self.assertEqual({"tech": 10, "education": 10, "sports": 10}, {key: len(value) for key, value in CALIBRATION_CASES.items()})
         self.assertTrue(all(item["minimum_score"] == 4 for item in calibration_status().values()))
@@ -86,11 +91,28 @@ class CalibrationAndImageTests(unittest.TestCase):
         articles = [_article(1), _article(2)]
         sections = [ReadingSection(item.id, item.title, "dek", "body" * 100, "takeaway", "", "", [], []) for item in articles]
         reading = ReadingEdition("title", "lead", sections, "end")
-        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.images._download", return_value=False), patch("ian_daily.images._generate", return_value=False):
+        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.sources.discover_article_image", return_value=""), patch("ian_daily.images._download", return_value=False), patch("ian_daily.images._generate", return_value=False):
             resolve_story_images("tech", articles, reading, Path(temp))
             self.assertNotEqual(articles[0].image_phash, articles[1].image_phash)
             self.assertTrue(all(item.image_kind == "fallback" for item in articles))
             self.assertTrue(all((Path(temp) / item.image_url).exists() for item in articles))
+
+    def test_missing_feed_image_is_discovered_from_article_page(self):
+        article = _article(1)
+        section = ReadingSection(article.id, article.title, "dek", "body" * 100, "takeaway", "", "", [], [])
+        reading = ReadingEdition("title", "lead", [section], "end")
+
+        def download(_url, target, _referer=""):
+            from ian_daily.images import _fallback
+            _fallback(article, "tech", target)
+            return True
+
+        discovered = "https://news.example/media/cover.jpg"
+        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.sources.discover_article_image", return_value=discovered), patch("ian_daily.images._download", side_effect=download):
+            resolve_story_images("tech", [article], reading, Path(temp))
+        self.assertEqual("source", article.image_kind)
+        self.assertEqual(discovered, article.image_source_url)
+        self.assertEqual("downloaded", article.image_status)
 
 
 class WorkflowTests(unittest.TestCase):

@@ -90,7 +90,13 @@ def build_site(store: EpisodeStore | None = None, include_ids: set[str] | None =
         items.sort(key=lambda item: item.date_bjt, reverse=True)
     for bundle in bundles:
         episode_dir = store.episode_dir(bundle.episode_id)
-        needs_images = any(not section.image_url.startswith("images/") or not (episode_dir / section.image_url).exists() or not section.image_phash for section in bundle.reading.sections)
+        needs_images = any(
+            not section.image_url.startswith("images/")
+            or not (episode_dir / section.image_url).exists()
+            or not section.image_phash
+            or (section.image_kind == "fallback" and section.image_status != "source_unavailable")
+            for section in bundle.reading.sections
+        )
         if needs_images:
             resolve_story_images(bundle.category, bundle.story_set.articles, bundle.reading, episode_dir)
             store.save_bundle(bundle)

@@ -24,13 +24,22 @@ def _save_webp(content: bytes, target: Path) -> bool:
         return False
 
 
-def _download(url: str, target: Path) -> bool:
+def _download(url: str, target: Path, referer: str = "") -> bool:
     if not url.startswith(("http://", "https://")):
         return False
     try:
         import httpx
-        response = httpx.get(url, timeout=30, follow_redirects=True, headers={"User-Agent": "IanDaily/3.0"})
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36",
+            "Accept": "image/avif,image/webp,image/apng,image/*,*/*;q=0.8",
+        }
+        if referer:
+            headers["Referer"] = referer
+        response = httpx.get(url, timeout=30, follow_redirects=True, headers=headers)
         response.raise_for_status()
+        content_type = response.headers.get("content-type", "").lower()
+        if content_type and not (content_type.startswith("image/") or "octet-stream" in content_type):
+            return False
         if len(response.content) > 12_000_000:
             return False
         return _save_webp(response.content, target)
@@ -96,17 +105,21 @@ def _fallback(article: Article, category: str, target: Path, salt: int = 0) -> N
 
 
 def resolve_story_images(category: str, articles: list[Article], reading: ReadingEdition, episode_dir: Path) -> None:
+    from .sources import discover_article_image
+
     section_by_id = {section.story_id: section for section in reading.sections}
     seen_hashes: list[str] = []
     for article in articles:
         section = section_by_id[article.id]
         filename = hashlib.sha256(article.id.encode("utf-8")).hexdigest()[:16] + ".webp"
         target = episode_dir / "images" / filename
-        source_url = article.image_url if article.image_url.startswith(("http://", "https://")) else ""
+        source_url = article.image_url if article.image_url.startswith(("http://", "https://")) else article.image_source_url
+        if not source_url:
+            source_url = discover_article_image(article)
         credit = article.image_credit or article.source
         kind = "source"
         status = "downloaded"
-        if not _download(source_url, target):
+        if not _download(source_url, target, article.url):
             if _generate(article, category, target):
                 credit = "AI 生成 · 伊恩每日"
                 kind = "ai"
@@ -115,7 +128,7 @@ def resolve_story_images(category: str, articles: list[Article], reading: Readin
                 _fallback(article, category, target)
                 credit = "伊恩每日 · 本地题图"
                 kind = "fallback"
-                status = "generated"
+                status = "source_unavailable"
         image_hash = _phash(target)
         if any(_distance(image_hash, existing) <= 4 for existing in seen_hashes):
             for salt in range(1, 6):

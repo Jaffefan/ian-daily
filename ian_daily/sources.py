@@ -5,7 +5,8 @@ import html
 import re
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
-from urllib.parse import quote, quote_plus, urlsplit, urlunsplit
+from html.parser import HTMLParser
+from urllib.parse import quote, quote_plus, urljoin, urlsplit, urlunsplit
 
 from .config import CATEGORIES, Feed
 from .models import Article, CommunitySignal
@@ -73,15 +74,42 @@ def _image_url(entry: object) -> str:
     return match.group(1) if match else ""
 
 
-def _meta_image(value: str) -> str:
-    for pattern in (
-        r'<meta[^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\'][^>]+content=["\']([^"\']+)',
-        r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+(?:property|name)=["\'](?:og:image|twitter:image)["\']',
-    ):
-        match = re.search(pattern, value, re.I)
-        if match:
-            return html.unescape(match.group(1)).strip()
+class _ImageMetadataParser(HTMLParser):
+    def __init__(self) -> None:
+        super().__init__(convert_charrefs=True)
+        self.candidates: list[str] = []
+
+    def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
+        values = {key.lower(): (value or "") for key, value in attrs}
+        if tag.lower() == "meta":
+            key = (values.get("property") or values.get("name") or "").lower()
+            if key in {"og:image", "og:image:url", "twitter:image", "twitter:image:src"}:
+                self.candidates.append(values.get("content", ""))
+        elif tag.lower() == "link" and "image_src" in values.get("rel", "").lower():
+            self.candidates.append(values.get("href", ""))
+
+
+def _meta_image(value: str, base_url: str = "") -> str:
+    parser = _ImageMetadataParser()
+    try:
+        parser.feed(value)
+    except Exception:
+        pass
+    for candidate in parser.candidates:
+        resolved = urljoin(base_url, html.unescape(candidate).strip())
+        if resolved.startswith(("http://", "https://")):
+            return resolved
     return ""
+
+
+def discover_article_image(article: Article) -> str:
+    try:
+        import httpx
+        response = httpx.get(article.url, headers={"User-Agent": USER_AGENT}, timeout=20, follow_redirects=True)
+        response.raise_for_status()
+        return _meta_image(response.text, str(response.url))
+    except Exception:
+        return ""
 
 
 def fetch_feed(category: str, feed: Feed) -> list[Article]:
@@ -186,21 +214,27 @@ def enrich_article(article: Article, max_chars: int = 7000) -> Article:
     except ImportError as exc:
         raise RuntimeError("The httpx package is required for article enrichment") from exc
     headers = {"User-Agent": USER_AGENT}
-    urls = [f"https://r.jina.ai/{article.url}", article.url]
-    for url in urls:
-        try:
-            response = httpx.get(url, headers=headers, timeout=20, follow_redirects=True)
-            if response.status_code != 200 or len(response.text) < 300:
-                continue
-            if not url.startswith("https://r.jina.ai/") and not article.image_url:
-                article.image_url = _meta_image(response.text)
+    body = ""
+    try:
+        response = httpx.get(f"https://r.jina.ai/{article.url}", headers=headers, timeout=20, follow_redirects=True)
+        if response.status_code == 200 and len(response.text) >= 300:
+            body = response.text[:max_chars]
+    except httpx.HTTPError:
+        pass
+    try:
+        response = httpx.get(article.url, headers=headers, timeout=20, follow_redirects=True)
+        if response.status_code == 200 and len(response.text) >= 300:
+            if not article.image_url:
+                article.image_url = _meta_image(response.text, str(response.url))
                 if article.image_url:
                     article.image_credit = article.source
-            body = response.text if url.startswith("https://r.jina.ai/") else _strip_html(response.text)
-            article.full_body = body[:max_chars]
-            return article
-        except httpx.HTTPError:
-            continue
+            if not body:
+                body = _strip_html(response.text)[:max_chars]
+    except httpx.HTTPError:
+        pass
+    if body:
+        article.full_body = body
+        return article
     article.full_body = article.summary
     return article
 
