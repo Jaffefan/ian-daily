@@ -12,7 +12,7 @@ test('homepage and category archives remain separated', async ({ page }) => {
   await expect(page.locator('.channel-card img')).toHaveCount(3);
   expect(await page.locator('.channel-card img').evaluateAll(images => images.every(image => image.complete && image.naturalWidth > 0))).toBeTruthy();
 
-  const techUrl = new URL('tech/', base).href;
+  const techUrl = new URL('tech/index.html', base).href;
   await page.goto(techUrl);
   await expect(page.locator('h1')).toHaveText('科技');
   const archiveLinks = await page.locator('.episode-row').evaluateAll(links => links.map(link => link.getAttribute('href')));
@@ -23,7 +23,8 @@ test('episode player is responsive, sticky and uses real chapters', async ({ pag
   await page.setViewportSize({ width: 390, height: 844 });
   await page.goto(base);
   const episodePath = await page.locator('.channel-card').first().locator('.primary-link').getAttribute('href');
-  await page.goto(new URL(episodePath, base).href);
+  const episodeUrl = new URL(`${episodePath.replace(/\/?$/, '/')}index.html`, base).href;
+  await page.goto(episodeUrl);
   await expect(page.locator('#play')).toBeVisible();
   await expect(page.locator('#mute')).toBeVisible();
   await expect(page.locator('#chapter-drawer')).not.toHaveAttribute('open', '');
