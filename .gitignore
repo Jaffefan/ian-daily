@@ -4,6 +4,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 node_modules/
+test-results/
 data/preview-fixtures/
 data/drafts/*/audio/edge/.*
 data/drafts/*/audio/siliconflow/.*
