@@ -43,10 +43,15 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
             errors.append(f"图文第 {index} 章没有有效配图")
         if not section.source_refs:
             errors.append(f"图文第 {index} 章没有可追溯来源")
+        if bundle.schema_version >= 4 and (not section.image_status or not section.image_phash):
+            errors.append(f"图文第 {index} 章缺少图片来源状态或去重指纹")
         if _length(section.body) < 350:
             errors.append(f"图文第 {index} 章分析不足 350 字")
         if re.search(r"(?<![A-Za-z])\d{2,}(?![A-Za-z])", section.body) and len({source.source for source in section.source_refs}) < 2:
             errors.append(f"图文第 {index} 章含数字但不足两个独立来源")
+    image_hashes = [section.image_phash for section in bundle.reading.sections if section.image_phash]
+    if len(image_hashes) != len(set(image_hashes)):
+        errors.append("同一期存在重复事件配图")
     minimum_reading_chars = max(500, story_count * 400)
     minimum_podcast_chars = {1: 900, 2: 1500, 3: 2200, 4: 2800, 5: 2800}.get(story_count, 900)
     if reading_chars < minimum_reading_chars:

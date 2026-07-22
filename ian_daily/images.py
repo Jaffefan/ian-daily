@@ -61,36 +61,82 @@ def _generate(article: Article, category: str, target: Path) -> bool:
         return False
 
 
-def _fallback(category: str, target: Path) -> None:
+def _phash(path: Path) -> str:
+    from PIL import Image
+    with Image.open(path) as image:
+        reduced = image.convert("L").resize((8, 8))
+        pixels = list(reduced.get_flattened_data() if hasattr(reduced, "get_flattened_data") else reduced.getdata())
+    average = sum(pixels) / len(pixels)
+    return f"{sum((1 << index) for index, value in enumerate(pixels) if value >= average):016x}"
+
+
+def _distance(left: str, right: str) -> int:
+    return (int(left, 16) ^ int(right, 16)).bit_count()
+
+
+def _fallback(article: Article, category: str, target: Path, salt: int = 0) -> None:
     from PIL import Image, ImageDraw
     colors = {"tech": (0, 140, 122), "education": (58, 107, 53), "sports": (228, 87, 46)}
     accent = colors[category]
     image = Image.new("RGB", (1200, 760), (244, 241, 233))
     draw = ImageDraw.Draw(image)
-    for index in range(9):
-        inset = 55 + index * 34
-        color = tuple(min(255, channel + index * 10) for channel in accent)
-        draw.rectangle((inset, inset, 1200 - inset, 760 - inset), outline=color, width=5)
-    draw.ellipse((470, 250, 730, 510), fill=accent)
+    digest = hashlib.sha256(f"{article.title}|{salt}".encode("utf-8")).digest()
+    for index in range(7):
+        x = 45 + digest[index] * 4
+        width = 90 + digest[index + 7] * 2
+        shade = tuple(min(255, channel + index * 11) for channel in accent)
+        draw.rectangle((x % 1020, 55 + index * 92, min(1170, x % 1020 + width), 105 + index * 92), fill=shade)
+    radius = 90 + digest[15] % 100
+    center_x = 220 + int.from_bytes(digest[16:18], "big") % 760
+    center_y = 180 + int.from_bytes(digest[18:20], "big") % 400
+    draw.ellipse((center_x - radius, center_y - radius, center_x + radius, center_y + radius), outline=accent, width=18)
+    draw.line((70, 690, 1130, 690 - digest[20]), fill=accent, width=8)
     target.parent.mkdir(parents=True, exist_ok=True)
     image.save(target, "WEBP", quality=84, method=6)
 
 
 def resolve_story_images(category: str, articles: list[Article], reading: ReadingEdition, episode_dir: Path) -> None:
     section_by_id = {section.story_id: section for section in reading.sections}
+    seen_hashes: list[str] = []
     for article in articles:
         section = section_by_id[article.id]
         filename = hashlib.sha256(article.id.encode("utf-8")).hexdigest()[:16] + ".webp"
         target = episode_dir / "images" / filename
+        source_url = article.image_url if article.image_url.startswith(("http://", "https://")) else ""
         credit = article.image_credit or article.source
-        if not _download(article.image_url, target):
+        kind = "source"
+        status = "downloaded"
+        if not _download(source_url, target):
             if _generate(article, category, target):
                 credit = "AI 生成 · 伊恩每日"
+                kind = "ai"
+                status = "generated"
             else:
-                _fallback(category, target)
+                _fallback(article, category, target)
                 credit = "伊恩每日 · 本地题图"
+                kind = "fallback"
+                status = "generated"
+        image_hash = _phash(target)
+        if any(_distance(image_hash, existing) <= 4 for existing in seen_hashes):
+            for salt in range(1, 6):
+                _fallback(article, category, target, salt)
+                image_hash = _phash(target)
+                if all(_distance(image_hash, existing) > 4 for existing in seen_hashes):
+                    break
+            credit = "伊恩每日 · 本地事件题图"
+            kind = "fallback"
+            status = "deduplicated"
+        seen_hashes.append(image_hash)
         relative = f"images/{filename}"
         article.image_url = relative
         article.image_credit = credit
+        article.image_kind = kind
+        article.image_source_url = source_url
+        article.image_status = status
+        article.image_phash = image_hash
         section.image_url = relative
         section.image_credit = credit
+        section.image_kind = kind
+        section.image_source_url = source_url
+        section.image_status = status
+        section.image_phash = image_hash

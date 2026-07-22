@@ -165,11 +165,24 @@ def audit_editions(reading: ReadingEdition, podcast: PodcastEpisode, packs: list
             return []
         result = generate_json(
             "siliconflow", config.PREP_MODEL,
-            "你是独立事实审校员。只依据ContentBrief检查数字、人名、赛况、政策、引语和因果。风格问题不阻止发布。输出JSON：blocking_errors。",
+            "你是独立事实与栏目审校员。只依据ContentBrief检查数字、人名、赛况、政策、引语和因果；同时按5分制评估事实、观点、频道辨识度、可理解度、情绪风格。输出JSON：blocking_errors和rubric_scores。任何评分必须给出整数。",
             {"content_brief": brief.to_dict(), "reading": [section.body for section in reading.sections], "podcast": [block.text for block in podcast.blocks]},
             category=brief.category, stage="audit", max_tokens=1800, temperature=0.0,
         )
-        return [str(item).strip() for item in result.get("blocking_errors", []) if str(item).strip()]
+        errors = [str(item).strip() for item in result.get("blocking_errors", []) if str(item).strip()]
+        labels = {
+            "facts": "事实支撑", "viewpoint": "观点质量", "category_identity": "频道辨识度",
+            "clarity": "可理解度", "tone": "情绪风格",
+        }
+        scores = result.get("rubric_scores", {})
+        for key, label in labels.items():
+            try:
+                score = int(scores.get(key, 0))
+            except (TypeError, ValueError):
+                score = 0
+            if score < 4:
+                errors.append(f"Agent 校准未通过：{label} {score}/5")
+        return errors
     except Exception as exc:
         print(f"  [audit-fallback] {brief.category}: {exc}")
         return []

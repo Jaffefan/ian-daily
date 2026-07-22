@@ -11,6 +11,7 @@ DATA_DIR = Path(os.environ.get("IAN_DAILY_DATA_DIR", ROOT / "data"))
 DRAFTS_DIR = DATA_DIR / "drafts"
 EPISODES_DIR = DATA_DIR / "episodes"
 USAGE_DIR = DATA_DIR / "usage"
+RUNS_DIR = DATA_DIR / "runs"
 SITE_DIR = Path(os.environ.get("IAN_DAILY_SITE_DIR", ROOT / "site"))
 PUBLIC_BASE = os.environ.get("IAN_DAILY_PUBLIC_BASE", "/ian-daily/")
 if not PUBLIC_BASE.startswith("/"):
@@ -35,6 +36,11 @@ PUBLIC_SITE_URL = os.environ.get("IAN_DAILY_PUBLIC_SITE_URL", "https://jaffefan.
 IAN_VOICE = os.environ.get("IAN_DAILY_IAN_VOICE", "zh-CN-XiaoyiNeural")
 LISTENER_VOICE = os.environ.get("IAN_DAILY_LISTENER_VOICE", "zh-CN-YunxiNeural")
 CHAPTER_PAUSE_SEC = float(os.environ.get("IAN_DAILY_CHAPTER_PAUSE_SEC", "1.2"))
+DEEPSEEK_CACHE_HIT_USD_PER_M = float(os.environ.get("IAN_DAILY_DEEPSEEK_CACHE_HIT_USD_PER_M", "0.0028"))
+DEEPSEEK_CACHE_MISS_USD_PER_M = float(os.environ.get("IAN_DAILY_DEEPSEEK_CACHE_MISS_USD_PER_M", "0.14"))
+DEEPSEEK_OUTPUT_USD_PER_M = float(os.environ.get("IAN_DAILY_DEEPSEEK_OUTPUT_USD_PER_M", "0.28"))
+USD_CNY_RATE = float(os.environ.get("IAN_DAILY_USD_CNY_RATE", "7.2"))
+NORMAL_MODEL_CALLS_PER_CATEGORY = int(os.environ.get("IAN_DAILY_NORMAL_MODEL_CALLS_PER_CATEGORY", "4"))
 
 
 @dataclass(frozen=True, slots=True)

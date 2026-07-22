@@ -1,0 +1,10 @@
+{
+  "name": "ian-daily-site-checks",
+  "private": true,
+  "scripts": {
+    "test:site": "playwright test tests/site.spec.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.52.0"
+  }
+}

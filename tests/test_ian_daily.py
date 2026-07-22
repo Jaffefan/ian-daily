@@ -182,7 +182,7 @@ class LowCostPipelineTests(unittest.TestCase):
                     {"block_id": "answer", "speaker": "ian", "role": "answer", "text": "回答" * 80, "story_id": item.id},
                     {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
                 ]}
-            return {"blocking_errors": []}
+            return {"blocking_errors": [], "rubric_scores": {"facts": 5, "viewpoint": 5, "category_identity": 5, "clarity": 5, "tone": 5}}
 
         with patch("ian_daily.agents.siliconflow_model_available", return_value=True), patch("ian_daily.agents.generate_json", side_effect=generated):
             brief = build_content_brief("tech", "2026-01-01", [pack])
@@ -244,7 +244,7 @@ class StorageAndReleaseTests(unittest.TestCase):
             store.save_quality(QualityReport(bundle.episode_id, True, 1, 1, 1, 800, 1200, 300, 1, 0, [], []))
             (episode_dir / "episode.mp3").write_bytes(b"audio")
             manifest = root / "manifest.json"; manifest.write_text(json.dumps({"episode_ids": [bundle.episode_id]}), encoding="utf-8")
-            with patch("ian_daily.publisher.send_channel_card", return_value=True) as send:
+            with patch("ian_daily.publisher.send_channel_card", return_value=True) as send, patch("ian_daily.publisher.RunLedgerStore"):
                 finalize_release(manifest, store); finalize_release(manifest, store)
             self.assertEqual(1, send.call_count)
             self.assertEqual("published", store.load_bundle(bundle.episode_id).status)
@@ -256,7 +256,7 @@ class StorageAndReleaseTests(unittest.TestCase):
             store.save_bundle(bundle)
             store.save_quality(QualityReport(bundle.episode_id, True, 1, 1, 1, 800, 1200, 300, 1, 0, [], []))
             manifest = root / "manifest.json"
-            with patch("ian_daily.publisher.MANIFEST", manifest), patch("ian_daily.publisher.build_site"):
+            with patch("ian_daily.publisher.MANIFEST", manifest), patch("ian_daily.publisher.build_site"), patch("ian_daily.publisher.RunLedgerStore"):
                 ids = prepare_release("2026-01-01", store)
             self.assertEqual([bundle.episode_id], ids)
 
@@ -275,7 +275,7 @@ class StorageAndReleaseTests(unittest.TestCase):
             bundle.feishu_notified_at_bjt = "2026-01-01T09:00:00+08:00"
             store.save_bundle(bundle)
             store.save_quality(QualityReport(bundle.episode_id, True, 1, 1, 1, 800, 1200, 300, 1, 0, [], []))
-            with patch("ian_daily.publisher.MANIFEST", root / "manifest.json"), patch("ian_daily.publisher.build_site"):
+            with patch("ian_daily.publisher.MANIFEST", root / "manifest.json"), patch("ian_daily.publisher.build_site"), patch("ian_daily.publisher.RunLedgerStore"):
                 self.assertEqual([], prepare_release("2026-01-01", store))
                 self.assertEqual([bundle.episode_id], prepare_release("2026-01-01", store, rebuild=True))
 
@@ -289,11 +289,12 @@ class NotificationTests(unittest.TestCase):
             }), encoding="utf-8")
             bundle = unittest.mock.Mock(status="failed", category="sports", episode_id="2026-01-01-sports")
             report = unittest.mock.Mock(errors=["音频时长不足"])
-            with patch("ian_daily.publisher.config.DATA_DIR", data_dir), \
+            with patch("ian_daily.publisher.config.DATA_DIR", data_dir), patch("ian_daily.publisher.config.RUNS_DIR", data_dir / "runs"), \
                  patch("ian_daily.publisher.EpisodeStore") as store_type, \
                  patch("ian_daily.publisher.send_channel_card") as send:
                 store_type.return_value.load_bundle.return_value = bundle
                 store_type.return_value.load_quality.return_value = report
+                notify_generation_failures()
                 notify_generation_failures()
             send.assert_called_once_with(None, report, "sports", "音频时长不足")
 

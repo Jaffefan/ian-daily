@@ -20,16 +20,21 @@ python -m venv .venv
 .\.venv\Scripts\pip install -r requirements.txt
 $env:DEEPSEEK_API_KEY="..."
 python -m ian_daily generate
+python -m ian_daily doctor
+python -m ian_daily retry-failed
+python -m ian_daily run-status
 python -m ian_daily prepare-release
 python -m ian_daily verify-release
 python -m ian_daily finalize-release
 python -m ian_daily usage --days 14
+python -m ian_daily benchmark-cost
+python -m ian_daily calibration-status
 python -m ian_daily review --port 5211
 ```
 
 节目按频道保存在 `data/episodes/<category>/<episode_id>/`，公开站点只生成到本仓库的 `site/`。旧 `data/drafts/` 可通过 `python -m ian_daily migrate-storage` 幂等迁移。
 
-GitHub Actions 每天北京时间 06:30 生成；09:01—09:51 每十分钟执行一次幂等发布。只有 Pages 页面、图片和 MP3 验证通过后才标记发布并发送飞书。
+GitHub Actions 每天北京时间 06:30 生成，06:50 与 07:10 只重试失败或缺失频道；09:01—09:51 每十分钟执行一次幂等发布。只有 Pages 页面、图片和 MP3 验证通过后才标记发布并发送飞书。每日运行状态保存在 `data/runs/`，模型用量保存在 `data/usage/`；日志只记录输入长度与 SHA-256，不保存完整 Prompt。
 
 ## GitHub Secrets
 

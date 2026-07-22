@@ -43,6 +43,16 @@ jobs:
       - if: steps.prepare.outputs.ready == 'true'
         run: touch site/.nojekyll
       - if: steps.prepare.outputs.ready == 'true'
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Verify desktop and mobile site behavior
+        if: steps.prepare.outputs.ready == 'true'
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+          npm run test:site
+      - if: steps.prepare.outputs.ready == 'true'
         uses: actions/configure-pages@v5
       - if: steps.prepare.outputs.ready == 'true'
         uses: actions/upload-pages-artifact@v3
@@ -73,3 +83,12 @@ jobs:
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python -m ian_daily notify-overdue
+      - name: Persist overdue notification ledger
+        if: always() && github.event.schedule == '51 1 * * *'
+        run: |
+          git config user.name "ian-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data
+          git diff --cached --quiet || git commit -m "ops: persist overdue notification"
+          git pull --rebase origin main
+          git push origin HEAD:main

@@ -2,6 +2,8 @@ name: Generate daily editions
 on:
   schedule:
     - cron: "30 22 * * *"
+    - cron: "50 22 * * *"
+    - cron: "10 23 * * *"
   workflow_dispatch:
     inputs:
       force:
@@ -26,13 +28,30 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
+      - name: Production preflight
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python -m ian_daily doctor --notify
       - name: Generate three independent channels
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: python -m ian_daily generate ${{ inputs.category && format('--category {0}', inputs.category) || '' }} ${{ inputs.force && '--force' || '' }}
-      - name: Commit generated drafts
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" || "${{ github.event.schedule }}" == "30 22 * * *" ]]; then
+            python -m ian_daily generate ${{ inputs.category && format('--category {0}', inputs.category) || '' }} ${{ inputs.force && '--force' || '' }}
+          else
+            python -m ian_daily retry-failed
+          fi
+      - name: Report channel failures
+        if: always()
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python -m ian_daily notify-failures
+      - name: Commit generated drafts and run ledger
+        if: always()
         run: |
           git config user.name "ian-daily-bot"
           git config user.email "actions@users.noreply.github.com"
@@ -40,8 +59,3 @@ jobs:
           git diff --cached --quiet || git commit -m "generate: daily editions"
           git pull --rebase origin main
           git push origin HEAD:main
-      - name: Report channel failures
-        if: always()
-        env:
-          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
-        run: python -m ian_daily notify-failures

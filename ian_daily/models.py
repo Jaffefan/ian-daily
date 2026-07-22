@@ -28,6 +28,10 @@ class Article:
     full_body: str = ""
     image_url: str = ""
     image_credit: str = ""
+    image_kind: str = ""
+    image_source_url: str = ""
+    image_status: str = ""
+    image_phash: str = ""
     community_signals: list[CommunitySignal] = field(default_factory=list)
 
     @classmethod
@@ -115,6 +119,10 @@ class ReadingSection:
     image_credit: str
     source_ids: list[str]
     source_refs: list[SourceRef]
+    image_kind: str = ""
+    image_source_url: str = ""
+    image_status: str = ""
+    image_phash: str = ""
 
 
 @dataclass(slots=True)
@@ -226,3 +234,22 @@ class QualityReport:
 
     def to_dict(self) -> dict[str, Any]:
         return asdict(self)
+
+
+@dataclass(slots=True)
+class ModelUsage:
+    at_bjt: str
+    provider: str
+    model: str
+    category: str
+    stage: str
+    input_chars: int
+    input_sha256: str
+    prompt_tokens: int
+    cache_hit_tokens: int
+    cache_miss_tokens: int
+    completion_tokens: int
+    max_tokens: int
+    estimated_usd: float
+    estimated_cny: float
+    latency_sec: float
