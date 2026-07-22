@@ -1,0 +1,90 @@
+{
+  "date_bjt": "2026-07-22",
+  "channels": {
+    "tech": {
+      "attempts": 0,
+      "status": "pending",
+      "stages": {},
+      "errors": [],
+      "episode_id": "",
+      "updated_at_bjt": ""
+    },
+    "education": {
+      "attempts": 0,
+      "status": "pending",
+      "stages": {},
+      "errors": [],
+      "episode_id": "",
+      "updated_at_bjt": ""
+    },
+    "sports": {
+      "attempts": 0,
+      "status": "pending",
+      "stages": {},
+      "errors": [],
+      "episode_id": "",
+      "updated_at_bjt": ""
+    }
+  },
+  "notifications": {},
+  "release": {
+    "sports": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-07-22-sports",
+          "at_bjt": "2026-07-22T17:03:08+08:00"
+        },
+        "verified": {
+          "detail": "2026-07-22-sports",
+          "at_bjt": "2026-07-22T17:03:52+08:00"
+        },
+        "published": {
+          "detail": "2026-07-22-sports",
+          "at_bjt": "2026-07-22T17:03:52+08:00"
+        }
+      },
+      "detail": "2026-07-22-sports",
+      "at_bjt": "2026-07-22T17:03:52+08:00"
+    },
+    "education": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-07-22-education",
+          "at_bjt": "2026-07-22T17:03:08+08:00"
+        },
+        "verified": {
+          "detail": "2026-07-22-education",
+          "at_bjt": "2026-07-22T17:03:52+08:00"
+        },
+        "published": {
+          "detail": "2026-07-22-education",
+          "at_bjt": "2026-07-22T17:03:52+08:00"
+        }
+      },
+      "detail": "2026-07-22-education",
+      "at_bjt": "2026-07-22T17:03:52+08:00"
+    },
+    "tech": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-07-22-tech",
+          "at_bjt": "2026-07-22T17:03:08+08:00"
+        },
+        "verified": {
+          "detail": "2026-07-22-tech",
+          "at_bjt": "2026-07-22T17:03:52+08:00"
+        },
+        "published": {
+          "detail": "2026-07-22-tech",
+          "at_bjt": "2026-07-22T17:03:52+08:00"
+        }
+      },
+      "detail": "2026-07-22-tech",
+      "at_bjt": "2026-07-22T17:03:52+08:00"
+    }
+  },
+  "updated_at_bjt": "2026-07-22T17:03:52+08:00"
+}
