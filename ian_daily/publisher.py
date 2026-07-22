@@ -65,6 +65,7 @@ def verify_release(manifest_path: Path = MANIFEST, attempts: int = 8) -> None:
 
 def finalize_release(manifest_path: Path = MANIFEST, store: EpisodeStore | None = None) -> list[str]:
     store = store or EpisodeStore()
+    ledger = RunLedgerStore()
     payload = json.loads(manifest_path.read_text(encoding="utf-8"))
     published: list[str] = []
     for episode_id in payload.get("episode_ids", []):
@@ -78,11 +79,13 @@ def finalize_release(manifest_path: Path = MANIFEST, store: EpisodeStore | None 
         if not bundle.feishu_notified_at_bjt:
             if send_channel_card(bundle, store.load_quality(episode_id), bundle.category):
                 bundle.feishu_notified_at_bjt = now_bjt_iso()
-                RunLedgerStore().set_release(payload.get("date_bjt", bundle.date_bjt), bundle.category, "feishu_notified", bundle.episode_id)
+                ledger.set_release(payload.get("date_bjt", bundle.date_bjt), bundle.category, "feishu_notified", bundle.episode_id)
             else:
-                RunLedgerStore().set_release(payload.get("date_bjt", bundle.date_bjt), bundle.category, "feishu_failed", bundle.episode_id)
+                ledger.set_release(payload.get("date_bjt", bundle.date_bjt), bundle.category, "feishu_failed", bundle.episode_id)
         store.save_bundle(bundle)
-        RunLedgerStore().set_release(payload.get("date_bjt", bundle.date_bjt), bundle.category, "published", bundle.episode_id)
+        date_bjt = payload.get("date_bjt", bundle.date_bjt)
+        ledger.set_release(date_bjt, bundle.category, "published", bundle.episode_id)
+        ledger.finish(date_bjt, bundle.category, "published", bundle.episode_id)
         source = store.episode_dir(episode_id) / bundle.podcast.full_audio_file
         source.unlink(missing_ok=True)
         published.append(episode_id)
