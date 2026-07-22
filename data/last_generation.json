@@ -1,9 +1,10 @@
 {
-  "at_bjt": "2026-07-22T07:43:30+08:00",
-  "failures": {},
+  "at_bjt": "2026-07-23T07:38:22+08:00",
+  "failures": {
+    "education": "图文章节过短：81f50936e2998bdba039",
+    "sports": "播客没有完整覆盖 ContentBrief 事件"
+  },
   "episodes": [
-    "2026-07-22-tech",
-    "2026-07-22-education",
-    "2026-07-22-sports"
+    "2026-07-23-tech"
   ]
 }

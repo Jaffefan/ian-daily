@@ -1,0 +1,130 @@
+{
+  "date_bjt": "2026-07-23",
+  "channels": {
+    "tech": {
+      "attempts": 1,
+      "status": "failed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-23T07:32:24+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-07-23T07:32:27+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-23T07:32:44+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-23T07:32:46+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-23T07:34:11+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "source",
+          "at_bjt": "2026-07-23T07:34:14+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-23T07:34:15+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-23T07:35:01+08:00"
+        },
+        "quality": {
+          "status": "failed",
+          "detail": "播客内容过短：2490 字，当前事件量至少需要 2800 字；音频时长 8.4 分钟，不在当前事件量对应的 13—18 分钟范围内",
+          "at_bjt": "2026-07-23T07:35:01+08:00"
+        }
+      },
+      "errors": [
+        "播客内容过短：2490 字，当前事件量至少需要 2800 字；音频时长 8.4 分钟，不在当前事件量对应的 13—18 分钟范围内"
+      ],
+      "episode_id": "2026-07-23-tech",
+      "updated_at_bjt": "2026-07-23T07:35:01+08:00"
+    },
+    "education": {
+      "attempts": 1,
+      "status": "failed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-23T07:35:01+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "80 candidates",
+          "at_bjt": "2026-07-23T07:35:05+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-23T07:35:38+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-23T07:35:39+08:00"
+        }
+      },
+      "errors": [
+        "图文章节过短：81f50936e2998bdba039"
+      ],
+      "episode_id": "",
+      "updated_at_bjt": "2026-07-23T07:36:29+08:00"
+    },
+    "sports": {
+      "attempts": 1,
+      "status": "failed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-23T07:36:29+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-07-23T07:36:30+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-23T07:37:01+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-23T07:37:02+08:00"
+        }
+      },
+      "errors": [
+        "播客没有完整覆盖 ContentBrief 事件"
+      ],
+      "episode_id": "",
+      "updated_at_bjt": "2026-07-23T07:38:22+08:00"
+    }
+  },
+  "notifications": {
+    "generation:education": "2026-07-23T07:38:23+08:00",
+    "generation:sports": "2026-07-23T07:38:24+08:00",
+    "generation:tech": "2026-07-23T07:38:25+08:00"
+  },
+  "release": {},
+  "updated_at_bjt": "2026-07-23T07:38:25+08:00"
+}
