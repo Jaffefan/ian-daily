@@ -14,13 +14,13 @@ BJT = timezone(timedelta(hours=8))
 MANIFEST = config.DATA_DIR / "release_manifest.json"
 
 
-def prepare_release(date_bjt: str | None = None, store: EpisodeStore | None = None) -> list[str]:
+def prepare_release(date_bjt: str | None = None, store: EpisodeStore | None = None, rebuild: bool = False) -> list[str]:
     store = store or EpisodeStore()
     date_bjt = date_bjt or datetime.now(BJT).strftime("%Y-%m-%d")
     candidates = [
         item for item in store.list_bundles({"quality_passed", "published"})
         if item.date_bjt == date_bjt
-        and (item.status == "quality_passed" or not item.feishu_notified_at_bjt)
+        and (rebuild or item.status == "quality_passed" or not item.feishu_notified_at_bjt)
     ]
     ids = [item.episode_id for item in candidates if store.load_quality(item.episode_id).publishable]
     build_site(store, include_ids=set(ids))

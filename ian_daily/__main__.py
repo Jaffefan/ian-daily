@@ -27,6 +27,7 @@ def parser() -> argparse.ArgumentParser:
     commands.add_parser("build-site", help="重新构建静态站")
     prepare = commands.add_parser("prepare-release", help="构建待发布 Pages 产物")
     prepare.add_argument("--date")
+    prepare.add_argument("--rebuild", action="store_true", help="重建当天已发布页面但不重复通知")
     commands.add_parser("verify-release", help="验证 Pages 和音频已经上线")
     commands.add_parser("finalize-release", help="完成发布状态并发送飞书")
     commands.add_parser("notify-overdue", help="通知九点发布逾期")
@@ -54,7 +55,7 @@ def main(argv: list[str] | None = None) -> int:
         elif args.command == "build-site":
             print(build_site())
         elif args.command == "prepare-release":
-            print("待发布：", ", ".join(prepare_release(args.date)) or "无")
+            print("待发布：", ", ".join(prepare_release(args.date, rebuild=args.rebuild)) or "无")
         elif args.command == "verify-release":
             verify_release(); print("Pages 验证通过")
         elif args.command == "finalize-release":

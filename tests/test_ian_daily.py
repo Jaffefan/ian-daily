@@ -268,6 +268,17 @@ class StorageAndReleaseTests(unittest.TestCase):
         migrated = EpisodeBundle.from_dict(payload)
         self.assertTrue(migrated.feishu_notified_at_bjt)
 
+    def test_manual_rebuild_includes_notified_published_episode(self):
+        with tempfile.TemporaryDirectory() as temp:
+            root = Path(temp); store = EpisodeStore(root / "episodes", root / "drafts")
+            bundle = self._bundle(status="published")
+            bundle.feishu_notified_at_bjt = "2026-01-01T09:00:00+08:00"
+            store.save_bundle(bundle)
+            store.save_quality(QualityReport(bundle.episode_id, True, 1, 1, 1, 800, 1200, 300, 1, 0, [], []))
+            with patch("ian_daily.publisher.MANIFEST", root / "manifest.json"), patch("ian_daily.publisher.build_site"):
+                self.assertEqual([], prepare_release("2026-01-01", store))
+                self.assertEqual([bundle.episode_id], prepare_release("2026-01-01", store, rebuild=True))
+
 
 class NotificationTests(unittest.TestCase):
     def test_quality_blocked_episode_sends_failure_card(self):

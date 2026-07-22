@@ -8,6 +8,11 @@ on:
     - cron: "41 1 * * *"
     - cron: "51 1 * * *"
   workflow_dispatch:
+    inputs:
+      rebuild:
+        description: Rebuild today's published pages
+        type: boolean
+        default: true
 jobs:
   publish:
     runs-on: ubuntu-latest
@@ -28,24 +33,34 @@ jobs:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
-      - name: Prepare without changing published state
+      - id: prepare
+        name: Prepare without changing published state
         env:
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
-        run: python -m ian_daily prepare-release
-      - run: touch site/.nojekyll
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
+        run: |
+          python -m ian_daily prepare-release ${{ inputs.rebuild && '--rebuild' || '' }}
+          python -c "import json; print('ready=' + str(bool(json.load(open('data/release_manifest.json'))['episode_ids'])).lower())" >> "$GITHUB_OUTPUT"
+      - if: steps.prepare.outputs.ready == 'true'
+        run: touch site/.nojekyll
+      - if: steps.prepare.outputs.ready == 'true'
+        uses: actions/configure-pages@v5
+      - if: steps.prepare.outputs.ready == 'true'
+        uses: actions/upload-pages-artifact@v3
         with:
           path: site
       - id: deployment
+        if: steps.prepare.outputs.ready == 'true'
         uses: actions/deploy-pages@v4
       - name: Verify public pages and audio
+        if: steps.prepare.outputs.ready == 'true'
         run: python -m ian_daily verify-release
       - name: Finalize state and notify Feishu
+        if: steps.prepare.outputs.ready == 'true'
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python -m ian_daily finalize-release
       - name: Persist verified release
+        if: steps.prepare.outputs.ready == 'true'
         run: |
           git config user.name "ian-daily-bot"
           git config user.email "actions@users.noreply.github.com"
