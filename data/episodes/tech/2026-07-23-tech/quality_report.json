@@ -1,17 +1,14 @@
 {
   "episode_id": "2026-07-23-tech",
-  "publishable": false,
+  "publishable": true,
   "story_count": 5,
-  "source_count": 11,
+  "source_count": 12,
   "domestic_count": 0,
-  "reading_chars": 2923,
-  "podcast_chars": 2384,
-  "audio_duration_sec": 480.0,
+  "reading_chars": 2307,
+  "podcast_chars": 4573,
+  "audio_duration_sec": 924.7,
   "fact_alignment": 1.0,
-  "text_overlap": 0.025,
-  "errors": [
-    "播客内容过短：2384 字，当前事件量至少需要 2800 字",
-    "音频时长 8.0 分钟，不在当前事件量对应的 13—18 分钟范围内"
-  ],
+  "text_overlap": 0.034,
+  "errors": [],
   "warnings": []
 }
