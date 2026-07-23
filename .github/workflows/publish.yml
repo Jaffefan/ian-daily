@@ -1,5 +1,13 @@
 name: Publish verified daily editions
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/publish.yml"
+      - "ian_daily/images.py"
+      - "ian_daily/sources.py"
+      - "ian_daily/site.py"
   schedule:
     - cron: "1 1 * * *"
     - cron: "11 1 * * *"
