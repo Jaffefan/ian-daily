@@ -1,0 +1,16 @@
+{
+  "episode_id": "2026-07-24-sports",
+  "publishable": false,
+  "story_count": 5,
+  "source_count": 8,
+  "domestic_count": 3,
+  "reading_chars": 2709,
+  "podcast_chars": 4214,
+  "audio_duration_sec": 864.3,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.005,
+  "errors": [
+    "听众提问应为 2—3 次，当前 5 次"
+  ],
+  "warnings": []
+}
