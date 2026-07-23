@@ -143,8 +143,9 @@ def generate_all(*, force: bool = False, retry_failed_only: bool = False, skip_a
     anomaly = usage_anomaly(now_bjt().strftime("%Y-%m-%d"))
     if anomaly:
         send_ops_card("伊恩每日 · 模型用量异常", anomaly)
-    if failures and not result:
-        raise RuntimeError("三个频道全部生成失败")
+    publishable = [item for item in result if item.status in {"quality_passed", "published"}]
+    if not publishable:
+        raise RuntimeError("今天没有频道通过质量门禁")
     return result
 
 

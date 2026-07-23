@@ -53,7 +53,7 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
     if len(image_hashes) != len(set(image_hashes)):
         errors.append("同一期存在重复事件配图")
     minimum_reading_chars = max(500, story_count * 400)
-    minimum_podcast_chars = {1: 900, 2: 1500, 3: 2200, 4: 2800, 5: 2800}.get(story_count, 900)
+    minimum_podcast_chars = {1: 1000, 2: 1700, 3: 2500, 4: 3400, 5: 3800}.get(story_count, 1000)
     if reading_chars < minimum_reading_chars:
         errors.append(f"图文版过短：{reading_chars} 字，当前事件量至少需要 {minimum_reading_chars} 字")
     if podcast_chars < minimum_podcast_chars:
