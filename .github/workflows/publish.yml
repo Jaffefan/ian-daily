@@ -46,7 +46,7 @@ jobs:
         env:
           SILICONFLOW_API_KEY: ${{ secrets.SILICONFLOW_API_KEY }}
         run: |
-          python -m ian_daily prepare-release ${{ inputs.rebuild && '--rebuild' || '' }}
+          python -m ian_daily prepare-release ${{ (github.event_name == 'push' || inputs.rebuild) && '--rebuild' || '' }}
           python -c "import json; print('ready=' + str(bool(json.load(open('data/release_manifest.json'))['episode_ids'])).lower())" >> "$GITHUB_OUTPUT"
       - if: steps.prepare.outputs.ready == 'true'
         run: touch site/.nojekyll
