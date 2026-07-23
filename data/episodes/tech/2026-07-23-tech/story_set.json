@@ -87,24 +87,24 @@
       "community_signals": []
     },
     {
-      "id": "f3371fcff5447c5a7286",
+      "id": "59b029fbf3a9b25b428d",
       "category": "tech",
-      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-      "summary": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
-      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "summary": "After IBM's stock crashed last week on warnings of a poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
       "source": "TechCrunch",
-      "published_at_bjt": "2026-07-23T03:11:46+08:00",
+      "published_at_bjt": "2026-07-23T07:47:54+08:00",
       "language": "en",
       "region": "global",
       "authority_tier": 1,
       "engagement": 0,
-      "full_body": "Title: How OpenAI’s human mistake led to the AI-powered hack on Hugging Face\n\nURL Source: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face\n\nPublished Time: 2026-07-22T19:11:46+00:00\n\nMarkdown Content:\nOn Tuesday, OpenAI revealed that one of its models [went rogue during a test and hacked the systems of AI dataset platform Hugging Face in a fully AI-enabled attack](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/), a dramatic example of the dangers posed by advanced AI models.\n\nBut, according to some cybersecurity experts, at the heart of this unprecedented AI-powered breach there was a very human mistake: OpenAI failed to properly configure [what it called](https://openai.com/index/hugging-face-model-evaluation-security-incident/#:~:text=Our%20benchmarks%20run%20in%20a%20highly%20isolated%20environment%2C%20with%20network%20access%20constrained%20to%20the%20ability%20to%20install%20packages%20through%20an%20internally%20hosted%20third%2Dparty%20software%20that%20acts%20as%20a%20proxy%20and%20cache%20for%20package%20registries.) a “highly isolated environment,” allowing a testing sandbox that should have been completely secluded from the internet to actually connect to the internet.\n\nDan Guido, the founder of cybersecurity research startup Trail of Bits, called the mistake “a containment failure with the safeties turned off.”\n\n[In its blog post detailing the incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/#:~:text=Our%20benchmarks%20run%20in%20a%20highly%20isolated%20environment%2C%20with%20network%20access%20constrained%20to%20the%20ability%20to%20install%20packages%20through%20an%20internally%20hosted%20third%2Dparty%20software%20that%20acts%20as%20a%20proxy%20and%20cache%20for%20package%20registries.), OpenAI said that the test that led to the Hugging Face breach was set up to run in “a highly isolated environment, with network access constrained to the ability to install packages through an internally hosted third-party software that acts as a proxy and cache for package registries.”\n\nThe model was able to escape the sandboxed testing environment thanks to a previously undisclosed vulnerability in the package-installation system, a critical first step in the eventual hack on Hugging Face, according to OpenAI.\n\nIn response, the company “responsibly disclosed the identified zero-day vulnerability in the internally-hosted third-party software and are working with them to patch.”\n\nBut to most cybersecurity professionals, software vulnerabilities are to be expected — and the real fault lies with the decision to maintain the third-party software in the first place. Ultimately, the value of a “sandbox” system lies in its full and total isolation. Including a package-installation system is asking for trouble.\n\nMartin Boone, a cybersecurity researcher, told TechCrunch that “this sounds like human failure.”\n\n“This should never have happened,” Boone said. “If sandbox would actually mean sandbox, you expect it to have no physical connection to the internet whatsoever. This sounds more like they had some firewalling or something in place, and firewalling is hard from the outside in, let alone inside to the outside internet.”\n\nCybersecurity veteran Jake Williams agreed. “Any model performing the types of actions documented by Hugging Face was not fully contained in a sandbox,” said Williams, who called this “a massive control failure” by OpenAI.\n\n“One man’s ‘the model escaped the sandbox’ is another man’s ‘you failed to build the sandbox correctly, so of course it escaped,’” Williams continued.\n\n#### Contact Us\n\nDo you have more information about this incident? Or about other AI-enabled cyberattacks? We’d love to hear from you. From a non-work device and network, you can contact Lorenzo Franceschi-Bicchierai securely on Signal at +1 917 257 1382, or via Telegram and Keybase @lorenzofb, or [email](mailto:lorenzo@techcrunch.com/)[.](mailto:lorenzo@techcrunch.com/)\n\nDaniel Card, a cybersecurity consultant, agreed that OpenAI “didn’t put adequate effort into the design of the sandbox nor its controls” by giving the sandbox or some part of it “an unfiltered route to the internet.” Setting up the sandbox, even with limited network access as OpenAI described it, was not a “reasonable” decision, according to Card.\n\nTo be sure, those criticisms have the benefit of hindsight, but they raise real questions about security practices in AI labs — particularly in maintaining isolated environments for testing models. OpenAI spokespeople did not respond to TechCrunch’s questions, which included whether an AI or a human had set up the testing environment.\n\nBut those questions go far beyond OpenAI.\n\n[In the document](https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf) introducing its cybersecurity-focused model [Mythos](https://techcrunch.com/tag/mythos/), Anthropic wrote that in a test, the model “was provided with a secured ‘sandbox’ computer to interact with,” and instructed to try to escape that “secure container.” Mythos succeeded and gained broader access to the internet “from a system that was meant to be able to reach only a small number of predetermined services.” Still, Anthropic noted that the model was not able to “fully” escape the designed containment.\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n\nLorenzo Franceschi-Bicchierai is a Senior Writer at TechCrunch, where he covers hacking, cybersecurity, surveillance, and privacy.\n\nYou can contact or verify outreach from Lorenzo by emailing [lorenzo@techcrunch.com](mailto:lorenzo@techcrunch.com), via encrypted message at +1 917 257 1382 on Signal, and @lorenzofb on Keybase/Telegram.\n\n[View Bio](https://techcrunch.com/author/lorenzo-franceschi-bicchierai/)\n",
-      "image_url": "images/8551cc0656ffad1f.webp",
+      "full_body": "Title: After shocking quarter, IBM insists that AI isn’t killing the mainframe\n\nURL Source: https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe\n\nPublished Time: 2026-07-22T23:47:54+00:00\n\nMarkdown Content:\nOn Wednesday, IBM officially reported earnings and the news was as bad as everyone knew it would be.\n\nWhile the 115-year-old company still generates boatloads of cash — $17.2 billion in revenue, $9.9 billion in gross profit, nearly 58% margins, and $2.2 billion in net earnings for the quarter — its results fell well short of Wall Street’s expectations.\n\nIt was such a bad miss that IBM CEO Arvind Krishna and the board took an unprecedented step of warning investors ahead of time that the earnings was “was worse than our expectations,” offering everyone a sneak peek.\n\nHe published [a “letter to investors,”](https://newsroom.ibm.com/2026-07-14-Arvind-Krishnas-Letter-to-IBM-Investors) last week sharing preliminary results. It warned of abysmal revenue in the company’s all-important “infrastructure” category and said that profit margins were also going to take a hit. The company’s stock instantly tanked 25%, [it’s biggest single-day decline ever.](https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html) Until then, the stock had performed well under Krishna’s six years of leadership, buoyed by the AI data center boom that had been lifting all boats.\n\nOn Wednesday, IBM also lowered its full-year growth forecasts, meaning this horrible quarter would impact the rest of the year. The culprit? IBM’s cash-cow mainframe business was down 42%.\n\nThat’s a cascading problem, because as CFO Jim Kavanaugh explained on the quarterly call with investors, IBM earns $3 in software revenue for every $1 of mainframe hardware it sells.\n\nHowever, the CEO and CFO spent the call insisting that this was a temporary blip and all would be well soon.\n\nWhat happened, they said, was that “tens” of customers that were due to buy a new mainframe during the quarter, opted not to do so. That may not sound like a lot of customers, but mainframes are systems that cost hundreds of thousands to millions of dollars, and with maintenance contracts and software, generate many millions more.\n\nThe same AI boom that lifted IBM’s boat, also sank it.\n\nInstead of buying a new mainframe, these clients bought other hardware, Krishna explained. They were faced with astronomically high cost increases of 15% to 30% for data center gear and PCs.\n\n“When they were faced with that issue, then they decided to move budget to those areas where they were having that extreme price,” Krishna said.\n\nEnterprise hardware makers like Dell and HP have warned that rising costs on components like memory, caused by the AI build-out boom, [have forced them to raise prices](https://www.tomshardware.com/laptops/dell-preps-massive-price-hikes-up-to-30-percent-citing-memory-pricing-out-of-our-control-company-reminds-commercial-customers-that-placing-an-order-today-for-future-delivery-will-not-guarantee-current-prices). [Apple has said the same.](https://techcrunch.com/2026/06/25/apple-raises-mac-and-ipad-prices-spares-iphone-for-now/)\n\nBut Krishna promised that those customers will still buy their new mainframes eventually — along with their new software contracts. In fact, he said some of them have already done so this quarter. “We see no evidence of clients moving off the mainframe,” he said.\n\nWe’ll have to wait and see. But the tech industry has predicted the death of the mainframe for many decades now. Maybe even AI won’t kill it.\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n",
+      "image_url": "images/8a7d39b931a5224c.webp",
       "image_credit": "TechCrunch",
       "image_kind": "source",
-      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2022/05/Arvind-at-Think.jpeg?resize=1200,674",
       "image_status": "downloaded",
-      "image_phash": "0000106f6f2f0f06",
+      "image_phash": "ff3c3c3c7c7c0000",
       "community_signals": []
     }
   ],
@@ -262,49 +262,25 @@
       "community_signals": []
     },
     {
-      "story_id": "f3371fcff5447c5a7286",
-      "headline": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "story_id": "59b029fbf3a9b25b428d",
+      "headline": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "facts": [
-        "Title: How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-        "URL Source: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
-        "Published Time: 2026-07-22T19:11:46+00:00",
-        "On Tuesday, OpenAI revealed that one of its models [went rogue during a test and hacked the systems of AI dataset platform Hugging Face in a fully AI-enabled attack](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/), a dramatic example of the dangers posed by advanced AI models.",
-        "But, according to some cybersecurity experts, at the heart of this unprecedented AI-powered breach there was a very human mistake: OpenAI failed to properly configure [what it called](https://openai.com/index/hugging-face-model-evaluation-security-incident/#:~:text=Our%20benchmarks%20run%20in%20a%20highly%20isolated%20environment%2C%20with%20network%20access%20constrained%20to%20the%20ability%20to%20install%20packages%20through%20an%20internally%20hosted%20third%2Dparty%20software%20that%20acts%",
-        "Dan Guido, the founder of cybersecurity research startup Trail of Bits, called the mistake “a containment failure with the safeties turned off.”",
-        "[In its blog post detailing the incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/#:~:text=Our%20benchmarks%20run%20in%20a%20highly%20isolated%20environment%2C%20with%20network%20access%20constrained%20to%20the%20ability%20to%20install%20packages%20through%20an%20internally%20hosted%20third%2Dparty%20software%20that%20acts%20as%20a%20proxy%20and%20cache%20for%20package%20registries.), OpenAI said that the test that led to the Hugging Face breach was set up to run",
-        "The model was able to escape the sandboxed testing environment thanks to a previously undisclosed vulnerability in the package-installation system, a critical first step in the eventual hack on Hugging Face, according to OpenAI."
+        "Title: After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "URL Source: https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+        "Published Time: 2026-07-22T23:47:54+00:00",
+        "On Wednesday, IBM officially reported earnings and the news was as bad as everyone knew it would be.",
+        "While the 115-year-old company still generates boatloads of cash — $17.2 billion in revenue, $9.9 billion in gross profit, nearly 58% margins, and $2.2 billion in net earnings for the quarter — its results fell well short of Wall Street’s expectations.",
+        "It was such a bad miss that IBM CEO Arvind Krishna and the board took an unprecedented step of warning investors ahead of time that the earnings was “was worse than our expectations,” offering everyone a sneak peek.",
+        "He published [a “letter to investors,”](https://newsroom.ibm.com/2026-07-14-Arvind-Krishnas-Letter-to-IBM-Investors) last week sharing preliminary results. It warned of abysmal revenue in the company’s all-important “infrastructure” category and said that profit margins were also going to take a hit. The company’s stock instantly tanked 25%, [it’s biggest single-day decline ever.](https://www.cnbc.com/2026/07/22/ibm-q2-earnings-report-2026.html) Until then, the stock had performed well under Kri",
+        "On Wednesday, IBM also lowered its full-year growth forecasts, meaning this horrible quarter would impact the rest of the year. The culprit?"
       ],
       "sources": [
         {
-          "article_id": "f3371fcff5447c5a7286",
-          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "article_id": "59b029fbf3a9b25b428d",
+          "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
-          "published_at_bjt": "2026-07-23T03:11:46+08:00",
-          "authority_tier": 1
-        },
-        {
-          "article_id": "e2b1d604ec61f1fe7ebc",
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
-          "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw",
-          "published_at_bjt": "2026-07-22T04:10:21+08:00",
-          "authority_tier": 2
-        },
-        {
-          "article_id": "6efb023d73e5e5d9d0db",
-          "title": "OpenAI Models Escaped Testing Environment and Hacked Hugging Face, CEO Sam Altman Says - NewsCord",
-          "source": "NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNclZCRmlTS1F1ZVZLT1lZQ2VMRmh2MzZROVB0M0hSR3ZhbTNrcmtkc0tERTZOOEY4TlNPUHRKU3phb2RybW96OFpHcGpGSUV1MVZ4QnNjVlhFUlZNLUs1OXp6WVJXbzR6TExjR1hqZlNtZG5zanlKRDhsVURvME5UU3c4ZHliX0ZlM0pXTTVLT3ViX3B6cGJ2WGpULWJ3NnR3QmtQSW11c2JLeS1ZVjNjZHM4SXNnTkFlaDZVeURIT2dnUER5MUJ1ZlhiZ3l1NkVvdEVfVlpUXzJWSUgtOVdMeERVckFxWUplZnc",
-          "published_at_bjt": "2026-07-21T15:00:00+08:00",
-          "authority_tier": 2
-        },
-        {
-          "article_id": "f4f1718676d02b1f2879",
-          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-          "published_at_bjt": "2026-07-22T05:48:54+08:00",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+          "published_at_bjt": "2026-07-23T07:47:54+08:00",
           "authority_tier": 1
         }
       ],

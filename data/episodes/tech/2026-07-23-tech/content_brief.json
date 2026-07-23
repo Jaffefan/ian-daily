@@ -164,54 +164,29 @@
       ]
     },
     {
-      "story_id": "f3371fcff5447c5a7286",
-      "headline": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "story_id": "59b029fbf3a9b25b428d",
+      "headline": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
       "facts": [
-        "Title: How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
-        "URL Source: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
-        "Published Time: 2026-07-22T19:11:46+00:00",
-        "On Tuesday, OpenAI revealed that one of its models [went rogue during a test and hacked the systems of AI dataset platform Hugging Face in a fully AI-enabled attack](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/), a dramatic example of the dangers posed by advanced AI models.",
-        "But, according to some cybersecurity experts, at the heart of this unprecedented AI-powered breach there was a very human mistake: OpenAI failed to properly configure [what it called](https://openai.com/index/hugging-face-model-evaluation-security-incident/#:~:text=Our%20benchmarks%20run%20in%20a%20highly%20isolated%20environment%2C%20with%20network%20access"
+        "Title: After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "URL Source: https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+        "Published Time: 2026-07-22T23:47:54+00:00",
+        "On Wednesday, IBM officially reported earnings and the news was as bad as everyone knew it would be.",
+        "While the 115-year-old company still generates boatloads of cash — $17.2 billion in revenue, $9.9 billion in gross profit, nearly 58% margins, and $2.2 billion in net earnings for the quarter — its results fell well short of Wall Street’s expectations."
       ],
       "numeric_claims": [
-        "URL Source: https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
-        "Published Time: 2026-07-22T19:11:46+00:00",
-        "On Tuesday, OpenAI revealed that one of its models [went rogue during a test and hacked the systems of AI dataset platform Hugging Face in a fully AI-enabled attack](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/), a dramatic example of the dangers posed by advanced AI models.",
-        "But, according to some cybersecurity experts, at the heart of this unprecedented AI-powered breach there was a very human mistake: OpenAI failed to properly configure [what it called](https://openai.com/index/hugging-face-model-evaluation-security-incident/#:~:text=Our%20benchmarks%20run%20in%20a%20highly%20isolated%20environment%2C%20with%20network%20access"
+        "URL Source: https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+        "Published Time: 2026-07-22T23:47:54+00:00",
+        "While the 115-year-old company still generates boatloads of cash — $17.2 billion in revenue, $9.9 billion in gross profit, nearly 58% margins, and $2.2 billion in net earnings for the quarter — its results fell well short of Wall Street’s expectations."
       ],
       "uncertainties": [],
       "impact_angles": [],
       "sources": [
         {
-          "article_id": "f3371fcff5447c5a7286",
-          "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+          "article_id": "59b029fbf3a9b25b428d",
+          "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
           "source": "TechCrunch",
-          "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
-          "published_at_bjt": "2026-07-23T03:11:46+08:00",
-          "authority_tier": 1
-        },
-        {
-          "article_id": "e2b1d604ec61f1fe7ebc",
-          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation - OpenAI",
-          "source": "OpenAI",
-          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5QM0NxYjlpZlBQVHNUaVZta3E1aGJ5LTZHcTg5bEU5T3JCbVdIc19BUk5pcFBlR0RNaDhoYVhGRm95TjVTMVZMLU9XOE1MeEhNQS02VGI3TDh6bWktZ2VoYU82eWFVcVJTM0NKbkUtWU83a2IzNUdvZFVCeDVzdw",
-          "published_at_bjt": "2026-07-22T04:10:21+08:00",
-          "authority_tier": 2
-        },
-        {
-          "article_id": "6efb023d73e5e5d9d0db",
-          "title": "OpenAI Models Escaped Testing Environment and Hacked Hugging Face, CEO Sam Altman Says - NewsCord",
-          "source": "NewsCord",
-          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNclZCRmlTS1F1ZVZLT1lZQ2VMRmh2MzZROVB0M0hSR3ZhbTNrcmtkc0tERTZOOEY4TlNPUHRKU3phb2RybW96OFpHcGpGSUV1MVZ4QnNjVlhFUlZNLUs1OXp6WVJXbzR6TExjR1hqZlNtZG5zanlKRDhsVURvME5UU3c4ZHliX0ZlM0pXTTVLT3ViX3B6cGJ2WGpULWJ3NnR3QmtQSW11c2JLeS1ZVjNjZHM4SXNnTkFlaDZVeURIT2dnUER5MUJ1ZlhiZ3l1NkVvdEVfVlpUXzJWSUgtOVdMeERVckFxWUplZnc",
-          "published_at_bjt": "2026-07-21T15:00:00+08:00",
-          "authority_tier": 2
-        },
-        {
-          "article_id": "f4f1718676d02b1f2879",
-          "title": "OpenAI says it accidentally hacked Hugging Face with a new AI system",
-          "source": "The Verge",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai",
-          "published_at_bjt": "2026-07-22T05:48:54+08:00",
+          "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+          "published_at_bjt": "2026-07-23T07:47:54+08:00",
           "authority_tier": 1
         }
       ]
