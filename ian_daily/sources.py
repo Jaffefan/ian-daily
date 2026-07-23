@@ -130,7 +130,21 @@ def discover_article_image(article: Article) -> str:
             follow_redirects=True,
         )
         response.raise_for_status()
-        return _meta_image(response.text, str(response.url))
+        discovered = _meta_image(response.text, str(response.url))
+        if discovered:
+            return discovered
+        jina = httpx.get(
+            f"https://r.jina.ai/{article.url}",
+            headers={"User-Agent": USER_AGENT},
+            timeout=30,
+            follow_redirects=True,
+        )
+        if jina.status_code == 200:
+            for candidate in re.findall(r"!\[[^\]]*\]\((https?://[^)\s]+)", jina.text):
+                lowered = candidate.lower()
+                if not any(token in lowered for token in ("logo", "icon", "avatar", "sprite", "qrcode", "qr-code")):
+                    return html.unescape(candidate)
+        return ""
     except Exception:
         return ""
 
