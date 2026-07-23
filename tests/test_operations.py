@@ -71,6 +71,12 @@ class CalibrationAndImageTests(unittest.TestCase):
         markup = '<meta content="/media/cover.jpg" property="og:image">'
         self.assertEqual("https://news.example/media/cover.jpg", _meta_image(markup, "https://news.example/story/1"))
 
+    def test_google_placeholder_is_not_treated_as_source_image(self):
+        from ian_daily.images import _usable_source_url
+
+        self.assertFalse(_usable_source_url("https://lh3.googleusercontent.com/placeholder=s0-w300"))
+        self.assertTrue(_usable_source_url("https://publisher.example/images/story.jpg"))
+
     def test_each_category_has_ten_fixed_calibration_cases(self):
         self.assertEqual({"tech": 10, "education": 10, "sports": 10}, {key: len(value) for key, value in CALIBRATION_CASES.items()})
         self.assertTrue(all(item["minimum_score"] == 4 for item in calibration_status().values()))

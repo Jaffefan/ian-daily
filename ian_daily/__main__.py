@@ -32,6 +32,7 @@ def parser() -> argparse.ArgumentParser:
     review.add_argument("--port", type=int, default=5211)
     review.add_argument("--token", default="")
     commands.add_parser("build-site", help="重新构建静态站")
+    commands.add_parser("backfill-images", help="重新抓取历史节目中的本地占位题图")
     prepare = commands.add_parser("prepare-release", help="构建待发布 Pages 产物")
     prepare.add_argument("--date")
     prepare.add_argument("--rebuild", action="store_true", help="重建当天已发布页面但不重复通知")
@@ -70,6 +71,11 @@ def main(argv: list[str] | None = None) -> int:
         elif args.command == "review":
             run_review_server(args.host, args.port, args.token)
         elif args.command == "build-site":
+            print(build_site())
+        elif args.command == "backfill-images":
+            import json
+            from .images import backfill_story_images
+            print(json.dumps(backfill_story_images(), ensure_ascii=False, indent=2))
             print(build_site())
         elif args.command == "prepare-release":
             print("待发布：", ", ".join(prepare_release(args.date, rebuild=args.rebuild)) or "无")

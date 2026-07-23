@@ -112,6 +112,51 @@ def discover_article_image(article: Article) -> str:
         return ""
 
 
+def discover_article_images(article: Article, limit: int = 6) -> list[tuple[str, str, str]]:
+    """Return image URL, credit and referer candidates for a story."""
+    candidates: list[tuple[str, str, str]] = []
+    direct = discover_article_image(article)
+    if direct:
+        candidates.append((direct, article.source, article.url))
+
+    try:
+        from ddgs import DDGS
+
+        results = DDGS().news(article.title, max_results=limit)
+        for item in results:
+            page_url = canonical_url(item.get("url", ""))
+            if not page_url:
+                continue
+            credit = item.get("source") or urlsplit(page_url).netloc
+            image_url = item.get("image") or ""
+            if image_url:
+                candidates.append((image_url, credit, page_url))
+            discovered = discover_article_image(Article(
+                id=article.id,
+                category=article.category,
+                title=item.get("title") or article.title,
+                summary="",
+                url=page_url,
+                source=credit,
+                published_at_bjt=article.published_at_bjt,
+                language=article.language,
+                region=article.region,
+                authority_tier=article.authority_tier,
+            ))
+            if discovered:
+                candidates.append((discovered, credit, page_url))
+    except Exception:
+        pass
+
+    unique: list[tuple[str, str, str]] = []
+    seen: set[str] = set()
+    for image_url, credit, referer in candidates:
+        if image_url and image_url not in seen:
+            seen.add(image_url)
+            unique.append((image_url, credit, referer))
+    return unique
+
+
 def fetch_feed(category: str, feed: Feed) -> list[Article]:
     try:
         import feedparser

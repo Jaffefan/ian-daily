@@ -104,22 +104,52 @@ def _fallback(article: Article, category: str, target: Path, salt: int = 0) -> N
     image.save(target, "WEBP", quality=84, method=6)
 
 
-def resolve_story_images(category: str, articles: list[Article], reading: ReadingEdition, episode_dir: Path) -> None:
-    from .sources import discover_article_image
+def _usable_source_url(url: str) -> bool:
+    return bool(
+        url.startswith(("http://", "https://"))
+        and "googleusercontent.com" not in url
+        and "gstatic.com" not in url
+    )
+
+
+def resolve_story_images(
+    category: str,
+    articles: list[Article],
+    reading: ReadingEdition,
+    episode_dir: Path,
+    only_story_ids: set[str] | None = None,
+) -> None:
+    from .sources import discover_article_images
 
     section_by_id = {section.story_id: section for section in reading.sections}
-    seen_hashes: list[str] = []
+    only_story_ids = only_story_ids or {article.id for article in articles}
+    seen_hashes = [
+        section.image_phash
+        for section in reading.sections
+        if section.story_id not in only_story_ids and section.image_phash
+    ]
     for article in articles:
+        if article.id not in only_story_ids:
+            continue
         section = section_by_id[article.id]
         filename = hashlib.sha256(article.id.encode("utf-8")).hexdigest()[:16] + ".webp"
         target = episode_dir / "images" / filename
         source_url = article.image_url if article.image_url.startswith(("http://", "https://")) else article.image_source_url
-        if not source_url:
-            source_url = discover_article_image(article)
-        credit = article.source if source_url else (article.image_credit or article.source)
+        candidates: list[tuple[str, str, str]] = []
+        if _usable_source_url(source_url):
+            candidates.append((source_url, article.source, article.url))
+        candidates.extend(discover_article_images(article))
+        downloaded = False
+        credit = article.image_credit or article.source
+        for candidate_url, candidate_credit, referer in candidates:
+            if _download(candidate_url, target, referer):
+                source_url = candidate_url
+                credit = candidate_credit
+                downloaded = True
+                break
         kind = "source"
         status = "downloaded"
-        if not _download(source_url, target, article.url):
+        if not downloaded:
             if _generate(article, category, target):
                 credit = "AI 生成 · 伊恩每日"
                 kind = "ai"
@@ -153,3 +183,38 @@ def resolve_story_images(category: str, articles: list[Article], reading: Readin
         section.image_source_url = source_url
         section.image_status = status
         section.image_phash = image_hash
+
+
+def backfill_story_images(store=None) -> dict[str, int]:
+    from .storage import EpisodeStore
+
+    store = store or EpisodeStore()
+    result = {"episodes": 0, "attempted": 0, "replaced": 0}
+    for bundle in store.list_bundles({"published"}):
+        fallback_ids = {
+            section.story_id
+            for section in bundle.reading.sections
+            if section.image_kind == "fallback"
+        }
+        if not fallback_ids:
+            continue
+        before = {
+            section.story_id: section.image_kind
+            for section in bundle.reading.sections
+            if section.story_id in fallback_ids
+        }
+        resolve_story_images(
+            bundle.category,
+            bundle.story_set.articles,
+            bundle.reading,
+            store.episode_dir(bundle.episode_id),
+            only_story_ids=fallback_ids,
+        )
+        store.save_bundle(bundle)
+        result["episodes"] += 1
+        result["attempted"] += len(fallback_ids)
+        result["replaced"] += sum(
+            before.get(section.story_id) == "fallback" and section.image_kind != "fallback"
+            for section in bundle.reading.sections
+        )
+    return result
