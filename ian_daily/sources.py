@@ -3,6 +3,7 @@ from __future__ import annotations
 import hashlib
 import html
 import re
+import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from html.parser import HTMLParser
@@ -112,9 +113,46 @@ def discover_article_image(article: Article) -> str:
         return ""
 
 
+def decode_google_news_url(url: str, attempts: int = 3) -> str:
+    if urlsplit(url).netloc.lower() != "news.google.com":
+        return url
+    try:
+        from googlenewsdecoder import new_decoderv1
+    except ImportError:
+        return ""
+    for attempt in range(attempts):
+        try:
+            result = new_decoderv1(url)
+            decoded = result.get("decoded_url", "") if result.get("status") else ""
+            if decoded.startswith(("http://", "https://")):
+                return canonical_url(decoded)
+        except Exception:
+            pass
+        if attempt + 1 < attempts:
+            time.sleep(1 + attempt)
+    return ""
+
+
 def discover_article_images(article: Article, limit: int = 6) -> list[tuple[str, str, str]]:
     """Return image URL, credit and referer candidates for a story."""
     candidates: list[tuple[str, str, str]] = []
+    decoded_url = decode_google_news_url(article.url)
+    if decoded_url and decoded_url != article.url:
+        decoded_article = Article(
+            id=article.id,
+            category=article.category,
+            title=article.title,
+            summary=article.summary,
+            url=decoded_url,
+            source=article.source,
+            published_at_bjt=article.published_at_bjt,
+            language=article.language,
+            region=article.region,
+            authority_tier=article.authority_tier,
+        )
+        decoded_image = discover_article_image(decoded_article)
+        if decoded_image:
+            candidates.append((decoded_image, article.source, decoded_url))
     direct = discover_article_image(article)
     if direct:
         candidates.append((direct, article.source, article.url))
