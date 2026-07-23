@@ -8,6 +8,7 @@ on:
       - "ian_daily/images.py"
       - "ian_daily/sources.py"
       - "ian_daily/site.py"
+      - "tools/capture_missing_images.py"
   schedule:
     - cron: "1 1 * * *"
     - cron: "11 1 * * *"
