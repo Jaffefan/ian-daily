@@ -88,6 +88,16 @@ class _ImageMetadataParser(HTMLParser):
                 self.candidates.append(values.get("content", ""))
         elif tag.lower() == "link" and "image_src" in values.get("rel", "").lower():
             self.candidates.append(values.get("href", ""))
+        elif tag.lower() == "img":
+            source = (
+                values.get("data-original")
+                or values.get("data-src")
+                or values.get("data-lazy-src")
+                or values.get("src")
+                or values.get("srcset", "").split(",")[0].strip().split(" ")[0]
+            )
+            if source:
+                self.candidates.append(source)
 
 
 def _meta_image(value: str, base_url: str = "") -> str:
@@ -98,7 +108,11 @@ def _meta_image(value: str, base_url: str = "") -> str:
         pass
     for candidate in parser.candidates:
         resolved = urljoin(base_url, html.unescape(candidate).strip())
-        if resolved.startswith(("http://", "https://")):
+        lowered = resolved.lower()
+        if (
+            resolved.startswith(("http://", "https://"))
+            and not any(token in lowered for token in ("logo", "icon", "avatar", "sprite", "qrcode", "qr-code"))
+        ):
             return resolved
     return ""
 
@@ -106,7 +120,15 @@ def _meta_image(value: str, base_url: str = "") -> str:
 def discover_article_image(article: Article) -> str:
     try:
         import httpx
-        response = httpx.get(article.url, headers={"User-Agent": USER_AGENT}, timeout=20, follow_redirects=True)
+        response = httpx.get(
+            article.url,
+            headers={
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/126 Safari/537.36",
+                "Accept": "text/html,application/xhtml+xml",
+            },
+            timeout=30,
+            follow_redirects=True,
+        )
         response.raise_for_status()
         return _meta_image(response.text, str(response.url))
     except Exception:

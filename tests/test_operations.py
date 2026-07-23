@@ -71,6 +71,10 @@ class CalibrationAndImageTests(unittest.TestCase):
         markup = '<meta content="/media/cover.jpg" property="og:image">'
         self.assertEqual("https://news.example/media/cover.jpg", _meta_image(markup, "https://news.example/story/1"))
 
+    def test_meta_image_reads_lazy_article_image(self):
+        markup = '<img src="/assets/logo.png"><img data-original="/uploads/story.webp">'
+        self.assertEqual("https://news.example/uploads/story.webp", _meta_image(markup, "https://news.example/story/1"))
+
     def test_google_placeholder_is_not_treated_as_source_image(self):
         from ian_daily.images import _usable_source_url
 
