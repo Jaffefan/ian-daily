@@ -1,10 +1,9 @@
 {
-  "at_bjt": "2026-07-23T08:15:31+08:00",
+  "at_bjt": "2026-07-23T09:07:33+08:00",
   "failures": {
-    "education": "图文章节过短：edc2243b5af7e735acbf",
-    "sports": "图文章节过短：fc8e1efcb559986dc595"
+    "tech": "播客内容过短：1983 字，至少需要 3800 字",
+    "education": "图文章节过短：9f8b3dfd28c1b015b2ca",
+    "sports": "播客内容过短：1855 字，至少需要 3800 字"
   },
-  "episodes": [
-    "2026-07-23-tech"
-  ]
+  "episodes": []
 }

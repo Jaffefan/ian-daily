@@ -2,28 +2,28 @@
   "date_bjt": "2026-07-23",
   "channels": {
     "tech": {
-      "attempts": 3,
+      "attempts": 4,
       "status": "failed",
       "stages": {
         "preflight": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-07-23T08:12:23+08:00"
+          "at_bjt": "2026-07-23T09:03:56+08:00"
         },
         "collection": {
           "status": "completed",
           "detail": "40 candidates",
-          "at_bjt": "2026-07-23T08:12:26+08:00"
+          "at_bjt": "2026-07-23T09:04:00+08:00"
         },
         "fact_pack": {
           "status": "completed",
           "detail": "5 stories",
-          "at_bjt": "2026-07-23T08:12:44+08:00"
+          "at_bjt": "2026-07-23T09:04:26+08:00"
         },
         "content_brief": {
           "status": "completed",
           "detail": "Qwen/Qwen3.5-4B",
-          "at_bjt": "2026-07-23T08:12:46+08:00"
+          "at_bjt": "2026-07-23T09:04:30+08:00"
         },
         "writing": {
           "status": "completed",
@@ -54,75 +54,78 @@
       "errors": [
         "播客内容过短：2490 字，当前事件量至少需要 2800 字；音频时长 8.4 分钟，不在当前事件量对应的 13—18 分钟范围内",
         "播客内容过短：2433 字，当前事件量至少需要 2800 字；音频时长 8.1 分钟，不在当前事件量对应的 13—18 分钟范围内",
-        "播客内容过短：2384 字，当前事件量至少需要 2800 字；音频时长 8.0 分钟，不在当前事件量对应的 13—18 分钟范围内"
+        "播客内容过短：2384 字，当前事件量至少需要 2800 字；音频时长 8.0 分钟，不在当前事件量对应的 13—18 分钟范围内",
+        "播客内容过短：1983 字，至少需要 3800 字"
       ],
       "episode_id": "2026-07-23-tech",
-      "updated_at_bjt": "2026-07-23T08:14:16+08:00"
+      "updated_at_bjt": "2026-07-23T09:05:32+08:00"
     },
     "education": {
-      "attempts": 3,
+      "attempts": 4,
       "status": "failed",
       "stages": {
         "preflight": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-07-23T08:14:16+08:00"
+          "at_bjt": "2026-07-23T09:05:32+08:00"
         },
         "collection": {
           "status": "completed",
           "detail": "80 candidates",
-          "at_bjt": "2026-07-23T08:14:18+08:00"
+          "at_bjt": "2026-07-23T09:05:34+08:00"
         },
         "fact_pack": {
           "status": "completed",
           "detail": "5 stories",
-          "at_bjt": "2026-07-23T08:14:23+08:00"
+          "at_bjt": "2026-07-23T09:05:42+08:00"
         },
         "content_brief": {
           "status": "completed",
           "detail": "Qwen/Qwen3.5-4B",
-          "at_bjt": "2026-07-23T08:14:23+08:00"
+          "at_bjt": "2026-07-23T09:05:43+08:00"
         }
       },
       "errors": [
         "图文章节过短：81f50936e2998bdba039",
-        "图文章节过短：edc2243b5af7e735acbf"
+        "图文章节过短：edc2243b5af7e735acbf",
+        "图文章节过短：9f8b3dfd28c1b015b2ca"
       ],
       "episode_id": "",
-      "updated_at_bjt": "2026-07-23T08:14:51+08:00"
+      "updated_at_bjt": "2026-07-23T09:06:13+08:00"
     },
     "sports": {
-      "attempts": 3,
+      "attempts": 4,
       "status": "failed",
       "stages": {
         "preflight": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-07-23T08:14:51+08:00"
+          "at_bjt": "2026-07-23T09:06:13+08:00"
         },
         "collection": {
           "status": "completed",
           "detail": "40 candidates",
-          "at_bjt": "2026-07-23T08:14:52+08:00"
+          "at_bjt": "2026-07-23T09:06:14+08:00"
         },
         "fact_pack": {
           "status": "completed",
           "detail": "5 stories",
-          "at_bjt": "2026-07-23T08:14:55+08:00"
+          "at_bjt": "2026-07-23T09:06:21+08:00"
         },
         "content_brief": {
           "status": "completed",
           "detail": "Qwen/Qwen3.5-4B",
-          "at_bjt": "2026-07-23T08:14:56+08:00"
+          "at_bjt": "2026-07-23T09:06:22+08:00"
         }
       },
       "errors": [
         "播客没有完整覆盖 ContentBrief 事件",
         "图文章节过短：c0b257436391d0f2abbf",
-        "图文章节过短：fc8e1efcb559986dc595"
+        "图文章节过短：fc8e1efcb559986dc595",
+        "播客内容过短：1855 字，至少需要 3800 字"
       ],
       "episode_id": "",
-      "updated_at_bjt": "2026-07-23T08:15:31+08:00"
+      "updated_at_bjt": "2026-07-23T09:07:33+08:00"
     }
   },
   "notifications": {
@@ -131,5 +134,5 @@
     "generation:tech": "2026-07-23T07:38:25+08:00"
   },
   "release": {},
-  "updated_at_bjt": "2026-07-23T08:15:31+08:00"
+  "updated_at_bjt": "2026-07-23T09:07:33+08:00"
 }
