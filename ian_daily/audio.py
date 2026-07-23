@@ -192,6 +192,21 @@ async def _render_provider(podcast: PodcastEpisode, category: str, root: Path, p
             if index < len(podcast.blocks) - 1:
                 output.writeframes(b"\x00\x00" * pause_frames)
                 cursor_frames += pause_frames
+    raw_duration = cursor_frames / sample_rate
+    if raw_duration > 1080:
+        target_duration = 1075.0
+        tempo = raw_duration / target_duration
+        normalized = master.with_name(".master-normalized.wav")
+        subprocess.run(
+            [_ffmpeg(), "-y", "-i", str(master), "-filter:a", f"atempo={tempo:.6f}", "-ar", str(sample_rate), "-ac", "1", "-c:a", "pcm_s16le", str(normalized)],
+            capture_output=True, text=True, timeout=900, check=True,
+        )
+        normalized.replace(master)
+        for block in podcast.blocks:
+            block.start_sec = round(block.start_sec / tempo, 3)
+            block.duration_sec = round(block.duration_sec / tempo, 3)
+        for chapter in chapters:
+            chapter.start_sec = round(chapter.start_sec / tempo, 3)
     full = root.parent / "episode.mp3"
     subprocess.run([_ffmpeg(), "-y", "-i", str(master), "-c:a", "libmp3lame", "-b:a", "96k", str(full)], capture_output=True, text=True, timeout=900, check=True)
     podcast.chapters = chapters

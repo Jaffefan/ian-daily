@@ -1,16 +1,14 @@
 {
   "episode_id": "2026-07-23-education",
-  "publishable": false,
+  "publishable": true,
   "story_count": 5,
   "source_count": 9,
   "domestic_count": 3,
   "reading_chars": 2660,
   "podcast_chars": 5120,
-  "audio_duration_sec": 1118.0,
+  "audio_duration_sec": 1074.9,
   "fact_alignment": 1.0,
   "text_overlap": 0.003,
-  "errors": [
-    "音频时长 18.6 分钟，不在当前事件量对应的 13—18 分钟范围内"
-  ],
+  "errors": [],
   "warnings": []
 }
