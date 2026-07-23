@@ -113,6 +113,25 @@ def generate_reading(category: str, selected: list[Article], packs: list[FactPac
             "repair": f"上一版以下章节缺失或不足350字：{','.join(invalid)}。保留事实边界，完整返回全部章节；每章至少450字。",
             "previous_draft": data,
         }, 6200, 0.35)
+    raw_by_id = {str(item.get("story_id")): item for item in data.get("sections", [])}
+    for pack in packs:
+        raw = raw_by_id.get(pack.story_id, {})
+        current = str(raw.get("body") or "").strip()
+        if _text_length(current) >= 350:
+            continue
+        repaired = _writer(category, "reading_section_repair", brief, {
+            "edition": "只修复一个公众号图文章节",
+            "story_id": pack.story_id,
+            "headline": pack.headline,
+            "current_body": current,
+            "requirements": "仅依据对应ContentBrief，将本章完整写成500至650中文字；必须包含背景、变化、机制、普通人影响和行动建议，不输出其他章节。",
+            "output": "story_id,title,dek,body,takeaway",
+        }, 1800, 0.35)
+        candidate = str(repaired.get("body") or "").strip()
+        if _text_length(candidate) > _text_length(current):
+            repaired["story_id"] = pack.story_id
+            raw_by_id[pack.story_id] = repaired
+    data["sections"] = [raw_by_id[pack.story_id] for pack in packs if pack.story_id in raw_by_id]
     article_by_id = {item.id: item for item in selected}
     pack_by_id = {item.story_id: item for item in packs}
     raw_by_id = {str(item.get("story_id")): item for item in data.get("sections", [])}
@@ -174,9 +193,50 @@ def generate_podcast(category: str, packs: list[FactPack], brief: ContentBrief |
             "previous_draft": data,
         }, 7600, 0.45)
         blocks = parse_blocks(data)
+    by_story = {block.story_id: block for block in blocks if block.role == "story" and block.story_id}
+    for pack in packs:
+        block = by_story.get(pack.story_id)
+        current = block.text if block else ""
+        if _text_length(current) >= 680:
+            continue
+        repaired = _writer(category, "podcast_story_repair", brief, {
+            "edition": "只创作一个播客事件块",
+            "story_id": pack.story_id,
+            "headline": pack.headline,
+            "current_text": current,
+            "requirements": "仅依据对应ContentBrief，写成700至850中文字的声音叙事；先讲事实，再解释机制、代价、普通人影响和判断；不得复述其他事件。",
+            "output": "story_id,text",
+        }, 2200, 0.45)
+        candidate = str(repaired.get("text") or "").strip()
+        if not candidate:
+            continue
+        if block:
+            block.text = candidate if _text_length(candidate) >= _text_length(current) else current
+        else:
+            block = AudioBlock(f"story-{pack.story_id}", "ian", "story", candidate, pack.story_id)
+            closing_index = next((index for index, item in enumerate(blocks) if item.role in {"synthesis", "closing"}), len(blocks))
+            blocks.insert(closing_index, block)
+        by_story[pack.story_id] = block
     if {block.story_id for block in blocks if block.role == "story" and block.story_id} != story_ids:
         raise ValueError("播客没有完整覆盖 ContentBrief 事件")
     final_chars = sum(_text_length(block.text) for block in blocks)
+    if final_chars < minimum_chars:
+        needed = minimum_chars - final_chars + 250
+        repaired = _writer(category, "podcast_synthesis_repair", brief, {
+            "edition": "播客跨事件主题复盘补充",
+            "current_synthesis": "\n".join(block.text for block in blocks if block.role == "synthesis"),
+            "requirements": f"仅依据ContentBrief补充约{needed}中文字，连接全部事件的共同主题、分歧和普通人行动建议；不要重写开场或逐条新闻。",
+            "output": "text",
+        }, 1800, 0.35)
+        extension = str(repaired.get("text") or "").strip()
+        synthesis = next((block for block in blocks if block.role == "synthesis"), None)
+        if extension:
+            if synthesis:
+                synthesis.text = (synthesis.text.rstrip() + "\n" + extension).strip()
+            else:
+                closing_index = next((index for index, item in enumerate(blocks) if item.role == "closing"), len(blocks))
+                blocks.insert(closing_index, AudioBlock("synthesis-repair", "ian", "synthesis", extension))
+        final_chars = sum(_text_length(block.text) for block in blocks)
     if final_chars < minimum_chars:
         raise ValueError(f"播客内容过短：{final_chars} 字，至少需要 {minimum_chars} 字")
     return PodcastEpisode(str(data.get("title") or f"伊恩每日·{config.CATEGORIES[category].name}").strip(), str(data.get("description") or "").strip(), blocks)
