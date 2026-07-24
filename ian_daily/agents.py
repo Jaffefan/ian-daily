@@ -20,6 +20,39 @@ def _text_length(text: str) -> int:
     return len(re.sub(r"\s+", "", text or ""))
 
 
+def _limit_listener_exchanges(blocks: list[AudioBlock], maximum: int = 3) -> list[AudioBlock]:
+    result: list[AudioBlock] = []
+    listener_count = 0
+    drop_following_answer = False
+    for block in blocks:
+        if block.speaker == "listener":
+            listener_count += 1
+            if listener_count > maximum:
+                drop_following_answer = True
+                continue
+        if drop_following_answer and block.role == "answer":
+            drop_following_answer = False
+            continue
+        drop_following_answer = False
+        result.append(block)
+    return result
+
+
+def _usable_fact(value: str) -> bool:
+    lowered = value.lower()
+    rejected = (
+        "window.wiz_global_data",
+        "url source:",
+        "published time:",
+        "blob:http",
+        "javascript:void",
+        "skip to content",
+        "homepage]",
+        "打开新浪新闻",
+    )
+    return len(value.strip()) >= 20 and not any(marker in lowered for marker in rejected)
+
+
 def build_fact_packs(selected: list[Article], all_candidates: list[Article], corroboration_by_story: dict[str, list[Article]] | None = None) -> list[FactPack]:
     packs: list[FactPack] = []
     corroboration_by_story = corroboration_by_story or {}
@@ -35,11 +68,17 @@ def build_fact_packs(selected: list[Article], all_candidates: list[Article], cor
             if len(sources) >= 4:
                 break
         body = article.full_body or article.summary
-        facts = [part.strip() for part in re.split(r"\n+|(?<=[。！？!?])\s+", body) if len(part.strip()) >= 20]
+        facts = [
+            part.strip()
+            for part in re.split(r"\n+|(?<=[。！？!?])\s+", body)
+            if _usable_fact(part)
+        ]
+        fallback_fact = article.summary if _usable_fact(article.summary) else article.title
+        extraction_failed = bool(article.full_body and not facts)
         packs.append(FactPack(
-            article.id, article.title, [item[:500] for item in (facts[:8] or [article.summary or article.title])],
+            article.id, article.title, [item[:500] for item in (facts[:8] or [fallback_fact])],
             [SourceRef(item.id, item.title, item.source, item.url, item.published_at_bjt, item.authority_tier) for item in sources],
-            [] if article.full_body else ["未取得完整正文，只能使用来源摘要"], article.community_signals[:2],
+            [] if article.full_body and not extraction_failed else ["未取得有效正文，只能使用来源摘要或标题"], article.community_signals[:2],
         ))
     return packs
 
@@ -193,6 +232,7 @@ def generate_podcast(category: str, packs: list[FactPack], brief: ContentBrief |
             "previous_draft": data,
         }, 7600, 0.45)
         blocks = parse_blocks(data)
+    blocks = _limit_listener_exchanges(blocks)
     by_story = {block.story_id: block for block in blocks if block.role == "story" and block.story_id}
     for pack in packs:
         block = by_story.get(pack.story_id)
@@ -236,6 +276,23 @@ def generate_podcast(category: str, packs: list[FactPack], brief: ContentBrief |
             else:
                 closing_index = next((index for index, item in enumerate(blocks) if item.role == "closing"), len(blocks))
                 blocks.insert(closing_index, AudioBlock("synthesis-repair", "ian", "synthesis", extension))
+        final_chars = sum(_text_length(block.text) for block in blocks)
+    if final_chars < minimum_chars:
+        needed = minimum_chars - final_chars + 180
+        repaired = _writer(category, "podcast_synthesis_repair_final", brief, {
+            "edition": "播客跨事件主题复盘最终补足",
+            "current_synthesis": "\n".join(block.text for block in blocks if block.role == "synthesis"),
+            "requirements": f"仅依据ContentBrief新增至少{needed}中文字；讨论全部事件之间的联系、差异、后续观察和普通人行动，不重复开场，不新增事实。",
+            "output": "text",
+        }, 2200, 0.25)
+        extension = str(repaired.get("text") or "").strip()
+        synthesis = next((block for block in blocks if block.role == "synthesis"), None)
+        if extension:
+            if synthesis:
+                synthesis.text = (synthesis.text.rstrip() + "\n" + extension).strip()
+            else:
+                closing_index = next((index for index, item in enumerate(blocks) if item.role == "closing"), len(blocks))
+                blocks.insert(closing_index, AudioBlock("synthesis-repair-final", "ian", "synthesis", extension))
         final_chars = sum(_text_length(block.text) for block in blocks)
     if final_chars < minimum_chars:
         raise ValueError(f"播客内容过短：{final_chars} 字，至少需要 {minimum_chars} 字")

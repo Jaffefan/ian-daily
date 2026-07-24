@@ -13,7 +13,7 @@ from ian_daily.models import Article, AudioBlock, Chapter, DailyStorySet, Episod
 from ian_daily.quality import evaluate_bundle
 from ian_daily.selection import select_articles
 from ian_daily.audio import _render_provider, generate_podcast_audio_async
-from ian_daily.agents import _remove_residual_numeric_precision, audit_editions, build_content_brief, build_fact_packs, generate_podcast, generate_reading
+from ian_daily.agents import _limit_listener_exchanges, _remove_residual_numeric_precision, _usable_fact, audit_editions, build_content_brief, build_fact_packs, generate_podcast, generate_reading
 from ian_daily.images import resolve_story_images
 from ian_daily.publisher import finalize_release, notify_generation_failures, prepare_release
 from ian_daily.site import build_site
@@ -27,6 +27,11 @@ def article(index: int, region: str, category: str = "education") -> Article:
 
 
 class SelectionTests(unittest.TestCase):
+    def test_google_shell_and_reader_metadata_are_not_facts(self):
+        self.assertFalse(_usable_fact('window.WIZ_global_data = {"AfY8Hf": false}'))
+        self.assertFalse(_usable_fact("URL Source: https://news.google.com/example"))
+        self.assertTrue(_usable_fact("球队在第四节调整防守策略，并通过连续反击扭转了比赛走势。"))
+
     def test_domestic_global_target(self):
         items = [article(i, "domestic") for i in range(3)] + [article(i + 10, "global") for i in range(2)]
         selected = select_articles(items, "education")
@@ -67,6 +72,21 @@ class SelectionTests(unittest.TestCase):
 
 
 class QualityTests(unittest.TestCase):
+    def test_extra_listener_exchanges_are_removed_with_their_answers(self):
+        blocks = [AudioBlock("opening", "ian", "opening", "开场")]
+        for index in range(5):
+            blocks.extend((
+                AudioBlock(f"q{index}", "listener", "question", f"问题{index}"),
+                AudioBlock(f"a{index}", "ian", "answer", f"回答{index}"),
+            ))
+        blocks.append(AudioBlock("closing", "ian", "closing", "结尾"))
+
+        normalized = _limit_listener_exchanges(blocks)
+
+        self.assertEqual(3, sum(block.speaker == "listener" for block in normalized))
+        self.assertNotIn("a3", {block.block_id for block in normalized})
+        self.assertNotIn("a4", {block.block_id for block in normalized})
+
     def test_single_story_short_episode_can_publish(self):
         item = article(1, "domestic")
         ref = SourceRef(item.id, item.title, item.source, item.url, item.published_at_bjt, 1)

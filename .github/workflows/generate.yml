@@ -1,5 +1,12 @@
 name: Generate daily editions
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - "ian_daily/agents.py"
+      - "ian_daily/sources.py"
+      - "ian_daily/selection.py"
   schedule:
     - cron: "30 22 * * *"
     - cron: "50 22 * * *"
