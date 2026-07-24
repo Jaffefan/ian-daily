@@ -110,53 +110,53 @@
       "updated_at_bjt": "2026-07-24T07:38:13+08:00"
     },
     "sports": {
-      "attempts": 2,
-      "status": "failed",
+      "attempts": 3,
+      "status": "quality_passed",
       "stages": {
         "preflight": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-07-24T08:09:42+08:00"
+          "at_bjt": "2026-07-24T09:04:00+08:00"
         },
         "collection": {
           "status": "completed",
           "detail": "40 candidates",
-          "at_bjt": "2026-07-24T08:09:43+08:00"
+          "at_bjt": "2026-07-24T09:04:02+08:00"
         },
         "fact_pack": {
           "status": "completed",
           "detail": "5 stories",
-          "at_bjt": "2026-07-24T08:09:49+08:00"
+          "at_bjt": "2026-07-24T09:04:46+08:00"
         },
         "content_brief": {
           "status": "completed",
           "detail": "Qwen/Qwen3.5-4B",
-          "at_bjt": "2026-07-24T08:09:52+08:00"
+          "at_bjt": "2026-07-24T09:04:49+08:00"
         },
         "writing": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-07-24T07:40:38+08:00"
+          "at_bjt": "2026-07-24T09:06:29+08:00"
         },
         "images": {
           "status": "completed",
           "detail": "source",
-          "at_bjt": "2026-07-24T07:40:46+08:00"
+          "at_bjt": "2026-07-24T09:06:41+08:00"
         },
         "audit": {
           "status": "completed",
           "detail": "",
-          "at_bjt": "2026-07-24T07:40:48+08:00"
+          "at_bjt": "2026-07-24T09:06:42+08:00"
         },
         "tts": {
           "status": "completed",
           "detail": "edge",
-          "at_bjt": "2026-07-24T07:41:58+08:00"
+          "at_bjt": "2026-07-24T09:07:45+08:00"
         },
         "quality": {
-          "status": "failed",
-          "detail": "听众提问应为 2—3 次，当前 5 次",
-          "at_bjt": "2026-07-24T07:41:58+08:00"
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-24T09:07:45+08:00"
         }
       },
       "errors": [
@@ -164,12 +164,12 @@
         "播客内容过短：3500 字，至少需要 3800 字"
       ],
       "episode_id": "2026-07-24-sports",
-      "updated_at_bjt": "2026-07-24T08:11:28+08:00"
+      "updated_at_bjt": "2026-07-24T09:07:45+08:00"
     }
   },
   "notifications": {
     "generation:sports": "2026-07-24T07:42:01+08:00"
   },
   "release": {},
-  "updated_at_bjt": "2026-07-24T08:11:28+08:00"
+  "updated_at_bjt": "2026-07-24T09:07:45+08:00"
 }
