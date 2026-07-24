@@ -816,9 +816,9 @@
       0.4073
     ]
   },
-  "status": "failed",
+  "status": "generated",
   "created_at_bjt": "2026-07-24T07:40:38+08:00",
-  "updated_at_bjt": "2026-07-24T07:41:58+08:00",
+  "updated_at_bjt": "2026-07-24T08:09:42+08:00",
   "published_at_bjt": "",
   "feishu_notified_at_bjt": ""
 }
