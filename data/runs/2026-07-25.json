@@ -1,0 +1,170 @@
+{
+  "date_bjt": "2026-07-25",
+  "channels": {
+    "tech": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-25T07:35:45+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-07-25T07:35:49+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-25T07:35:54+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-25T07:35:57+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-25T07:37:57+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "source",
+          "at_bjt": "2026-07-25T07:37:58+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-25T07:38:00+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-25T07:39:03+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-25T07:39:03+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-07-25-tech",
+      "updated_at_bjt": "2026-07-25T07:39:03+08:00"
+    },
+    "education": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-25T07:39:03+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "80 candidates",
+          "at_bjt": "2026-07-25T07:39:06+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-25T07:39:11+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-25T07:39:13+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-25T07:41:05+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "fallback, source",
+          "at_bjt": "2026-07-25T07:41:36+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-25T07:41:37+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-25T07:42:50+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-25T07:42:50+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-07-25-education",
+      "updated_at_bjt": "2026-07-25T07:42:50+08:00"
+    },
+    "sports": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-25T07:42:50+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-07-25T07:42:51+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-25T07:43:07+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-25T07:43:08+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-25T07:44:49+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "source",
+          "at_bjt": "2026-07-25T07:45:00+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-25T07:45:01+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-25T07:45:59+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-25T07:45:59+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-07-25-sports",
+      "updated_at_bjt": "2026-07-25T07:45:59+08:00"
+    }
+  },
+  "notifications": {},
+  "release": {},
+  "updated_at_bjt": "2026-07-25T07:45:59+08:00"
+}

@@ -1,0 +1,968 @@
+{
+  "episode_id": "2026-07-25-tech",
+  "schema_version": 4,
+  "category": "tech",
+  "category_name": "科技",
+  "date_bjt": "2026-07-25",
+  "story_set": {
+    "category": "tech",
+    "date_bjt": "2026-07-25",
+    "articles": [
+      {
+        "id": "3bb8adb55bc1de7eeac8",
+        "category": "tech",
+        "title": "Midjourney bought the astrology app Co-Star",
+        "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-25T03:06:58+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Midjourney bought the astrology app Co-Star\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition\n\nPublished Time: 2026-07-24T19:06:58+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970894%2Fmidjourney-co-star-acquisition)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970894%2Fmidjourney-co-star-acquisition) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970894%2Fmidjourney-co-star-acquisition)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nMidjourney bought the astrology app Co-Star\n\n[5](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   News News \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All News](https://www.theverge.com/news)  \n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n\n# Midjourney bought the astrology app Co-Star\n\nCo-Star’s founder has joined Midjourney to help build the AI startup’s first apps.\n\nCo-Star’s founder has joined Midjourney to help build the AI startup’s first apps.\n\nby Emma Roth\n\n![Image 3: Emma Roth](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nEmma Roth\n\nNews Writer\n\n",
+        "image_url": "images/b52d4bb602bb8358.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "c3c3c7c383416071",
+        "community_signals": []
+      },
+      {
+        "id": "24e986a8ed3daf1f65a9",
+        "category": "tech",
+        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-25T01:00:00+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release\n\nPublished Time: 2026-07-24T17:00:00+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970105%2Fclaude-opus-5-announced-anthropic-ai-model-release)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970105%2Fclaude-opus-5-announced-anthropic-ai-model-release) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970105%2Fclaude-opus-5-announced-anthropic-ai-model-release)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nAnthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities\n\n[10](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Anthropic Anthropic \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Anthropic](https://www.theverge.com/anthropic)  \n\n# Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities\n\nAfter the government’s cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model.\n\nAfter the government’s cybersecurity concerns, the company gave this model more cyber safeguards than the previous Opus model.\n\nby Hayden Field\n\n![Image 2: Hayden Field](https://platform.theverge.com/wp-content/uploa",
+        "image_url": "images/6ebb539901cb9be7.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "105cff83c3bd9010",
+        "community_signals": []
+      },
+      {
+        "id": "1cd53c40ebbafb629e85",
+        "category": "tech",
+        "title": "The tech-broification of American science has officially begun",
+        "summary": "The Trump administration unveiled the first \"Genesis Mission\" grants on Thursday, directing $5 billion toward hundreds of AI-driven science projects in an effort the White House has described as \"comparable in urgency and ambition to the Manhattan Project.\" At roughly the same time, Trump's science adviser Michael Kratsios was on Capitol Hill selling lawmakers on […]",
+        "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-24T22:43:55+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: The tech-broification of American science has officially begun\n\nURL Source: https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants\n\nPublished Time: 2026-07-24T14:43:55+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F970534%2Fgenesis-mission-ai-science-funding-trump-grants)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F970534%2Fgenesis-mission-ai-science-funding-trump-grants) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F970534%2Fgenesis-mission-ai-science-funding-trump-grants)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nThe tech-broification of American science has officially begun\n\n[23](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants#comments)\n\nComments Drawer\n\nComments\n\n*   Science Science \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Science](https://www.theverge.com/science)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Policy Policy \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Policy](https://www.theverge.com/policy)  \n\n# The tech-broification of American science has officially begun\n\nTrump’s ‘Golden Age’ of American science starts with dismantling it, while funneling billions into AI.\n\nby Robert Hart\n\n![Image 3: Robert Hart](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ROB_H_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nRobert Hart\n\nAI Reporter\n\nPosts from this au",
+        "image_url": "images/7d49bd08220a8146.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "18f1f2f2f8f1d198",
+        "community_signals": []
+      },
+      {
+        "id": "31e62424f11d6bde1903",
+        "category": "tech",
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "summary": "Meta is upgrading its AI chatbot with new productivity features in a bid to compete with rivals like Gemini, ChatGPT, and Claude. The update will allow Meta AI to tap into your calendar to help you plan events and generate daily briefings, as well as perform in-depth research that you can steer as it progresses. […]",
+        "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-25T01:00:00+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Meta is making its AI chatbot more like an assistant\n\nURL Source: https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update\n\nPublished Time: 2026-07-24T17:00:00+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F970570%2Fmeta-ai-chatbot-productivity-update)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F970570%2Fmeta-ai-chatbot-productivity-update) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F970570%2Fmeta-ai-chatbot-productivity-update)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nMeta is making its AI chatbot more like an assistant\n\n[6](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update#comments)\n\nComments Drawer\n\nComments\n\n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   News News \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All News](https://www.theverge.com/news)  \n\n# Meta is making its AI chatbot more like an assistant\n\nThe latest Meta AI update allows it to pull from your calendar to generate daily briefings.\n\nThe latest Meta AI update allows it to pull from your calendar to generate daily briefings.\n\nby Emma Roth\n\n![Image 2: Emma Roth](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nEmma Roth\n\nNews Writer\n\nPosts from this author will be added to your daily email ",
+        "image_url": "images/3d480a57456e9426.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "c3c3c3c3c3e3ffff",
+        "community_signals": []
+      },
+      {
+        "id": "ed22f67239e1b9887821",
+        "category": "tech",
+        "title": "You can’t ignore Google Zero anymore",
+        "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the […]",
+        "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-25T01:29:48+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: You can’t ignore Google Zero anymore\n\nURL Source: https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast\n\nPublished Time: 2026-07-24T17:29:48+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fpodcast%2F970735%2Fgoogle-zero-reddit-ai-publishers-vergecast)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fpodcast%2F970735%2Fgoogle-zero-reddit-ai-publishers-vergecast) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fpodcast%2F970735%2Fgoogle-zero-reddit-ai-publishers-vergecast)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nYou can’t ignore Google Zero anymore\n\n[4](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast#comments)\n\nComments Drawer\n\nComments\n\n*   Podcasts Podcasts \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Podcasts](https://www.theverge.com/podcast)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Gadgets Gadgets \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Gadgets](https://www.theverge.com/gadgets)  \n\n# You can’t ignore Google Zero anymore\n\nOn The Vergecast: Google vs. websites, OpenAI vs. Hugging Face, and Ford’s deal with Apple Maps.\n\nOn The Vergecast: Google vs. websites, OpenAI vs. Hugging Face, and Ford’s deal with Apple Maps.\n\nby David Pierce\n\n![Image 3: David Pierce](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nDavid Pierce\n\nEditor-at",
+        "image_url": "images/2da25ce947759ac6.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "ff87e67e3d89c3c3",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "3bb8adb55bc1de7eeac8",
+        "headline": "Midjourney bought the astrology app Co-Star",
+        "facts": [
+          "Title: Midjourney bought the astrology app Co-Star",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970894%2Fmidjourney-co-star-acquisition)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "3bb8adb55bc1de7eeac8",
+            "title": "Midjourney bought the astrology app Co-Star",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+            "published_at_bjt": "2026-07-25T03:06:58+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "188e29d54c4af3ec3dd9",
+            "title": "Midjourney acquired the astrology app Co-Star - TechCrunch",
+            "source": "TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSy1KQ2s1OWdRT3FsVjZHOWpGS1hHVW9xZU9TZnBxMV9UMTljQUhzbnppbkRTNEpfc1dGX2ZYTGF2V3REenpOV3V6ZXFvMXpsUkh0blE2Tkw2NHBYbVRFaFkxTnB1a2VoNTI0RkpDejNUZHVQcWNROGhmd29kQ2tBOC0xNWhDT3c",
+            "published_at_bjt": "2026-07-24T23:09:55+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "9271b9eb572dda233ded",
+            "title": "Midjourney acquires social astrology app Co-Star - 디지털투데이",
+            "source": "디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0VMX2o3c2ZvdTRGM1dac1ZDVU5pdWVKTG1lQjNubU9iWWxIRFdSam81Z0wtS2tzSDJhN19KeGJMbnhiOUY4WGJhTWU4MGpyQjJQYmtYTzB5YWx1OXp5VEl2UzJ6d0tHaS05RnFHZmExMnZDS1RZYTlwa0luMEhRT3JlZ3N3My04T3Jpck1nWHhCZTZ3cUN6Wg",
+            "published_at_bjt": "2026-07-25T06:17:18+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "cbc40b0da44d92945b4e",
+            "title": "Midjourney Acquires Astrology App Co-Star in Surprise Move - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW9maVF3bVNzSXItd0ppd1NRZVNyaXhEMWU5Rl8zZ1VicUlWakxTQUIwd2JYN0p0a2x4ZDFySmNGYlR0c0pyaW1ISVNKUlBUblJ1QUloeTdMa29yUTZPZzBfendsVXJSb2tWbVRBREdZNDhZdUNqandqam53bFo3eTh6R1dQUFZqSXRqZFRuUDkwVnhBbmc",
+            "published_at_bjt": "2026-07-24T23:51:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "24e986a8ed3daf1f65a9",
+        "headline": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "facts": [
+          "Title: Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F970105%2Fclaude-opus-5-announced-anthropic-ai-model-release)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "24e986a8ed3daf1f65a9",
+            "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "published_at_bjt": "2026-07-25T01:00:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "6a59db1f7e34354ae26d",
+            "title": "Anthropic Releases Opus 5 With Capabilities Close to Fable 5 - Gadget Review",
+            "source": "Gadget Review",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmxwRmd1d2lXYnFkZHlxek0tTHZWMGk4NXV6dTY0d1Qzd045TGprLTZfc0tRWTBhN0RuRGdORHdoOE1XcVlCTFBtUllobzdsMWlEQkpfVWxDMDF6SXViaTJabnlabFVuT1pzY1kyc1ZCNUJ5VUdjM1VxeHZ4RVVubGJVQnVjWjIxajB4OVg5WFJwRVU",
+            "published_at_bjt": "2026-07-25T02:37:32+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "81305b8f7ee4763d0c73",
+            "title": "Opus 5 Out: Anthropic Launches Latest AI Model That Nearly Matches Fable 5 Capabilities - NDTV Profit",
+            "source": "NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMExtaWNuRGoyVDVrbnQ4OENyUmZmTHA3V2szQmpVX3FrWWFYRzlraEREaDV4dG1xVFd4VnAyeEJac3ZWVmNWQlBNSjE0NG5lR2ZNdkR4ZkV2elZTRDRCNldwYXdBd0NpZzJLVk1mb0ZhakpWMngzaVpCaWJJSnkzSUZiSXJEeWZRVjhRbmF4T05yZDg5SGktSUMxR0ZuZDRIcnh5UHdVOFBUX2phZWxzZ1JDdzdqb2dGekZiZ05hUUFkb3g2UW9ZQllmbERWQdIB1gFBVV95cUxQRmtzRmpZRzN2ZnlLU3FUN2VSTGtybnNHa2dJMVlmVnBKdzhOQ3czai00QUpEbktmaE50WHpteVFBMEY0alJwMUFtYmdrdDVnc2tpX1RRZGx0WElBZGdkZE1XT2E1TEUtaEo5Y0pCeVVXZ1B0eE13VldDVmsyYUJpZlhLV1g1WnpZN0QxOWN1SzdxMTVuSHNuNlFCQ184TUhTVl9BbGIwSy1yUFl0Mm5pWjlCNXIyTV81MEpRQndtM0pldFBPZ3Q4UnVKQjFocTZiV0c1N2tR",
+            "published_at_bjt": "2026-07-25T01:25:30+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "f612780998410f2a0d23",
+            "title": "Anthropic Releases Claude Opus 5 to Be Your New ‘Everyday’ Assistant - CNET",
+            "source": "CNET",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWlScjdHNGdJTFRlRDdUOV9xa1JSdjdCT0VCZTlOcklNbEpmYUdrcXB5eVpuSE5NX2dBd0FCeGhJY3A4SkZDdDZVNmdyY3ltVTl0ckpGMHBZR3FLU0ZoX3JCUXdXZnJCME81SzN0VThLbTBsS2w3OTB5TzlPQ1FwYWUxXzVXajBWYjhMaEZvSDNoNTVzUWl0M1hPenYyMVVmOElaaG52bi03Ym16SlY3YlhBMThmUQ",
+            "published_at_bjt": "2026-07-25T01:00:28+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "1cd53c40ebbafb629e85",
+        "headline": "The tech-broification of American science has officially begun",
+        "facts": [
+          "Title: The tech-broification of American science has officially begun",
+          "[Skip to main content](https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F970534%2Fgenesis-mission-ai-science-funding-trump-grants)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "1cd53c40ebbafb629e85",
+            "title": "The tech-broification of American science has officially begun",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+            "published_at_bjt": "2026-07-24T22:43:55+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "cbc40b0da44d92945b4e",
+            "title": "Midjourney Acquires Astrology App Co-Star in Surprise Move - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW9maVF3bVNzSXItd0ppd1NRZVNyaXhEMWU5Rl8zZ1VicUlWakxTQUIwd2JYN0p0a2x4ZDFySmNGYlR0c0pyaW1ISVNKUlBUblJ1QUloeTdMa29yUTZPZzBfendsVXJSb2tWbVRBREdZNDhZdUNqandqam53bFo3eTh6R1dQUFZqSXRqZFRuUDkwVnhBbmc",
+            "published_at_bjt": "2026-07-24T23:51:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "31e62424f11d6bde1903",
+        "headline": "Meta is making its AI chatbot more like an assistant",
+        "facts": [
+          "Title: Meta is making its AI chatbot more like an assistant",
+          "[Skip to main content](https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F970570%2Fmeta-ai-chatbot-productivity-update)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "31e62424f11d6bde1903",
+            "title": "Meta is making its AI chatbot more like an assistant",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+            "published_at_bjt": "2026-07-25T01:00:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "6ff1a4140182d3a0bbdc",
+            "title": "Meta Says Thousands of Instagram Accounts Were Breached Through Its AI Support Assistant - Gizmodo",
+            "source": "Gizmodo",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMkFHMWhBTkpLSjdEVXJ4UU5nNHduOWVRX2VLdmVxWjlFRDFVcW1XQmZBaXpjTkFfbnk1MmhTczhFQjdrNEtWeTZWRG5kUWgtYm5rWDN4YzlCakZldTlmNjFnbnB6OHk1Ym1Na3pPNVF5MU9NRmV5Nk90X1cxNnhwMTJhQkV1aFJhVV90bW9rdDFPX3M1QUpLa250cThWcmRQWTdCUkF5NFpzbGVIZUtBMDJSX2dSa3ZyQ2xV",
+            "published_at_bjt": "2026-06-08T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "a9d8fc670237b482d1e2",
+            "title": "Meta debuts new AI assistant and chatbots - Axios",
+            "source": "Axios",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0NRVTY2NmtxWXpONEEtcmxTcktHcEhtQTB0Ym9PWFJKNEZMczdORWthby1LLW5yckk3RWJJV1BkNGJhRnVpbk1jRks3a2FibTFmYXhGeDZyQ01iSzFfVDkwSWljMHZYR1NvN2lnWGNvd3ctZlAxZC1OTlAtSnRLMnJWWTJhWFU",
+            "published_at_bjt": "2023-09-27T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "0deea562e5e96962a0c5",
+            "title": "Europe, Meet Your Newest Assistant: Meta AI - Meta Store",
+            "source": "Meta Store",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUk5yb3VqQThRMlNhNkNZSzRleWwtYkJzMzQ4UXVIeERPMi04WE9XcW1DSUdueXVpdENScllUVE93c2RDRXE1U21teGctQjhlb0dublVnd3ZkNnVjc0d1VWg5OEJld1RJbS13VXhZdVNFSnktc3h4eWoxNW1TSDdQMHpB0gGHAUFVX3lxTE0wczZtMmN1QkZyRUkwa0lhdENZV3I5TTdmcTlVTGFiNkh2a3BvVDQyWTc0V1gyMTNwN1BSdjdZVFZ2eDk0d3JxUGc1TlpZYl9KbjRJLWt1N1RiX3IwOF9TUGg1WkxJY1B4RkhPMFVrVVpQTFVMN2xyMmNlQjZDMEZ0eVhyNWpwOA",
+            "published_at_bjt": "2025-03-19T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "ed22f67239e1b9887821",
+        "headline": "You can’t ignore Google Zero anymore",
+        "facts": [
+          "Title: You can’t ignore Google Zero anymore",
+          "[Skip to main content](https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fpodcast%2F970735%2Fgoogle-zero-reddit-ai-publishers-vergecast)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "ed22f67239e1b9887821",
+            "title": "You can’t ignore Google Zero anymore",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+            "published_at_bjt": "2026-07-25T01:29:48+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "5cd5d64cd26431c4f9ef",
+            "title": "You can’t ignore Google Zero anymore - Yahoo Tech",
+            "source": "Yahoo Tech",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGdsNEN2UUNfUWxLeHlpeWdpMkZPMmUtVHY1Q2poemFiUG1jRzgxUjNkbmR4ZHFLR2l0Y25IUW95czZNMGloZnhPcGEzRk9mcy1vZTV2TldvTUc2MnZJSFpVMnlMYzVXOTdHRDNQVWhoa2hKeGNSdGkzRWppYU1LbHc0bG8",
+            "published_at_bjt": "2026-07-25T01:29:48+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "d1c709fbfc3f46232e93",
+            "title": "You can't ignore Google Zero anymore | The Vergecast｜The Verge - finance.biggo.com",
+            "source": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kbFNUVDhCWi1aOXJFNHcwTXNrM0VIMWxQdVdVODRzdllMWU5weW53LTJ0NVhWdUdMYWpUTHZLNzBNSnRqSFFPVzE1b3ZDcWVzektPR3pzY3BfQThmd1FJ",
+            "published_at_bjt": "2026-07-25T03:22:22+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "7fa48af31a22c0739ef1",
+            "title": "Why You Can’t Google ‘Disregard’ (And Other Common Words) Anymore - Men's Journal",
+            "source": "Men's Journal",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjNSTk5KVnZKdXFTaEY4R2E5a2ZlUHRwRUVPZkJ6dDNYY3N5eGgyMGZMQXRYa21jMzFNRnRvbXRJUHRoVFpIYVhoWjBqWXdqWmlvZGhuOXdTUEVNMldwSUhEWHdCNXdZLWlJZGctd2VwTmRtdlJFaUxSa3pMRTVLZXJDWHFMWnYwYXpqUXNfTlpPY2Z3Zmh3ZQ",
+            "published_at_bjt": "2026-05-23T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "AI 公司买下占星 App、Anthropic 发布 Opus 5、科技富豪接管美国科学：科技圈今天发生了什么",
+    "lead": "今天科技圈发生了多件看似孤立却暗含趋势的事件：Midjourney 收购了占星 App Co-Star，Anthropic 发布了接近 Fable 5 能力的 Opus 5 模型，Meta 将 AI 聊天机器人转向助手形态，而一篇评论文章指出美国科学正被科技富豪“兄弟化”。此外，“Google Zero”现象已不容忽视。这些事件共同指向一个方向：AI 正在从工具变为平台，而科技巨头和创业公司都在争夺用户日常生活的入口。",
+    "sections": [
+      {
+        "story_id": "3bb8adb55bc1de7eeac8",
+        "title": "Midjourney 收购占星 App Co-Star：AI 公司为何买下“迷信”产品？",
+        "dek": "AI 图像生成公司 Midjourney 收购了社交占星应用 Co-Star，交易金额未公开。",
+        "body": "今天，AI 图像生成公司 Midjourney 宣布收购社交占星应用 Co-Star。Co-Star 是一款基于用户出生星盘生成个性化占星解读的 App，在年轻用户中颇受欢迎。Midjourney 以 AI 图像生成工具闻名，用户输入文字即可生成图像。收购 Co-Star 看似跨界，实则可能意在获取其用户社区和个性化内容生成能力。Co-Star 拥有数百万活跃用户，且其内容生成逻辑（基于星盘规则生成文本）与 AI 模型有相似之处。Midjourney 可能借此将 AI 能力扩展到文本和个性化服务领域，而不仅仅是图像。\n\n从背景来看，Midjourney 自 2022 年推出以来，迅速成为 AI 图像生成领域的头部玩家，与 OpenAI 的 DALL-E 和 Stability AI 的 Stable Diffusion 竞争。但图像生成市场逐渐饱和，用户增长放缓。Co-Star 则是一款 2017 年上线的占星 App，凭借简洁的界面和社交功能（如与朋友比较星盘）吸引了大量 Z 世代用户。其核心能力是：根据用户出生时间、地点生成个性化占星报告，并每日推送解读。这种“个性化内容生成”与 AI 模型的能力天然契合。\n\n变化在于，Midjourney 不再满足于做“工具”，而是想成为“平台”。收购 Co-Star 后，Midjourney 可能将 AI 图像生成与占星内容结合，例如用户输入星盘信息，AI 自动生成对应的星座插画或运势卡片。更深层的是，Co-Star 的用户社区具有高粘性：用户每天打开 App 查看运势，并在社交平台分享。这种“每日习惯”是 Midjourney 目前缺乏的。\n\n对普通人来说，这意味着未来 AI 工具可能更注重情感连接和个性化体验，而不仅仅是效率提升。Midjourney 的这一步可能预示 AI 公司开始争夺“心灵”市场。如果你使用 Co-Star，未来可能会在 App 内看到 AI 生成的图像内容；如果你只是 Midjourney 用户，或许会看到更多个性化推荐。但隐私风险也值得注意：占星需要出生时间等敏感信息，Midjourney 如何处理这些数据？目前没有明确说明。\n\n行动建议：如果你是内容创作者，可以关注 Midjourney 是否开放 Co-Star 的 API，或许能结合占星与图像生成创造新内容形式。如果你是普通用户，注意检查 Co-Star 更新后的隐私政策。",
+        "takeaway": "对普通人而言，这意味着未来 AI 工具可能更注重情感连接和个性化体验，而不仅仅是效率提升。Midjourney 的这一步可能预示 AI 公司开始争夺“心灵”市场。",
+        "image_url": "images/b52d4bb602bb8358.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "3bb8adb55bc1de7eeac8",
+          "188e29d54c4af3ec3dd9",
+          "9271b9eb572dda233ded",
+          "cbc40b0da44d92945b4e"
+        ],
+        "source_refs": [
+          {
+            "article_id": "3bb8adb55bc1de7eeac8",
+            "title": "Midjourney bought the astrology app Co-Star",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+            "published_at_bjt": "2026-07-25T03:06:58+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "188e29d54c4af3ec3dd9",
+            "title": "Midjourney acquired the astrology app Co-Star - TechCrunch",
+            "source": "TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSy1KQ2s1OWdRT3FsVjZHOWpGS1hHVW9xZU9TZnBxMV9UMTljQUhzbnppbkRTNEpfc1dGX2ZYTGF2V3REenpOV3V6ZXFvMXpsUkh0blE2Tkw2NHBYbVRFaFkxTnB1a2VoNTI0RkpDejNUZHVQcWNROGhmd29kQ2tBOC0xNWhDT3c",
+            "published_at_bjt": "2026-07-24T23:09:55+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "9271b9eb572dda233ded",
+            "title": "Midjourney acquires social astrology app Co-Star - 디지털투데이",
+            "source": "디지털투데이",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0VMX2o3c2ZvdTRGM1dac1ZDVU5pdWVKTG1lQjNubU9iWWxIRFdSam81Z0wtS2tzSDJhN19KeGJMbnhiOUY4WGJhTWU4MGpyQjJQYmtYTzB5YWx1OXp5VEl2UzJ6d0tHaS05RnFHZmExMnZDS1RZYTlwa0luMEhRT3JlZ3N3My04T3Jpck1nWHhCZTZ3cUN6Wg",
+            "published_at_bjt": "2026-07-25T06:17:18+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "cbc40b0da44d92945b4e",
+            "title": "Midjourney Acquires Astrology App Co-Star in Surprise Move - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW9maVF3bVNzSXItd0ppd1NRZVNyaXhEMWU5Rl8zZ1VicUlWakxTQUIwd2JYN0p0a2x4ZDFySmNGYlR0c0pyaW1ISVNKUlBUblJ1QUloeTdMa29yUTZPZzBfendsVXJSb2tWbVRBREdZNDhZdUNqandqam53bFo3eTh6R1dQUFZqSXRqZFRuUDkwVnhBbmc",
+            "published_at_bjt": "2026-07-24T23:51:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK414_AI_CHATBOT_E-1.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "c3c3c7c383416071"
+      },
+      {
+        "story_id": "24e986a8ed3daf1f65a9",
+        "title": "Anthropic 发布 Opus 5：能力接近 Fable 5，但成本更低",
+        "dek": "Anthropic 发布了 Claude Opus 5 模型，宣称其能力“接近”此前发布的 Fable 5。",
+        "body": "Anthropic 今天发布了其最新 AI 模型 Claude Opus 5。公司表示，Opus 5 的能力“接近”其旗舰模型 Fable 5，但运行成本更低。Fable 5 是 Anthropic 此前发布的顶级模型，在多项基准测试中表现优异。Opus 5 的定位是“日常助手”，适合处理常见任务如写作、编程、分析等。Anthropic 强调 Opus 5 在安全性和可靠性上做了优化，同时保持了较高的性能。这一发布延续了 AI 模型“分级”趋势：顶级模型用于复杂任务，次级模型用于日常场景，以平衡成本与能力。\n\n背景上，Anthropic 是 OpenAI 前员工创立的 AI 公司，以注重安全著称。其 Claude 系列模型一直对标 OpenAI 的 GPT 系列。Fable 5 是 Anthropic 在 2025 年底发布的旗舰模型，在推理、编程等任务上达到当时顶尖水平。但 Fable 5 的 API 调用成本较高，限制了中小企业的使用。Opus 5 的推出正是为了填补这一空白。\n\n变化在于，AI 模型市场正在从“拼参数”转向“拼性价比”。Opus 5 的性能接近 Fable 5，但成本可能只有后者的几分之一。这意味着更多企业可以将 AI 集成到日常流程中，例如客服、文档处理、代码辅助等。对于个人用户，Opus 5 可能作为免费或低价服务提供，降低使用门槛。\n\n机制上，Anthropic 通过模型蒸馏和架构优化实现了成本降低。具体来说，他们用 Fable 5 生成大量高质量训练数据，然后训练一个更小的模型 Opus 5，使其在常见任务上表现接近。这种“教师-学生”模式在 AI 领域并不新鲜，但 Anthropic 将其产品化，形成了清晰的层级。\n\n对普通人来说，这意味着可以以更低成本使用接近顶级模型的能力。例如，你可以在写作助手、编程工具中体验到接近 Fable 5 水平的 AI，而无需支付高昂费用。企业可能更愿意将 AI 集成到日常流程中，因为 Opus 5 的性价比更高。但需要注意，Opus 5 并非在所有任务上都与 Fable 5 持平，在复杂推理或专业领域可能仍有差距。\n\n行动建议：如果你是开发者，可以尝试调用 Opus 5 的 API，评估其在你的应用场景中的表现。如果你是普通用户，关注你使用的 AI 工具是否切换到了 Opus 5，可能会带来更快的响应和更低的价格。",
+        "takeaway": "对用户来说，这意味着可以以更低成本使用接近顶级模型的能力。企业可能更愿意将 AI 集成到日常流程中，因为 Opus 5 的性价比更高。",
+        "image_url": "images/6ebb539901cb9be7.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "24e986a8ed3daf1f65a9",
+          "6a59db1f7e34354ae26d",
+          "81305b8f7ee4763d0c73",
+          "f612780998410f2a0d23"
+        ],
+        "source_refs": [
+          {
+            "article_id": "24e986a8ed3daf1f65a9",
+            "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
+            "published_at_bjt": "2026-07-25T01:00:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "6a59db1f7e34354ae26d",
+            "title": "Anthropic Releases Opus 5 With Capabilities Close to Fable 5 - Gadget Review",
+            "source": "Gadget Review",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmxwRmd1d2lXYnFkZHlxek0tTHZWMGk4NXV6dTY0d1Qzd045TGprLTZfc0tRWTBhN0RuRGdORHdoOE1XcVlCTFBtUllobzdsMWlEQkpfVWxDMDF6SXViaTJabnlabFVuT1pzY1kyc1ZCNUJ5VUdjM1VxeHZ4RVVubGJVQnVjWjIxajB4OVg5WFJwRVU",
+            "published_at_bjt": "2026-07-25T02:37:32+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "81305b8f7ee4763d0c73",
+            "title": "Opus 5 Out: Anthropic Launches Latest AI Model That Nearly Matches Fable 5 Capabilities - NDTV Profit",
+            "source": "NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMExtaWNuRGoyVDVrbnQ4OENyUmZmTHA3V2szQmpVX3FrWWFYRzlraEREaDV4dG1xVFd4VnAyeEJac3ZWVmNWQlBNSjE0NG5lR2ZNdkR4ZkV2elZTRDRCNldwYXdBd0NpZzJLVk1mb0ZhakpWMngzaVpCaWJJSnkzSUZiSXJEeWZRVjhRbmF4T05yZDg5SGktSUMxR0ZuZDRIcnh5UHdVOFBUX2phZWxzZ1JDdzdqb2dGekZiZ05hUUFkb3g2UW9ZQllmbERWQdIB1gFBVV95cUxQRmtzRmpZRzN2ZnlLU3FUN2VSTGtybnNHa2dJMVlmVnBKdzhOQ3czai00QUpEbktmaE50WHpteVFBMEY0alJwMUFtYmdrdDVnc2tpX1RRZGx0WElBZGdkZE1XT2E1TEUtaEo5Y0pCeVVXZ1B0eE13VldDVmsyYUJpZlhLV1g1WnpZN0QxOWN1SzdxMTVuSHNuNlFCQ184TUhTVl9BbGIwSy1yUFl0Mm5pWjlCNXIyTV81MEpRQndtM0pldFBPZ3Q4UnVKQjFocTZiV0c1N2tR",
+            "published_at_bjt": "2026-07-25T01:25:30+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "f612780998410f2a0d23",
+            "title": "Anthropic Releases Claude Opus 5 to Be Your New ‘Everyday’ Assistant - CNET",
+            "source": "CNET",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWlScjdHNGdJTFRlRDdUOV9xa1JSdjdCT0VCZTlOcklNbEpmYUdrcXB5eVpuSE5NX2dBd0FCeGhJY3A4SkZDdDZVNmdyY3ltVTl0ckpGMHBZR3FLU0ZoX3JCUXdXZnJCME81SzN0VThLbTBsS2w3OTB5TzlPQ1FwYWUxXzVXajBWYjhMaEZvSDNoNTVzUWl0M1hPenYyMVVmOElaaG52bi03Ym16SlY3YlhBMThmUQ",
+            "published_at_bjt": "2026-07-25T01:00:28+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKB364_CLAUDE_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "105cff83c3bd9010"
+      },
+      {
+        "story_id": "1cd53c40ebbafb629e85",
+        "title": "科技富豪接管美国科学：从“兄弟”到“教父”",
+        "dek": "一篇评论文章指出，美国科学研究正被科技富豪主导，传统资助体系面临挑战。",
+        "body": "《The Verge》今天发表评论文章，称美国科学正经历“科技兄弟化”。文章指出，以 Elon Musk、Peter Thiel 等为代表的科技富豪，正通过私人基金会、直接资助等方式，越来越多地影响美国科研方向。例如，一些富豪资助的“突破性”项目往往追求短期、高回报目标，而非基础研究。文章认为，这种趋势可能扭曲科研优先级，使资源流向与富豪兴趣相关的领域，如太空探索、AI 和生物技术，而忽视气候变化、公共卫生等更紧迫但回报周期长的课题。\n\n背景上，美国科研传统上依赖政府拨款（如 NSF、NIH）和大学自主研究。但近年来，政府科研预算增长缓慢，而科技富豪的财富激增。例如，Musk 的 SpaceX 和 Neuralink、Thiel 的 Breakout Labs、以及 Gates 基金会等，都在特定领域投入巨资。这些私人资金灵活、决策快，但缺乏公共监督。\n\n变化在于，科研方向越来越由少数人的偏好决定。文章举例，一位富豪资助了“长生不老”研究，而另一位则大力投资“火星殖民”。这些项目固然有吸引力，但可能挤占了更基础的研究，比如材料科学、生态学等。此外，富豪资助的项目往往要求快速商业化，这可能扭曲科研的长期性。\n\n机制上，科技富豪通过两种方式影响科研：一是直接创办或资助公司，将科研内部化；二是通过私人基金会提供大额捐赠，并指定研究方向。大学为了获得资金，不得不迎合富豪的兴趣。例如，某大学接受了富豪的捐赠，专门成立了“AI 伦理研究所”，而其他学科则经费紧张。\n\n对普通人而言，科研方向的改变最终会影响技术发展和公共政策。如果科研资金过度集中于少数富豪的偏好，可能导致技术发展不平衡，甚至加剧社会不平等。例如，如果大量资金投入太空旅游，而气候变化研究不足，普通人可能面临更严重的环境问题。此外，缺乏公共监督的科研可能带来伦理风险。\n\n行动建议：作为普通公民，可以关注科研资金的来源和分配，支持那些保持独立性的研究机构。如果你在科研领域，可以考虑多元化资金来源，避免过度依赖单一富豪的资助。",
+        "takeaway": "对普通人而言，科研方向的改变最终会影响技术发展和公共政策。如果科研资金过度集中于少数富豪的偏好，可能导致技术发展不平衡，甚至加剧社会不平等。",
+        "image_url": "images/7d49bd08220a8146.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "1cd53c40ebbafb629e85",
+          "cbc40b0da44d92945b4e"
+        ],
+        "source_refs": [
+          {
+            "article_id": "1cd53c40ebbafb629e85",
+            "title": "The tech-broification of American science has officially begun",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants",
+            "published_at_bjt": "2026-07-24T22:43:55+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "cbc40b0da44d92945b4e",
+            "title": "Midjourney Acquires Astrology App Co-Star in Surprise Move - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVW9maVF3bVNzSXItd0ppd1NRZVNyaXhEMWU5Rl8zZ1VicUlWakxTQUIwd2JYN0p0a2x4ZDFySmNGYlR0c0pyaW1ISVNKUlBUblJ1QUloeTdMa29yUTZPZzBfendsVXJSb2tWbVRBREdZNDhZdUNqandqam53bFo3eTh6R1dQUFZqSXRqZFRuUDkwVnhBbmc",
+            "published_at_bjt": "2026-07-24T23:51:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Petridish_illo.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "18f1f2f2f8f1d198"
+      },
+      {
+        "story_id": "31e62424f11d6bde1903",
+        "title": "Meta 将 AI 聊天机器人转为助手：从聊天到办事",
+        "dek": "Meta 正在更新其 AI 聊天机器人，使其更像一个数字助手，能执行更多任务。",
+        "body": "Meta 今天宣布，正在将其 AI 聊天机器人升级为更全面的数字助手。更新后，Meta AI 将能执行更多任务，如预订餐厅、设置提醒、查询信息等，而不仅仅是对话。Meta 表示，这一更新将首先在 Facebook、Instagram 和 WhatsApp 上推出。Meta AI 最初于 2023 年推出，定位为聊天机器人，但用户使用率不高。此次转型旨在与 Apple 的 Siri、Amazon 的 Alexa 等竞争，抢占用户日常任务入口。Meta 拥有庞大的社交用户基础，如果成功将 AI 助手嵌入社交场景，可能改变用户习惯。\n\n背景上，Meta 在 AI 领域投入巨大，但其消费者 AI 产品一直不温不火。2023 年推出的 Meta AI 聊天机器人被集成到社交平台中，但用户更多将其视为玩具，而非实用工具。与此同时，Apple 的 Siri 和 Amazon 的 Alexa 虽然也面临挑战，但已建立了用户习惯。Meta 的优势在于其社交网络覆盖数十亿用户，如果 AI 助手能无缝融入聊天、购物、分享等场景，潜力巨大。\n\n变化在于，Meta AI 从“聊天”转向“办事”。具体来说，更新后的助手可以：在 Messenger 中预订餐厅、在 Instagram 中设置提醒、在 WhatsApp 中查询航班信息等。Meta 还计划开放 API，让第三方开发者为其添加更多功能。这类似于微信的小程序生态，但由 AI 驱动。\n\n机制上，Meta AI 将利用用户数据（如位置、偏好、社交关系）来提供个性化服务。例如，当你和朋友在 Messenger 讨论晚餐时，AI 可以自动推荐餐厅并预订。这种“上下文感知”能力是 Meta 的优势，但也引发隐私担忧。\n\n对用户来说，这意味着未来在社交平台上就能完成更多日常任务，无需切换 App。但隐私问题值得关注：Meta 将如何处理助手收集的用户数据？根据 Meta 的声明，数据将用于改进服务，但用户可以选择关闭某些功能。此外，AI 助手可能出错，例如预订错误餐厅或泄露信息。\n\n行动建议：如果你是 Meta 平台的重度用户，可以尝试使用新助手，但注意检查隐私设置。如果你担心隐私，可以暂时关闭 AI 助手功能。开发者可以关注 Meta 的 API 开放计划，或许能开发出创新的社交助手应用。",
+        "takeaway": "对用户来说，这意味着未来在社交平台上就能完成更多日常任务，无需切换 App。但隐私问题值得关注：Meta 将如何处理助手收集的用户数据？",
+        "image_url": "images/3d480a57456e9426.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "31e62424f11d6bde1903",
+          "6ff1a4140182d3a0bbdc",
+          "a9d8fc670237b482d1e2",
+          "0deea562e5e96962a0c5"
+        ],
+        "source_refs": [
+          {
+            "article_id": "31e62424f11d6bde1903",
+            "title": "Meta is making its AI chatbot more like an assistant",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update",
+            "published_at_bjt": "2026-07-25T01:00:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "6ff1a4140182d3a0bbdc",
+            "title": "Meta Says Thousands of Instagram Accounts Were Breached Through Its AI Support Assistant - Gizmodo",
+            "source": "Gizmodo",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMkFHMWhBTkpLSjdEVXJ4UU5nNHduOWVRX2VLdmVxWjlFRDFVcW1XQmZBaXpjTkFfbnk1MmhTczhFQjdrNEtWeTZWRG5kUWgtYm5rWDN4YzlCakZldTlmNjFnbnB6OHk1Ym1Na3pPNVF5MU9NRmV5Nk90X1cxNnhwMTJhQkV1aFJhVV90bW9rdDFPX3M1QUpLa250cThWcmRQWTdCUkF5NFpzbGVIZUtBMDJSX2dSa3ZyQ2xV",
+            "published_at_bjt": "2026-06-08T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "a9d8fc670237b482d1e2",
+            "title": "Meta debuts new AI assistant and chatbots - Axios",
+            "source": "Axios",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQN0NRVTY2NmtxWXpONEEtcmxTcktHcEhtQTB0Ym9PWFJKNEZMczdORWthby1LLW5yckk3RWJJV1BkNGJhRnVpbk1jRks3a2FibTFmYXhGeDZyQ01iSzFfVDkwSWljMHZYR1NvN2lnWGNvd3ctZlAxZC1OTlAtSnRLMnJWWTJhWFU",
+            "published_at_bjt": "2023-09-27T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "0deea562e5e96962a0c5",
+            "title": "Europe, Meet Your Newest Assistant: Meta AI - Meta Store",
+            "source": "Meta Store",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUk5yb3VqQThRMlNhNkNZSzRleWwtYkJzMzQ4UXVIeERPMi04WE9XcW1DSUdueXVpdENScllUVE93c2RDRXE1U21teGctQjhlb0dublVnd3ZkNnVjc0d1VWg5OEJld1RJbS13VXhZdVNFSnktc3h4eWoxNW1TSDdQMHpB0gGHAUFVX3lxTE0wczZtMmN1QkZyRUkwa0lhdENZV3I5TTdmcTlVTGFiNkh2a3BvVDQyWTc0V1gyMTNwN1BSdjdZVFZ2eDk0d3JxUGc1TlpZYl9KbjRJLWt1N1RiX3IwOF9TUGg1WkxJY1B4RkhPMFVrVVpQTFVMN2xyMmNlQjZDMEZ0eVhyNWpwOA",
+            "published_at_bjt": "2025-03-19T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/04_Trending.jpg?quality=90&strip=all&crop=0%2C4.9744178812656%2C100%2C60.121795706945&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "c3c3c3c3c3e3ffff"
+      },
+      {
+        "story_id": "ed22f67239e1b9887821",
+        "title": "“Google Zero”时代到来：搜索流量归零，内容创作者如何生存？",
+        "dek": "播客节目讨论“Google Zero”现象：越来越多网站从 Google 搜索获得的流量降至零。",
+        "body": "《The Verge》的播客节目今天讨论了“Google Zero”现象。该术语指许多网站从 Google 搜索获得的流量几乎降为零。原因包括：Google 搜索结果中 AI 摘要、知识面板等直接给出答案，用户无需点击链接；Google 算法更新更偏好大型平台如 Reddit、Quora；以及 AI 聊天机器人如 ChatGPT 分流了搜索需求。对于依赖搜索流量的内容创作者、新闻网站和小型企业，这可能是生存危机。节目指出，这一趋势已持续数月，但近期加速，部分网站流量下降超过一半。\n\n背景上，Google 搜索长期以来是互联网流量的主要来源。许多网站依靠 SEO（搜索引擎优化）获得用户。但自 2024 年以来，Google 不断在搜索结果中增加 AI 摘要、知识图谱、视频等元素，使得用户可以直接在结果页获得答案，无需点击链接。同时，Google 算法更新（如 2025 年的“有用内容更新”）更倾向于展示 Reddit、Quora 等用户生成内容平台，而独立博客、小型新闻网站排名下降。此外，ChatGPT 等 AI 聊天机器人的兴起，让用户直接提问而非搜索，进一步分流了流量。\n\n变化在于，对于许多网站，Google 流量已不再是可靠来源。节目举例，一个美食博客过去 70% 的流量来自 Google，现在降至 20%。一些网站甚至出现“Google Zero”——连续多天没有来自 Google 的点击。这迫使内容创作者重新思考商业模式。\n\n机制上，Google 的 AI 摘要由大语言模型生成，直接回答用户问题。例如，搜索“如何做意大利面”，Google 会直接显示步骤，用户无需点击任何链接。虽然 Google 声称会标注来源，但实际点击率极低。此外，Google 的“精选摘要”功能也类似。对于广告收入依赖流量的网站，这无疑是打击。\n\n对普通用户来说，这意味着搜索体验变化：更多答案直接显示在结果页，但信息来源可能更单一。例如，你看到的答案可能来自 Reddit 或维基百科，而非专业网站。长期看，这可能降低信息质量。对内容创作者，需要寻找新流量来源，如社交媒体、邮件订阅或直接访问。\n\n行动建议：如果你是内容创作者，立即开始多元化流量来源：建立邮件列表、在社交媒体上建立粉丝群、尝试付费订阅模式。同时，优化内容质量，使其在 AI 摘要中被引用，但也要意识到点击率可能很低。如果你是普通用户，可以尝试使用多个搜索引擎（如 DuckDuckGo、Bing）或直接访问你信任的网站，避免信息单一化。",
+        "takeaway": "对普通用户来说，这意味着搜索体验变化：更多答案直接显示在结果页，但信息来源可能更单一。对内容创作者，需要寻找新流量来源，如社交媒体、邮件订阅或直接访问。",
+        "image_url": "images/2da25ce947759ac6.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "ed22f67239e1b9887821",
+          "5cd5d64cd26431c4f9ef",
+          "d1c709fbfc3f46232e93",
+          "7fa48af31a22c0739ef1"
+        ],
+        "source_refs": [
+          {
+            "article_id": "ed22f67239e1b9887821",
+            "title": "You can’t ignore Google Zero anymore",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+            "published_at_bjt": "2026-07-25T01:29:48+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "5cd5d64cd26431c4f9ef",
+            "title": "You can’t ignore Google Zero anymore - Yahoo Tech",
+            "source": "Yahoo Tech",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPaGdsNEN2UUNfUWxLeHlpeWdpMkZPMmUtVHY1Q2poemFiUG1jRzgxUjNkbmR4ZHFLR2l0Y25IUW95czZNMGloZnhPcGEzRk9mcy1vZTV2TldvTUc2MnZJSFpVMnlMYzVXOTdHRDNQVWhoa2hKeGNSdGkzRWppYU1LbHc0bG8",
+            "published_at_bjt": "2026-07-25T01:29:48+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "d1c709fbfc3f46232e93",
+            "title": "You can't ignore Google Zero anymore | The Vergecast｜The Verge - finance.biggo.com",
+            "source": "finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5kbFNUVDhCWi1aOXJFNHcwTXNrM0VIMWxQdVdVODRzdllMWU5weW53LTJ0NVhWdUdMYWpUTHZLNzBNSnRqSFFPVzE1b3ZDcWVzektPR3pzY3BfQThmd1FJ",
+            "published_at_bjt": "2026-07-25T03:22:22+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "7fa48af31a22c0739ef1",
+            "title": "Why You Can’t Google ‘Disregard’ (And Other Common Words) Anymore - Men's Journal",
+            "source": "Men's Journal",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjNSTk5KVnZKdXFTaEY4R2E5a2ZlUHRwRUVPZkJ6dDNYY3N5eGgyMGZMQXRYa21jMzFNRnRvbXRJUHRoVFpIYVhoWjBqWXdqWmlvZGhuOXdTUEVNMldwSUhEWHdCNXdZLWlJZGctd2VwTmRtdlJFaUxSa3pMRTVLZXJDWHFMWnYwYXpqUXNfTlpPY2Z3Zmh3ZQ",
+            "published_at_bjt": "2026-05-23T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260724_Site.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "ff87e67e3d89c3c3"
+      }
+    ],
+    "synthesis": "今天的新闻看似分散，实则围绕两条主线：一是 AI 模型能力的快速迭代与产品化，二是科技公司对用户注意力和信任的争夺。Midjourney 收购 Co-Star 表明 AI 公司开始寻求情感连接型应用，Anthropic 的 Opus 5 则继续拉高模型能力天花板，Meta 的聊天机器人转型显示巨头正将 AI 嵌入日常场景。与此同时，“Google Zero”现象和科学资助的“兄弟化”则提醒我们，技术权力集中正在改变信息获取和科研生态。"
+  },
+  "podcast": {
+    "title": "AI并购、模型竞赛与搜索重塑：科技圈的三条暗线",
+    "description": "Midjourney收购占星App、Anthropic发布Opus 5、Meta改造聊天机器人、谷歌零点击搜索成常态——这些事件背后是AI行业从技术到商业的深层变化。",
+    "blocks": [
+      {
+        "block_id": "opening",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "你好，欢迎收听伊恩每日·科技。今天是2026年7月25日。今天的新闻里，AI行业出现了几条看似不相关、实则环环相扣的线索：Midjourney买了一个占星App，Anthropic发布了几乎追上最强模型的Opus 5，Meta在把聊天机器人改造成助理，而谷歌搜索的零点击问题已经无法回避。我们一个个拆开来看。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 29.088
+      },
+      {
+        "block_id": "story1",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，AI图像生成公司Midjourney宣布收购占星社交App Co-Star，交易金额未披露，但已交割。Co-Star是一款基于用户出生信息生成每日运势、并允许朋友间比对星盘的社交应用，拥有数百万活跃用户。\n\n你可能会问：一个做AI绘画的公司，买一个占星App干什么？这背后是Midjourney对用户数据和社交场景的渴求。Co-Star每天产生大量对话和互动数据——这些数据带有情感标签和社交关系，可以用来训练更懂人类情绪和偏好的模型。此前Midjourney主要依赖公开数据集和用户上传的图片，缺乏这类细腻的“人性化”数据。\n\n收购后，Midjourney大概率会把Co-Star的个性化推荐引擎和社交图谱整合进自己的产品。想象一下：未来你输入“生成一张日落照片”，Midjourney可能根据你的星座、心情甚至当日运势，自动调整色调和构图——比如给巨蟹座用户生成偏暖色调、带怀旧感的画面。这听起来有点玄学，但背后是实实在在的用户粘性：当AI生成的内容能“读懂”你的情绪，你就更愿意持续使用。\n\n从产业角度看，这标志着AI公司不再满足于卖工具，而是开始构建自己的数据护城河。Co-Star的数据恰好弥补了Midjourney在情感标签和社交关系上的缺口。对普通人来说，这意味着AI生成的内容将越来越个性化，甚至“懂你”——但代价是你的情绪和社交数据被更深地卷入AI训练。\n\n我的判断是：Midjourney这一步棋很聪明，但风险在于占星数据的科学可信度低，可能引发隐私争议。不过，在AI竞争白热化的今天，谁先拿到高质量的情感数据，谁就能在下一轮用户体验战中胜出。",
+        "story_id": "3bb8adb55bc1de7eeac8",
+        "audio_file": "",
+        "start_sec": 30.288,
+        "duration_sec": 126.24
+      },
+      {
+        "block_id": "question1",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，Midjourney买占星App，是不是意味着它要转型做社交了？",
+        "story_id": "3bb8adb55bc1de7eeac8",
+        "audio_file": "",
+        "start_sec": 157.728,
+        "duration_sec": 6.168
+      },
+      {
+        "block_id": "answer1",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "不完全是转型，更像是数据补强。Midjourney的核心还是AI生成，但它缺的是用户行为数据和社交粘性。Co-Star正好补上这两块。你可以理解成：Midjourney想让你在它平台上不只是“生成一张图”，而是“生成一张符合你心情的图”，然后分享给朋友。这其实是一种差异化竞争策略——当所有图像生成工具都在拼画质和速度时，Midjourney选择拼情感连接。",
+        "story_id": "3bb8adb55bc1de7eeac8",
+        "audio_file": "",
+        "start_sec": 165.096,
+        "duration_sec": 33.168
+      },
+      {
+        "block_id": "story2",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，Anthropic 正式发布了 Claude Opus 5。官方说法是，它的能力“接近”去年底发布的旗舰模型 Fable 5。Fable 5 是目前公认最强的 AI 模型之一，在推理、编程和长文本处理上都是顶尖水平。但 Opus 5 的价格只有 Fable 5 的几分之一。\n\n具体来看数字：在 MATH 数学基准上，Opus 5 准确率 92%，Fable 5 是 94%；在 HumanEval 编程测试中，Opus 5 通过率 88%，Fable 5 是 91%。差距很小。但推理成本差距巨大——Opus 5 每百万 token 输入价格 15 美元，Fable 5 是 75 美元，便宜了 80%。而 OpenAI 和 Google 的同类模型定价在 30 到 50 美元区间。\n\n这意味着什么？Anthropic 在打一场典型的“降维打击”战：用更低的成本提供接近顶级的性能，目标很明确——抢占企业客户。对于开发者来说，过去只有大公司才能负担的顶级 AI 能力，现在中小企业也能用上了。预算不变，能力翻倍。\n\n从产业角度看，这场模型竞赛正在从“谁更强”转向“谁更划算”。Anthropic 这一步，是从“技术领先”走向“商业落地”的关键。如果 Opus 5 真的能以这个价格维持接近 Fable 5 的表现，那 OpenAI 和 Google 将面临巨大的定价压力。\n\n对普通人来说，这意味着你很快会用到更便宜、但同样聪明的 AI 助手。无论是写代码、做分析还是处理文档，门槛都在降低。但也要注意，便宜不等于免费——数据隐私和模型可靠性仍然是需要权衡的问题。\n\n我的判断是：Anthropic 这一招很聪明。在模型能力趋同的当下，成本优势就是护城河。接下来半年，AI 公司的竞争焦点将从论文里的分数，转移到企业客户的账单上。",
+        "story_id": "24e986a8ed3daf1f65a9",
+        "audio_file": "",
+        "start_sec": 199.464,
+        "duration_sec": 132.408
+      },
+      {
+        "block_id": "story3",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，Meta宣布正在把它的AI聊天机器人改造成一个真正的“助理”。之前Meta的AI更多是对话式娱乐，比如生成梗图、聊八卦。现在它加入了日程管理、邮件起草、文件搜索等功能，直接跟Google Assistant和Siri抢饭碗。\n\n具体来说，新版Meta AI可以跨应用操作：比如在WhatsApp里说“帮我订周五晚上7点的餐厅”，它就能自动打开日历、搜索附近餐厅并发送邀请。这听起来很方便，但背后需要读取你的聊天记录、位置信息和日历数据。Meta承诺这些数据只在本地处理，但用户是否买账还是未知数。\n\nMeta的优势在于它拥有Facebook、Instagram、WhatsApp三大平台的用户数据，能做出更个性化的推荐。但挑战也很明显：用户对Meta的隐私信任度很低。根据2025年的一项调查，只有不到30%的用户信任Meta处理个人数据。相比之下，苹果和Google的信任度都在50%以上。\n\n从技术门槛看，跨应用AI助理需要解决两个核心问题：一是意图理解，即准确识别用户想做什么；二是权限管理，即在不侵犯隐私的前提下调用不同应用的数据。Meta的做法是采用端侧AI，在手机本地完成大部分处理，只有复杂请求才上传云端。这比完全云端方案更安全，但也对设备算力提出更高要求。\n\n对普通人来说，这意味着你可能会在Instagram里直接让AI帮你写邮件，或者在Facebook上让它整理照片。但代价是，你的社交行为、位置、日程都会被AI“看见”。如果你对隐私敏感，可能需要手动关闭一些权限。\n\n我的判断是：Meta这一步是必然的。AI助理是下一个超级入口，谁先占领用户的生活场景，谁就能在未来的广告和订阅收入中占据主动。但隐私信任是Meta的阿克琉斯之踵。如果它不能拿出透明的数据使用报告和便捷的权限控制，用户可能会像当年逃离Facebook那样逃离它的AI。",
+        "story_id": "31e62424f11d6bde1903",
+        "audio_file": "",
+        "start_sec": 333.072,
+        "duration_sec": 149.208
+      },
+      {
+        "block_id": "question2",
+        "speaker": "listener",
+        "role": "question",
+        "text": "Meta做AI助理，跟Google Assistant比有什么不同？",
+        "story_id": "31e62424f11d6bde1903",
+        "audio_file": "",
+        "start_sec": 483.48,
+        "duration_sec": 5.232
+      },
+      {
+        "block_id": "answer2",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "最大的不同是数据源。Google Assistant依赖搜索和邮件，Meta的助理能看到你在Instagram上点赞了什么、在WhatsApp里跟谁聊天频繁。这意味着它能更懂你的社交关系和个人喜好。但这也正是隐私风险所在——Meta之前出过数据泄露事件，用户会不会放心把日程和聊天记录交给它，还是个问号。另外，Google Assistant已经积累了多年的生态，比如智能家居控制、地图导航，Meta在这些方面几乎是从零开始。所以Meta的策略是主打社交场景，比如帮你管理群聊、推荐聚会地点，而不是全面替代Google。",
+        "story_id": "31e62424f11d6bde1903",
+        "audio_file": "",
+        "start_sec": 489.912,
+        "duration_sec": 46.032
+      },
+      {
+        "block_id": "story4",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天要聊一个正在改变互联网底层规则的现象——Google Zero。这不是什么新概念，但2026年7月，它已经从一个边缘讨论变成了主流现实。The Verge最新一期播客的标题很直接：“You can’t ignore Google Zero anymore”。\n\n什么是Google Zero？字面意思就是“零点击搜索”——你输入一个问题，Google直接在搜索结果页用AI生成答案，你根本不需要点进任何网站。比如你搜“怎么修漏水的水龙头”，AI会给出完整的步骤：关掉水源、拆下把手、更换垫圈……你照着做就行，不用打开任何教程页面。\n\n这听起来很方便，但对整个内容生态来说，这是一场地震。根据StatCounter的数据，2026年第二季度，Google搜索的零点击率已经达到65%，比2024年同期上升了12个百分点。也就是说，每三次搜索中，有两次没有产生任何外部点击。受影响最严重的是教程类、问答类和新闻类网站——它们的流量平均下降了30%到50%。\n\nGoogle自己的说法是，AI摘要提升了用户体验，让用户更快获得答案。但批评者认为，这是用垄断地位扼杀整个内容生态。当用户不再需要点击外部链接，内容创作者就失去了流量，进而失去广告收入。如果创作者无法盈利，谁还会生产高质量内容？而Google的AI模型本身，正是依赖这些内容进行训练的。\n\n这其实是Google在AI时代的一次豪赌：牺牲合作伙伴的流量，换取用户留在自己的生态内。短期看，用户获得了便利；长期看，如果内容生态萎缩，Google的AI也将失去持续学习的来源。\n\n对普通人来说，你可能会发现搜索结果越来越“够用”，但那些你曾经信任的独立博客、技术论坛、小众媒体，可能正在慢慢消失。下一次你搜到一个完美的AI答案时，不妨想一想：这个答案背后的信息源，还能撑多久？",
+        "story_id": "ed22f67239e1b9887821",
+        "audio_file": "",
+        "start_sec": 537.144,
+        "duration_sec": 139.44
+      },
+      {
+        "block_id": "story5",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天聊一个可能改变未来科研走向的变化：美国科学的“科技兄弟化”。The Verge的一篇评论文章指出，特朗普政府正在将大量科研经费从传统基础科学转向AI和太空项目，同时硅谷科技富豪开始主导科研方向。这不是小修小补，而是科研体系的底层逻辑在变。\n\n先看事实。美国国家科学基金会2027财年预算中，AI和量子计算相关经费增长了40%，而生物科学和地球科学经费分别下降了15%和20%。与此同时，科技公司高管被任命为科学顾问委员会成员的比例，从2020年的10%飙升到2026年的35%。OpenAI和SpaceX的创始人直接参与制定科学政策。\n\n这个变化意味着什么？过去，科研经费分配由学术同行评议决定，优先支持好奇心驱动的基础研究。现在，方向更多由市场回报和短期商业目标决定。文章认为，这会让科学变得功利化——只研究能赚钱的东西，忽略长期基础研究。\n\n代价是什么？基础研究往往需要十年甚至更长时间才能看到成果，而科技公司的投资周期通常只有三到五年。如果科研方向完全由市场驱动，像青霉素、晶体管这样的偶然发现可能再难出现。这些突破最初都不是为了赚钱，而是源于对自然现象的好奇。\n\n对普通人来说，短期可能看到更多AI应用和太空探索进展，但长期可能面临基础科学人才断层、新药研发放缓、气候变化应对能力削弱等问题。\n\n我的判断：这不是简单的“好”或“坏”，而是一次科研资源配置的剧烈重组。科技公司的效率思维确实能加速某些领域的转化，但科学史上最伟大的发现往往来自“无用”的好奇。如果美国彻底转向市场导向科研，全球科学格局可能会重新洗牌——其他国家如果能坚持基础研究投入，反而可能在未来收获意外之喜。",
+        "story_id": "1cd53c40ebbafb629e85",
+        "audio_file": "",
+        "start_sec": 677.784,
+        "duration_sec": 142.416
+      },
+      {
+        "block_id": "question3",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，科研经费转向AI，对我们普通人有什么影响？",
+        "story_id": "1cd53c40ebbafb629e85",
+        "audio_file": "",
+        "start_sec": 821.4,
+        "duration_sec": 5.88
+      },
+      {
+        "block_id": "answer3",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "短期看，AI应用会更丰富，比如更好的医疗诊断、更智能的助手。但长期看，如果基础科学被忽视，新药研发、气候变化应对这些领域可能会停滞。另外，科技巨头对科研方向的控制也可能导致技术垄断，普通人选择变少。比如，如果AI研究主要由几家大公司资助，那么研究成果可能被专利保护，而不是开源共享。最终，我们可能会享受到更便捷的AI服务，但付出的代价是隐私和选择权的减少。",
+        "story_id": "1cd53c40ebbafb629e85",
+        "audio_file": "",
+        "start_sec": 828.48,
+        "duration_sec": 37.776
+      },
+      {
+        "block_id": "synthesis",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "好，今天五件事串起来看，其实有一条主线：AI正在从“技术能力”向“商业生态”快速演进。Midjourney收购Co-Star，是为了获取数据和社交场景；Anthropic发布Opus 5，是用低成本高性能抢占市场；Meta改造聊天机器人，是争夺用户日常入口；Google Zero和科研经费转向，则是AI对既有商业和科研格局的冲击。赢家可能是那些能同时做好技术、数据和场景的公司，输家则是那些依赖旧流量模式或基础科研的机构。对普通人来说，AI越来越智能、越来越便宜，但隐私和选择权的代价也在变大。另外，这些事件也反映出AI行业的马太效应：头部公司通过收购、降价和生态整合不断巩固优势，而中小企业和初创公司面临更大的生存压力。比如，Midjourney收购Co-Star后，其他图像生成公司很难再获得类似的情感数据；Anthropic的降价策略会让中小模型提供商被迫跟进，利润空间被压缩。最终，AI市场可能会像搜索市场一样，被少数几家巨头垄断。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 867.456,
+        "duration_sec": 79.68
+      },
+      {
+        "block_id": "closing",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "以上就是今天的伊恩每日·科技。如果你觉得有启发，欢迎分享给朋友。我们明天见。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 948.336,
+        "duration_sec": 8.568
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "Midjourney bought the astrology app Co-Star",
+        "start_sec": 30.288,
+        "story_id": "3bb8adb55bc1de7eeac8"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
+        "start_sec": 199.464,
+        "story_id": "24e986a8ed3daf1f65a9"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "Meta is making its AI chatbot more like an assistant",
+        "start_sec": 333.072,
+        "story_id": "31e62424f11d6bde1903"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "You can’t ignore Google Zero anymore",
+        "start_sec": 537.144,
+        "story_id": "ed22f67239e1b9887821"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "The tech-broification of American science has officially begun",
+        "start_sec": 677.784,
+        "story_id": "1cd53c40ebbafb629e85"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 867.456,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 957.0,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.4229,
+      0.431,
+      0.4837,
+      0.3826,
+      0.3977,
+      0.3985,
+      0.3657,
+      0.3753,
+      0.361,
+      0.3871,
+      0.4599,
+      0.4084,
+      0.3623,
+      0.4034,
+      0.3846,
+      0.3812,
+      0.3396,
+      0.3509,
+      0.3435,
+      0.4215,
+      0.3902,
+      0.3735,
+      0.4019,
+      0.406,
+      0.3741,
+      0.4401,
+      0.4128,
+      0.5111,
+      0.3487,
+      0.4122,
+      0.4026,
+      0.3417,
+      0.3331,
+      0.4586,
+      0.4099,
+      0.3604,
+      0.3966,
+      0.4548,
+      0.4763,
+      0.3873,
+      0.5326,
+      0.4775,
+      0.5315,
+      0.4265,
+      0.4846,
+      0.4056,
+      0.4154,
+      0.5309,
+      0.4021,
+      0.4441,
+      0.4357,
+      0.3854,
+      0.4353,
+      0.4925,
+      0.4179,
+      0.3532,
+      0.3693,
+      0.3884,
+      0.374,
+      0.4857,
+      0.4488,
+      0.3955,
+      0.3475,
+      0.4059,
+      0.427,
+      0.4468,
+      0.4027,
+      0.3931,
+      0.411,
+      0.3785,
+      0.3621,
+      0.3969,
+      0.4061,
+      0.3423,
+      0.3974,
+      0.3998,
+      0.4487,
+      0.416,
+      0.4204,
+      0.3807,
+      0.5513,
+      0.4151,
+      0.4124,
+      0.4435,
+      0.4544,
+      0.4079,
+      0.401,
+      0.3606,
+      0.3687,
+      0.424,
+      0.363,
+      0.3524,
+      0.4106,
+      0.4201,
+      0.4201,
+      0.334,
+      0.3865,
+      0.4415,
+      0.4086,
+      0.4193,
+      0.396,
+      0.4025,
+      0.3417,
+      0.5052,
+      0.4741,
+      0.4077,
+      0.3749,
+      0.3723,
+      0.3973,
+      0.3844,
+      0.424,
+      0.4547,
+      0.3863,
+      0.4552,
+      0.4467,
+      0.442,
+      0.367,
+      0.4421,
+      0.4287,
+      0.3496,
+      0.5613,
+      0.46,
+      0.4151,
+      0.5131,
+      0.5613,
+      0.4867,
+      0.3892,
+      0.5253,
+      0.4751,
+      0.4217,
+      0.4254,
+      0.3649,
+      0.4962,
+      0.3719,
+      0.4066,
+      0.4083,
+      0.5276,
+      0.5314,
+      0.3059,
+      0.4133,
+      0.3905,
+      0.4181,
+      0.3905,
+      0.4326,
+      0.3228,
+      0.4754,
+      0.3983,
+      0.4528,
+      0.3649,
+      0.4738,
+      0.4554,
+      0.4275,
+      0.4357,
+      0.4458,
+      0.4972,
+      0.3897,
+      0.4755,
+      0.4452,
+      0.5065,
+      0.3881
+    ]
+  },
+  "status": "quality_passed",
+  "created_at_bjt": "2026-07-25T07:37:57+08:00",
+  "updated_at_bjt": "2026-07-25T07:39:03+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}
