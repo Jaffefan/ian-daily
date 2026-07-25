@@ -110,40 +110,65 @@
       "updated_at_bjt": "2026-07-26T07:41:06+08:00"
     },
     "sports": {
-      "attempts": 1,
-      "status": "failed",
+      "attempts": 2,
+      "status": "quality_passed",
       "stages": {
         "preflight": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-07-26T07:41:06+08:00"
+          "at_bjt": "2026-07-26T07:43:56+08:00"
         },
         "collection": {
           "status": "completed",
           "detail": "40 candidates",
-          "at_bjt": "2026-07-26T07:41:06+08:00"
+          "at_bjt": "2026-07-26T07:43:57+08:00"
         },
         "fact_pack": {
           "status": "completed",
           "detail": "5 stories",
-          "at_bjt": "2026-07-26T07:41:24+08:00"
+          "at_bjt": "2026-07-26T07:44:02+08:00"
         },
         "content_brief": {
           "status": "completed",
           "detail": "Qwen/Qwen3.5-4B",
-          "at_bjt": "2026-07-26T07:41:25+08:00"
+          "at_bjt": "2026-07-26T07:44:06+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-26T07:45:39+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "source",
+          "at_bjt": "2026-07-26T07:45:50+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-26T07:45:52+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-26T07:46:48+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-26T07:46:48+08:00"
         }
       },
       "errors": [
         "播客内容过短：3393 字，至少需要 3800 字"
       ],
-      "episode_id": "",
-      "updated_at_bjt": "2026-07-26T07:43:09+08:00"
+      "episode_id": "2026-07-26-sports",
+      "updated_at_bjt": "2026-07-26T07:46:48+08:00"
     }
   },
   "notifications": {
     "generation:sports": "2026-07-26T07:43:11+08:00"
   },
   "release": {},
-  "updated_at_bjt": "2026-07-26T07:43:11+08:00"
+  "updated_at_bjt": "2026-07-26T07:46:48+08:00"
 }
