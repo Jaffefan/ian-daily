@@ -1,0 +1,815 @@
+{
+  "episode_id": "2026-07-26-tech",
+  "schema_version": 4,
+  "category": "tech",
+  "category_name": "科技",
+  "date_bjt": "2026-07-26",
+  "story_set": {
+    "category": "tech",
+    "date_bjt": "2026-07-26",
+    "articles": [
+      {
+        "id": "f2fa2f0eee8dc12fcd54",
+        "category": "tech",
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech",
+        "source": "TechCrunch",
+        "published_at_bjt": "2026-07-26T00:00:00+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech\n\nURL Source: https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech\n\nPublished Time: 2026-07-25T16:00:00+00:00\n\nMarkdown Content:\n“Everybody’s on their phone at my program!” jokes Charlie Bailey, a librarian in South Philadelphia. He’s just asked his audience to pull out their phones so that he can walk them through the steps of disabling Apple Intelligence and Gemini.\n\nBailey stands at the front of a library classroom that’s outfitted for children – the focal point is the vibrant rug he’s standing on, which reminds us that M is for “moon” and Z is for “zebra.” But the 20-odd adults in the room aren’t here to learn about the alphabet. They’re at a workshop called Avoiding AI, which, in this context does not stand for “apple” and “igloo.”\n\n“I was inspired by the feeling of people’s frustration with AI tools being kind of forced onto them, and feeling like AI tools we didn’t ask for are suddenly everywhere in our lives,” Bailey told TechCrunch.\n\nBailey starts the hour-long workshop with an overview of how AI chatbots and other consumer AI tools work, explaining why people might want to use these products, and why they might opt to abstain. Then, he walks through all of the most popular tech platforms and devices, showing step-by-step instructions on the projector to guide people through turning off specific features.\n\n“As a librarian, I think it’s important to see this as advancing digital literacy and helping people reclaim their autonomy over whether they want to use AI tools,” Bailey said. “It’s important, especially when it can be so difficult not to use them, and when the design seems to force adoption.”\n\n![Image 1: Charlie Bailey hosts an \"Avoiding AI\" workshop](https://techcrunch.com/wp-content/uploads/2026/07/avoiding-ai.jpg?w=680)\n\nCharlie Bailey hosts an “Avoiding AI” workshop**Image Credits:**TechCrunch\n\nBailey got the idea for the Avoiding AI workshop from Hannah Cyrus, a librarian in Maine. He was one of dozens of librarians from around the world who contacted Cyrus after she published [a journal article](https://ital.corejournals.org/index.php/ital/article/view/17653) about developing her own workshop.\n\n“This has never happened before with anything I’ve worked on,” Cyrus told TechCrunch. “Nobody has ever been emailing me like, ‘Can you give me your Intro to Computers slides?’”\n\nAt the Bangor Public Library, patrons turn to Cyrus when they need help with anything involving technology.\n\n“More and more, I was getting questions about, ‘How do I turn this [AI] stuff off? Why is it trying to write my emails for me? Why is it trying to summarize my one-sentence email that I can easily read?’” Cyrus said. “I just decided that with so much media hype out there about AI products, it would be a good opportunity to teach people about the basics of what is happening when you’re using this technology, and then getting into how to turn it off if you don’t want to use it.”\n\nUsually, Cyrus’ classes like Intro to Computers get about a dozen attendees. But so many people expressed interest in her first Avoiding AI workshop that she had to cut off registration at 30 people, open a waitlist, and share the workshop on Zoom. Including the livestream, about 70 people attended each of Cyrus’ first two workshops.\n\nWhen Bailey followed Cyrus’ lead to host a workshop in Philadelphia, the reception was similarly unprecedented. The library’s [Instagram post](https://www.instagram.com/p/DYmy8v2O-1F/) about the “Avoiding AI” event got over 2,000 likes and 220 shares, whereas most of the library’s posts don’t get more than a few dozen likes. He scheduled a second program because the first got too many registrations.\n\n“As an information professional, it feels good to see people skeptical of AI,” Bailey said. “It felt really good to see how many people share this feeling.”\n\nThere’s a sense of camaraderie among the room of strangers during the workshop. When Bailey invites attendees to share their own tips, one person explains that when you append “&udm=14” to a Google Search, it will hide AI results. Bailey writes the string of characters down on a whiteboard next to the log-in credentials for the teen Wi-Fi server.\n\n“You have to go through all the trouble to buy a home in today’s world, and two years from now, there could be a data center next to your house,” one workshop attendee named Johnny says.\n\n“I keep getting AI shoved down my throat at work, and every time I see it, I think about the environment,” another attendee named Gabrielle adds. But she’s also not writing off AI as a technology altogether. “I’m not against AI in terms of medical breakthroughs.”\n\nAI naysayers know that this technology is far broader than just chatbots and deepfake apps. Cyrus mentioned how useful optical character recognition is for scanning old documents at the library. But for her and the people who go to her workshops, the anti-AI movement isn’t about rejecting technology altogether so much as it is about advocating for more control, agency, and freedom in how people use technology.\n\n“I think the forced adoption of AI on people’s devices might be the straw that’s breaking the camel’s back in some ways,” she said. “The awareness has been growing for a long time that these products and these companies that make them have an outsized influence over us, and that we’re not really using these products in the way that we would like to.”\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n\nAmanda Silberling is a senior writer at TechCrunch covering the intersection of technology and culture. She has also written for publications like Polygon, MTV, the Kenyon Review, NPR, and Business Insider. She is the co-host of Wow If True, a podcast about internet culture, with science fiction author Isabel J. Kim. Prior to joining TechCrunch, she worked as a grassroots organizer, museum educator, and film festival coordinator. She holds a B.A. in English from the University of Pennsylvania and served as a Princeton in Asia Fellow in Laos.\n\nYou can contact or verify outreach from Amanda by emailing amanda@techcrunch.com or via encrypted message at @amanda.100 on Signal.\n\n[View Bio](https://techcrunch.com/author/amanda-silberling/)\n",
+        "image_url": "images/62f877cd86d57d21.webp",
+        "image_credit": "TechCrunch",
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+        "image_status": "downloaded",
+        "image_phash": "7e3c7e7e3ce73c7e",
+        "community_signals": []
+      },
+      {
+        "id": "cc04af0507f4f94d16e9",
+        "category": "tech",
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+        "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
+        "source": "TechCrunch",
+        "published_at_bjt": "2026-07-25T21:05:00+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: One fallen power line exposed a growing AI data center problem. Here’s how to fix it.\n\nURL Source: https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it\n\nPublished Time: 2026-07-25T13:05:00+00:00\n\nMarkdown Content:\nA power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously.\n\nThe event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by [Ting Labs](https://www.tingfire.com/), a startup that runs an IoT sensor network out of people’s electrical sockets.\n\nThe event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent.\n\nNorthern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world.\n\n“It’s the canary in the coal mine,” Ricardo de Azevedo, CTO at [ON.Energy](https://www.on.energy/), told TechCrunch. These sorts of events involving large loads like data centers are “happening more and more,” he added.\n\nThe event echoes one that happened two years ago, also on PJM’s grid, and it could foreshadow larger events if data centers aren’t built to more elegantly handle disruptions to power supplies. The PJM Interconnection manages grids from New Jersey to Illinois and serves 67 million customers, making it the largest grid operator in the United States.\n\nWhen the power line went down this week, it triggered data centers to switch to backup power, and about 3.1 gigawatts of load vanished in about 30 seconds, according to [PJM data](https://dataviewer.pjm.com/dataviewer/pages/public/ace.jsf). The grid appeared to recover somewhat, but a short time later additional loads dropped off. At its peak, PJM’s grid had an extra 3.49 gigawatts of electricity on it. It took another 11 minutes before it stabilized. The disconnected data centers represented around 3% of total demand on PJM at the time, [according](https://www.reuters.com/business/energy/massive-disconnect-power-roiled-largest-us-electric-grid-2026-07-22/) to Reuters.\n\nA few percent may not sound like much, but the electrical grid needs to operate in a state of near-perfect balance, with supply and demand closely matched. If they don’t, voltages can sag or spike. The grid and devices connected to it can tolerate small fluctuations, but if those fluctuations grow too large, they’ll trigger failsafes within the grid or within individual facilities, causing them to disconnect.\n\nWhen data centers in Northern Virginia sensed the fluctuation caused by the failed power line, they switched to backup power, which removed their load from the grid. As more data centers made the switch, they removed greater amounts of load from the grid. What started as a relatively small drop in supply became an even larger drop in demand, sending supply surging and causing light bulbs to flicker.\n\nMost data centers make decisions in a split second, and those that disconnected this week appear to be no different. When the voltage dip reached them, they all decided to disconnect within a few seconds of each other, Ali Zain Banatwala, senior market models specialist at the Independent Electricity System Operator, told TechCrunch.\n\n“We need to figure a way for these loads that are located next to each other to sequentially either disconnect or reconnect,” he said. A more orderly process would allow grid operators to develop more robust procedures in advance.\n\nAlternatively, data centers could be built to absorb disruptions and not turn their backs to them. One startup, ON.Energy, has been working on a product to help data centers — and the grid — ride through events like the one that occurred this week.\n\nThe company has developed an uninterruptible power supply for an entire data center campus, covering not just servers but also chillers and other equipment. The company essentially hides the data center behind a bank of batteries connected to sophisticated power conversion equipment. All the grid “sees” is one consistent, well-behaved load rather than the peaks and valleys from each individual part of the data center. ON.Energy’s system allows data centers to ramp computing workloads up and down, including AI training, without bothering the grid.\n\nPerhaps more important, it also means that data centers can absorb power fluctuations from the grid. Rather than disconnecting from the grid, ON.Energy’s system can use any extra power to charge its batteries, and if the flow dips, the system can dispatch power to servers. Plus, it can follow the grid’s lead within milliseconds, preventing sags or surges like the ones that caused this week’s problem for PJM.\n\nON.Energy is currently installing a total of 3 gigawatts worth of its systems at four different data center campuses, de Azevedo said.\n\nGrid managers have also woken up to the problem.\n\nERCOT, for example, is going to require large loads like data centers to “ride through” disruptions, de Azevedo said.\n\nThe clock is ticking, though. The mass disconnection this week was twice as large as a similar event in 2024, when 60 data centers simultaneously disconnected, pulling 1.5 gigawatts of load from the grid. Back then, data centers accounted for about 6% of PJM’s load, [according](https://www.synapse-energy.com/sites/default/files/Final%20PJM%20Data%20Center%20Modeling%20Results%20(20241217)%2024-089.pdf) to Synapse Energy Economics. By 2040, they are expected to make up 24%. If the problem isn’t addressed soon, things could get a lot worse.\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n",
+        "image_url": "images/37b0f6f98ef26f00.webp",
+        "image_credit": "TechCrunch",
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+        "image_status": "downloaded",
+        "image_phash": "020206676777777f",
+        "community_signals": []
+      },
+      {
+        "id": "de72e6fcf4d06c4052e0",
+        "category": "tech",
+        "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+        "summary": "模型变强，Claude Code系统提示词都精简了",
+        "url": "https://www.qbitai.com/2026/07/460253.html",
+        "source": "量子位",
+        "published_at_bjt": "2026-07-25T20:11:39+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: 半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来\n\nURL Source: https://www.qbitai.com/2026/07/460253.html\n\nMarkdown Content:\n< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">\n\n2026-07-25 20:11:39 来源：[量子位](https://www.qbitai.com/)\n\n模型变强，Claude Code系统提示词都精简了\n\n##### 克雷西 发自 凹非寺\n\n 量子位 | 公众号 QbitAI\n\n泄露了一路的Opus 5，刚正式登场就被网友玩疯了。\n\n今天凌晨，Anthropic正式把这款新模型放了出来。\n\n![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/d5fc44e5d0388ef2b45b08859fd92a31.webp)\n多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半。\n\nFrontier-Bench上，它反超了包括Fable 5在内的所有对手，性能是上一代Opus 4.8的两倍还多。\n\nCursorBench最高努力设置下，也贴近定价两倍的Fable 5峰值成绩，只差0.5%。\n\n![Image 2](https://i.qbitai.com/wp-content/uploads/2026/07/5f4fa9a4e69208bf331f510037db0944.webp)\n官方给出的demo里，有一个能实时显示气流路径的风洞，气流怎么绕过去看得清清楚楚。\n\n![Image 3](https://i.qbitai.com/wp-content/uploads/2026/07/b026129af9f2638676e8b8865bd9826d.gif)\n还有一张能360度旋转的3D细胞结构图，连内质网上密密麻麻的核糖体都画了出来。\n\n![Image 4](https://i.qbitai.com/wp-content/uploads/2026/07/3371ddbceeec3ebf58e1d5ce3985efc3.gif)\n更耐人寻味的是，为了配上这代模型的判断力，Anthropic把自己给Claude Code写的系统提示词删掉了八成，成绩却没掉。\n\n之前泄露的时候有网友感叹Opus 5简直就像fable 6，现在Opus 5正式发布之后，有人更赞同这个说法了。\n\n![Image 5](https://i.qbitai.com/wp-content/uploads/2026/07/793b39ba36ead8644c757117c0bb612d.webp)\n## 网友已开启疯玩模式\n\nOpus 5上线不过半天，网友们就已经开启了疯玩模式，接下来就来看看网友们都整出了什么活。\n\n博主am.will本来觉得Opus 5不过是一个便宜版Fable，测完直接改口，说自己「大错特错」。\n\n他只用了5倍Max订阅额度的27%，就让Opus 5搭出了他见过最好的一个Rocket League克隆版，游戏能玩，代码还开源在了评论区。\n\n![Image 6](https://i.qbitai.com/wp-content/uploads/2026/07/e0b68e2218a235ab2f3cbc10e8380a90.webp)\n类似的反差，也出现在另一段动画演示里。\n\n博主OmedTheVibeCoder做完测完一个竞技场对决的画面，评价从「以为会接近」变成「根本不是接近，是完全甩开了它」。\n\n开头看到的「就是fable 6」的评价，正是看了这个结果说出来的。\n\n![Image 7](https://i.qbitai.com/wp-content/uploads/2026/07/f6b42e094ec64538b3257fa40665d3d4.webp)\n后来他有放出了和其他模型的对比，并补充说自己「差点从椅子上摔下来」，因为Opus 5 Max直接打破了他原来的测试标准。\n\n他表示，这已经不像是代码生成的画面，倒像是把提示词丢进了图像生成器，出来的却是一整张能走进去的地图。\n\n![Image 8](https://i.qbitai.com/wp-content/uploads/2026/07/c0fae643d057e6b577e167ac324912b6.webp)\n另一位博主Alex Ermolov搭建的是滑雪场景，他给出的结论是「和Fable 5打平，甩开我测过的所有其他模型」，第一遍生成就没有明显穿模，滑行物理也对。\n\n![Image 9](https://i.qbitai.com/wp-content/uploads/2026/07/19ee78cb0ffe8ca299d7fa201eb78ffb.webp)\nMinecraft复刻测试里，Chetaslua更是把这次生成称为「迄今为止最好的一次创作」。\n\n![Image 10](https://i.qbitai.com/wp-content/uploads/2026/07/77633cc027d0cb4799863c5973ac13d5.webp)\n把它接入到Unity，就像给游戏开了挂一样。\n\n![Image 11](https://i.qbitai.com/wp-content/uploads/2026/07/f61e9885236c4149a75ee7f6c1d8763f.webp)\n\nOpus 5对物理规律也拿捏的很精准，在这个连环机关场景当中，每个缓解都和真实规律严丝合缝。\n\n![Image 12](https://i.qbitai.com/wp-content/uploads/2026/07/491e1870adec4a7c9a07fbd9cc55bb1f.webp)\nNoema则给了Opus 5一个「狠」提示词，要求只用一个HTML文件，做出一整条从1945年变化到2055年的街区，建筑、车辆、店铺、人群、灯光和音效全部跟着年份走。\n\n即使effort从max降到high，Opus 5的结果也把Fable 5、GPT-5.6 Sol都甩在了后面，Noema给的评价只有三个单词，「是个怪物」。\n\n![Image 13](https://i.qbitai.com/wp-content/uploads/2026/07/277b1ffa16dea79a2fc3a145ad43f9ae.webp)\n还有阿波罗任务的点火升空场景，从火箭喷焰到实时刷新的遥测数据，几乎全靠程序生成，没有拼现成素材库。\n\n![Image 14: img](https://mmbiz.qpic.cn/sz_mmbiz_png/A6fTew8FFGEWrKO9myyvC2GQqWS4pwxV3yEf7CwNObpBDkvua4ujXtw8Sg94Wib72CbRscZQFJmGic5zPjylp3h6PQa0485JoK5lITyQK6ZWk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=13)\nCAD设计上，网友也是直接给它封神，表示它在很多机械设计任务当中表现超越了fable。\n\n![Image 15: 图片](https://mmbiz.qpic.cn/mmbiz_png/A6fTew8FFGE4x5IwMyhAjxOKUXuVAHT4Z7qv8NZLWmX7wzw4icRjEibho9zWAtJPbr4NapLDfnI7XWPJDic0rl7hJicpHTB6YZbS0YWBO1lk8y8/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=14)\n教育场景上，开发者Matt Shumer给@AlphaSchool做了个实时AI家教原型。\n\nOpus 5负责对话和方向判断，配合一个专门训练的小型世界模型做实时渲染，虽然还很粗糙，已经能一边讲分数概念一边在画板上同步画图。\n\n![Image 16: img](https://mmbiz.qpic.cn/mmbiz_png/A6fTew8FFGFEIq7OG2wW9a1nMlkcE5J7xtAXmHrZtsxxyelApCHE5Yt2CJQSbrpGJ2QFzKYEAibFSdggiaqMLKib6evc1zRonF4lOQGnzr9Oao/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=15)\n另外我自己也试着让Opus 5（Low Effort）写了一个三羧酸循环过程的3D网页动画演示。\n\n它的核心思路是只描述化学过程，把几何计算交给程序完成。\n\n具体来说，Opus 5针对每幕反应只写原子清单与键表，每根键带有反应前后两个键级，由此同时定义底物与产物。\n\n三维坐标交则由几何优化器现场求解，按元素和键级取标准键长，按配位数推杂化得到键角，再加上非键排斥与平面性约束迭代收敛。\n\n产物构型则以底物坐标为起点再优化一次，使动画只保留必要位移，离去的小分子则自动被推开飞散。\n\n最后，Opus 5将代码单独抽出，校验键长与键角，确认无误后再用Three.js渲染成球与圆柱。\n\n最终交付的成果不仅正确体现反应过程，键长、键角等物质的真实结构信息，也都是按照实际渲染的。\n\n![Image 17: img](https://mmbiz.qpic.cn/mmbiz_gif/A6fTew8FFGHDG2evAjdTA4ibeeGCsmAf3FmiaAXfMOZMblVebjcprExEVWjOQqQM6LcSGgkUScVuNl6npXGNBRNX9ibedhDFLUznyywvib5xx4U/640?wx_fmt=gif&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=16)\natomic.chat则用三个破坏场景的题目，做了一次更细的横向对比，并且比较了成本。\n\n同样是龙卷风卷起整片场地、重锤砸楼、卡车压塌桁架桥这三道题，Opus 5花0.508美元全部做对，Fable 5花的钱几乎是Opus 5的两倍，龙卷风卷不起地面上的东西，楼在锤子碰到之前自己就塌了，桥直接炸成一堆木棍。\n\nGPT 5.6最便宜，0.14美元，但锤子压根没碰到楼，同期的Kimi K3和GPT 5.6水平相当。\n\n![Image 18: img](https://mmbiz.qpic.cn/mmbiz_png/A6fTew8FFGGQ9Dp51cHVduROZfiahu96BMuTd3r4j002AMt1TZJElFyqsfSMiaRibTkpbMicypg4AlibgoAOu1wlZFDYJKKRIPN9dHrs7Y73vnXk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=17)\n之前Opus 5泄露时，有人怀疑它虽然单价低但token烧太多，综合下来并不比fable便宜，现在看来可能只是个例。\n\n## 更硬核的自检流程\n\n博主Victor M做了一次更硬核的自检演示，题目是照着波音747的公开数据，用代码在浏览器里重建出一架能转能看的3D模型。\n\nFable 5用42分钟交了活，4个文件、约1000行代码，搭了一套Puppeteer渲染管线，跑了17轮渲染，检查了54张截图，验证方式只靠肉眼看图对不对。\n\nOpus 5花了71分钟，写出20个模块、约4000行代码，换成Playwright渲染管线，25套镜头预设，还多写了一个测量脚本。\n\n而它验证的方式，是从渲染出来的画面里提取正射轮廓，算出翼展、轴距、机翼前缘扫掠角等14项具体指标，逐项去和波音747-400的公开数据核对公差。\n\n它还做了几件Fable 5没做的事，前43分钟只渲染没贴皮的素模，确认轮廓过关了才上涂装，中途加了一个调试参数，能单独渲染某个子部件方便排查问题，最后把6个视角拼成一张联系表一次看完，不用一张张翻截图。\n\nVictor M的结论是，Fable 5交货快了大概40%，尺寸表也更好读，但它用的是和Opus 5一样的747-400真实数据，却从没拿建好的模型反过来量过这些数据对不对。\n\n![Image 19: img](https://mmbiz.qpic.cn/sz_mmbiz_png/A6fTew8FFGFCKkVqZFzZcVmuJWf1d7Eia8VtA4RVkB5nUKqdT0167fW0dzzTdiakX2rzwWnwFu5lPTiaA6HHAZeicEE3ZkRUViaicq4nQ6E5zUaEk/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=18)\n之所以把这个例子单独拿出来说，是因为Opus 5这种「自己验证自己」的劲头，在Anthropic官方给的案例里同样能看到。\n\n![Image 20: img](https://mmbiz.qpic.cn/mmbiz_png/A6fTew8FFGE6Qibibd1bsk3d9T71yXVrYIrZiaYm7YdekRibK5vSptlbYlFOUiaqTBfwjNgDvJ2wDG5YtK9dtCEDFD6vkGPtp0zAxXskXzU6ZfuM/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=19)\n比如Frontier-Bench有一道题，给Opus 5一张机械零件的图纸，要求它写代码，用FreeCAD把零件重建成3D模型，却不给任何直接看图的方式。\n\n它索性自己写了一套计算机视觉管道，从像素里提取几何数据，把零件重建了出来，而且反复成功，同样的设定下，其他模型试了五次都没做出来。\n\n还有一个开源包管理器的真实bug，社区提交的补丁只处理了表面症状，Opus 5顺藤摸瓜找到了底层原因，把边缘情况一起修了。\n\n另外，一位量化交易工程师用它给新交易所搭实时行情源，之前的模型全部做不出来，Opus 5发现没有实时数据可以验证，干脆自己搭了一套测试环境，专门检查代码解析交易所数据对不对。\n\n## 一半价格咬住fable 5\n\n看完这些demo，再来通过数据感受一下Opus 5的性价比。\n\n价格上，Opus 5和前一代的Opus 4.8相比是提质不加价，依然是每百万token输入5美元、输出25美元，只要Fable 5的一半。\n\n同时Opus 5也照旧配备了Fast模式，和之前一样是两倍价格换2.5倍速度。\n\n比起价格，Opus 5在跑分上的赢面更让人意外。\n\n![Image 21: img](https://mmbiz.qpic.cn/mmbiz_png/A6fTew8FFGExmow2b9FKxOXsaegVhtNSlYoDc3NJ41icicGiaRRVibDQ5ypoAtmDD75DdTicjeFicng5gRPaTyOjdItRQMLxmtn1k6XZVq7JFvGgo/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=20)\nFrontier-Bench v0.1这类硬核编程任务上，它拿到43.3%，把Fable 5的33.7%甩开一截，是自家上一代Opus 4.8（21.1%）的两倍还多。\n\nOpus 5赢面最大的一项是ARC-AGI-3，专测那种模型压根没见过的全新问题。\n\n它拿到30.2%，隔壁GPT-5.6 Sol只有7.8%，差了将近四倍，比上一代Opus 4.8更是翻了近20倍。\n\n![Image 22: img](https://mmbiz.qpic.cn/sz_mmbiz_png/A6fTew8FFGEYoUcCeicmTFniaZeicVC7nX5wApzmWibAc4ek4dCL4TtZSAddcQjsqjEG22rttYNSrz6aMB4eSYQNawEWDQnARFq1wcJ92Voicab0/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=21)\n还有专门用来为难顶尖模型的高难度测试Human’s Last Exam，不开工具的时候，Opus 5的得分是56.3%，和Fabl",
+        "image_url": "images/456b0646ca647d3f.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "image_kind": "fallback",
+        "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+        "image_status": "source_unavailable",
+        "image_phash": "fff11ff3e00f8f03",
+        "community_signals": []
+      },
+      {
+        "id": "cf2f8df7da9c057a63b8",
+        "category": "tech",
+        "title": "100%开源！吴恩达做了个个人桌面Agent",
+        "summary": "开源、隐私、本地优先、模型无关",
+        "url": "https://www.qbitai.com/2026/07/460892.html",
+        "source": "量子位",
+        "published_at_bjt": "2026-07-25T20:35:34+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: 100%开源！吴恩达做了个个人桌面Agent\n\nURL Source: https://www.qbitai.com/2026/07/460892.html\n\nMarkdown Content:\n< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">\n\n2026-07-25 20:35:34 来源：[量子位](https://www.qbitai.com/)\n\n开源、隐私、本地优先、模型无关\n\n##### 文婷 发自 凹非寺\n\n 量子位 | 公众号 QbitAI\n\n**AI教育大佬吴恩达也下场做AI同事了。**\n\n不只是陪你聊天，也不只是给你列一个待办清单。\n\n而是你说一句“帮我准备客户brief”，它就能跨文件、日历、Slack这些日常工具自己干活，最后把整理好的文档、写好的消息、更新后的日程交到你手上。\n\n项目名为**OpenWorker**，现已在GitHub开源，采用MIT License。\n\n![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/52796117df1dce42dfcf30c8ae4a641c.webp)\nOpenWorker主打四件事：**开放**、**本地优先、隐私保护**以及**模型无关**。\n\n吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线。\n\n**它不绑定任何特定模型。**你只需带上自己的 API Key，即可接入 GPT 5.6 Sol、Claude Fable、Gemini 3.6，或是通过 Ollama 运行 Kimi、GLM、DeepSeek、Inkling 等开放权重模型。\n\n同时，**你的数据只会保留在你自己的设备上**，除非你主动选择使用特定的 LLM 服务商或第三方集成功能。\n\n![Image 2](https://i.qbitai.com/wp-content/uploads/2026/07/a08fe5933f297b8474ca098030ac2e1b.webp)\n吴恩达在X上对它的定位很直接：**这是一个open-source agent**，不只是和你聊天，而是deliver finished work。\n\n直抒胸臆就是：**别光陪我聊天，帮我把活干了。**\n\n![Image 3](https://i.qbitai.com/wp-content/uploads/2026/07/6cb3bb08e18ea24f94dcfae6414bdea5.webp)\n\n这很吴恩达。\n\n过去几年，他一直在强调AI Agent和工作流的重要性。\n\n这次OpenWorker开源，某种意义上也把这个判断又往前推了一步：Agent的下一站，不只在浏览器里，也不只在代码编辑器里，而是在我们的桌面上。\n\n那么，这个OpenWorker到底能干什么？为什么它值得关注？真正的看点在哪？\n\n一起来看![Image 4](https://i.qbitai.com/wp-content/uploads/2026/07/8530d5e5a7a750061db57367edd55585.webp)：\n\n## 吴恩达，开始造AI同事了\n\nOpenWorker的一大看点，在于其开源者是**吴恩达**。\n\n![Image 5](https://i.qbitai.com/wp-content/uploads/2026/07/2da97e12027bd9cfc8b29e85f9613e3d.webp)\n他是**DeepLearning.AI创始人**、**Coursera联合创始人**，也是**斯坦福大学计算机科学系兼职教授**。\n\n此前，他曾牵头创立**Google Brain项目**，并担任**百度首席科学家**。\n\n除了学术和产业履历，**吴恩达在AI教育领域的影响力同样突出。**\n\n2011年，吴恩达在斯坦福开设了一门在线机器学习课程，吸引逾10万名学生参与。\n\n次年，他与Daphne Koller联合创办了全球知名慕课平台（MOOC）**Coursera**。\n\n据其个人官网数据，**目前已有超过700万人通过他的课程学习人工智能。**\n\n![Image 6](https://i.qbitai.com/wp-content/uploads/2026/07/d63e63fb0c43ab46cadd9f74b2c32acb.webp)\n因此，OpenWorker不是某个开发者随手放到GitHub上的实验项目。\n\n吴恩达这一次瞄准的，仍然是**降低AI的使用门槛。**\n\n只不过，**过去交付的是课程；**\n\n**这一次，交付的是一个AI同事。**\n\n## 不给建议，直接给成品\n\nOpenWorker与普通聊天机器人最直接的区别，可以用**“交付”**一词概括。\n\n之前使用大模型，通常需要经历一条漫长的任务链，即先让AI分析需求，再让它生成文本，然后自己查找文件、核对数据、调整格式，最后打开Slack、邮箱或者日历，把结果发出去。\n\n在这个过程中，AI虽然参与了工作，但我们仍然需要在不同软件之间来回倒腾、收拾残局。\n\n现在，**OpenWorker想把这条链路接起来。**\n\n我们只需要告诉它希望得到什么结果，它便会自行拆解任务，调用电脑中的文件、终端和已连接的应用，完成具体操作，最后交付一份能够打开、修改和分享的文件。\n\n比如让它准备一份客户简报，它不只会列出简报应该包含哪些内容，而是会寻找相关资料、整理客户信息，再生成完整文档。\n\n让它检查项目进度，它也可以前往Jira和GitHub搜集信息，而不是等着用户把所有背景材料一段段喂给它。\n\n![Image 7](https://i.qbitai.com/wp-content/uploads/2026/07/c6e88fe52c7021109a581628060a1ab4.webp)\nOpenWorker项目主页显示，它可以**连接超过25种工具**，包括GitHub、Slack、Jira、Notion、Linear、HubSpot、Outlook、Gmail、Google Calendar等，能调用本地文件与终端。\n\n并且，如果你觉得这25种工具不够用，**还可以通过MCP继续为它接入更多的工具。**\n\n![Image 8](https://i.qbitai.com/wp-content/uploads/2026/07/dcdc226ce70a28509168797ddd70f2a2.webp)\n\n![Image 9](https://i.qbitai.com/wp-content/uploads/2026/07/5445d5ebef07e6cdff438b0d0cfab2a6.webp)\n\n此外，OpenWorker还能与大模型相互配合、共同执行**定时任务**。\n\n比如每天早上定时整理一份信息简报，每周自动生成工作报告，或者持续关注某个Slack频道等，都可以交给它处理。\n\n![Image 10](https://i.qbitai.com/wp-content/uploads/2026/07/cef91f61bc5959525ebcc30ec9e997ab.webp)\n这么看下来，OpenWorker更像是给大模型配上了办公桌、电脑和一串工具账号。\n\n**大模型负责思考，OpenWorker负责让它真正动手。**\n\n听起来真像一对配合默契的工作伙伴！\n\n![Image 11](https://i.qbitai.com/wp-content/uploads/2026/07/a472b29eb33dbde2afb274093b5eebf5.webp)\n## 能干活，也能主动请示、不自作主张\n\n不过，当AI从回答问题走向操作电脑，风险也跟着变了。\n\n一段回答写错了，可以重新生成。\n\n但如果AI把你准备发给朋友的吐槽发给领导、删错没有备份的重要文件、改错日程，事情就没有那么简单了。\n\n![Image 12](https://i.qbitai.com/wp-content/uploads/2026/07/afbda90d1f5d4f1caca1fa71b481d077.webp)\n对此，OpenWorker给出的解决方式是**“在执行重要操作前，先回来请示。”**\n\n当任务涉及发送消息、修改日历、写入外部工具或者执行终端命令时，它会先暂停操作，向我们说明自己准备做什么。只有获得批准后，它才会继续执行。\n\n如果我们不在电脑前，但OpenWorker又刚好执行到了发消息、改文件、运行命令这类关键步骤，**它也不会为了赶着完成任务就跳过确认，而是会先把请求放进待确认列表，等我们回来同意了后再继续做。**\n\n![Image 13](https://i.qbitai.com/wp-content/uploads/2026/07/c5b4119c4e88d7a5301ac51fad027071.webp)\n这条设计看起来不起眼，却决定了AI Agent能不能真正进入办公场景。\n\n毕竟，一个合格的AI同事可以勤快，但不能擅作主张。\n\n**它既要有能力把工作推进下去，也要知道哪些事情必须由人拍板。**\n\n## 模型随便换，数据可以留在本地\n\n除了直接交活，OpenWorker还强调四个特点：**开源、本地优先、隐私保护以及模型无关。**\n\nOpenWorker整个项目**已采用MIT许可证开源**，开发者可以查看代码、修改功能，也可以按照自己的工作流程进行部署。\n\n它也**不把用户绑定在某一家模型厂商上**。\n\n**只要你带上自己的API key**，就可以接入OpenAI、DeepSeek、Kimi等模型，也可以通过Ollama运行本地模型。\n\n**这样可自由多了！**因为假如说今天GPT涨价了或者不好用，我随时都可以切换成Kimi或其他模型。\n\n![Image 14](https://i.qbitai.com/wp-content/uploads/2026/07/f2d603df27a0bdd3629c97be2edf7d61.webp)\n此外，OpenWorker的Agent循环、对话记录、连接器令牌和模型密钥都默认保存在我们自己的设备上。\n\n只有当我们主动选择使用特定的LLM服务商或第三方集成功能时，相应的数据才会离开本机。\n\n不过这也**并不意味着数据绝对不会上传云端。**\n\n但至少我们将更多的选择权保留在了自己的手中，比如“使用哪个模型、连接哪些工具、把数据交给谁”等。\n\n另外，我看了一眼OpenWorker项目主页，它**目前仍处于公开测试阶段**，GitHub上也已经放出了两个Windows安装包，分别适配Windows 10和Windows 11。\n\n只不过，这两个Windows版本还没有完成代码签名，安装时可能会触发SmartScreen提醒。\n\n![Image 15](https://i.qbitai.com/wp-content/uploads/2026/07/8e864a7ba269f7d217b23462a8a9c1a0.webp)\n这表示**OpenWorker确实能用了，只是很多边角还在打磨。**感兴趣的小伙伴可以蹲一波后续更新。\n\n## AI Agent要会交活\n\nAnyway，OpenWorker把AI Agent的一个发展方向说清楚了：\n\n> **AI Agent不能永远停留在聊天框里，要真正参与工作、交付成果，并把模型选择权、工具调用权和最终决定权交还给用户。**\n\n下一阶段的AI应用，核心是**谁更能跨工具理解上下文，生成可交付成果，并在关键动作前把控制权交还给人。**\n\n吴恩达选择把OpenWorker做成开源、隐私友好、模型无关，也是在给这个方向定调：**未来的AI同事，最好是用户可选择、可控制、可改造的工作层。**\n\n当然，OpenWorker的实际使用效果还待继续观察和测评；但OpenWorker至少把AI同事的模样刻画地更加清晰了，那就是：**一个合格的AI同事不仅要能理解目标、能自主寻找材料、使用工具，把活干完、干对，也要知道什么时候应该停下来，把决定权交还给人。**\n\n参考链接：\n\n [1]https://github.com/andrewyng/openworker\n\n [2]https://x.com/AndrewYNg/status/2080333504446108104?s=20\n\n [3]https://x.com/AndrewYNg\n\n [4]https://www.andrewng.org/courses?c=nerd\n\n_版权所有，未经授权不得以任何形式转载及使用，违者必究。_\n",
+        "image_url": "images/bdb42f9fb27bcf4c.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "image_kind": "fallback",
+        "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+        "image_status": "source_unavailable",
+        "image_phash": "ff87ccfee3b117f3",
+        "community_signals": []
+      },
+      {
+        "id": "60cba4552778dc22fa71",
+        "category": "tech",
+        "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+        "summary": "这是机器人领域最好的时代",
+        "url": "https://www.qbitai.com/2026/07/460542.html",
+        "source": "量子位",
+        "published_at_bjt": "2026-07-25T20:24:27+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: 美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026\n\nURL Source: https://www.qbitai.com/2026/07/460542.html\n\nMarkdown Content:\n< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">\n\n2026-07-25 20:24:27 来源：[量子位](https://www.qbitai.com/)\n\n这是机器人领域最好的时代\n\n##### henry 发自 RSS\n\n量子位 | 公众号 QbitAI\n\n“包括Physical Intelligence在内，如今的北美头部具身智能公司离成熟都还有不短的距离。整个领域，也还没出现真正的奠基性工作。”\n\n“中国真正领先的，恰恰是机器人硬件。美国同样没有成熟答案，中国公司又何必急着把自己称为‘中国版XX’？”\n\n这是量子位来到悉尼参加RSS 2026后，几天交流下来听到最让人意外的两个判断。\n\n但有一说一，这是后话。\n\n![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/12cd0f302b619e0a08808fcc2d73a950.webp)\n刚到RSS会场时，最先冒出来的其实是另一个问题：\n\n为啥世界模型在国内都火了快半年，怎么到了机器人顶会，大家还在讨论VLA？\n\n这是我们这次线下的“第一感受”。\n\n在周一的日程里，世界模型还要和记忆放在一起，组成一场45分钟的Session。\n\n到了周二，模仿学习与VLA相关报告从下午3点多一路排到傍晚，结结实实占据了后半个下午。\n\n老实讲，这其实挺让人疑惑的。\n\n毕竟在国内，“VLA已死，世界模型当立”的说法已经传了好几轮。\n\n世界模型也被越来越多公司放进技术路线，被视为具身智能的新版本答案。\n\n![Image 2](https://i.qbitai.com/wp-content/uploads/2026/07/4becb0e50297bfae150ec6b35ec75218.webp)\n甚至略带戏谑地说，今年只要有融资新闻的具身公司，基本上都在做世界模型。\n\n那到这，问题就来了：\n\n> 为啥在机器人顶会上，大家还是VLA、VLA？难不成国内外真有半年时差？\n\n在与不少同学、老师交流后，我们发现之所以这样，其实是顶会的审稿周期已经跟不上AI领域的迭代了。\n\n比如，RSS 2026在1月30日截稿，4月27日公布录用结果，7月13日在线下举行。\n\n从截稿到会议，已经过去了近五个半月。\n\n![Image 3](https://i.qbitai.com/wp-content/uploads/2026/07/db32865c475f6bf9e5fc4aeed4e443f6.webp)\n如果再算上论文从idea到实验、写作所需的几个月，今天出现在会场上的成果，往往在大半年甚至一年前就已启动。\n\n因此，现在的顶会论文可能更像过去一段时间的技术切片，而很难成为过去几周的行业热搜。\n\n当然，这并不是说论文不重要，毕竟任何研究都得站在之前人的肩膀上。\n\n今年RSS的获奖论文，量子位已经在[刚刚，机器人顶会RSS三项最佳论文出炉！708篇送审，仅8篇杀入决赛](https://mp.weixin.qq.com/s?__biz=MzIzNjc1NzUzMw==&mid=2247904431&idx=2&sn=21d0017b87f0ff9f511a2eae7bd49201&scene=21#wechat_redirect)中记录，这里就不再赘述。\n\n相比重新复述论文，在这里我们更想聊一些只能在线下发生的事。\n\nRSS 2026大会程序主席**Matei Ciocarlie**在开场时问道：\n\n> 为什么我们要来这里？为什么不直接把论文发到arXiv，把视频发到X（Twitter），然后就结束？\n\n他的回答落在了一个词上：connection，连接。\n\n会议真正重要的，不只是台上的报告，还有人与人之间的聊天、讨论和面对面交流。\n\n量子位在RSS期间不仅和现场的学生、研究者及创业者聊了聊，也联合香港大学OpenDriveLab、源策未来、诺亦腾机器人举办了线下活动。\n\n![Image 4](https://i.qbitai.com/wp-content/uploads/2026/07/5f7b102569787ddb75a92ca704d9f122.webp)\n除此之外，星海图、自变量、千寻、智元等公司，也把交流延伸到了主会场结束后的after hours和晚宴上。\n\n可以说，就在这些线下连接中，我们听到了一些和国内热门叙事不太一样的判断：\n\n*   一位来自Sergey Levine组的受访者直言：包括PI在内，今天的具身智能公司离成熟都还有不短的距离，整个领域也尚未出现他所认为的奠基性工作。中国具身在硬件有巨大优势，对中国公司称自己为中国版xx感到不解。\n\n*   Physical Intelligence的实习生表示：VLA和世界模型并不冲突，可以全都要。不同任务需要语言推理和视频预测两种能力；至于世界模型能否像宣传中那样预测动作后果，他反问：“你真的看到它做到这件事了吗？”\n\n*   EgoVerse核心作者Simar Kareer认为：机器人领域缺的未必只是更多数据，真正拉开模型差距的还有数据如何筛选、配比和整理。\n\n*   Karen Liu在闭幕Keynote中把机器人领域概括为“Model-rich, Data-poor”：过去积累的仿真、规划和视觉模型未必适合直接充当机器人策略，却可以相互组合，成为持续生产训练数据的老师。\n\n*   李弘扬教授认为机器人下一步要解决的不只是上半身操作，而是覆盖移动、平衡、接触和操作的全身智能；这并非一种单独的模型能力，而是一项横跨控制、感知、数据和硬件的系统工程。\n\n*   Wenzhen Yuan指出，触觉目前大多仍以附加模态接入VLA，背后的难题不仅在于数据稀缺；不同触觉传感器难以迁移，机器人的指尖与末端执行器形态也会直接影响触觉能否发挥作用。\n\n*   在与智元、宇树、高擎、Seeed等厂商的交流中，多位从业者提到，在RSS展台上，来问询的仍然是高校研究机构为主；最先追问的内容往往不是机器人展示效果，而是价格、投资回报、二次开发条件，以及产品能否进入矿山、巡检等本地场景；现阶段，中国机器人的硬件出海也明显走在软件和数据服务之前。\n\n*   ……\n\n这些判断未必代表行业共识，其中一些甚至彼此冲突。\n\n但也正是这些分歧，让我们重新思考VLA、世界模型、数据、本体与产业之间的关系。\n\n## 世界模型和VLA，我全都要\n\n数据，已经被公认为当前具身智能领域里最重要的话题。\n\n但毋庸讳言，无论是在审稿人亦或是投资人眼中，**模型依旧性感**。\n\n![Image 5](https://i.qbitai.com/wp-content/uploads/2026/07/a8fe547c78bf90d5229aa5d1c8185ea0.webp)\n就今年RSS的整体情况来看，负责抓取操作、模仿学习的文章仍然占据绝对的领先地位，大家promo的时候也比较爱提到自家的模型。\n\n那么，回到最开始的问题，VLA还是世界模型？\n\n在与Sergey Levine（Physical Intelligence）的两位博士生交谈时，我也把这个问题抛给了他们。\n\n![Image 6](https://i.qbitai.com/wp-content/uploads/2026/07/cde77c2103a086c1a4a6c46cf16f850c.webp)\n其中一位给出的答案是，两条路线并不矛盾，甚至可以同时推进（pi0.7其实就有一个世界模型组件）。\n\n在他看来，不同的具身任务，适合处理它们的方式也不一样，有些任务天然更适合语言。\n\n比如处理家务时，机器人需要先理解人的指令，再借助语言把一个复杂任务拆成多个子任务，逐步规划接下来的行动。\n\n而当任务变成把物体从A点移动到B点时，机器人也可以借助图像或视频生成能力，预测动作结果，生成下一步需要达到的视觉状态。\n\n只不过，对PI自己而言，语言仍然承担着更重要的角色。\n\n这可能也解释了为什么从Steerable Vision-Language-Action Policies for Embodied Reasoning and Hierarchical Control到pi0.7以来，研究者始终把Steerable放在核心位置。\n\n![Image 7](https://i.qbitai.com/wp-content/uploads/2026/07/c216f84cfe5e20b0ff0f0ed7a8320d2d.webp)\n这里的Steerable，不只是让机器人听懂一句任务指令，而是让人类或上层模型能够通过语言、视觉子目标乃至更细粒度的控制信号，持续引导机器人选择和组合动作。\n\n也就是说，PI并不排斥图像或视频生成，但更倾向于让VLM承担语义理解和任务推理，再通过语言指令、视觉子目标等接口，把高层推理grounding到机器人的具体动作上。\n\n有意思的是，在我们组织的晚宴上，我又碰到了他们。\n\n我提到，在国内讨论世界模型与VLA的区别时，有一种颇为流行的概括：\n\nVLA根据数据输入和语言指令直接输出动作；世界模型则能预测未来状态，辅助机器人规划动作、规避风险。\n\n他没有直接认同这种划分，而是追问了一句：\n\n“你真的见过它们这样做吗？你真的见过一个部署了世界模型的机器人，说，这个动作我做了可能有问题，我不该这样做，我该采取其他动作”。\n\n说实话，我一时没接上话。\n\n后来再想，这句追问其实把问题拉回了更具体的地方。\n\n对世界模型而言，关键不只是能不能准确预测未来，还在于它究竟应该预测什么，以及这些预测能否真正帮助机器人完成操作。\n\n这个问题，在我与Simar Kareer的交谈中，有了更具体的答案。\n\n![Image 8](https://i.qbitai.com/wp-content/uploads/2026/07/5a37617a093bbec80c5a51f02eae29d9.webp)\nSimar Kareer目前在佐治亚理工学院读博，师从Judy Hoffman和徐丹飞教授，曾在Physical Intelligence实习，目前他正专注于egocentric方向的工作。\n\n他认为，世界模型应该预测什么，要由它最终服务的下游任务决定。\n\n如果目标是让机器人完成动作，那么更合理的方向，是让视频预测（video prediction）与动作预测（action prediction）联合学习，而不是只训练模型生成未来画面。\n\n对此他举了一个例子，现阶段的视频预测或许能生成视觉上合理的未来状态，却未必知道机器人的手有多大、要抓取的物体有多大。\n\n缺少这些与真实动作相关的信息，预测出来的视频再逼真，也很难直接转化为可靠的操作。\n\n因此，至少在现阶段，视频预测还无法完全取代动作监督。它可以帮助机器人想象未来，而动作预测与动作监督，则负责把这种想象落到真实、可执行的动作上。\n\n此外，来自香港大学的陈立博士在**Robot World Models**研讨会上又补充了另一层：\n\n即便确定了预测对象，“生成未来”和“判断这个未来是否有用”，也不一定要交给同一个模型。\n\n![Image 9](https://i.qbitai.com/wp-content/uploads/2026/07/a9345fc467dc715811bf8defb2314c86.webp)\n“预测会发生什么，和评估这对我是否有用，必须解耦。”\n\n在他的RISE框架中，动力学模型负责生成未来状态，价值模型则判断这些状态是否符合任务目标。\n\n机器人由此可以先在模型生成的未来中尝试不同路径，再利用价值信号改进策略，减少在真实世界中试错的成本与风险。\n\n世界模型的价值，也就不只在于能否“想象未来”，还在于这些想象能否为动作提供有效依据。\n\n总结来看，世界模型固然重要，但对具身智能而言，它并不是VLA的简单替代，两种方法也并不矛盾。\n\n真正的问题在于，世界模型应该预测什么，以及这些预测如何服务于机器人动作。\n\n值得一提的是，在RSS会场内外，已经有不少研究者开始探索VLA与世界模型结合的混合架构，前面提到的π0.7正是其中之一。\n\n## 数据量很重要，但Curation更重要\n\n虽然模型上的创新可能好发论文，也更吸引眼球，但数据已经毫无争议的成为了具身领域最重要的问题。\n\n在poster环节，我们也排队问了Simar几个数据问题。\n\nSimar这几年从EgoMimic一路做到EgoVerse，研究的都是怎么把第一视角人类数据用到机器人上。照理说，他应该是最看好Egocentric Data的那批人。\n\n但当我问起数据该怎么scaling时，他的建议却是：\n\n> Egocentric数据当然有用，但我其实不建议你们直接从数据公司买（笑）。\n\n在回答中，Simar举了大模型领域的例子。他提到像OpenAI，anthropic，他们不光是数据多，更重要的是数据的清洗、筛选、配比和组织数据，机器人领域同样如此。\n\n也就是说，**相比单纯的堆数据量，数据的curation可能更重要。**\n\n但具体怎么个curation，多少数据量才够，Simar顿了一下，并没有给出直接的答案，只是建议参考π0的训练规模（1万小时）以及公开数据集。\n\n也就是说，这个数字只是一个参照，不是一条已经得到验证的Scaling Law。\n\n类似的一幕其实也发生在论文汇报的QA环节。在论文中，研究得出的结论是：\n\n> 随着VLA预训练数据规模和多样性的提升，人类数据向机器人策略的迁移能力逐渐显现。\n\n于是，现场有观众追问：这种数据多样性应该怎样衡量？\n\n![Image 10](https://i.qbitai.com/wp-content/uploads/2026/07/c8e39a50b12e31ab9ad662405aa6907d.webp)\nSimar表示，他们会在不同Checkpoint和数据配方上做实验，寻找效果更好的组合。但具体怎样配，他没有进一步透露。\n\n后来我和**诺亦腾机器人**的工作人员聊了这个问题，他的看法是：\n\n对于模型公司或者Lab来说，架构可以写进论文，数据配方却更像那份不会轻易示人的recipe。\n\n这或许解释了我们前面提到的，几乎所有人都在谈数据，论文里最显眼的东西却仍然是模型。\n\n所以，诺亦腾也提到了另一种可能性：\n\n未来的数据公司未必只按小时出售原始素材，还需要自己训练模型、做对照实验和评测，最终向机器人公司交付经过筛选、能够直接进入训练流程的数据方案。\n\n到了这一步，数据公司的价值就不再是“采了多少小时”，而是“知道哪些数据真正有用”。\n\n当然，劝大家不要直接买数据，不代表Simar不看好Egocentric Data。\n\n在「Data-Centric Robotics：What Data Do Robots Really Need？」研讨会上，他重新画了一遍机器人领域的数据金字塔。\n\n![Image 11](https://i.qbitai.com/wp-content/uploads/2026/07/60c661ad0e38eda950e650f767430443.webp)\n过去，人们通常认为，最底层是规模最大的互联网，中间是仿真数据，最上层才是数量最少、成本最高的机器人遥操作数据。从**数据规模**来看，这样的金字塔没有问题。\n\n问题出在它暗示的关系：互联网和人类视频似乎天然构成机器人学习的基础，少量机器人数据只负责最后适配。\n\nEgoVerse的实验给出了另一种图景。\n\n只使用机器人数据与自由形态人类数据，提升有限；只加入与任务对齐的人类示范，改善同样不大。最明显的提升来自三类数据共同出现：\n\n*   机器人遥操作数据；\n*   与机器人任务对齐的Episodic Human Data；\n*   覆盖场景和长尾行为的Free-form Human Data。\n\n机器人数据和任务对齐的人类数据共同提供了“锚点”，告诉模型人类行为与机器人动作空间怎样对应。\n\n所以，数据多样性并不是把不同来源的数据倒进同一个池子。真正决定效果的，可能是Data Mixture中有没有足够的对齐区域。\n\n但不管怎么筛，真实机器人数据和具身人类数据都很难无限采集。那能不能换一种思路，让模型自己生产数据？\n\n#### 机器人Data Po",
+        "image_url": "images/8a63cb150c6f95ed.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "image_kind": "fallback",
+        "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+        "image_status": "source_unavailable",
+        "image_phash": "ff07e3f127e1f9f9",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "f2fa2f0eee8dc12fcd54",
+        "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "facts": [
+          "Title: Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+          "“Everybody’s on their phone at my program!” jokes Charlie Bailey, a librarian in South Philadelphia. He’s just asked his audience to pull out their phones so that he can walk them through the steps of disabling Apple Intelligence and Gemini.",
+          "Bailey stands at the front of a library classroom that’s outfitted for children – the focal point is the vibrant rug he’s standing on, which reminds us that M is for “moon” and Z is for “zebra.” But the 20-odd adults in the room aren’t here to learn about the alphabet. They’re at a workshop called Avoiding AI, which, in this context does not stand for “apple” and “igloo.”",
+          "“I was inspired by the feeling of people’s frustration with AI tools being kind of forced onto them, and feeling like AI tools we didn’t ask for are suddenly everywhere in our lives,” Bailey told TechCrunch.",
+          "Bailey starts the hour-long workshop with an overview of how AI chatbots and other consumer AI tools work, explaining why people might want to use these products, and why they might opt to abstain. Then, he walks through all of the most popular tech platforms and devices, showing step-by-step instructions on the projector to guide people through turning off specific features.",
+          "“As a librarian, I think it’s important to see this as advancing digital literacy and helping people reclaim their autonomy over whether they want to use AI tools,” Bailey said. “It’s important, especially when it can be so difficult not to use them, and when the design seems to force adoption.”",
+          "![Image 1: Charlie Bailey hosts an \"Avoiding AI\" workshop](https://techcrunch.com/wp-content/uploads/2026/07/avoiding-ai.jpg?w=680)",
+          "Charlie Bailey hosts an “Avoiding AI” workshop**Image Credits:**TechCrunch"
+        ],
+        "sources": [
+          {
+            "article_id": "f2fa2f0eee8dc12fcd54",
+            "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech",
+            "published_at_bjt": "2026-07-26T00:00:00+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "cc04af0507f4f94d16e9",
+        "headline": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "facts": [
+          "Title: One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+          "A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously.",
+          "The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by [Ting Labs](https://www.tingfire.com/), a startup that runs an IoT sensor network out of people’s electrical sockets.",
+          "The event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent.",
+          "Northern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world.",
+          "“It’s the canary in the coal mine,” Ricardo de Azevedo, CTO at [ON.Energy](https://www.on.energy/), told TechCrunch. These sorts of events involving large loads like data centers are “happening more and more,” he added.",
+          "The event echoes one that happened two years ago, also on PJM’s grid, and it could foreshadow larger events if data centers aren’t built to more elegantly handle disruptions to power supplies. The PJM Interconnection manages grids from New Jersey to Illinois and serves 67 million customers, making it the largest grid operator in the United States.",
+          "When the power line went down this week, it triggered data centers to switch to backup power, and about 3.1 gigawatts of load vanished in about 30 seconds, according to [PJM data](https://dataviewer.pjm.com/dataviewer/pages/public/ace.jsf). The grid appeared to recover somewhat, but a short time later additional loads dropped off. At its peak, PJM’s grid had an extra 3.49 gigawatts of electricity on it. It took another 11 minutes before it stabilized. The disconnected data centers represented ar"
+        ],
+        "sources": [
+          {
+            "article_id": "cc04af0507f4f94d16e9",
+            "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
+            "published_at_bjt": "2026-07-25T21:05:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "2a65969455ed2a2c7000",
+            "title": "Power Line Failure Exposes AI Data Center Grid Vulnerability - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbG5WNTlNbnozMzQ2Q3FLYVJGaFFpb3ZnZ1RjYTdKY0pXY0ljNURXcXdKM3RUZ2F4NzFEU0ZmbDk3Rm9Ua2UtQ21LeThuN0ZBNHZpUGJRVmpaNm5kZHB5QWowQTUzZXp1MmZZR2lqbXpRLW8zVXdzTGxfYUVxVnN5bG5paHVTVFRFSG9YTENjQVB3R3pJYlFVSQ",
+            "published_at_bjt": "2026-07-25T21:39:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "de72e6fcf4d06c4052e0",
+        "headline": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+        "facts": [
+          "Title: 半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+          "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+          "2026-07-25 20:11:39 来源：[量子位](https://www.qbitai.com/)",
+          "模型变强，Claude Code系统提示词都精简了",
+          "泄露了一路的Opus 5，刚正式登场就被网友玩疯了。",
+          "今天凌晨，Anthropic正式把这款新模型放了出来。",
+          "![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/d5fc44e5d0388ef2b45b08859fd92a31.webp)",
+          "多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半。"
+        ],
+        "sources": [
+          {
+            "article_id": "de72e6fcf4d06c4052e0",
+            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+            "source": "量子位",
+            "url": "https://www.qbitai.com/2026/07/460253.html",
+            "published_at_bjt": "2026-07-25T20:11:39+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "b91e9829a88830c86723",
+            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来 - Sohu",
+            "source": "Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEtiODQ0VTA0bFBMWHZyUVpBMGx3S25VUmkySnMxQXF0c3BXMkJNRWxZSGp2RWVxOFRpOUdKanlxRS1kNTV4ODBGdGRVWXR6Z1hkT3RtN1VkNTdJbU02WER2SlhZQnRHS2tOQzlia2ZLYzRhXzhOaWZfNlhRUXVqVlZDa2NTT3NvcmgycA",
+            "published_at_bjt": "2026-07-25T20:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "cf2f8df7da9c057a63b8",
+        "headline": "100%开源！吴恩达做了个个人桌面Agent",
+        "facts": [
+          "Title: 100%开源！吴恩达做了个个人桌面Agent",
+          "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+          "2026-07-25 20:35:34 来源：[量子位](https://www.qbitai.com/)",
+          "**AI教育大佬吴恩达也下场做AI同事了。**",
+          "不只是陪你聊天，也不只是给你列一个待办清单。",
+          "而是你说一句“帮我准备客户brief”，它就能跨文件、日历、Slack这些日常工具自己干活，最后把整理好的文档、写好的消息、更新后的日程交到你手上。",
+          "项目名为**OpenWorker**，现已在GitHub开源，采用MIT License。",
+          "![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/52796117df1dce42dfcf30c8ae4a641c.webp)"
+        ],
+        "sources": [
+          {
+            "article_id": "cf2f8df7da9c057a63b8",
+            "title": "100%开源！吴恩达做了个个人桌面Agent",
+            "source": "量子位",
+            "url": "https://www.qbitai.com/2026/07/460892.html",
+            "published_at_bjt": "2026-07-25T20:35:34+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "75e1f1a6bfdfcc1e776a",
+            "title": "100%开源！吴恩达做了个个人桌面Agent - Sohu",
+            "source": "Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS2pPY2gxWG1HMDY3UTUzb1ZQMF9tbnlIakZFM1BuN2ZYUVdfUG0xRF9aQ2ZrelcxLWkzb0dmZURtbExGdFJLU1ZiaVAyaGJ6QktscW9ndjRYUXlKOHJVNkMySlV5Q3BwMWhKVGdtSXA3VnhvNUJaN1p6dXhtbUFxbkVTZ2dJZnRf",
+            "published_at_bjt": "2026-07-25T12:51:05+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "60cba4552778dc22fa71",
+        "headline": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+        "facts": [
+          "Title: 美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+          "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+          "2026-07-25 20:24:27 来源：[量子位](https://www.qbitai.com/)",
+          "“包括Physical Intelligence在内，如今的北美头部具身智能公司离成熟都还有不短的距离。整个领域，也还没出现真正的奠基性工作。”",
+          "“中国真正领先的，恰恰是机器人硬件。美国同样没有成熟答案，中国公司又何必急着把自己称为‘中国版XX’？”",
+          "这是量子位来到悉尼参加RSS 2026后，几天交流下来听到最让人意外的两个判断。",
+          "![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/12cd0f302b619e0a08808fcc2d73a950.webp)",
+          "刚到RSS会场时，最先冒出来的其实是另一个问题："
+        ],
+        "sources": [
+          {
+            "article_id": "60cba4552778dc22fa71",
+            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+            "source": "量子位",
+            "url": "https://www.qbitai.com/2026/07/460542.html",
+            "published_at_bjt": "2026-07-25T20:24:27+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "79105a827df42aa94905",
+            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026 - Sohu",
+            "source": "Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JYMUlnbmFhdVdqSlJNNU12MnV4WGpMY05wMnY0SEtpMzI2SmlIeWd4ZXVYS1d3QXk1NlFVLVdHWHRheTZmWEN5SWl4YXJvNXNmZDBFMDBsRXphZnNUZWV0ZzJUeHdwTUlCdFVFb245VW9iVkVuSGp6TGpTOUtDbTRFU3hBUzBh",
+            "published_at_bjt": "2026-07-25T15:32:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "AI的背面：当图书馆教人关闭AI，当一条电线暴露数据中心软肋",
+    "lead": "今天，科技新闻呈现出一幅奇特的对照：一边是图书馆里教人如何禁用AI的工作坊座无虚席，一边是华盛顿特区外一条掉落的电线让整个区域电网闪烁，暴露出AI数据中心对电网的脆弱依赖。同日，Anthropic发布Opus 5模型，吴恩达开源桌面Agent，具身智能领域则传来“美国也没成熟”的冷静声音。这些事件拼出了一张更完整的图景：AI正在从技术奇点走向社会基础设施，而基础设施的每一环——从用户信任到电力供应——都开始出现摩擦。",
+    "sections": [
+      {
+        "story_id": "f2fa2f0eee8dc12fcd54",
+        "title": "图书馆里的“反AI”工作坊：用户开始主动选择退出",
+        "dek": "费城图书馆的Charlie Bailey办了一场名为“Avoiding AI”的工作坊，教人们关闭手机上的AI功能，现场座无虚席。",
+        "body": "在费城南区一间布置着儿童地毯的图书馆教室里，二十多位成年人掏出手机，跟着讲台上的Charlie Bailey一步步操作：关闭Apple Intelligence，禁用Gemini。这不是什么极客聚会，而是Bailey创办的“Avoiding AI”工作坊——一个专门教人如何从数字生活中剔除AI工具的系列课程。Bailey告诉TechCrunch，灵感来自他感受到的普遍挫败感：“人们觉得AI工具被强行塞进生活，到处都是我们没要求过的东西。”工作坊从AI聊天机器人如何工作讲起，解释为什么有人想用、为什么有人想躲，然后逐一演示主流平台和设备的关闭步骤。这个系列已经病毒式传播，反映出一种正在积聚的社会情绪：当AI成为默认设置，一部分用户开始主动选择退出。\n\n这场工作坊的背景是，过去两年间，苹果、谷歌、微软等科技巨头将AI功能深度嵌入操作系统和默认应用。用户往往在系统更新后突然发现，相册、短信、浏览器里多出了AI生成的摘要、建议或编辑功能。对于技术爱好者来说，这些功能可能很酷；但对于注重隐私、偏好简洁或对AI不信任的用户来说，它们更像是强塞进来的“数字装修”。Bailey的工作坊之所以能吸引二十多人挤进一间儿童教室，恰恰说明这种情绪不是个例。\n\n从技术机制上看，关闭AI功能并不总是简单的开关切换。Apple Intelligence涉及多个系统级组件的联动，Gemini则与Google账号和搜索深度绑定。用户需要进入多层菜单，有时还要区分“关闭建议”和“完全禁用”之间的细微差别。Bailey的工作坊实际上是在填补科技公司留下的“用户教育真空”——既然产品没有提供清晰的退出路径，那就由社区来提供。\n\n这件事对普通人的影响是直接的：如果你对AI功能感到困扰，现在有了一个可复用的操作指南。更重要的是，它传递了一个信号——用户对AI的接受不是自动的，科技公司需要为“选择退出”提供同样流畅的体验。对于产品经理和决策者来说，这提醒了一个常被忽视的原则：可选择性本身就是用户体验的一部分。当用户感到被控制时，再强大的功能也会引发反弹。",
+        "takeaway": "技术普及从来不是单向的。当主流科技公司把AI作为默认功能推送时，一部分用户正在用脚投票。对于产品经理和决策者来说，这提醒了一个常被忽视的原则：可选择性本身就是用户体验的一部分。",
+        "image_url": "images/62f877cd86d57d21.webp",
+        "image_credit": "TechCrunch",
+        "source_ids": [
+          "f2fa2f0eee8dc12fcd54"
+        ],
+        "source_refs": [
+          {
+            "article_id": "f2fa2f0eee8dc12fcd54",
+            "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech",
+            "published_at_bjt": "2026-07-26T00:00:00+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+        "image_status": "downloaded",
+        "image_phash": "7e3c7e7e3ce73c7e"
+      },
+      {
+        "story_id": "cc04af0507f4f94d16e9",
+        "title": "一条掉落的电线，暴露了AI数据中心的电网软肋",
+        "dek": "华盛顿特区外一条电线故障，导致超过3吉瓦的数据中心负载同时离线，电压波动从弗吉尼亚蔓延到芝加哥。",
+        "body": "本周，华盛顿特区外一条电线掉落。正常情况下，电网只需几秒就能恢复，但这次花了超过十分钟——因为超过3吉瓦的数据中心几乎同时停止取电。据物联网传感器网络公司Ting Labs收集的数据，事件导致从北弗吉尼亚到芝加哥的PJM电网电压尖峰。虽然没有造成停电，但整个区域灯光闪烁。北弗吉尼亚是全球数据中心最密集的地区，这次事件是一个预演：随着AI训练和推理负载的爆发式增长，数据中心的电力需求变得既庞大又波动剧烈。一条电线故障就能引发区域级电网扰动，说明现有基础设施的设计并未考虑这种“巨量负载同步行为”。\n\n要理解这个问题的严重性，需要先了解数据中心的电力特性。传统数据中心虽然耗电量大，但负载相对稳定，且通常配备UPS（不间断电源）和备用发电机，能够在电网波动时平滑过渡。然而，AI数据中心，尤其是训练集群，对电力质量要求极高，且负载模式更加“脉冲式”——训练任务启动和停止时，功率可以在几分钟内变化数百兆瓦。当大量数据中心位于同一电网区域，且采用相似的电力管理策略时，一个外部扰动（如电线故障）可能导致它们同时触发保护机制，集体断开负载，造成电网瞬间失去大量负荷，引发电压骤升。\n\n这次事件中，3吉瓦的负载在几秒内消失，相当于一个大型核电站突然停机。PJM电网虽然最终稳定下来，但电压波动范围之大，说明系统裕度正在被压缩。解决方案包括分布式储能、负载调度协议以及更智能的电网边缘控制，但每一项都需要跨行业协调和巨额投资。例如，数据中心可以部署大型电池储能系统，在电网扰动时提供缓冲；或者与电网运营商签订“需求响应”协议，在故障时有序降载而非同时断开。但这些措施会增加数据中心的建设和运营成本，最终可能转嫁给AI服务的消费者。\n\n对于普通居民，这意味着未来几年可能会更频繁地遇到灯光闪烁，甚至局部停电。对于电网运营商和数据中心开发商来说，这意味着一笔新的基础设施成本正在浮出水面。AI的繁荣不仅仅是算力的竞赛，更是电力的竞赛。当一条电线就能让区域电网颤抖时，我们不得不重新思考：AI的能源账单，到底由谁来付？",
+        "takeaway": "AI数据中心的电力需求正在从“量大”变成“不稳定”。对于电网运营商和数据中心开发商来说，这意味着一笔新的基础设施成本正在浮出水面。对于普通居民，这意味着未来几年可能会更频繁地遇到灯光闪烁，甚至局部停电。",
+        "image_url": "images/37b0f6f98ef26f00.webp",
+        "image_credit": "TechCrunch",
+        "source_ids": [
+          "cc04af0507f4f94d16e9",
+          "2a65969455ed2a2c7000"
+        ],
+        "source_refs": [
+          {
+            "article_id": "cc04af0507f4f94d16e9",
+            "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
+            "published_at_bjt": "2026-07-25T21:05:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "2a65969455ed2a2c7000",
+            "title": "Power Line Failure Exposes AI Data Center Grid Vulnerability - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbG5WNTlNbnozMzQ2Q3FLYVJGaFFpb3ZnZ1RjYTdKY0pXY0ljNURXcXdKM3RUZ2F4NzFEU0ZmbDk3Rm9Ua2UtQ21LeThuN0ZBNHZpUGJRVmpaNm5kZHB5QWowQTUzZXp1MmZZR2lqbXpRLW8zVXdzTGxfYUVxVnN5bG5paHVTVFRFSG9YTENjQVB3R3pJYlFVSQ",
+            "published_at_bjt": "2026-07-25T21:39:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+        "image_status": "downloaded",
+        "image_phash": "020206676777777f"
+      },
+      {
+        "story_id": "de72e6fcf4d06c4052e0",
+        "title": "Opus 5发布：性能翻倍，价格减半，但竞争远未结束",
+        "dek": "Anthropic发布Opus 5模型，据称性能超越Fable 5，定价仅为后者一半，引发社区热议。",
+        "body": "在经历了数周的泄露和猜测后，Anthropic正式发布了Opus 5。根据量子位的报道和早期用户反馈，Opus 5在多项基准测试中表现优于此前被认为领先的Fable 5模型，而API定价仅为Fable 5的一半。有网友形容“差点从椅子上摔下来”，暗示性能提升超出预期。值得注意的是，Anthropic同时精简了Claude Code的系统提示词，表明模型本身的理解和指令遵循能力有了质的提升。Opus 5的发布时机耐人寻味：它出现在AI用户开始出现“疲劳”和“反弹”的节点上。更强的模型和更低的价格固然能刺激采用，但也可能加剧用户对“AI无处不在”的抵触。\n\n从技术角度看，Opus 5的进步主要体现在三个方面：推理能力、指令遵循和效率。早期测试显示，它在数学推理、代码生成和长文本理解等任务上接近甚至超越Fable 5，而参数量和推理成本却更低。这得益于Anthropic在模型架构和训练方法上的优化，包括更高效的注意力机制和更好的数据筛选策略。精简后的Claude Code系统提示词意味着模型能够更准确地理解用户意图，减少了需要人工调校的“提示工程”工作量。对于开发者来说，这意味着更低的集成门槛和更快的迭代速度。\n\n然而，Opus 5的定价策略也揭示了AI模型市场的竞争格局正在变化。Fable 5作为上一代标杆，定价较高，而Anthropic以一半的价格提供相当或更好的性能，直接打响了价格战。这对于中小企业和独立开发者是利好，因为他们可以以更低成本获得顶级AI能力。但这也意味着模型提供商需要寻找新的盈利模式，比如通过增值服务、企业定制或平台绑定来维持收入。\n\n对于普通用户，Opus 5的发布意味着AI功能将更深入地嵌入日常工具。例如，智能助手、写作工具、编程辅助等产品可能会迅速升级到Opus 5，提供更准确和自然的交互。但与此同时，退出的难度也在增加——当AI变得更好用、更便宜时，用户更难拒绝它的嵌入。这恰恰与图书馆里的“Avoiding AI”工作坊形成了有趣的对照：技术供给侧的进步与用户需求侧的抵制同时发生，AI的普及从来不是一条直线。",
+        "takeaway": "模型性能竞赛远未结束，但价格战已经开始。对于开发者来说，这意味着更低的门槛和更快的迭代；对于普通用户，则意味着AI功能将更深入地嵌入日常工具，退出的难度也在增加。",
+        "image_url": "images/456b0646ca647d3f.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "source_ids": [
+          "de72e6fcf4d06c4052e0",
+          "b91e9829a88830c86723"
+        ],
+        "source_refs": [
+          {
+            "article_id": "de72e6fcf4d06c4052e0",
+            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+            "source": "量子位",
+            "url": "https://www.qbitai.com/2026/07/460253.html",
+            "published_at_bjt": "2026-07-25T20:11:39+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "b91e9829a88830c86723",
+            "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来 - Sohu",
+            "source": "Sohu",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEtiODQ0VTA0bFBMWHZyUVpBMGx3S25VUmkySnMxQXF0c3BXMkJNRWxZSGp2RWVxOFRpOUdKanlxRS1kNTV4ODBGdGRVWXR6Z1hkT3RtN1VkNTdJbU02WER2SlhZQnRHS2tOQzlia2ZLYzRhXzhOaWZfNlhRUXVqVlZDa2NTT3NvcmgycA",
+            "published_at_bjt": "2026-07-25T20:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "fallback",
+        "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+        "image_status": "source_unavailable",
+        "image_phash": "fff11ff3e00f8f03"
+      },
+      {
+        "story_id": "cf2f8df7da9c057a63b8",
+        "title": "吴恩达开源桌面Agent：AI同事从聊天走向行动",
+        "dek": "AI教育先驱吴恩达发布了一款100%开源的桌面Agent，能够自主执行文件操作、网页浏览等任务。",
+        "body": "吴恩达，这位以Coursera和深度学习课程闻名的AI教育家，最近发布了一个个人桌面Agent项目，并完全开源。根据量子位的报道，这个Agent不只是聊天或列待办清单，而是能直接操作桌面应用、管理文件、浏览网页并执行多步骤任务。它代表了一类正在兴起的“AI同事”产品：从被动回答问题转向主动完成工作流程。开源意味着社区可以自由修改和扩展，这降低了企业部署的门槛，但也带来了安全性和可控性的挑战。吴恩达的参与为这个方向注入了学术严谨性和教育生态资源。\n\n桌面Agent的技术核心在于“行动能力”。传统的AI助手（如Siri、Alexa）主要处理语音指令和简单查询，而桌面Agent需要理解图形界面、模拟鼠标键盘操作、管理文件系统，并协调多个应用程序。这要求模型具备视觉理解（识别屏幕元素）、规划能力（分解多步骤任务）和错误恢复机制。吴恩达的项目基于最新的多模态大模型，能够“看到”屏幕截图并决定下一步操作。例如，它可以自动下载附件、填写表单、整理文件夹，甚至跨应用复制粘贴数据。\n\n开源策略是吴恩达的一贯风格。通过公开代码和模型权重，他希望加速桌面Agent的普及和迭代。开发者可以基于该项目构建定制化的Agent，比如针对财务、设计或编程的专用助手。但开源也带来了风险：恶意用户可能利用Agent执行自动化攻击、窃取数据或绕过安全限制。因此，项目内置了权限控制和安全沙箱，但最终安全性取决于使用者的配置。\n\n对于知识工作者，桌面Agent的实用价值很高。想象一下，你只需说“整理本周所有项目文档，按客户分类，并生成摘要”，Agent就能自动完成。这可以节省大量重复性操作的时间。但同时也需要警惕：当Agent拥有操作桌面的权限时，隐私和误操作的风险也随之增加。吴恩达的项目提供了一个起点，但真正的落地还需要企业级的安全审计和用户培训。未来半年内，我们可能会看到这类产品开始替代部分重复性桌面操作，尤其是在数据录入、报告生成和流程自动化领域。",
+        "takeaway": "桌面Agent是AI从“工具”走向“协作者”的关键一步。开源策略将加速这一进程，但用户需要关注权限管理和数据隐私。对于知识工作者，未来半年内可能会看到这类产品开始替代部分重复性桌面操作。",
+        "image_url": "images/bdb42f9fb27bcf4c.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "source_ids": [
+          "cf2f8df7da9c057a63b8",
+          "75e1f1a6bfdfcc1e776a"
+        ],
+        "source_refs": [
+          {
+            "article_id": "cf2f8df7da9c057a63b8",
+            "title": "100%开源！吴恩达做了个个人桌面Agent",
+            "source": "量子位",
+            "url": "https://www.qbitai.com/2026/07/460892.html",
+            "published_at_bjt": "2026-07-25T20:35:34+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "75e1f1a6bfdfcc1e776a",
+            "title": "100%开源！吴恩达做了个个人桌面Agent - Sohu",
+            "source": "Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS2pPY2gxWG1HMDY3UTUzb1ZQMF9tbnlIakZFM1BuN2ZYUVdfUG0xRF9aQ2ZrelcxLWkzb0dmZURtbExGdFJLU1ZiaVAyaGJ6QktscW9ndjRYUXlKOHJVNkMySlV5Q3BwMWhKVGdtSXA3VnhvNUJaN1p6dXhtbUFxbkVTZ2dJZnRf",
+            "published_at_bjt": "2026-07-25T12:51:05+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "fallback",
+        "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+        "image_status": "source_unavailable",
+        "image_phash": "ff87ccfee3b117f3"
+      },
+      {
+        "story_id": "60cba4552778dc22fa71",
+        "title": "具身智能的清醒剂：美国也没成熟，中国何必当“中国版XX”",
+        "dek": "Physical Intelligence在RSS 2026会议上指出，北美具身智能公司离成熟还有距离，中国公司不应盲目对标。",
+        "body": "在RSS 2026会议上，具身智能明星公司Physical Intelligence（PI）的代表发表了一番引人深思的言论：包括PI在内的北美头部具身智能公司，离成熟都还有不短的距离；整个领域尚未出现真正的奠基性工作。PI同时指出，中国真正的优势在于机器人硬件制造，而美国也没有成熟答案。因此，中国公司不必急于将自己定位为“中国版XX”。这番表态来自行业内部，分量不同于外部评论。它揭示了一个现实：尽管具身智能获得了大量资本和媒体关注，但底层技术——如泛化操作、环境理解、实时控制——仍处于早期阶段。中国公司在硬件成本控制和供应链整合上的优势，可能比盲目模仿美国软件路线更有价值。\n\n具身智能（Embodied AI）指的是能够感知环境并物理行动的AI系统，典型代表是机器人。过去两年，随着大模型和多模态技术的进步，具身智能成为资本热点，涌现出一批创业公司，其中不少被冠以“中国版波士顿动力”或“中国版PI”的标签。然而，PI的发言戳破了这个泡沫：即使是美国最领先的公司，也还没有解决泛化操作和实时决策的核心难题。例如，让机器人在非结构化环境中自主完成“拿起杯子倒水”这样的任务，仍然需要大量预设和调试，远未达到“通用”水平。\n\n中国在机器人硬件制造上的优势是实实在在的。从电机、减速器到传感器，中国拥有完整的供应链和成本控制能力。这使得中国公司能够以更低的价格生产出性能可靠的机器人本体。然而，在软件算法、训练数据和系统集成方面，中国与美国仍有差距。PI的提醒是：与其花精力包装“中国版XX”的故事，不如把资源投入到硬件创新和场景落地中。例如，在仓储物流、制造业巡检等垂直领域，中国公司可以凭借硬件优势快速实现商业化，而不是追逐不成熟的通用机器人梦想。\n\n对于投资者和创业者来说，这是一个回归理性的信号。具身智能的长期前景毋庸置疑，但短期内的技术瓶颈和商业化难度被高估了。与其追逐“中国版XX”的叙事，不如深耕硬件制造和场景落地的真实壁垒。对于普通人，这意味着机器人进入家庭和日常生活的时间表可能会比预期更慢，但特定场景（如工厂、仓库）的自动化会持续推进。",
+        "takeaway": "具身智能的泡沫正在被行业内部戳破。对于投资者和创业者来说，这是一个回归理性的信号：与其追逐“中国版XX”的叙事，不如深耕硬件制造和场景落地的真实壁垒。",
+        "image_url": "images/8a63cb150c6f95ed.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "source_ids": [
+          "60cba4552778dc22fa71",
+          "79105a827df42aa94905"
+        ],
+        "source_refs": [
+          {
+            "article_id": "60cba4552778dc22fa71",
+            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+            "source": "量子位",
+            "url": "https://www.qbitai.com/2026/07/460542.html",
+            "published_at_bjt": "2026-07-25T20:24:27+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "79105a827df42aa94905",
+            "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026 - Sohu",
+            "source": "Sohu",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JYMUlnbmFhdVdqSlJNNU12MnV4WGpMY05wMnY0SEtpMzI2SmlIeWd4ZXVYS1d3QXk1NlFVLVdHWHRheTZmWEN5SWl4YXJvNXNmZDBFMDBsRXphZnNUZWV0ZzJUeHdwTUlCdFVFb245VW9iVkVuSGp6TGpTOUtDbTRFU3hBUzBh",
+            "published_at_bjt": "2026-07-25T15:32:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "fallback",
+        "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+        "image_status": "source_unavailable",
+        "image_phash": "ff07e3f127e1f9f9"
+      }
+    ],
+    "synthesis": "今天的五条新闻看似分散，实则指向同一个核心矛盾：AI的规模化落地正在遭遇“最后一公里”的阻力。图书馆的“Avoiding AI”工作坊代表了用户端对AI强推的反弹，数据中心断电事件暴露了能源基础设施的瓶颈，Opus 5和桌面Agent则代表了技术供给侧的持续冲刺。具身智能领域的反思则提醒我们，即便在资本热捧的方向上，技术成熟度与商业预期之间仍有鸿沟。这些信号共同指向一个判断：2026年下半年的AI产业，将从“能不能做”转向“怎么融入”，而融入的代价正在被各方重新计算。"
+  },
+  "podcast": {
+    "title": "AI的阴影与光明：从抗拒到落地",
+    "description": "当AI工具无孔不入地渗透生活，有人选择逃离，有人直面电网危机；而在模型竞赛中，Opus 5和桌面Agent正推动AI走向更便宜、更开放。",
+    "blocks": [
+      {
+        "block_id": "opening_1",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "今天聊几个看似不相关、实则紧密咬合的事。一边是图书馆里教人关掉AI的工作坊，一边是数据中心让电网闪了一下；另一边，Opus 5半价发布、吴恩达开源桌面Agent。这些事放在一起，你会发现AI的产业叙事正在分岔：有人想逃，有人想修，有人想让它更便宜、更开放。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 26.496
+      },
+      {
+        "block_id": "story_1",
+        "speaker": "ian",
+        "role": "story",
+        "text": "先从费城一间图书馆说起。Charlie Bailey是南费城的图书管理员，他办了一个叫“Avoiding AI”的工作坊，教人关掉手机里的Apple Intelligence和Gemini。你可能会想，这有什么好教的？但20多个成年人挤在儿童活动室里，认真记步骤——因为他们觉得AI不是被请进来的，而是被塞进来的。Bailey说，他感受到的是人们的挫败感：AI工具突然出现在生活的每个角落，你根本没选。这个工作坊在社交媒体上爆了，说明这种情绪不是少数。\n\nBailey的工作坊时长一小时，开头先讲AI聊天机器人和其他消费级AI工具的工作原理——它们怎么训练、怎么生成回答、为什么有时候会胡说八道。然后他解释为什么有人想用这些工具，比如自动生成邮件、整理笔记、快速搜索；也解释为什么有人想避开，比如隐私担忧、对输出不信任、或者单纯不想被算法引导。最后是实操环节：他在投影仪上一步步演示，在苹果手机上关闭Apple Intelligence，在安卓手机上关闭Gemini，在浏览器里禁用AI搜索摘要。\n\n这些操作本身不复杂，但很多人不知道入口在哪，或者压根没意识到这些功能默认是打开的。苹果在iOS 18里把Apple Intelligence集成进系统，谷歌在Pixel和三星手机上预装Gemini，微软在Edge和Windows里塞了Copilot。用户要么主动去设置里翻找，要么忍受一个自己不需要的助手常驻通知栏。Bailey的工作坊填补的就是这个信息差。\n\n这件事折射出一个更大的趋势：科技公司正把AI从“可选功能”变成“默认配置”。对普通用户来说，代价首先是学习成本——你得花时间搞懂怎么关掉一个你从未要求过的功能。其次是隐私：Apple Intelligence的部分处理在设备端，但Gemini和Copilot依赖云端，你的输入会被发送到服务器。最后是体验：AI摘要可能替代你习惯的搜索结果，自动补全可能改写你的文字，而你未必想要这些“帮助”。\n\n我的判断是，这种反弹不会阻止AI嵌入产品，但会倒逼公司提供更清晰的开关和更简单的关闭路径。目前，关闭流程往往藏在多层菜单里，甚至需要登录账户。如果“Avoiding AI”这类工作坊持续走红，科技公司可能不得不像GDPR时代那样，重新设计用户首次启动时的选择界面。毕竟，当用户需要去图书馆才能学会关掉一个功能，说明产品设计本身出了问题。",
+        "story_id": "f2fa2f0eee8dc12fcd54",
+        "audio_file": "",
+        "start_sec": 27.696,
+        "duration_sec": 179.616
+      },
+      {
+        "block_id": "question_1",
+        "speaker": "listener",
+        "role": "question",
+        "text": "所以这些人是不信任AI，还是单纯嫌烦？",
+        "story_id": "f2fa2f0eee8dc12fcd54",
+        "audio_file": "",
+        "start_sec": 208.512,
+        "duration_sec": 4.608
+      },
+      {
+        "block_id": "answer_1",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "更多是“被剥夺选择权”的愤怒。他们不是不用技术，而是不想被默认开启、不想隐私被拿去做训练。这其实是科技巨头长期“先推后问”的反噬。",
+        "story_id": "f2fa2f0eee8dc12fcd54",
+        "audio_file": "",
+        "start_sec": 214.32,
+        "duration_sec": 13.8
+      },
+      {
+        "block_id": "story_2",
+        "speaker": "ian",
+        "role": "story",
+        "text": "本周，华盛顿特区外一根电线断了。按说电网几秒就能恢复，但这次花了十多分钟——因为超过3千兆瓦的数据中心几乎同时停止用电，导致电压从北弗吉尼亚一路飙升到芝加哥，灯都闪了。北弗吉尼亚是全球数据中心最密集的地方，这个事件暴露了一个结构性问题：AI负载太大、太集中，而且响应太快。电网是为平稳负荷设计的，不是为这种“全有或全无”的巨兽准备的。\n\n先看发生了什么。一根电线断了，数据中心的电源瞬间中断，它们几乎同时从电网断开。3千兆瓦的负荷突然消失，相当于几个核电站的出力瞬间没了，电压随之飙升。好在没有造成停电，但灯光闪烁已经说明系统在极限边缘。\n\n为什么AI数据中心会引发这种问题？传统数据中心负载相对稳定，但AI训练和推理的功耗波动极大。训练任务可能持续数小时满负荷，一旦中断或完成，负载骤降。更关键的是，这些数据中心往往集中在同一区域——北弗吉尼亚的数据中心密度全球第一，它们共享同一个电网节点。一旦该节点出问题，所有数据中心同时响应，形成“共振”。\n\n这个问题的代价是什么？首先是电网稳定性。PJM电网覆盖从华盛顿到芝加哥的广大区域，一次电压波动就可能影响数百万家庭和企业。其次，数据中心运营商需要为这种不稳定性买单——要么自建备用电源，要么向电网支付更高的调节费用。据估算，仅北弗吉尼亚的数据中心每年因电网不稳定造成的额外成本就达数亿美元。\n\n对普通人来说，最直接的感受是灯光闪烁，但更深层的影响是电费。电网为了应对这种瞬时大负荷变化，需要预留更多旋转备用容量，这部分成本最终会分摊到所有用户头上。此外，如果类似事件频繁发生，可能导致局部限电或电价上涨。\n\n这个事件揭示了一个产业趋势：AI数据中心的电力需求正在从“量变”走向“质变”。过去我们担心的是数据中心耗电太多，现在更要担心它们用电太“任性”。解决方案包括：在数据中心部署储能系统，平滑功率波动；将数据中心分散布局，避免过度集中；以及升级电网的智能调度能力，让电网能更快响应这种瞬时变化。但所有这些都需要时间和投资。\n\n我的判断是：AI数据中心的电力问题不会自行消失，它会成为制约AI扩张的一个硬约束。未来两年，我们可能会看到更多类似的电网事件，推动监管机构出台更严格的数据中心并网标准。对于科技公司来说，电力基础设施的可靠性将和芯片算力一样，成为核心竞争力的一部分。",
+        "story_id": "cc04af0507f4f94d16e9",
+        "audio_file": "",
+        "start_sec": 229.32,
+        "duration_sec": 195.48
+      },
+      {
+        "block_id": "question_2",
+        "speaker": "listener",
+        "role": "question",
+        "text": "那怎么修？让数据中心自己配储能？",
+        "story_id": "cc04af0507f4f94d16e9",
+        "audio_file": "",
+        "start_sec": 426.0,
+        "duration_sec": 4.128
+      },
+      {
+        "block_id": "answer_2",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "对，一种方案是数据中心自带电池或飞轮储能，在电网波动时做缓冲。另一种是让它们更分散，别都挤在一个区域。但根本问题是，AI的电力需求增长太快，电网规划跟不上。",
+        "story_id": "cc04af0507f4f94d16e9",
+        "audio_file": "",
+        "start_sec": 431.328,
+        "duration_sec": 16.752
+      },
+      {
+        "block_id": "story_3",
+        "speaker": "ian",
+        "role": "story",
+        "text": "想象一下，你花一半的钱，买到了性能更强的产品——这在AI模型市场，正在成为现实。7月25日，Anthropic正式发布了Opus 5，一款被网友称为“炸场”的大语言模型。它的定价只有前代Fable 5的一半，但实测表现却让不少人惊呼“差点从椅子上摔下来”。\n\n先看事实：Opus 5在多项基准测试中超越了Fable 5，尤其是在代码生成、数学推理和长文本理解上，优势明显。价格却从每百万token 15美元降到了7.5美元。这并非简单的降价促销，而是模型架构优化的结果。Anthropic在训练中采用了更高效的稀疏注意力机制和知识蒸馏技术，用更少的计算资源实现了更强的性能。\n\n技术门槛的变化值得关注。过去，顶级模型的高昂成本把很多中小开发者挡在门外。现在，Opus 5的半价策略意味着，更多创业公司、独立开发者甚至学术机构，都能用上接近前沿水平的AI能力。这可能会加速应用层的创新，比如更智能的客服、更精准的医疗辅助工具，或者更自然的语音助手。\n\n但成本下降的另一面是竞争加剧。对于依赖模型API的初创公司，这是利好；但对于那些靠卖高价模型授权盈利的公司，压力会更大。同时，模型能力提升后，Anthropic甚至精简了Claude Code的系统提示词——这说明更强的模型不再需要繁琐的指令就能理解用户意图，用户体验会更流畅。\n\n对普通人来说，这意味着你很快就能用到更便宜、更聪明的AI服务。比如，你订阅的写作助手可能价格不变但能力翻倍，或者免费版的功能会显著提升。不过，也要警惕“AI疲劳”——当模型变得无处不在，我们更需要学会如何有选择地使用，而不是被工具裹挟。\n\nOpus 5的发布，是AI产业“能力提升、成本下降”趋势的一个缩影。它告诉我们，技术红利正在从少数巨头扩散到整个生态。但真正的赢家，是那些能利用低成本模型解决真实问题的人，而不是盲目追逐参数的人。",
+        "story_id": "de72e6fcf4d06c4052e0",
+        "audio_file": "",
+        "start_sec": 449.28,
+        "duration_sec": 150.888
+      },
+      {
+        "block_id": "question_3",
+        "speaker": "listener",
+        "role": "question",
+        "text": "半价性能还更好，那Fable 5是不是要凉了？",
+        "story_id": "de72e6fcf4d06c4052e0",
+        "audio_file": "",
+        "start_sec": 601.368,
+        "duration_sec": 4.056
+      },
+      {
+        "block_id": "answer_3",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "不一定。Fable 5有生态和品牌优势，但Opus 5的定价会迫使它降价或加速迭代。最终受益的是用户，能用更低成本获得更好能力。",
+        "story_id": "de72e6fcf4d06c4052e0",
+        "audio_file": "",
+        "start_sec": 606.624,
+        "duration_sec": 13.128
+      },
+      {
+        "block_id": "story_4",
+        "speaker": "ian",
+        "role": "story",
+        "text": "吴恩达，那个教过几百万人机器学习的AI教育大佬，最近亲自下场做了个“数字同事”。这个项目叫个人桌面Agent，完全开源，代码、模型、文档全部公开。它不是又一个聊天机器人，而是一个能直接操作你电脑的智能体——打开浏览器、管理文件、填写表单、自动执行重复操作。\n\n具体来说，这个Agent基于一个轻量级模型，运行在本地，通过计算机视觉和API接口控制桌面。比如，你让它“整理今天收到的所有发票邮件”，它会自动登录邮箱，下载附件，按日期和金额分类存入文件夹。或者，你让它“帮我填这份入职表”，它能识别表单字段，从你的简历里提取信息逐项填写。整个过程不需要你手动点击任何东西。\n\n吴恩达在博客里解释，他做这个项目的动机是：大模型的能力越来越强，但大多数人仍然只在聊天窗口里用它们。真正的生产力提升，需要AI能直接操作我们日常使用的软件和系统。桌面Agent就是这种尝试——把AI从“对话者”变成“操作者”。\n\n技术门槛在哪里？首先是安全性：一个能控制你电脑的Agent，如果被恶意利用，后果很严重。吴恩达的方案是让所有操作都经过本地沙盒，并且用户可以随时中断。其次是可靠性：桌面环境复杂多变，Agent需要准确识别按钮、菜单、弹窗，稍有偏差就会出错。目前这个版本在常见应用上表现不错，但遇到不规范的界面仍会卡壳。\n\n成本方面，开源意味着零授权费，你只需要一台带GPU的电脑就能运行。相比企业级RPA软件动辄数万元的年费，这个方案几乎免费。但你需要一定的技术能力来部署和调试——吴恩达提供了详细的文档，但离“一键安装”还有距离。\n\n对普通人来说，这意味着什么？如果你经常处理重复的电脑操作——比如整理文件、批量填写表格、自动回复邮件——这个Agent能帮你省下大量时间。但如果你只是偶尔用电脑，它的价值有限。更深远的影响是，它展示了AI落地的另一种路径：不是更大的模型，而是更聪明的工具。\n\n我的判断是：桌面Agent是AI从“玩具”走向“工具”的关键一步。吴恩达选择开源，等于把标准交到了社区手里。接下来你会看到各种定制版本——有人会把它做成财务助手，有人会做成设计助手，有人会集成到企业系统里。真正的赢家不是模型公司，而是那些能把Agent用到具体场景里的开发者。输家？可能是传统的RPA厂商和那些还在卖“AI对话”概念的公司。\n\n当然，风险也存在。一个能操作你电脑的AI，一旦被黑客控制，就是完美的数字间谍。安全防护必须跟上。另外，如果Agent出错，比如误删了文件，责任算谁的？这些问题没有标准答案。但方向已经明确：AI的下一个战场，在桌面。",
+        "story_id": "cf2f8df7da9c057a63b8",
+        "audio_file": "",
+        "start_sec": 620.952,
+        "duration_sec": 214.704
+      },
+      {
+        "block_id": "story_5",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天聊一个产业视角的判断。在RSS 2026机器人顶会上，Physical Intelligence的人说，美国具身智能离成熟还远，中国公司不必老叫自己“中国版XX”。中国真正的优势是硬件制造。\n\n先看事实。Physical Intelligence是北美头部具身智能公司之一，他们的创始人在会上明确表示，整个领域还没出现真正的奠基性工作。这意味着，无论是波士顿动力还是特斯拉的Optimus，目前都处于早期探索阶段。而中国公司在宣传时，常常对标这些美国公司，称自己为“中国版波士顿动力”或“中国版Figure AI”。\n\n这个判断的机制在于：具身智能的核心是“硬件+软件+场景”的闭环。美国公司在软件算法上有积累，但硬件可靠性和成本控制一直是短板。而中国在机器人硬件制造上拥有完整的供应链和规模优势——从电机、减速器到传感器，中国厂商的产能和成本都领先。当大家都在追求“通用机器人”时，硬件的可靠性和成本才是真正的护城河。\n\n代价是什么？如果中国公司一味模仿美国路径，可能会忽视自身优势。比如，美国公司擅长用大量资金堆算法，但中国公司更适合在制造端做优化。模仿意味着放弃差异化，最终陷入价格战。\n\n对普通人来说，这个判断意味着未来几年，你可能会看到更多中国本土的机器人品牌，而不是“中国版XX”。这些机器人可能更便宜、更耐用，但软件能力需要时间追赶。\n\n我的判断是：具身智能赛道还处在“硬件先行”阶段。中国公司与其做“中国版XX”，不如在硬件制造上建立壁垒，等软件成熟时再反超。这就像智能手机时代，中国先靠制造崛起，再有了华为、小米的软件生态。机器人行业也会走类似的路。\n\n所以，下次看到一家机器人公司自称“中国版XX”，你可以多问一句：它的硬件是自己造的吗？成本控制得住吗？如果答案是肯定的，那它可能比美国同行更接近商业化。",
+        "story_id": "60cba4552778dc22fa71",
+        "audio_file": "",
+        "start_sec": 836.856,
+        "duration_sec": 148.536
+      },
+      {
+        "block_id": "synthesis_1",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "串一下今天的故事。三条线：一是社会对AI的抗拒，从图书馆工作坊到电网隐患，说明技术落地不能只考虑功能，还要考虑社会接受度和基础设施承载力。二是模型本身在变强变便宜，Opus 5和桌面Agent都在降低AI的使用门槛。三是产业定位，无论是机器人还是AI，中国公司需要找到自己的差异化路径。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 986.592,
+        "duration_sec": 29.448
+      },
+      {
+        "block_id": "closing_1",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "AI的浪潮不会停，但它会越来越分化。有人选择关掉它，有人靠它降本增效，有人用它重构基础设施。作为普通人，你至少可以做到：知道自己用的是什么，以及它值不值得。今天就到这里，我是伊恩，明天见。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 1017.24,
+        "duration_sec": 19.92
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "start_sec": 27.696,
+        "story_id": "f2fa2f0eee8dc12fcd54"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "start_sec": 229.32,
+        "story_id": "cc04af0507f4f94d16e9"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+        "start_sec": 449.28,
+        "story_id": "de72e6fcf4d06c4052e0"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "100%开源！吴恩达做了个个人桌面Agent",
+        "start_sec": 620.952,
+        "story_id": "cf2f8df7da9c057a63b8"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+        "start_sec": 836.856,
+        "story_id": "60cba4552778dc22fa71"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 986.592,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 1037.2,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.4442,
+      0.4829,
+      0.5107,
+      0.3995,
+      0.459,
+      0.3653,
+      0.504,
+      0.412,
+      0.4124,
+      0.5445,
+      0.3629,
+      0.3592,
+      0.3838,
+      0.4986,
+      0.3759,
+      0.3798,
+      0.4213,
+      0.4881,
+      0.4223,
+      0.4916,
+      0.51,
+      0.4529,
+      0.3288,
+      0.3875,
+      0.3891,
+      0.4684,
+      0.4292,
+      0.4193,
+      0.4808,
+      0.3727,
+      0.401,
+      0.4272,
+      0.4361,
+      0.4379,
+      0.3922,
+      0.4926,
+      0.4434,
+      0.4117,
+      0.4869,
+      0.4937,
+      0.5441,
+      0.5122,
+      0.4946,
+      0.4422,
+      0.3318,
+      0.4745,
+      0.4273,
+      0.4669,
+      0.4412,
+      0.4938,
+      0.4896,
+      0.4977,
+      0.4291,
+      0.442,
+      0.4442,
+      0.3811,
+      0.4409,
+      0.393,
+      0.5235,
+      0.3943,
+      0.4543,
+      0.416,
+      0.5705,
+      0.4518,
+      0.3869,
+      0.609,
+      0.4478,
+      0.3917,
+      0.4014,
+      0.4741,
+      0.4182,
+      0.4294,
+      0.3903,
+      0.4806,
+      0.3375,
+      0.4044,
+      0.4404,
+      0.4091,
+      0.5618,
+      0.5753,
+      0.3599,
+      0.3405,
+      0.5175,
+      0.3637,
+      0.4738,
+      0.3374,
+      0.3586,
+      0.4172,
+      0.4273,
+      0.4452,
+      0.6342,
+      0.4165,
+      0.5777,
+      0.319,
+      0.4132,
+      0.4577,
+      0.404,
+      0.3916,
+      0.424,
+      0.3786,
+      0.3947,
+      0.3766,
+      0.4066,
+      0.37,
+      0.4521,
+      0.424,
+      0.4506,
+      0.3403,
+      0.3904,
+      0.4447,
+      0.3816,
+      0.4892,
+      0.3995,
+      0.3914,
+      0.4436,
+      0.4734,
+      0.3775,
+      0.3779,
+      0.4083,
+      0.3799,
+      0.3897,
+      0.3875,
+      0.3632,
+      0.3614,
+      0.4276,
+      0.4363,
+      0.3585,
+      0.4235,
+      0.3938,
+      0.4361,
+      0.4303,
+      0.3848,
+      0.3423,
+      0.3971,
+      0.5454,
+      0.4565,
+      0.4018,
+      0.5219,
+      0.3875,
+      0.4192,
+      0.3749,
+      0.442,
+      0.4682,
+      0.4175,
+      0.4629,
+      0.5317,
+      0.3964,
+      0.4641,
+      0.3674,
+      0.4086,
+      0.493,
+      0.3547,
+      0.4675,
+      0.4364,
+      0.5592,
+      0.3653,
+      0.4459,
+      0.4608,
+      0.4875,
+      0.3989
+    ]
+  },
+  "status": "quality_passed",
+  "created_at_bjt": "2026-07-26T07:36:05+08:00",
+  "updated_at_bjt": "2026-07-26T07:37:32+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}

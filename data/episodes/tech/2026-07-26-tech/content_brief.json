@@ -1,0 +1,177 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-07-26",
+  "stories": [
+    {
+      "story_id": "f2fa2f0eee8dc12fcd54",
+      "headline": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "facts": [
+        "Title: Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+        "“Everybody’s on their phone at my program!” jokes Charlie Bailey, a librarian in South Philadelphia. He’s just asked his audience to pull out their phones so that he can walk them through the steps of disabling Apple Intelligence and Gemini.",
+        "Bailey stands at the front of a library classroom that’s outfitted for children – the focal point is the vibrant rug he’s standing on, which reminds us that M is for “moon” and Z is for “zebra.” But the 20-odd adults in the room aren’t here to learn about the alphabet. They’re at a workshop called Avoiding AI, which, in this context does not stand for “apple",
+        "“I was inspired by the feeling of people’s frustration with AI tools being kind of forced onto them, and feeling like AI tools we didn’t ask for are suddenly everywhere in our lives,” Bailey told TechCrunch.",
+        "Bailey starts the hour-long workshop with an overview of how AI chatbots and other consumer AI tools work, explaining why people might want to use these products, and why they might opt to abstain. Then, he walks through all of the most popular tech platforms and devices, showing step-by-step instructions on the projector to guide people through turning off "
+      ],
+      "numeric_claims": [
+        "Bailey stands at the front of a library classroom that’s outfitted for children – the focal point is the vibrant rug he’s standing on, which reminds us that M is for “moon” and Z is for “zebra.” But the 20-odd adults in the room aren’t here to learn about the alphabet. They’re at a workshop called Avoiding AI, which, in this context does not stand for “apple"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "f2fa2f0eee8dc12fcd54",
+          "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech",
+          "published_at_bjt": "2026-07-26T00:00:00+08:00",
+          "authority_tier": 1
+        }
+      ]
+    },
+    {
+      "story_id": "cc04af0507f4f94d16e9",
+      "headline": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "facts": [
+        "Title: One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+        "A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously.",
+        "The event caused voltage across the PJM grid to spike from Northern Virginia to Chicago, according to data collected by [Ting Labs](https://www.tingfire.com/), a startup that runs an IoT sensor network out of people’s electrical sockets.",
+        "The event didn’t cause a blackout, but it did cause lights across the region to flicker. The incident demonstrated the effect that data centers can have on the grid — an outcome that experts believe will become more frequent.",
+        "Northern Virginia, which is in PJM’s territory, is home to the highest concentration of data centers in the world."
+      ],
+      "numeric_claims": [
+        "A power line went down outside of Washington, DC, this week. Normally, the grid would only need a few seconds to recover from such an event. But this one took more than 10 minutes because more than 3 gigawatts of data centers stopped drawing power nearly simultaneously."
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "cc04af0507f4f94d16e9",
+          "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
+          "published_at_bjt": "2026-07-25T21:05:00+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "2a65969455ed2a2c7000",
+          "title": "Power Line Failure Exposes AI Data Center Grid Vulnerability - The Tech Buzz",
+          "source": "The Tech Buzz",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbG5WNTlNbnozMzQ2Q3FLYVJGaFFpb3ZnZ1RjYTdKY0pXY0ljNURXcXdKM3RUZ2F4NzFEU0ZmbDk3Rm9Ua2UtQ21LeThuN0ZBNHZpUGJRVmpaNm5kZHB5QWowQTUzZXp1MmZZR2lqbXpRLW8zVXdzTGxfYUVxVnN5bG5paHVTVFRFSG9YTENjQVB3R3pJYlFVSQ",
+          "published_at_bjt": "2026-07-25T21:39:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "de72e6fcf4d06c4052e0",
+      "headline": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "facts": [
+        "Title: 半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 20:11:39 来源：[量子位](https://www.qbitai.com/)",
+        "模型变强，Claude Code系统提示词都精简了",
+        "泄露了一路的Opus 5，刚正式登场就被网友玩疯了。"
+      ],
+      "numeric_claims": [
+        "Title: 半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 20:11:39 来源：[量子位](https://www.qbitai.com/)",
+        "泄露了一路的Opus 5，刚正式登场就被网友玩疯了。"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "de72e6fcf4d06c4052e0",
+          "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460253.html",
+          "published_at_bjt": "2026-07-25T20:11:39+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "b91e9829a88830c86723",
+          "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来 - Sohu",
+          "source": "Sohu",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEtiODQ0VTA0bFBMWHZyUVpBMGx3S25VUmkySnMxQXF0c3BXMkJNRWxZSGp2RWVxOFRpOUdKanlxRS1kNTV4ODBGdGRVWXR6Z1hkT3RtN1VkNTdJbU02WER2SlhZQnRHS2tOQzlia2ZLYzRhXzhOaWZfNlhRUXVqVlZDa2NTT3NvcmgycA",
+          "published_at_bjt": "2026-07-25T20:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "cf2f8df7da9c057a63b8",
+      "headline": "100%开源！吴恩达做了个个人桌面Agent",
+      "facts": [
+        "Title: 100%开源！吴恩达做了个个人桌面Agent",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 20:35:34 来源：[量子位](https://www.qbitai.com/)",
+        "**AI教育大佬吴恩达也下场做AI同事了。**",
+        "不只是陪你聊天，也不只是给你列一个待办清单。"
+      ],
+      "numeric_claims": [
+        "Title: 100%开源！吴恩达做了个个人桌面Agent",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 20:35:34 来源：[量子位](https://www.qbitai.com/)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "cf2f8df7da9c057a63b8",
+          "title": "100%开源！吴恩达做了个个人桌面Agent",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460892.html",
+          "published_at_bjt": "2026-07-25T20:35:34+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "75e1f1a6bfdfcc1e776a",
+          "title": "100%开源！吴恩达做了个个人桌面Agent - Sohu",
+          "source": "Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS2pPY2gxWG1HMDY3UTUzb1ZQMF9tbnlIakZFM1BuN2ZYUVdfUG0xRF9aQ2ZrelcxLWkzb0dmZURtbExGdFJLU1ZiaVAyaGJ6QktscW9ndjRYUXlKOHJVNkMySlV5Q3BwMWhKVGdtSXA3VnhvNUJaN1p6dXhtbUFxbkVTZ2dJZnRf",
+          "published_at_bjt": "2026-07-25T12:51:05+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "60cba4552778dc22fa71",
+      "headline": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "facts": [
+        "Title: 美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 20:24:27 来源：[量子位](https://www.qbitai.com/)",
+        "“包括Physical Intelligence在内，如今的北美头部具身智能公司离成熟都还有不短的距离。整个领域，也还没出现真正的奠基性工作。”",
+        "“中国真正领先的，恰恰是机器人硬件。美国同样没有成熟答案，中国公司又何必急着把自己称为‘中国版XX’？”"
+      ],
+      "numeric_claims": [
+        "Title: 美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 20:24:27 来源：[量子位](https://www.qbitai.com/)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "60cba4552778dc22fa71",
+          "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460542.html",
+          "published_at_bjt": "2026-07-25T20:24:27+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "79105a827df42aa94905",
+          "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026 - Sohu",
+          "source": "Sohu",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa2JYMUlnbmFhdVdqSlJNNU12MnV4WGpMY05wMnY0SEtpMzI2SmlIeWd4ZXVYS1d3QXk1NlFVLVdHWHRheTZmWEN5SWl4YXJvNXNmZDBFMDBsRXphZnNUZWV0ZzJUeHdwTUlCdFVFb245VW9iVkVuSGp6TGpTOUtDbTRFU3hBUzBh",
+          "published_at_bjt": "2026-07-25T15:32:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    }
+  ],
+  "shared_theme": "",
+  "risk_flags": []
+}
