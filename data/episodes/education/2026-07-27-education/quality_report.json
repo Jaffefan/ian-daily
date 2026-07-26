@@ -1,0 +1,14 @@
+{
+  "episode_id": "2026-07-27-education",
+  "publishable": true,
+  "story_count": 5,
+  "source_count": 10,
+  "domestic_count": 3,
+  "reading_chars": 4027,
+  "podcast_chars": 5035,
+  "audio_duration_sec": 1075.0,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.003,
+  "errors": [],
+  "warnings": []
+}

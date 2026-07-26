@@ -1,0 +1,331 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-07-27",
+  "articles": [
+    {
+      "id": "b95a9468e816ab8137f8",
+      "category": "tech",
+      "title": "Making sense of the panic over Chinese AI",
+      "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
+      "source": "TechCrunch",
+      "published_at_bjt": "2026-07-27T03:40:57+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: Making sense of the panic over Chinese AI\n\nURL Source: https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai\n\nPublished Time: 2026-07-26T19:40:57+00:00\n\nMarkdown Content:\nThe launch of the latest AI model from a Chinese company — Moonshot AI’s Kimi — reignited debates around American competitiveness and open versus proprietary AI.\n\nWhile there was [plenty of conversation on social media](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/), it seems the debate is also happening behind the scenes in Washington, D.C., where OpenAI and Anthropic have [reportedly lobbied regulators](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_code=1.0VA.x5Vk.-BDaVDBrJDeO&smid=nytcore-ios-share) with concern about open Chinese models.\n\nOn the latest episode of [TechCrunch’s Equity podcast](https://techcrunch.com/podcasts/equity/), Kirsten Korosec, Sean O’Kane, and I discussed why this seems to be such a hot button issue. Beyond suggesting that certain folks should “touch grass” rather than spending their weekends arguing on X, Sean noted that in many ways, this “feels like we’re seeing repeats of prior freakouts,” with everyone in Silicon Valley “expecting that something is going to arrive and blow everything else away.”\n\nAnd Kirsten noted that putting heavy restrictions on Chinese AI models could primarily benefit a handful of companies: “Are we accelerating and ensuring that Americans win the AI race, or are we ensuring that certain frontier labs do better than others?\n\nKeep reading for an excerpt of our conversation, edited for length and clarity.\n\n**Anthony Ha:** For folks who have followed the discourse around Chinese AI, this will probably be very, very familiar from the launch of DeepSeek, where basically a Chinese model comes out; on some benchmarks, it does as well, or at least seems competitive with some of the frontier models; and a certain portion of the tech industry loses their mind.\n\nSome of this [debate] got extra scrutiny because one of the people posting about it was [an executive] at OpenAI. But in general, there [is] this recurring question of: Can Chinese companies beat US companies, at least in some aspects, and do it much more cheaply and in a much more open way?\n\n**Sean O’Kane:** Yeah, there are many elements of this that feel like we’re seeing repeats of prior freakouts. I think one of my favorites is: Everybody is so ready [for] and so expecting that something is going to arrive and blow everything else away. And I think my favorite example of that this past week was people showing off that “My gosh, [Kimi made in 30 minutes an entire replication of macOS](https://www.reddit.com/r/kimi/comments/1uyizup/now_this_is_impressive_it_build_entire_macos/).” And yeah, it made a pretty impressive graphical reproduction of what macOS looks like, but it’s not an OS.\n\nWe keep seeing these things happen over and over again, where everybody’s so jumpy in the tech industry. And I think in particular, with some of the Chinese models that come out, there’s this expectation, and I think this gets to the core of why people reacted the way they reacted last weekend. (Also, by the way: Go outside, touch grass, it’s the weekend. Everybody in the industry was trading barbs on Twitter all weekend.) But this jumpiness is really interesting to me because we’re now a week out and I don’t think anybody’s feeling like the end is nigh like they were a week ago.\n\n**Kirsten Korosec:**We have a really great story by one of our reporters, Tim Fernholz, who tries to [unpack the psychosis around this here in the United States](https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/). He points to a number of reasons. And concludes — and I don’t want to conclude it for him, but I think that there’s one that rises more to the top than others.\n\nThere’s concerns that these Chinese open weight models might have an implicit bias towards China, there’s another worry about security risks and guardrails. But there’s also a pretty big idea here, which is protectionism, and who is going to quote-unquote “win the race”? Is it going to be the US or China? And that seems to be driving a lot of what the fear is.\n\nI don’t know, Anthony, if you agree with that?\n\n**Anthony:** I completely agree. I think the China aspect always adds this certain level of hysteria. And that’s not to say that people shouldn’t be concerned about how the U.S. stacks up against China across different industries. But it gets so amped up.\n\nThe other thing this reminds me of is the discussion around TikTok a few years ago. And again, it wasn’t that I thought that the concerns around TikTok were totally made up, but that the level of how panicked people got — it seems as soon as you add the word China to any discussion, things just ramp up dramatically. And then in this case, it’s linked to this discussion about open [weights] and this idea that AI is so powerful and so dangerous that the only way we can control it is with these proprietary models from these American frontier companies.\n\nObviously, most people saying this [have] reasons why they want to say that. David Sacks, who was the AI czar for the Trump administration [and] now has a different role in the Trump administration, was shouting on X about how, “I can’t believe people are opposing data centers, we’re tying ourselves in knots, there’s too much regulation.” And so it’s a way to argue for the positions that they already had around AI. “My gosh, if China beats us, that’s unthinkable, so you have to do what I want to do anyway.”\n\n**Kirsten:** Right, and if you were to put across-the-board bans on Chinese open weight models — I’m not saying that there aren’t real concerns here, but let’s just play that out. If we were to do that, it would benefit models created by OpenAI, for instance, and it would force enterprises to use those as opposed to using models like Kimi.\n\nSo you really have to ask the question: Are we accelerating and ensuring that Americans win the AI race, or are we ensuring that certain frontier labs do better than others?\n\n**Sean:** At this point, we should say a lot of this discussion really got kicked off by the head of strategic futures at OpenAI, Dean Ball, who was the first one to come out with [this really long post mentioning some of these concerns](https://x.com/deanwball/status/2078133895766114412).\n\nPart of me thinks the reaction to this was because people disagreed with what Dean wrote. Part of me also thinks the reaction was driven by the fact that he kind of just said the thing out loud. He basically said the US should create regulatory FUD — fear, uncertainty, and doubt — and muck up the ability for these open weight models to compete with the US. [Ball later [backed away from this argument](https://x.com/deanwball/status/2078619513575137330).]\n\nAnd to me, I think you can read in some of the responses from folks, like, “You’re no",
+      "image_url": "images/0d8b66c045db0c95.webp",
+      "image_credit": "TechCrunch",
+      "image_kind": "source",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+      "image_status": "downloaded",
+      "image_phash": "060647072e06067f",
+      "community_signals": []
+    },
+    {
+      "id": "c4b36408fd9507a6a542",
+      "category": "tech",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+      "source": "TechCrunch",
+      "published_at_bjt": "2026-07-27T00:33:13+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack\n\nURL Source: https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack\n\nPublished Time: 2026-07-26T16:33:13+00:00\n\nMarkdown Content:\n[Skip to content](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack#wp--skip-link--target)\n\n[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)\n\n*   [Latest](https://techcrunch.com/latest/)\n*   [Startups](https://techcrunch.com/category/startups/)\n*   [Venture](https://techcrunch.com/category/venture/)\n*   [Apple](https://techcrunch.com/tag/apple/)\n*   [Security](https://techcrunch.com/category/security/)\n*   [AI](https://techcrunch.com/category/artificial-intelligence/)\n*   [Apps](https://techcrunch.com/category/apps/)\n*   [Disrupt 2026](https://techcrunch.com/events/techcrunch-disrupt/)\n\n*   [Events](https://techcrunch.com/events/)\n*   [Podcasts](https://techcrunch.com/podcasts/)\n*   [Newsletters](https://techcrunch.com/newsletters/)\n\nSearch \n\nSubmit\n\nSite Search Toggle\n\nMega Menu Toggle\n\n### Topics\n\n[Latest](https://techcrunch.com/latest/)\n\n[AI](https://techcrunch.com/category/artificial-intelligence/)\n\n[Amazon](https://techcrunch.com/tag/amazon/)\n\n[Apps](https://techcrunch.com/category/apps/)\n\n[Biotech & Health](https://techcrunch.com/category/biotech-health/)\n\n[Climate](https://techcrunch.com/category/climate/)\n\n[Cloud Computing](https://techcrunch.com/tag/cloud-computing/)\n\n[Commerce](https://techcrunch.com/category/commerce/)\n\n[Crypto](https://techcrunch.com/category/cryptocurrency/)\n\n[Enterprise](https://techcrunch.com/category/enterprise/)\n\n[EVs](https://techcrunch.com/tag/evs/)\n\n[Fintech](https://techcrunch.com/category/fintech/)\n\n[Fundraising](https://techcrunch.com/category/fundraising/)\n\n[Gadgets](https://techcrunch.com/category/gadgets/)\n\n[Gaming](https://techcrunch.com/category/gaming/)\n\n[Google](https://techcrunch.com/tag/google/)\n\n[Government & Policy](https://techcrunch.com/category/government-policy/)\n\n[Hardware](https://techcrunch.com/category/hardware/)\n\n[Instagram](https://techcrunch.com/tag/instagram/)\n\n[Layoffs](https://techcrunch.com/tag/layoffs/)\n\n[Media & Entertainment](https://techcrunch.com/category/media-entertainment/)\n\n[Meta](https://techcrunch.com/tag/meta/)\n\n[Microsoft](https://techcrunch.com/tag/microsoft/)\n\n[Privacy](https://techcrunch.com/category/privacy/)\n\n[Robotics](https://techcrunch.com/category/robotics/)\n\n[Security](https://techcrunch.com/category/security/)\n\n[Social](https://techcrunch.com/category/social/)\n\n[Space](https://techcrunch.com/category/space/)\n\n[Startups](https://techcrunch.com/category/startups/)\n\n[TikTok](https://techcrunch.com/tag/tiktok/)\n\n[Transportation](https://techcrunch.com/category/transportation/)\n\n[Venture](https://techcrunch.com/category/venture/)\n\n### More from TechCrunch\n\n[Staff](https://techcrunch.com/about-techcrunch/)\n\n[Events](https://techcrunch.com/events/)\n\n[Startup Battlefield](https://techcrunch.com/startup-battlefield/)\n\n[StrictlyVC](https://strictlyvc.com/)\n\n[Newsletters](https://techcrunch.com/newsletters/)\n\n[Podcasts](https://techcrunch.com/podcasts/)\n\n[Videos](https://techcrunch.com/video/)\n\n[Partner Content](https://techcrunch.com/sponsored/)\n\n[TechCrunch Brand Studio](https://techcrunch.com/brand-studio/)\n\n[Crunchboard](https://www.crunchboard.com/)\n\n[Contact Us](https://techcrunch.com/contact-us/)\n\n[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F26%2Fhugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F26%2Fhugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack%2F&text=Hugging+Face+CEO+calls+for+%E2%80%98radical+transparency%E2%80%99+after+%E2%80%98unprecedented%E2%80%99+OpenAI+hack&via=techcrunch)[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F26%2Fhugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack%2F&title=Hugging+Face+CEO+calls+for+%E2%80%98radical+transparency%E2%80%99+after+%E2%80%98unprecedented%E2%80%99+OpenAI+hack&summary=%22The+first+autonomous+agent+cyberattack+is+an+unprecedented+event.+It+deserves+an+unprecedented+response%21%22&mini=1&source=TechCrunch)[](https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F26%2Fhugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack%2F&title=Hugging+Face+CEO+calls+for+%E2%80%98radical+transparency%E2%80%99+after+%E2%80%98unprecedented%E2%80%99+OpenAI+hack)[](mailto:?subject=Hugging+Face+CEO+calls+for+%E2%80%98radical+transparency%E2%80%99+after+%E2%80%98unprecedented%E2%80%99+OpenAI+hack&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F26%2Fhugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack%2F)[](https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/)\n\nIn Brief\n\nPosted:\n\n9:33 AM PDT · July 26, 2026\n\n![Image 5: A split screen illustration featuring the logos of Hugging Face and OpenAI.](https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?w=1024)\n\n**Image Credits:**Samuel Boivin/NurPhoto and Samuel Boivin/NurPhoto / Getty Images\n\n*   ![Image 6: Anthony Ha](https://techcrunch.com/wp-content/uploads/2021/01/vtobb68s1b8yujb2lsfk.jpg)\n\n*   [Anthony Ha](https://techcrunch.com/author/anthony-ha/)\n\n# Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack\n\nAfter OpenAI recently admitted that one of its models had [breached the systems of AI platform Hugging Face](https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/), Hugging Face’s CEO Clem Delangue [posted on X](https://x.com/ClementDelangue/status/2080247567493837047) that he was flying to San Francisco to have “a little chat with that ‘rogue agent.’”\n\nThen, in [a follow-up post](https://x.com/ClementDelangue) on Saturday, Delangue outlined what he’d asked for from OpenAI. He said he called for “radical transparency,” asking OpenAI to “release the traces from the ‘rogue’ agents so the entire research community can study what happened.”\n\nAnd he also wants “more capabilities for defenders,” calling for OpenAI to commit $100 million worth of computing power “to help the Hugging Face community build powerful cyber defenses with the best open and closed models.”\n\nDelangue added, “The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!”\n\nDespite the autonomous nature of the attack, cybersecurity experts suggested t",
+      "image_url": "images/451177d6731cf5ea.webp",
+      "image_credit": "伊恩每日 · 本地题图",
+      "image_kind": "fallback",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg",
+      "image_status": "source_unavailable",
+      "image_phash": "dd9cc33e2fe3f1f9",
+      "community_signals": []
+    },
+    {
+      "id": "e447243a68e0619ea5ce",
+      "category": "tech",
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+      "source": "TechCrunch",
+      "published_at_bjt": "2026-07-26T09:30:00+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: Monday.com is the latest tech company to blame AI for layoffs — here are 20 others\n\nURL Source: https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai\n\nPublished Time: 2026-07-26T01:30:00+00:00\n\nMarkdown Content:\n[Monday.com](https://monday.com/), the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cuts. On Wednesday, the company said in an [SEC filing](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001845338/8caa6f84-8fce-4956-b817-dd7ae68b450d.pdf) that it will lay off about 20% of its workforce, or just over 600 employees, as part of a “restructuring plan” tied to its “ongoing transformation of its product, marketing, and go-to-market strategy” in support of “a leaner, more focused operating model” as it continues investing in its “AI-driven growth strategy.”\n\nCo-founder Eran Zinman told employees in a [LinkedIn memo](https://www.linkedin.com/posts/eranzinman_building-mondaycom-for-its-next-chapter-activity-7485608646723276800-nog3/) that the move “was not made to reduce costs or replace people with AI,” positioning it instead as adapting the organization to a new AI-first vision the company laid out roughly a year ago when it rebranded around a platform-wide AI push. [Monday.com](https://monday.com/), which has two offices in the U.S., expects $45 million to $55 million in net restructuring charges but still projects up to 20% year-over-year revenue growth for 2026.\n\nSo far, according to new Financial Times [analysis](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f), U.S. tech companies have slashed nearly 140,000 jobs since the start of this year, with Amazon, Oracle, Meta, and Microsoft alone accounting for almost 50,000 of those cuts as they funnel hundreds of billions of dollars into AI data center buildouts. Interestingly, the FT also found that companies citing AI as a factor in job cuts have underperformed the Nasdaq by almost 10% in the 30 trading days following their announcements, suggesting the market doesn’t entirely buy the stories that the companies are telling.\n\nStill, the picture isn’t uniformly bleak. The FT notes that AI-focused companies like Anthropic and OpenAI are hiring rapidly, absorbing some of the talent shed elsewhere in the industry. And within some of the very companies making cuts, headcount is shifting rather than disappearing entirely. Meta, for instance, earlier this year moved roughly 7,000 employees into new AI-focused roles even as it laid off 8,000 others, and IBM says it’s tripling entry-level hiring for AI and hybrid-cloud roles alongside recent cuts.\n\nBelow is a running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.\n\n* * *\n\n**Microsoft** — July 9, 2026. Microsoft cut about 4,800 roles, or 2.1% of its global workforce, most of them in its Xbox gaming unit, resetting the business only three years after acquiring Activision Blizzard for $75 billion, per the FT. Separately, it offered buyouts structured as voluntary separations, without disclosing how many employees these would impact. The company said the role eliminations were “not being replaced by AI” but acknowledged “AI is changing how work gets done.” CFO Amy Hood said total headcount declined year-over-year in fiscal Q3, and was expected to keep declining as the company focuses on “building high-performing teams that operate with pace and agility” amid rising AI investment.\n\n**Oracle** — June 22, 2026. Oracle disclosed in late June that it had reduced its workforce by 21,000 employees over the past 12 months, a decline of 13%, which means more cuts than was previously known, including because of AI. “The adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce,” the company said in an [annual financial regulatory filing](https://www.sec.gov/Archives/edgar/data/0001341439/000119312526277521/orcl-20260531.htm).\n\n**GitLab** — June 3, 2026. GitLab laid off roughly 350 workers, about [14% of its staff](https://techcrunch.com/2026/06/03/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads/), to fund AI infrastructure investment and handle surging traffic from AI workflows. CEO Bill Staples said agentic workloads are “pushing competitors to the brink” and that the company had begun a “generational rebuild” of its core infrastructure to support what he called 100x growth requirements. GitLab is exiting 22 countries, flattening management layers, and partnering with an unspecified AI lab to rebuild its platform for agent-scale workloads. The company reported first-quarter revenue of $264 million, up 23% year-over-year, and expects to incur $30 to $35 million in restructuring costs.\n\n**Google** — ongoing through May. Alphabet’s Google has [quietly cut](https://www.businessinsider.com/google-clouds-quiet-layoffs-hit-cybersecurity-teams-2026-6) employees across its Cloud division, including its Threat Intelligence Group and Mandiant-linked cybersecurity staff, even as Cloud revenue grew 63% to exceed $20 billion for the first time and its backlog nearly doubled to over $460 billion. Over the past year, Google has cut more than a third of the managers overseeing small teams — 35% fewer managers with fewer direct reports. Unlike most companies on this list, Google has never announced a single overall number — the cuts have come through a rolling performance review process, a voluntary buyout program, and structural reorganizations, with outside estimates putting the 2026 total at between 1,500 and 3,000+ engineers.\n\n**Intuit** — May 20, 2026. Intuit announced plans to eliminate [roughly 3,000 jobs](https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/) — about 17% of its total workforce — in a restructuring centered on reducing complexity and reallocating resources toward AI. CEO Sasan Goodarzi reportedly told staff the company is reducing complexity and simplifying the structure so it can deliver better products.\n\n**Meta**— May 20-21, 2026. Meta laid off about 8,000 employees, roughly 10% of its workforce, while moving about 7,000 employees into new AI-focused roles (that they [reportedly hate](https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/)). CEO Mark Zuckerberg told staff the cuts were necessary because “success isn’t a given” in AI.\n\n**Cisco** — May 14, 2026. Cisco announced it’s cutting nearly [4,000 jobs](https://techcrunch.com/2026/05/14/cisco-cuts-nearly-4000-jobs-to-spend-more-on-ai-reports-record-quarterly-revenue/), about 5% of its workforce, despite reporting better-than-expected profit and revenue. CFO Mark Patterson [said](https://finance.yahoo.com/sectors/technology/arti",
+      "image_url": "images/93d2f943fbd3e51c.webp",
+      "image_credit": "TechCrunch",
+      "image_kind": "source",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/07/robot-at-desk.png?resize=1200,800",
+      "image_status": "downloaded",
+      "image_phash": "30f0183cfefe2200",
+      "community_signals": []
+    },
+    {
+      "id": "6b8543cbe538c7203e6d",
+      "category": "tech",
+      "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "summary": "项目数据模型均开源",
+      "url": "https://www.qbitai.com/2026/07/460962.html",
+      "source": "量子位",
+      "published_at_bjt": "2026-07-26T13:30:21+08:00",
+      "language": "zh",
+      "region": "domestic",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: 3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发\n\nURL Source: https://www.qbitai.com/2026/07/460962.html\n\nMarkdown Content:\n< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">\n\n2026-07-26 13:30:21 来源：[量子位](https://www.qbitai.com/)\n\n项目数据模型均开源\n\n> 允中 发自 凹非寺\n> \n> \n> 量子位 | 公众号 QbitAI\n\n煮鸡蛋面、调柠檬水……机器人又来秀花活了。\n\n![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/28886b0c6a760445ae8cfdf3fcc8c049.jpeg)\n\n这次登场的是来自NeoteAI和复旦大学的N0系列模型。不仅是居家料理，收纳整理它同样拿手。工厂流水线装配、精细零件组装、线材缠绕梳理这些精细活也全都不在话下。\n\n不知道大家有没有见过机器人实操翻车的名场面：插头边缘反复摩擦却难以插入、抓取塑料瓶时力道失控导致瓶身瘪陷、叠好的毛巾在松手瞬间散落……在具身智能的落地进程中，这类“视觉系统判定无误，但物理交互瞬间翻车”的现象屡见不鲜。\n\n这些失败指向了一个行业共识：\n\n决定机器人能否在真实物理世界中生存的关键，往往不只在于视觉感知的精度，而更在于接触瞬间的触觉反馈。摄像头能确认空间位置，却无法感知“是否接触”、“顶到边缘”、“夹力过载”或“发生滑移”等，缺失这层反馈，正是阻碍机器人跨越“最后一厘米”的核心痛点。\n\n现在，上海新智具身智能科技有限公司（NeoteAI）联合复旦大学可信具身智能研究院，正式发布了N0系列三份技术报告，把触觉从“辅助模态”跃升为“核心基建”。 三份报告合起来看，恰好拼出一张蓝图——一套触觉数据底座，搭配两条不同侧重的技术路线。\n\n更具行业价值的是，项目的数据和模型会进行开源，可以直接查看项目的完整链接：\n\nhttps://research.neoteai.com\n\n## N0-Foundation：统一触觉“方言”，构建3万小时交互语料库\n\n触觉数据的规模化应用长期受制于各类触觉设备输出的数据格式互不兼容。不同传感器输出的凝胶形变图、电容矩阵或六维力向量，犹如缺乏统一语法的方言，难以在同一模型中融合。\n\nNeoteAI搭建的NeoData数据集旨在打破这一壁垒：\n\n*   包含超3万小时视觉-触觉交互操作数据；\n*   约140万条操作片段，33亿个时间步；\n*   对应80亿帧RGB画面与100亿帧触觉图像；\n*   动用Franka、Piper、UR5e等6种机器人本体；\n*   覆盖450项真实长程任务（如叠衣、插拔接头、倒液体等），由90位操作员采集；\n*   已开源5千小时视觉-触觉交互操作数据。\n\n![Image 2](https://i.qbitai.com/wp-content/uploads/2026/07/29f55bbf613d823647f105c0163aa672.jpeg)\n\n另外，研究团队还提出了NeoForce统一表征模型。无论底层传感器硬件如何，都能够学习到具备迁移能力、时序结构化的触觉表征，以供下游具身智能策略使用：哪里被按？按多大力？有没有横向拉扯？这种“触觉普通话”有效解决了跨设备数据融合难题。\n\n## N0-VTLA：以“触觉预判”赋能轻量级VLA\n\n数据底座夯实后，研究团队接下来思考的是如何将触觉真正融入到VLA技术路线之中。\n\n在现有的多模态融合实践中，直接将触觉图像与RGB视觉信号进行简单拼接往往面临挑战：\n\n由于触觉信号仅在物理接触瞬间产生高频响应，大部分时间处于“静默”状态，极易被海量视觉Token淹没。更为关键的是，即便模型成功提取了当前触觉特征，其本质上仍是对已发生动作的滞后反馈——这种“后视镜”式的感知机制，使得在动态交互中始终慢半拍。\n\n![Image 3](https://i.qbitai.com/wp-content/uploads/2026/07/aa384bbe88a5feb6f96b7f4708a69746.jpeg)\n\nN0-VTLA提出了一种全新的方案：不依赖滞后的当前触觉，而是预测未来50步内的触觉演变。\n\n该模型将当前触觉编码为紧凑的潜在Token，结合视觉上下文预判滑移、受力等趋势，从而指导动作模块提前调整。\n\n不同任务上显示：\n\nN0-VTLA在插插头任务中成功率达85%，而同类视觉方案仅60%；在拔钥匙的任务成功率达99%，而视觉方案为35%。\n\n此外，N0-VTLA还突破了传统模仿学习仅依赖专家成功轨迹的局限，让机器人从失败数据中实现自主进化。\n\n模型结合触觉信息利用部署后数据以及human in the loop的数据训练了一个进度评估模型，使其能够识别任务执行阶段，甚至识别出“退步”与“救场”等复杂行为。通过结合离线强化学习，机器人在毛巾折叠、书包收纳、纸箱折叠等长程任务上的成功率，分别从50%、35%、20%大幅跃升至95%、80%、75%，真正实现了从失败经验中汲取教训的持续进化。\n\n![Image 4](https://i.qbitai.com/wp-content/uploads/2026/07/e324fc1ce331b191cbea5e14d455aef3.jpeg)\n\n## N0-TWAM：在世界模型中重构“触觉想象”\n\n如果说N0-VTLA是加装预判雷达，N0-TWAM则是对机器人“认知中枢”的重构：它把触觉放进世界模型，让机器人在动手之前，先在自己的“想象”里完整地推演一遍操作视角和手感。\n\n现有世界模型大多局限于未来视觉图像的生成，在驱动真实机器人时面临严峻的物理对齐挑战：画面里杯子被抓住了，但手指夹没夹稳？画面里插头对齐了，但下一秒会不会卡住？这些触感信息完全缺失。\n\nN0-TWAM要做的是同时预测未来的视频、触觉和动作这三个相互耦合的序列。\n\nN0-TWAM采用混合专家架构，内置视频、触觉、动作三个异步专家网络，视频专家从预训练模型热启动，触觉和动作专家用更窄的结构，最终总参数量72亿，仅相当于全宽方案的一半。\n\n![Image 5](https://i.qbitai.com/wp-content/uploads/2026/07/6b3e7974f3562eccc6a5233d5daa50c7.jpeg)\n\n在仿真与真机测试中，\n\nN0-TWAM展现出显著优势：仿真平均成功率达84.5%（而世界模型最强基线为36%）；真机8项任务平均成功率46.3%（LingBot-VA为21.9%）。消融实验进一步证实，去除“未来触觉预测”或“当前触觉条件”均会导致性能显著下降，确立了触觉在世界模型中的不可或缺性。\n\n![Image 6](https://i.qbitai.com/wp-content/uploads/2026/07/73777e85ad6658a69ca1e315ea9c036b.jpeg)\n\n## 触觉：具身智能的下一个 Scaling Law？\n\n纵观N0系列三份报告，NeoteAI释放了明确的行业信号：\n\nN0-Foundation验证了触觉模态具备类似视觉的Scaling潜力；N0-VTLA证明了触觉可以自然的接入现有 VLA 架构；N0-TWAM 确立了触觉在世界模型顶层设计中的核心地位，使其与视觉模态真正平起平坐。\n\n这意味着，机器人的认知范式正从单一的“视觉驱动”向“视触融合”演进。它们不再仅仅通过“看”来理解世界，而是开始像婴儿一样，通过主动的触觉探索来验证假设并规划下一步动作。\n\n“看得见杯子不等于拿得稳，认得出插座不等于插得进”——这一物理世界的常识，终于被写入了机器人的底层逻辑。\n\n尽管距离“随手一摸即知轻重”的通用具身智能仍有长路要走，真实场景下的数据采集成本、跨本体泛化能力以及推理实时性仍是亟待攻克的工程难题，但NeoteAI的这组工作已实质性地推动触觉从“小众研究方向”跃升为“具身智能核心基建”。\n\n![Image 7](https://i.qbitai.com/wp-content/uploads/2026/07/736abc4ca7eaad45bbe953f50218c485.jpeg)\n\n具身智能的下一篇章，或许不再仅仅是“让机器人看懂世界”，而是真正“让机器人摸透世界”。\n\n项目链接：\n\n https://research.neoteai.com\n\n公司官网：https://www.neoteai.com\n\n_版权所有，未经授权不得以任何形式转载及使用，违者必究。_\n",
+      "image_url": "images/80b467c5d92f6b1f.webp",
+      "image_credit": "伊恩每日 · 本地题图",
+      "image_kind": "fallback",
+      "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+      "image_status": "source_unavailable",
+      "image_phash": "ff9fcfe72f0707bf",
+      "community_signals": []
+    },
+    {
+      "id": "4604a6219c848c0f8aa2",
+      "category": "tech",
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "summary": "不做人形，抓住真实用户需求",
+      "url": "https://www.qbitai.com/2026/07/460234.html",
+      "source": "量子位",
+      "published_at_bjt": "2026-07-25T19:54:44+08:00",
+      "language": "zh",
+      "region": "domestic",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: 具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了\n\nURL Source: https://www.qbitai.com/2026/07/460234.html\n\nMarkdown Content:\n< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">\n\n2026-07-25 19:54:44 来源：[量子位](https://www.qbitai.com/)\n\n不做人形，抓住真实用户需求\n\n##### 克雷西 发自 苏州\n\n量子位 | 公众号 QbitAI\n\n做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了。\n\n这条路，科沃斯走了十四年。\n\n![Image 1: img](https://i.qbitai.com/wp-content/uploads/2026/07/d9f083acf5c3c846acfbac9c3bb3dfb0.webp)\n2012年，它推出了全球首款家庭服务机器人「亲宝」，是最早一批入局家庭服务机器人赛道的公司。\n\n后续迭代的公共服务机器人「旺宝」，广泛落地银行、政务大厅等场景，攒下了海量真实场景数据、工程落地经验和规模化交付能力。\n\n这些积累，后来成了科沃斯深耕具身智能领域的产业根基。\n\n现在，它在苏州挂牌成立了「八界开源智创空间」，面向开发者、高校师生和科研人员，以及有二次开发需求的企业用户，免费开放这套平台的使用权限，从硬件到底层系统全部涵盖。\n\n![Image 2: img](https://i.qbitai.com/wp-content/uploads/2026/07/fb4b3750464630f9635ebeb0a34df64f.webp)\n学生可以直接改代码验证自己的想法，研究者可以拿它做课题实验，创业团队可以用八界快速搭建产品原型。\n\n支撑这套平台的，是摆在空间中央的一台机器人，它叫「八界」，没有腿、没有脸、也没有五官，一点也不「像人」。\n\n回望过去两年，具身智能这个赛道里最不缺的就是「像人」的机器人，人形的骨架、灵巧的手指、拟人的步态……几乎成了这个行业默认的审美。\n\n但这台机器人的创造者，偏偏不这么认为。\n\n对此，科沃斯集团董事长钱东奇表示：\n\n> Robot这个概念最早跑出来的时候，它就是干苦力的。干苦力的，不一定是人。\n> \n> 我们在考虑这些问题的时候，要解决的是它切入家庭到底能干什么，而不是它的外观是什么样子。\n\n## 八界机器人，全面开源\n\n八界是科沃斯今年推出的一款具身智能机器人。科沃斯做了二十几年地面清洁机器人，这一次把这套技术从平面扩展到立体空间。\n\n它有六个自由度的机械臂，臂展800毫米，覆盖范围广，上可抵达高处、下可拾取地上的东西。\n\n它还配了一个静音移动底盘，走起来听不出声响，它的身体能升降44厘米，高处低处都够得着。\n\n这具身体里塞进了两颗双RK3588融合SoC，可以通过PCI-E扩展算力在本地带动7B参数的大模型，因此八界不用把每一次判断都传回云端等结果。\n\n![Image 3: img](https://i.qbitai.com/wp-content/uploads/2026/07/a73a4a2d0144226e2ec5f60b903d6732.webp)\n围绕这款机器人，科沃斯在苏州建了「八界开源智创空间」，把这套平台的使用权限整个打开，摆到开发者和学生面前。\n\n具体来说，硬件层的六自由度机械臂、静音底盘、二指灵巧夹爪、UV清洁装置、载物托盘，软件层的底层系统源码、本体嵌入AI智能体OpenClaw和Hermes，全是开发者可以直接拿到手里的东西。\n\n![Image 4: img](https://i.qbitai.com/wp-content/uploads/2026/07/733657915211c66db86b8c7378881489.webp)\n但拿到手里只是第一步，八界给了四条并列的路，方便不同背景的人各自找到能上手的地方。\n\n不擅长写代码的人，可以直接用一句自然语言让AI智能体去执行任务，他们不需要学习复杂的编程语言，低门槛的体验因此成为可能。\n\n有一定开发基础的人，可以用C++或Python的SDK，直接调用机械臂、夹爪这些底层的原子能力，拼出自己想要的动作组合。\n\n真正想往深处走的科研人员，可以利用SSH和串口等工具，通过自定义系统服务和定制ros2节点等多种方式，实现算法验证和自训练的模型部署，定义各种特色场景事例，让科研人员的学术成果能够得到快速的验证与应用。\n\n当然一些有二次开发需求的企业，也可以直接基于八界的开源技术底座做定制，开发出不同的可商业化落地的场景。\n\n几条路互不打架，一个刚学编程的学生和一个正在做课题的教授，都能在同一台机器人上找到各自够得着的入口。\n\n但能调用出动作，只是够用，调用得好不好，是另一回事。\n\n钱东奇提到了一个容易被参数表掩盖的地方——\n\n> 一台机器人能不能拿起一个水杯，这是能不能完成任务的问题；\n> \n> 机器人拿起水杯的时候力道够不够轻、姿势够不够自然，这才是决定它好不好用的地方，也是这次开源真正想留给开发者去打磨的空间。\n\n这背后是科沃斯二十多年做家庭服务机器人攒下的经验。\n\n这些设计当中，很多地方的差异连用户自己都说不出来，但用过之后，就能感觉出不一样。\n\n比如静音，科沃斯给底盘和升降机构都做了静音处理，开发者翻参数表可能不会多看一眼，但每天真正在用它的人，能分辨出机器人走过身边时那点声音差异。\n\n再 比如清洁。机器人反复抓取不同的物品，夹爪上容易留下卫生死角，科沃斯直接在夹爪上集成了UV清洁功能，它每完成一次任务就自动清洁一次，用户不用多做任何操作。\n\n又 比如安全。科沃斯还在机械臂和夹爪上加了力检测，它碰到障碍物时能及时感知并收住力道。\n\n就算遇到突然断电这种极端情况，机器也有一套缓降策略，不会让机械臂直接砸下来。\n\n这些细节堆在一起，是科沃斯二十多年攒下的对「家里到底需要什么」的理解。\n\n硬件、软件，连这些藏在细节里的设计都打开了，是科沃斯这次交出去的诚意。\n\n机器人长成现在这个样子，走轮式底盘这条路，也是一个更早做下的决定。\n\n## 不做人形，八界的选择题\n\n八界没有走人形这条路，它的身体由轮式底盘加一条机械臂构成，没有腿，也没有脸。\n\n科沃斯很早就给出过机器人的发展路线图，在这张路线图中，机器人要先做工具，再做管家，最后做伴侣。\n\n八界对应的，是「工具到管家」这一段。\n\n工具级的机器人只管地面，比如扫地机器人；管家级的机器人则要照顾整个家庭空间，认知和行动的复杂度都要上一个台阶。\n\n八界从「地面」跨到「空间」，机械臂、机身升降、夹爪，共同带来了这次新增出来的空间维度。\n\n八界最初瞄准的用户群体，是科沃斯扫地机器人积累下来的「先锋人群」。\n\n科沃斯围绕这批人做了入户调研，摸清他们真正需要机器人帮忙处理的空间任务，最后定义出的第一批场景——玩具收纳、鞋子整理、洗衣协作、取物递物、桌面整理——都是空间打理类的具体任务。\n\n机身形态、路线定位、目标人群、场景设计，这一连串的选择环环相扣，背后有钱东奇的多层判断。\n\n![Image 5: img](https://i.qbitai.com/wp-content/uploads/2026/07/e7a1e82e911b52a04c000154c0229342.webp)\n摆在首要位置的，就是「不做人形」。\n\n人形机器人可能从心理感受上更容易被接受，但机器人这个概念最早跑出来的时候，本来就是干苦力用的，跟它长什么样没关系。\n\n钱东奇更在意的，是机器人能不能真的进得去家里的沟沟坎坎，比如机械臂收起来的时候，要保持在一个圆形的包络线以内，这样转身、干活时它才能避免碰到家具。\n\n另外，轮式移动也比人形机器人的双足行走更安静、更省电，一台几十公斤重的机器要是靠两条腿咔啦咔啦走过去，楼上楼下都能听见，这在家里是不能接受的。\n\n技术路线上，他也有自己的判断。\n\n眼下不少同行押注的是VLA，他们靠海量数据训练一个端到端的黑盒模型。\n\n钱东奇不太看好这条路，理由很直接——家庭环境千变万化，一个通用模型很难覆盖所有情况。\n\n他更看好的思路是「千人千面」，所以科沃斯先把机器人的基础能力打牢，再针对每个家庭做定向的匹配和训练。\n\n这也是这次开源，要把机器人的能力拆成一个个可调用模块的原因之一。\n\n至于眼下这波具身智能的热闹，钱东奇同样有自己的看法。\n\n他的看法是，一台机器人有没有生命力，要看两件事到没到。\n\n一是技术到没到，二是消费者愿意为它付费的闭环到没到。\n\n他认为今天的很多尝试还处在早期，这些尝试谈不上真正形成商业闭环。\n\n但这种阶段性的热闹也有它的价值，没有先锋在前面探路，市场只会显得死气沉沉。\n\n科沃斯自己不打算凑这个热闹，还是计划按自己的节奏一步步走。\n\n## 八界生态，随时随地可接入\n\n这次开源，背后其实有一个行业共识在撑腰。\n\n具身智能距离自己的「ChatGPT时刻」还有一段距离，仿真环境到真实机器的迁移、场景数据的积累，这些工作量太大，一家公司很难独自补齐。\n\n所以这件事需要更多开发者一起来做，一点点地提升机器人对环境的理解和对场景的适配能力。\n\n八界没有为了开放而简化自己。\n\n抓取、行走、环境识别、场景理解，机器人该有的要素它一样不少，但复杂度和成本被压了下来，学校、企业、个人开发者都负担得起，这跟很多动辄几十万一台的科研级机器人不是一个价格区间。\n\n但买得起只是第一步，真正让它好用的，是怎么跟它「对话」。\n\n钱东奇把机器人比作一本活的课本，用户可以直接问它有什么能力、该怎么做，用一来一回的对话完成学习的闭环，不用像看纸质教材那样，靠想象拼凑机器人到底是什么样子。\n\n一个学生想知道机械臂能不能抓起一个易拉罐，不用翻手册，直接问一句就有答案。\n\n这套系统的开放范围也不止于苏州这一个园区。\n\n八界的线上社区（https://www.ecovacs-tech.com/），面向全国所有开发者开放。\n\n一个新来的开发者打开网站，可以在可视化控制平台上把机器人调试起来，还可以看到开源中心里挂在Atomgit&GitHub上的全部源码，甚至是别人已经做出来的应用实例，当然还有攒在Skill市场里的技能模块。\n\n如果遇到搞不明白的地方，文档中心和常见问题解答也都摆在那儿。\n\n这些入口，不需要先申请、先审核，任何人都能进入。\n\n当然，钱东奇也没有回避开源背后的算盘。这不是做慈善，科沃斯自己有着核心利益的考量。\n\n> 开源的目的是让机器人对环境的认知和动作行为形成一个共创的过程，而不是靠一家企业关起门来打通。\n> \n> 机器人对环境的认知能力、对动作的执行能力，靠一家公司是做不出来的，需要开发者一起共创，才能把这块拼图拼完整。\n\n科沃斯没有去追一个「像人」的故事。\n\n它选择把一件更笨重、更需要耐心的事情摊开来，让开发者、学生、研究者一起，把具身智能里最难啃的那部分，一点点做扎实。\n\n社区链接：https://www.ecovacs-tech.com/\n\n_版权所有，未经授权不得以任何形式转载及使用，违者必究。_\n",
+      "image_url": "images/3051cd4705253a93.webp",
+      "image_credit": "伊恩每日 · 本地题图",
+      "image_kind": "fallback",
+      "image_source_url": "http://www.qbitai.com/wp-content/themes/liangziwei/imagesnew/head.jpg",
+      "image_status": "source_unavailable",
+      "image_phash": "ffcfbff9c1810f3f",
+      "community_signals": []
+    }
+  ],
+  "fact_packs": [
+    {
+      "story_id": "b95a9468e816ab8137f8",
+      "headline": "Making sense of the panic over Chinese AI",
+      "facts": [
+        "Title: Making sense of the panic over Chinese AI",
+        "The launch of the latest AI model from a Chinese company — Moonshot AI’s Kimi — reignited debates around American competitiveness and open versus proprietary AI.",
+        "While there was [plenty of conversation on social media](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/), it seems the debate is also happening behind the scenes in Washington, D.C., where OpenAI and Anthropic have [reportedly lobbied regulators](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_code=1.0VA.x5Vk.-BDaVDBrJDeO&smid=nytcore-ios-share) with concern about open Chinese models.",
+        "On the latest episode of [TechCrunch’s Equity podcast](https://techcrunch.com/podcasts/equity/), Kirsten Korosec, Sean O’Kane, and I discussed why this seems to be such a hot button issue. Beyond suggesting that certain folks should “touch grass” rather than spending their weekends arguing on X, Sean noted that in many ways, this “feels like we’re seeing repeats of prior freakouts,” with everyone in Silicon Valley “expecting that something is going to arrive and blow everything else away.”",
+        "And Kirsten noted that putting heavy restrictions on Chinese AI models could primarily benefit a handful of companies: “Are we accelerating and ensuring that Americans win the AI race, or are we ensuring that certain frontier labs do better than others?",
+        "Keep reading for an excerpt of our conversation, edited for length and clarity.",
+        "**Anthony Ha:** For folks who have followed the discourse around Chinese AI, this will probably be very, very familiar from the launch of DeepSeek, where basically a Chinese model comes out; on some benchmarks, it does as well, or at least seems competitive with some of the frontier models; and a certain portion of the tech industry loses their mind.",
+        "Some of this [debate] got extra scrutiny because one of the people posting about it was [an executive] at OpenAI. But in general, there [is] this recurring question of: Can Chinese companies beat US companies, at least in some aspects, and do it much more cheaply and in a much more open way?"
+      ],
+      "sources": [
+        {
+          "article_id": "b95a9468e816ab8137f8",
+          "title": "Making sense of the panic over Chinese AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
+          "published_at_bjt": "2026-07-27T03:40:57+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "bb4901598813d37d7458",
+          "title": "US panic is missing the point on Chinese AI - inkl",
+          "source": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Uy1KbklyaGg1V2lOLWtzTzk0QjFWZ1pQSWJaSDlkU1BBa3RuX002VzM0RkVJeUdlUXQ0azZfbmZNTWZGbnhJWXozS1M5aThHWnNPZXFRWmxHbnhia2lNWVFDa0wtNWVqN2RqcEpncnRERkozNjZMTw",
+          "published_at_bjt": "2026-07-13T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "05c5a33440a3c44591a5",
+          "title": "How Chinese make sense of the AI future - ChinaTalk | Jordan Schneider",
+          "source": "ChinaTalk | Jordan Schneider",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZV2hvc0ZyaVdVMm9XM2ZBcmV1TFB3Y0JwZjVYMTRPeGlZajlselpfc1d5N0xQQjBuS292R3VWTEhMVVRjckdKeElodmNMektIeUlIaTg2MS03RE1kZ0doak15T2xPVjRvODJldS12cG8",
+          "published_at_bjt": "2026-06-19T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "fe3e61207a6a26d3ea05",
+          "title": "Is the DeepSeek Panic Overblown? - Time Magazine",
+          "source": "Time Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sb0x3SG9KQkUxaXpFcFA3Wm5ITHhMNy1aRm0zem02MmZRZWtCWWRIcVJXVEtqSG1YVFQ4aXg3RUI2bFZPMGxPbS1Tb3RnSnFnM1daRkxIUGJBc3k4bjVlaDI1TQ",
+          "published_at_bjt": "2025-01-30T16:00:00+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "c4b36408fd9507a6a542",
+      "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "facts": [
+        "Title: Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)",
+        "*   [Latest](https://techcrunch.com/latest/)",
+        "*   [Startups](https://techcrunch.com/category/startups/)",
+        "*   [Venture](https://techcrunch.com/category/venture/)",
+        "*   [Apple](https://techcrunch.com/tag/apple/)",
+        "*   [Security](https://techcrunch.com/category/security/)",
+        "*   [AI](https://techcrunch.com/category/artificial-intelligence/)"
+      ],
+      "sources": [
+        {
+          "article_id": "c4b36408fd9507a6a542",
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+          "published_at_bjt": "2026-07-27T00:33:13+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "6f2cfc0623daf36edbf0",
+          "title": "Hugging Face CEO demands ‘radical transparency’ after ‘unprecedented’ OpenAI autonomous agent hack - CryptoRank",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXo0NHpialM1VXZ5UUVrb0pxQWlsLXpkd0dmVnNpbFhIemNzY1FoYXpCODlPYXZGNUVpNjlOaXNIMEZHTEhlTW1qel9naFZ0bkF4em9PcnZhYzd0UUVQWWgtWjI5d3JRckI3YjAtQi1aekxjTGsycmlvYW5KTW80WG1aQ1NIbjY4N3Z2dGhrcFU",
+          "published_at_bjt": "2026-07-27T03:04:07+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "c9905cb79a23c9ad2a43",
+          "title": "OpenAI’s GPT-5.6 Sol Model Breached Hugging Face During ExploitGym Testing: how 11 outlets framed it - NewsCord",
+          "source": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0pBeGp0M1VscFJvSkdWcmluem9Id05BV0NjczZBQ0YyZ0xCaFR0MzdUTXRrV09tNUQwZG9DZUtnNXFwMmoyazlqSDF5VFp1b3ZxLS1LY3NyYWlKVWtvTE1VdlNjZlFJYmZ3aFplamFIbWVIMnNfa0RjdW1iRm4wSlRBZTZRRjkyS2lZeG92N1o3TTZGTkE5WmNubjFRS1hPVnRGU2xvTWRiemZtX3dfYUlOUm5BYnRaRUVYS3RJOGxPYVZ0OXB4OHJWT0s2UmZ6LTNoZ3dYQWluMFJoR0VV",
+          "published_at_bjt": "2026-07-25T15:00:00+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "e447243a68e0619ea5ce",
+      "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "facts": [
+        "Title: Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "[Monday.com](https://monday.com/), the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cuts. On Wednesday, the company said in an [SEC filing](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001845338/8caa6f84-8fce-4956-b817-dd7ae68b450d.pdf) that it will lay off about 20% of its workforce, or just over 600 employees, as part of a “restructuring plan” tied to its “ongoi",
+        "Co-founder Eran Zinman told employees in a [LinkedIn memo](https://www.linkedin.com/posts/eranzinman_building-mondaycom-for-its-next-chapter-activity-7485608646723276800-nog3/) that the move “was not made to reduce costs or replace people with AI,” positioning it instead as adapting the organization to a new AI-first vision the company laid out roughly a year ago when it rebranded around a platform-wide AI push. [Monday.com](https://monday.com/), which has two offices in the U.S., expects $45 mi",
+        "So far, according to new Financial Times [analysis](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f), U.S. tech companies have slashed nearly 140,000 jobs since the start of this year, with Amazon, Oracle, Meta, and Microsoft alone accounting for almost 50,000 of those cuts as they funnel hundreds of billions of dollars into AI data center buildouts. Interestingly, the FT also found that companies citing AI as a factor in job cuts have underperformed the Nasdaq by almost 10% in t",
+        "Still, the picture isn’t uniformly bleak. The FT notes that AI-focused companies like Anthropic and OpenAI are hiring rapidly, absorbing some of the talent shed elsewhere in the industry. And within some of the very companies making cuts, headcount is shifting rather than disappearing entirely. Meta, for instance, earlier this year moved roughly 7,000 employees into new AI-focused roles even as it laid off 8,000 others, and IBM says it’s tripling entry-level hiring for AI and hybrid-cloud roles ",
+        "Below is a running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+        "**Microsoft** — July 9, 2026. Microsoft cut about 4,800 roles, or 2.1% of its global workforce, most of them in its Xbox gaming unit, resetting the business only three years after acquiring Activision Blizzard for $75 billion, per the FT. Separately, it offered buyouts structured as voluntary separations, without disclosing how many employees these would impact. The company said the role eliminations were “not being replaced by AI” but acknowledged “AI is changing how work gets done.” CFO Amy Ho",
+        "**Oracle** — June 22, 2026. Oracle disclosed in late June that it had reduced its workforce by 21,000 employees over the past 12 months, a decline of 13%, which means more cuts than was previously known, including because of AI. “The adoption and deployment of AI technologies across our operations have resulted, and may continue to result, in reductions to our workforce,” the company said in an [annual financial regulatory filing](https://www.sec.gov/Archives/edgar/data/0001341439/00011931252627"
+      ],
+      "sources": [
+        {
+          "article_id": "e447243a68e0619ea5ce",
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+          "published_at_bjt": "2026-07-26T09:30:00+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "d7456173781100fc95cd",
+          "title": "Monday.com Joins 20 Tech Giants Citing AI for 2026 Layoffs - The Tech Buzz",
+          "source": "The Tech Buzz",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFpvWlZBZjRHektXcWczblFWRFNWVmFtaGlvR3gzLXlKUUxNOXFLQjJ2YUU5cTduYTVWSkVFdF9pM25qM3YtVTFQdHpBMGE5Sl9iR21qODdNRVg5NXFsU2FRYm9wNjBzTDBGR0Z1Z3Zrdnp1X3RzSEpIZ09BQjdXV2h6Q3NtUHJrODRPNThRREd2NEhvMlE",
+          "published_at_bjt": "2026-07-26T10:06:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "4dbe6f52d0e7925a6e79",
+          "title": "Tech layoffs tracker 2026: All of the current job losses across Monday.com, Oracle, Meta, Microsoft, Samsung and others - Yahoo Tech",
+          "source": "Yahoo Tech",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdlU0UHZzN1hGaVZ6QXNaRzc0cE1pc1h0dGJYcFg1eVR6SklpbjlldzIwVjlmRnBFRG92aGFVQXFHY3lndmZhcVFzNTFLZ2FaMEQ1SFF4V1NqdTEyR24yUTR6akdWcTU1dTI0VXBJRk1ialdBQWhjSDFMM29QRXlfTFFQNXNzTFpBR1YxQXd3dS15dmN3NmF4aHFoaUgyeXJyNkY1VThRZm1aQlpkY3dXalNZQmZOYlRCbWVFVDZfMXZPRTd4QUJnbk9IUlJVY3Z6bmRFM3ppRS1CdVlrd00yVzRwVGNmcktubWRGYWVKTGJ5a1lfRFdjbVNVRQ",
+          "published_at_bjt": "2026-07-24T03:48:44+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "9e04e60a004c30ad8678",
+          "title": "The AI job cuts are here - or are they? - BBC",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMnJ5Vk5OMUFFQ1puMHQ2N01FSUJKZ1Vza1NwZ1pIYVktWFJlSWE1b3RGRUtsaEdDSjFEOHJiUW5ONDRIdkRqU3MzTGtVUHNvZ2NrXzkyaGxMZw",
+          "published_at_bjt": "2025-10-28T15:00:00+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "6b8543cbe538c7203e6d",
+      "headline": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "facts": [
+        "Title: 3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-26 13:30:21 来源：[量子位](https://www.qbitai.com/)",
+        "煮鸡蛋面、调柠檬水……机器人又来秀花活了。",
+        "![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/28886b0c6a760445ae8cfdf3fcc8c049.jpeg)",
+        "这次登场的是来自NeoteAI和复旦大学的N0系列模型。不仅是居家料理，收纳整理它同样拿手。工厂流水线装配、精细零件组装、线材缠绕梳理这些精细活也全都不在话下。",
+        "不知道大家有没有见过机器人实操翻车的名场面：插头边缘反复摩擦却难以插入、抓取塑料瓶时力道失控导致瓶身瘪陷、叠好的毛巾在松手瞬间散落……在具身智能的落地进程中，这类“视觉系统判定无误，但物理交互瞬间翻车”的现象屡见不鲜。",
+        "决定机器人能否在真实物理世界中生存的关键，往往不只在于视觉感知的精度，而更在于接触瞬间的触觉反馈。摄像头能确认空间位置，却无法感知“是否接触”、“顶到边缘”、“夹力过载”或“发生滑移”等，缺失这层反馈，正是阻碍机器人跨越“最后一厘米”的核心痛点。"
+      ],
+      "sources": [
+        {
+          "article_id": "6b8543cbe538c7203e6d",
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460962.html",
+          "published_at_bjt": "2026-07-26T13:30:21+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "0312f49fcb11941f7e02",
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发 - 搜狐网",
+          "source": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXVQWTdaZFRvS0VzcmdUam42eHJSZkJWVVEwdEN6UVhpTS1tZmFtVkVOYW5OaDFaNU9jSHFwVDBULUMtSlZGMFIwQmp6TkpmdE9nT2FTdFFlQzBKdHg4LV83U09DVHZxekJ4M09lUGJGQWV6QW03VFRzYVdhVmNOclo1NWY2NVlPLVpoVQ",
+          "published_at_bjt": "2026-07-26T12:39:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "641e8682d4876f297022",
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦大学技术报告三连发-yeeyi - yeeyi",
+          "source": "yeeyi",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzdJUTcwMm9lT01jZlZmQlJ6YnR4a0Z1Y0VNRnFiei1NWmVNb1JNQlFhdjBETmNJdHhMZWN5Rm5ubXRMOVc3Q2xtd0xQa3ZyY1VlS1hMMlBOOE1DcTYxRzFwdzBrWnU2ejFCczVIdE0wMV9wS0hqUU1zMWRLbWNBMkF3",
+          "published_at_bjt": "2026-07-26T15:21:21+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "4604a6219c848c0f8aa2",
+      "headline": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "facts": [
+        "Title: 具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 19:54:44 来源：[量子位](https://www.qbitai.com/)",
+        "做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了。",
+        "![Image 1: img](https://i.qbitai.com/wp-content/uploads/2026/07/d9f083acf5c3c846acfbac9c3bb3dfb0.webp)",
+        "2012年，它推出了全球首款家庭服务机器人「亲宝」，是最早一批入局家庭服务机器人赛道的公司。",
+        "后续迭代的公共服务机器人「旺宝」，广泛落地银行、政务大厅等场景，攒下了海量真实场景数据、工程落地经验和规模化交付能力。",
+        "这些积累，后来成了科沃斯深耕具身智能领域的产业根基。"
+      ],
+      "sources": [
+        {
+          "article_id": "4604a6219c848c0f8aa2",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "published_at_bjt": "2026-07-25T19:54:44+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "e295a0ae4f08b7059a86",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了 - 智源社区",
+          "source": "智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ybnE4TkdsdlFJWkIycmlhS0I4a0JvNWtmX0Njc0gxcHZTYUtUY240ZUlaODF4MEhuUVdUU3d2aENUTUk2UU5LbA",
+          "published_at_bjt": "2026-07-26T16:30:00+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    }
+  ]
+}

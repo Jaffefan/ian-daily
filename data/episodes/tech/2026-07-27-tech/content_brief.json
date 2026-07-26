@@ -1,0 +1,234 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-07-27",
+  "stories": [
+    {
+      "story_id": "b95a9468e816ab8137f8",
+      "headline": "Making sense of the panic over Chinese AI",
+      "facts": [
+        "Title: Making sense of the panic over Chinese AI",
+        "The launch of the latest AI model from a Chinese company — Moonshot AI’s Kimi — reignited debates around American competitiveness and open versus proprietary AI.",
+        "While there was [plenty of conversation on social media](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/), it seems the debate is also happening behind the scenes in Washington, D.C., where OpenAI and Anthropic have [reportedly lobbied regulators](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_co",
+        "On the latest episode of [TechCrunch’s Equity podcast](https://techcrunch.com/podcasts/equity/), Kirsten Korosec, Sean O’Kane, and I discussed why this seems to be such a hot button issue. Beyond suggesting that certain folks should “touch grass” rather than spending their weekends arguing on X, Sean noted that in many ways, this “feels like we’re seeing rep",
+        "And Kirsten noted that putting heavy restrictions on Chinese AI models could primarily benefit a handful of companies: “Are we accelerating and ensuring that Americans win the AI race, or are we ensuring that certain frontier labs do better than others?"
+      ],
+      "numeric_claims": [
+        "While there was [plenty of conversation on social media](https://techcrunch.com/2026/07/18/kimi-threat-or-menace/), it seems the debate is also happening behind the scenes in Washington, D.C., where OpenAI and Anthropic have [reportedly lobbied regulators](https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html?unlocked_article_co"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "b95a9468e816ab8137f8",
+          "title": "Making sense of the panic over Chinese AI",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
+          "published_at_bjt": "2026-07-27T03:40:57+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "bb4901598813d37d7458",
+          "title": "US panic is missing the point on Chinese AI - inkl",
+          "source": "inkl",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15Uy1KbklyaGg1V2lOLWtzTzk0QjFWZ1pQSWJaSDlkU1BBa3RuX002VzM0RkVJeUdlUXQ0azZfbmZNTWZGbnhJWXozS1M5aThHWnNPZXFRWmxHbnhia2lNWVFDa0wtNWVqN2RqcEpncnRERkozNjZMTw",
+          "published_at_bjt": "2026-07-13T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "05c5a33440a3c44591a5",
+          "title": "How Chinese make sense of the AI future - ChinaTalk | Jordan Schneider",
+          "source": "ChinaTalk | Jordan Schneider",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZV2hvc0ZyaVdVMm9XM2ZBcmV1TFB3Y0JwZjVYMTRPeGlZajlselpfc1d5N0xQQjBuS292R3VWTEhMVVRjckdKeElodmNMektIeUlIaTg2MS03RE1kZ0doak15T2xPVjRvODJldS12cG8",
+          "published_at_bjt": "2026-06-19T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "fe3e61207a6a26d3ea05",
+          "title": "Is the DeepSeek Panic Overblown? - Time Magazine",
+          "source": "Time Magazine",
+          "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sb0x3SG9KQkUxaXpFcFA3Wm5ITHhMNy1aRm0zem02MmZRZWtCWWRIcVJXVEtqSG1YVFQ4aXg3RUI2bFZPMGxPbS1Tb3RnSnFnM1daRkxIUGJBc3k4bjVlaDI1TQ",
+          "published_at_bjt": "2025-01-30T16:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "c4b36408fd9507a6a542",
+      "headline": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "facts": [
+        "Title: Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+        "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)",
+        "* [Latest](https://techcrunch.com/latest/)",
+        "* [Startups](https://techcrunch.com/category/startups/)",
+        "* [Venture](https://techcrunch.com/category/venture/)"
+      ],
+      "numeric_claims": [
+        "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "c4b36408fd9507a6a542",
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+          "published_at_bjt": "2026-07-27T00:33:13+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "6f2cfc0623daf36edbf0",
+          "title": "Hugging Face CEO demands ‘radical transparency’ after ‘unprecedented’ OpenAI autonomous agent hack - CryptoRank",
+          "source": "CryptoRank",
+          "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQXo0NHpialM1VXZ5UUVrb0pxQWlsLXpkd0dmVnNpbFhIemNzY1FoYXpCODlPYXZGNUVpNjlOaXNIMEZHTEhlTW1qel9naFZ0bkF4em9PcnZhYzd0UUVQWWgtWjI5d3JRckI3YjAtQi1aekxjTGsycmlvYW5KTW80WG1aQ1NIbjY4N3Z2dGhrcFU",
+          "published_at_bjt": "2026-07-27T03:04:07+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "c9905cb79a23c9ad2a43",
+          "title": "OpenAI’s GPT-5.6 Sol Model Breached Hugging Face During ExploitGym Testing: how 11 outlets framed it - NewsCord",
+          "source": "NewsCord",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ0pBeGp0M1VscFJvSkdWcmluem9Id05BV0NjczZBQ0YyZ0xCaFR0MzdUTXRrV09tNUQwZG9DZUtnNXFwMmoyazlqSDF5VFp1b3ZxLS1LY3NyYWlKVWtvTE1VdlNjZlFJYmZ3aFplamFIbWVIMnNfa0RjdW1iRm4wSlRBZTZRRjkyS2lZeG92N1o3TTZGTkE5WmNubjFRS1hPVnRGU2xvTWRiemZtX3dfYUlOUm5BYnRaRUVYS3RJOGxPYVZ0OXB4OHJWT0s2UmZ6LTNoZ3dYQWluMFJoR0VV",
+          "published_at_bjt": "2026-07-25T15:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "e447243a68e0619ea5ce",
+      "headline": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "facts": [
+        "Title: Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "[Monday.com](https://monday.com/), the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cuts. On Wednesday, the company said in an [SEC filing](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001845338/8caa6f84-8fce-4956-b817-dd7ae68",
+        "Co-founder Eran Zinman told employees in a [LinkedIn memo](https://www.linkedin.com/posts/eranzinman_building-mondaycom-for-its-next-chapter-activity-7485608646723276800-nog3/) that the move “was not made to reduce costs or replace people with AI,” positioning it instead as adapting the organization to a new AI-first vision the company laid out roughly a yea",
+        "So far, according to new Financial Times [analysis](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f), U.S. tech companies have slashed nearly 140,000 jobs since the start of this year, with Amazon, Oracle, Meta, and Microsoft alone accounting for almost 50,000 of those cuts as they funnel hundreds of billions of dollars into AI data center bu",
+        "Still, the picture isn’t uniformly bleak. The FT notes that AI-focused companies like Anthropic and OpenAI are hiring rapidly, absorbing some of the talent shed elsewhere in the industry. And within some of the very companies making cuts, headcount is shifting rather than disappearing entirely. Meta, for instance, earlier this year moved roughly 7,000 employ"
+      ],
+      "numeric_claims": [
+        "Title: Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+        "[Monday.com](https://monday.com/), the Tel Aviv-based work management software company known for its colorful, customizable project-tracking boards, this week became the latest tech company to cite AI as a factor in job cuts. On Wednesday, the company said in an [SEC filing](https://d18rn0p25nwr6d.cloudfront.net/CIK-0001845338/8caa6f84-8fce-4956-b817-dd7ae68",
+        "Co-founder Eran Zinman told employees in a [LinkedIn memo](https://www.linkedin.com/posts/eranzinman_building-mondaycom-for-its-next-chapter-activity-7485608646723276800-nog3/) that the move “was not made to reduce costs or replace people with AI,” positioning it instead as adapting the organization to a new AI-first vision the company laid out roughly a yea",
+        "So far, according to new Financial Times [analysis](https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f), U.S. tech companies have slashed nearly 140,000 jobs since the start of this year, with Amazon, Oracle, Meta, and Microsoft alone accounting for almost 50,000 of those cuts as they funnel hundreds of billions of dollars into AI data center bu"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "e447243a68e0619ea5ce",
+          "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
+          "published_at_bjt": "2026-07-26T09:30:00+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "d7456173781100fc95cd",
+          "title": "Monday.com Joins 20 Tech Giants Citing AI for 2026 Layoffs - The Tech Buzz",
+          "source": "The Tech Buzz",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFpvWlZBZjRHektXcWczblFWRFNWVmFtaGlvR3gzLXlKUUxNOXFLQjJ2YUU5cTduYTVWSkVFdF9pM25qM3YtVTFQdHpBMGE5Sl9iR21qODdNRVg5NXFsU2FRYm9wNjBzTDBGR0Z1Z3Zrdnp1X3RzSEpIZ09BQjdXV2h6Q3NtUHJrODRPNThRREd2NEhvMlE",
+          "published_at_bjt": "2026-07-26T10:06:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "4dbe6f52d0e7925a6e79",
+          "title": "Tech layoffs tracker 2026: All of the current job losses across Monday.com, Oracle, Meta, Microsoft, Samsung and others - Yahoo Tech",
+          "source": "Yahoo Tech",
+          "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdlU0UHZzN1hGaVZ6QXNaRzc0cE1pc1h0dGJYcFg1eVR6SklpbjlldzIwVjlmRnBFRG92aGFVQXFHY3lndmZhcVFzNTFLZ2FaMEQ1SFF4V1NqdTEyR24yUTR6akdWcTU1dTI0VXBJRk1ialdBQWhjSDFMM29QRXlfTFFQNXNzTFpBR1YxQXd3dS15dmN3NmF4aHFoaUgyeXJyNkY1VThRZm1aQlpkY3dXalNZQmZOYlRCbWVFVDZfMXZPRTd4QUJnbk9IUlJVY3Z6bmRFM3ppRS1CdVlrd00yVzRwVGNmcktubWRGYWVKTGJ5a1lfRFdjbVNVRQ",
+          "published_at_bjt": "2026-07-24T03:48:44+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "9e04e60a004c30ad8678",
+          "title": "The AI job cuts are here - or are they? - BBC",
+          "source": "BBC",
+          "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yMnJ5Vk5OMUFFQ1puMHQ2N01FSUJKZ1Vza1NwZ1pIYVktWFJlSWE1b3RGRUtsaEdDSjFEOHJiUW5ONDRIdkRqU3MzTGtVUHNvZ2NrXzkyaGxMZw",
+          "published_at_bjt": "2025-10-28T15:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "6b8543cbe538c7203e6d",
+      "headline": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+      "facts": [
+        "Title: 3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-26 13:30:21 来源：[量子位](https://www.qbitai.com/)",
+        "煮鸡蛋面、调柠檬水……机器人又来秀花活了。",
+        "![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/28886b0c6a760445ae8cfdf3fcc8c049.jpeg)"
+      ],
+      "numeric_claims": [
+        "Title: 3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-26 13:30:21 来源：[量子位](https://www.qbitai.com/)",
+        "![Image 1](https://i.qbitai.com/wp-content/uploads/2026/07/28886b0c6a760445ae8cfdf3fcc8c049.jpeg)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "6b8543cbe538c7203e6d",
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460962.html",
+          "published_at_bjt": "2026-07-26T13:30:21+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "0312f49fcb11941f7e02",
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发 - 搜狐网",
+          "source": "搜狐网",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVXVQWTdaZFRvS0VzcmdUam42eHJSZkJWVVEwdEN6UVhpTS1tZmFtVkVOYW5OaDFaNU9jSHFwVDBULUMtSlZGMFIwQmp6TkpmdE9nT2FTdFFlQzBKdHg4LV83U09DVHZxekJ4M09lUGJGQWV6QW03VFRzYVdhVmNOclo1NWY2NVlPLVpoVQ",
+          "published_at_bjt": "2026-07-26T12:39:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "641e8682d4876f297022",
+          "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦大学技术报告三连发-yeeyi - yeeyi",
+          "source": "yeeyi",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUzdJUTcwMm9lT01jZlZmQlJ6YnR4a0Z1Y0VNRnFiei1NWmVNb1JNQlFhdjBETmNJdHhMZWN5Rm5ubXRMOVc3Q2xtd0xQa3ZyY1VlS1hMMlBOOE1DcTYxRzFwdzBrWnU2ejFCczVIdE0wMV9wS0hqUU1zMWRLbWNBMkF3",
+          "published_at_bjt": "2026-07-26T15:21:21+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "4604a6219c848c0f8aa2",
+      "headline": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "facts": [
+        "Title: 具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 19:54:44 来源：[量子位](https://www.qbitai.com/)",
+        "做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了。",
+        "![Image 1: img](https://i.qbitai.com/wp-content/uploads/2026/07/d9f083acf5c3c846acfbac9c3bb3dfb0.webp)"
+      ],
+      "numeric_claims": [
+        "< img id=\"wx_img\" src=\"https://www.qbitai.com/wp-content/uploads/imgs/qbitai-logo-1.png\" width=\"400\" height=\"400\">",
+        "2026-07-25 19:54:44 来源：[量子位](https://www.qbitai.com/)",
+        "![Image 1: img](https://i.qbitai.com/wp-content/uploads/2026/07/d9f083acf5c3c846acfbac9c3bb3dfb0.webp)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "4604a6219c848c0f8aa2",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+          "source": "量子位",
+          "url": "https://www.qbitai.com/2026/07/460234.html",
+          "published_at_bjt": "2026-07-25T19:54:44+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "e295a0ae4f08b7059a86",
+          "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了 - 智源社区",
+          "source": "智源社区",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8ybnE4TkdsdlFJWkIycmlhS0I4a0JvNWtmX0Njc0gxcHZTYUtUY240ZUlaODF4MEhuUVdUU3d2aENUTUk2UU5LbA",
+          "published_at_bjt": "2026-07-26T16:30:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    }
+  ],
+  "shared_theme": "",
+  "risk_flags": []
+}
