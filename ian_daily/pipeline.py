@@ -129,6 +129,11 @@ def generate_all(*, force: bool = False, retry_failed_only: bool = False, skip_a
     date_bjt = now_bjt().strftime("%Y-%m-%d")
     ledger_store = RunLedgerStore()
     categories = ledger_store.retry_categories(date_bjt) if retry_failed_only else list(config.CATEGORIES)
+    if retry_failed_only and not categories:
+        write_json(config.DATA_DIR / "last_generation.json", {
+            "at_bjt": now_bjt_iso(), "failures": {}, "episodes": [],
+        })
+        return []
     for category in categories:
         try:
             result.append(generate_category(category, force=force, retry_failed=retry_failed_only, skip_audio=skip_audio, claimed_ids=claimed, ledger_store=ledger_store))

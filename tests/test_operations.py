@@ -15,6 +15,7 @@ from ian_daily.images import resolve_story_images
 from ian_daily.model_api import _record, usage_anomaly, usage_report
 from ian_daily.models import Article, AudioBlock, BriefStory, ContentBrief, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
 from ian_daily.operations import RunLedgerStore
+from ian_daily.pipeline import generate_all
 from ian_daily.sources import _meta_image
 
 
@@ -44,6 +45,14 @@ class RunLedgerTests(unittest.TestCase):
             channel = store.load("2026-01-01").channels["sports"]
             self.assertEqual([], channel.errors)
             self.assertEqual("failed", channel.stages["quality"]["status"])
+
+    def test_retry_with_no_failed_channels_is_a_successful_noop(self):
+        with tempfile.TemporaryDirectory() as temp, patch.object(config, "DATA_DIR", Path(temp)), \
+             patch("ian_daily.pipeline.RunLedgerStore") as ledger_type:
+            ledger_type.return_value.retry_categories.return_value = []
+            self.assertEqual([], generate_all(retry_failed_only=True))
+            payload = json.loads((Path(temp) / "last_generation.json").read_text(encoding="utf-8"))
+            self.assertEqual({}, payload["failures"])
 
 
 class DoctorAndUsageTests(unittest.TestCase):
