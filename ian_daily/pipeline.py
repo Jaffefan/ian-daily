@@ -4,8 +4,7 @@ from . import config
 from .agents import audit_editions, build_content_brief, build_fact_packs, generate_podcast, generate_reading
 from .audio import generate_podcast_audio
 from .images import resolve_story_images
-from .model_api import deepseek_model_available, siliconflow_model_available, usage_anomaly
-from .feishu import send_ops_card
+from .model_api import deepseek_model_available, siliconflow_model_available
 from .models import Article, DailyStorySet, EpisodeBundle
 from .quality import evaluate_bundle
 from .selection import select_articles
@@ -140,9 +139,6 @@ def generate_all(*, force: bool = False, retry_failed_only: bool = False, skip_a
             ledger_store.finish(date_bjt, category, "failed", error=str(exc))
             print(f"  [failed] {category}: {exc}")
     write_json(config.DATA_DIR / "last_generation.json", {"at_bjt": now_bjt_iso(), "failures": failures, "episodes": [item.episode_id for item in result]})
-    anomaly = usage_anomaly(now_bjt().strftime("%Y-%m-%d"))
-    if anomaly:
-        send_ops_card("伊恩每日 · 模型用量异常", anomaly)
     publishable = [item for item in result if item.status in {"quality_passed", "published"}]
     if not publishable:
         raise RuntimeError("今天没有频道通过质量门禁")

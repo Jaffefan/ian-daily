@@ -92,7 +92,9 @@ class RunLedgerStore:
         channel.status = status
         channel.episode_id = episode_id or channel.episode_id
         channel.updated_at_bjt = now_bjt_iso()
-        if error and error not in channel.errors:
+        if status in {"quality_passed", "approved", "published"}:
+            channel.errors.clear()
+        elif error and error not in channel.errors:
             channel.errors.append(error[:500])
         self.save(ledger)
 

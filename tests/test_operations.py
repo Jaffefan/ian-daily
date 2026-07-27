@@ -12,7 +12,7 @@ from ian_daily.agents import audit_editions
 from ian_daily.calibration import CALIBRATION_CASES, calibration_status
 from ian_daily.doctor import run_doctor
 from ian_daily.images import resolve_story_images
-from ian_daily.model_api import _record, usage_report
+from ian_daily.model_api import _record, usage_anomaly, usage_report
 from ian_daily.models import Article, AudioBlock, BriefStory, ContentBrief, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
 from ian_daily.operations import RunLedgerStore
 from ian_daily.sources import _meta_image
@@ -34,6 +34,16 @@ class RunLedgerTests(unittest.TestCase):
             store.mark_notified("2026-01-01", "generation:tech")
             self.assertFalse(store.should_notify("2026-01-01", "generation:tech"))
             self.assertEqual(1, store.load("2026-01-01").channels["tech"].attempts)
+
+    def test_successful_retry_clears_current_errors(self):
+        with tempfile.TemporaryDirectory() as temp:
+            store = RunLedgerStore(Path(temp))
+            store.stage("2026-01-01", "sports", "quality", "failed", "temporary failure")
+            store.finish("2026-01-01", "sports", "failed", error="temporary failure")
+            store.finish("2026-01-01", "sports", "quality_passed", "2026-01-01-sports")
+            channel = store.load("2026-01-01").channels["sports"]
+            self.assertEqual([], channel.errors)
+            self.assertEqual("failed", channel.stages["quality"]["status"])
 
 
 class DoctorAndUsageTests(unittest.TestCase):
@@ -64,6 +74,21 @@ class DoctorAndUsageTests(unittest.TestCase):
             self.assertEqual(14, payload["input_chars"])
             self.assertEqual(64, len(payload["input_sha256"]))
             self.assertEqual(500, payload["max_tokens"])
+
+    def test_usage_call_alert_is_per_channel_and_allows_expected_repairs(self):
+        row = {
+            "at_bjt": "2026-07-27T07:00:00+08:00", "provider": "deepseek",
+            "model": "writer", "stage": "repair", "prompt_tokens": 100,
+            "completion_tokens": 20, "estimated_cny": 0.01,
+        }
+        with tempfile.TemporaryDirectory() as temp, patch.object(config, "USAGE_DIR", Path(temp)), \
+             patch.object(config, "MODEL_CALL_ALERT_LIMIT_PER_CATEGORY", 12):
+            rows = [{**row, "category": category} for category in config.CATEGORIES for _ in range(9)]
+            (Path(temp) / "2026-07-27.json").write_text(json.dumps(rows), encoding="utf-8")
+            self.assertEqual("", usage_anomaly("2026-07-27"))
+            rows.extend([{**row, "category": "tech"} for _ in range(4)])
+            (Path(temp) / "2026-07-27.json").write_text(json.dumps(rows), encoding="utf-8")
+            self.assertIn("13", usage_anomaly("2026-07-27"))
 
 
 class CalibrationAndImageTests(unittest.TestCase):
@@ -132,6 +157,14 @@ class WorkflowTests(unittest.TestCase):
         self.assertIn('cron: "50 22 * * *"', workflow)
         self.assertIn('cron: "10 23 * * *"', workflow)
         self.assertIn("python -m ian_daily retry-failed", workflow)
+        self.assertIn("github.event.schedule == '10 23 * * *'", workflow)
+        self.assertIn("python -m ian_daily notify-usage-anomaly", workflow)
+
+    def test_publish_failure_notification_waits_until_ten_oh_five(self):
+        workflow = (Path(__file__).parents[1] / ".github" / "workflows" / "publish.yml").read_text(encoding="utf-8")
+        self.assertIn('cron: "5 2 * * *"', workflow)
+        self.assertIn("github.event.schedule == '5 2 * * *'", workflow)
+        self.assertNotIn("always() && github.event.schedule == '51 1 * * *'", workflow)
 
 
 if __name__ == "__main__":

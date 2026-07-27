@@ -53,10 +53,15 @@ jobs:
             python -m ian_daily retry-failed
           fi
       - name: Report channel failures
-        if: always()
+        if: always() && github.event.schedule == '10 23 * * *'
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python -m ian_daily notify-failures
+      - name: Report abnormal model usage after final retry
+        if: always() && github.event.schedule == '10 23 * * *'
+        env:
+          FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
+        run: python -m ian_daily notify-usage-anomaly
       - name: Commit generated drafts and run ledger
         if: always()
         run: |

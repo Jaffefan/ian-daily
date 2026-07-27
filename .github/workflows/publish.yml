@@ -17,6 +17,7 @@ on:
     - cron: "31 1 * * *"
     - cron: "41 1 * * *"
     - cron: "51 1 * * *"
+    - cron: "5 2 * * *"
   workflow_dispatch:
     inputs:
       rebuild:
@@ -88,13 +89,13 @@ jobs:
           git diff --cached --quiet || git commit -m "publish: verified daily site"
           git pull --rebase origin main
           git push origin HEAD:main
-      - name: Notify overdue channels after final retry
-        if: always() && github.event.schedule == '51 1 * * *'
+      - name: Notify overdue channels after grace retry
+        if: always() && github.event.schedule == '5 2 * * *'
         env:
           FEISHU_WEBHOOK: ${{ secrets.FEISHU_WEBHOOK }}
         run: python -m ian_daily notify-overdue
       - name: Persist overdue notification ledger
-        if: always() && github.event.schedule == '51 1 * * *'
+        if: always() && github.event.schedule == '5 2 * * *'
         run: |
           git config user.name "ian-daily-bot"
           git config user.email "actions@users.noreply.github.com"

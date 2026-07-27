@@ -6,7 +6,8 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from . import config
-from .feishu import send_channel_card
+from .feishu import send_channel_card, send_ops_card
+from .model_api import usage_anomaly
 from .site import build_site
 from .storage import EpisodeStore, now_bjt_iso, write_json
 from .operations import RunLedgerStore
@@ -132,5 +133,16 @@ def notify_release_overdue(date_bjt: str | None = None) -> None:
     for bundle in store.list_bundles({"quality_passed"}):
         if bundle.date_bjt == date_bjt:
             key = f"release-overdue:{bundle.category}"
-            if ledger.should_notify(date_bjt, key) and send_channel_card(None, store.load_quality(bundle.episode_id), bundle.category, "09:51 后仍未完成 Pages 上线验证，系统将继续保留待发布状态"):
+            if ledger.should_notify(date_bjt, key) and send_channel_card(None, store.load_quality(bundle.episode_id), bundle.category, "10:05 宽限重试后仍未完成 Pages 上线验证，系统将继续保留待发布状态"):
                 ledger.mark_notified(date_bjt, key)
+
+
+def notify_usage_anomaly(date_bjt: str | None = None) -> None:
+    date_bjt = date_bjt or datetime.now(BJT).strftime("%Y-%m-%d")
+    message = usage_anomaly(date_bjt)
+    if not message:
+        return
+    ledger = RunLedgerStore()
+    key = "model-usage-anomaly"
+    if ledger.should_notify(date_bjt, key) and send_ops_card("伊恩每日 · 模型用量异常", message):
+        ledger.mark_notified(date_bjt, key)

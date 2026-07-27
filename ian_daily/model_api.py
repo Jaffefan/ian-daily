@@ -145,9 +145,14 @@ def siliconflow_model_info(model: str) -> dict[str, Any]:
 def usage_anomaly(date: str | None = None) -> str:
     today = usage_report(date, 1)
     history = usage_report((datetime.strptime(date, "%Y-%m-%d") - timedelta(days=1)).strftime("%Y-%m-%d") if date else (datetime.now(BJT) - timedelta(days=1)).strftime("%Y-%m-%d"), 7)
-    call_limit = config.NORMAL_MODEL_CALLS_PER_CATEGORY * len(config.CATEGORIES)
-    if today["calls"] > call_limit:
-        return f"模型调用异常：今天 {today['calls']} 次，超过正常上限 {call_limit} 次"
+    call_limit = config.MODEL_CALL_ALERT_LIMIT_PER_CATEGORY
+    offenders = [
+        f"{config.CATEGORIES[category].name} {summary['calls']} 次"
+        for category, summary in today["by_category"].items()
+        if summary["calls"] > call_limit
+    ]
+    if offenders:
+        return f"模型调用异常：{'、'.join(offenders)}，单频道保护阈值为 {call_limit} 次"
     history_days = {str(row.get("at_bjt", ""))[:10] for row in history.get("entries", []) if row.get("at_bjt")}
     if len(history_days) < 3:
         return ""

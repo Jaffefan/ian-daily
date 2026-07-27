@@ -6,7 +6,7 @@ import sys
 from . import config
 from .pipeline import generate_all, generate_category, retry_failed
 from .model_api import usage_report
-from .publisher import finalize_release, notify_generation_failures, notify_release_overdue, prepare_release, publish_ready, verify_release
+from .publisher import finalize_release, notify_generation_failures, notify_release_overdue, notify_usage_anomaly, prepare_release, publish_ready, verify_release
 from .review import run_review_server
 from .site import build_site
 from .doctor import notify_doctor_failure, run_doctor
@@ -52,6 +52,7 @@ def parser() -> argparse.ArgumentParser:
     benchmark.add_argument("--date")
     commands.add_parser("calibration-status", help="查看三频道固定样本与评分门槛")
     commands.add_parser("notify-failures", help="发送三个频道各自的异常卡片")
+    commands.add_parser("notify-usage-anomaly", help="在最终生成重试后检查一次模型用量")
     commands.add_parser("demo-site", help="生成不可发布的界面预览数据")
     return root
 
@@ -109,6 +110,8 @@ def main(argv: list[str] | None = None) -> int:
             print(json.dumps(calibration_status(), ensure_ascii=False, indent=2))
         elif args.command == "notify-failures":
             notify_generation_failures()
+        elif args.command == "notify-usage-anomaly":
+            notify_usage_anomaly()
         elif args.command == "demo-site":
             from .demo import create_demo_site
             create_demo_site()
