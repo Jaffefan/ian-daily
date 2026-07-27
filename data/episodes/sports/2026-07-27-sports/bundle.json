@@ -823,9 +823,9 @@
       0.4144
     ]
   },
-  "status": "quality_passed",
+  "status": "published",
   "created_at_bjt": "2026-07-27T07:42:16+08:00",
-  "updated_at_bjt": "2026-07-27T07:43:44+08:00",
-  "published_at_bjt": "",
-  "feishu_notified_at_bjt": ""
+  "updated_at_bjt": "2026-07-27T09:19:15+08:00",
+  "published_at_bjt": "2026-07-27T09:19:15+08:00",
+  "feishu_notified_at_bjt": "2026-07-27T09:19:16+08:00"
 }
