@@ -1,0 +1,866 @@
+{
+  "episode_id": "2026-07-29-tech",
+  "schema_version": 4,
+  "category": "tech",
+  "category_name": "科技",
+  "date_bjt": "2026-07-29",
+  "story_set": {
+    "category": "tech",
+    "date_bjt": "2026-07-29",
+    "articles": [
+      {
+        "id": "b738e7d0ebe1bd8695bd",
+        "category": "tech",
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "summary": "Employees of OpenAI and Anthropic, as well as Google, Meta, Thinking Machines, Microsoft, Mistral, and other leading AI labs, have written a statement to the US government supporting a potential slowdown of sorts for frontier AI development - or at least a speed-up of global coordinated governance efforts. \"Al could help create a dramatically better […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-29T03:46:43+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: AI leaders sign statement asking the government to do something about automated AI\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta\n\nPublished Time: 2026-07-28T19:46:43+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972161%2Fai-leaders-us-government-openai-anthropic-google-meta)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972161%2Fai-leaders-us-government-openai-anthropic-google-meta) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972161%2Fai-leaders-us-government-openai-anthropic-google-meta)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nAI leaders sign statement asking the government to do something about automated AI\n\n[2](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   News News \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All News](https://www.theverge.com/news)  \n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n\n# AI leaders sign statement asking the government to do something about automated AI\n\nThe statement follows a recent high-profile cybersecurity incident that rocked the AI industry.\n\nThe statement follows a recent high-pr",
+        "image_url": "images/138c5c43e693ea93.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "3c3c001c18183800",
+        "community_signals": []
+      },
+      {
+        "id": "fb802860b45af6bce6e2",
+        "category": "tech",
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "summary": "It's earnings season, and investors got an unpleasant surprise from Google: an increase on its spending estimate, to as much as $205 billion - from the last quarter's projection of up to $190 billion. Even the lower end of Google's new projected range - $195 billion - is much more than the company had previously […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-29T03:33:03+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: AI’s finally expensive enough to make Wall Street nervous\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex\n\nPublished Time: 2026-07-28T19:33:03+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972119%2Fai-stock-fall-google-capex)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972119%2Fai-stock-fall-google-capex) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972119%2Fai-stock-fall-google-capex)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nAI’s finally expensive enough to make Wall Street nervous\n\n[47](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Business Business \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Business](https://www.theverge.com/business)  \n*   Science Science \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Science](https://www.theverge.com/science)  \n\n# AI’s finally expensive enough to make Wall Street nervous\n\nThe joys of quarterly earnings!\n\nThe joys of quarterly earnings!\n\nby Elizabeth Lopatto\n\n![Image 2: Elizabeth Lopatto](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195809/ELIZABETH_LOPATTO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nElizabeth Lopatto\n\nSenior Reporter\n\nPosts from this aut",
+        "image_url": "images/02175a74ea206578.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "636141463e3ebc80",
+        "community_signals": []
+      },
+      {
+        "id": "e9c474af2da2d9c444c2",
+        "category": "tech",
+        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "summary": "Perplexity has expanded its agentic Personal Computer tool to Windows, allowing computers running the world's most popular OS to be used as a locally run AI system. Like the Mac version that Perplexity launched in April, Personal Computer for Windows operates like a \"general-purpose digital worker\" that can access local files and apps to perform […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-28T20:30:00+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Perplexity’s Personal Computer turns Windows PCs into AI agents\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents\n\nPublished Time: 2026-07-28T12:30:00+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F971750%2Fperplexity-personal-computer-windows-ai-agents)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F971750%2Fperplexity-personal-computer-windows-ai-agents) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F971750%2Fperplexity-personal-computer-windows-ai-agents)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nPerplexity’s Personal Computer turns Windows PCs into AI agents\n\n[4](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   News News \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All News](https://www.theverge.com/news)  \n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n\n# Perplexity’s Personal Computer turns Windows PCs into AI agents\n\n‘Now Microsoft users can ask Computer to work across their local files, Microsoft Office 365, and the web in one place.’\n\n‘Now Microsoft users can ask Computer to work across their local files, Microsoft Office 365, and the web in one",
+        "image_url": "images/0068c032638c1698.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "5d79118181df7f69",
+        "community_signals": []
+      },
+      {
+        "id": "21326661e9cc36f6c618",
+        "category": "tech",
+        "title": "Smart rings are looking like my kind of AI gadget",
+        "summary": "Over the last few months, I've spent a lot of time talking to my computer. One underrated feature of the LLM revolution has been a remarkable leap in all kinds of dictation technology - even the fastest, cheapest models are getting very good at understanding and processing speech. I've tested lots of these apps, from […]",
+        "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-28T20:00:00+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Smart rings are looking like my kind of AI gadget\n\nURL Source: https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index\n\nPublished Time: 2026-07-28T12:00:00+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fgadgets%2F971744%2Fsmart-ring-ai-gadget-stream-index)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fgadgets%2F971744%2Fsmart-ring-ai-gadget-stream-index) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fgadgets%2F971744%2Fsmart-ring-ai-gadget-stream-index)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nSmart rings are looking like my kind of AI gadget\n\n[45](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index#comments)\n\nComments Drawer\n\nComments\n\n*   Gadgets Gadgets \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Gadgets](https://www.theverge.com/gadgets)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n\n# Smart rings are looking like my kind of AI gadget\n\nWhile everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device.\n\nWhile everyone tries to make smart glasses, pins, and everything else happen, the most subtle device might be the best device.\n\nby David Pierce\n\n![Image 3: David Pierce](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195807/DAVID_PIERCE.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w",
+        "image_url": "images/884c6aed82a6b2d0.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "ffffe7e7e3e7ffce",
+        "community_signals": []
+      },
+      {
+        "id": "90f8cc0546ceff0f4e2a",
+        "category": "tech",
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+        "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
+        "source": "TechCrunch",
+        "published_at_bjt": "2026-07-29T05:29:34+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Bot-detection startup Spur nabs $200M from Insight\n\nURL Source: https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight\n\nPublished Time: 2026-07-28T21:29:34+00:00\n\nMarkdown Content:\n[Skip to content](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight#wp--skip-link--target)\n\n[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)\n\n*   [Latest](https://techcrunch.com/latest/)\n*   [Startups](https://techcrunch.com/category/startups/)\n*   [Venture](https://techcrunch.com/category/venture/)\n*   [Apple](https://techcrunch.com/tag/apple/)\n*   [Security](https://techcrunch.com/category/security/)\n*   [AI](https://techcrunch.com/category/artificial-intelligence/)\n*   [Apps](https://techcrunch.com/category/apps/)\n*   [Disrupt 2026](https://techcrunch.com/events/techcrunch-disrupt/)\n\n*   [Events](https://techcrunch.com/events/)\n*   [Podcasts](https://techcrunch.com/podcasts/)\n*   [Newsletters](https://techcrunch.com/newsletters/)\n\nSearch \n\nSubmit\n\nSite Search Toggle\n\nMega Menu Toggle\n\n### Topics\n\n[Latest](https://techcrunch.com/latest/)\n\n[AI](https://techcrunch.com/category/artificial-intelligence/)\n\n[Amazon](https://techcrunch.com/tag/amazon/)\n\n[Apps](https://techcrunch.com/category/apps/)\n\n[Biotech & Health](https://techcrunch.com/category/biotech-health/)\n\n[Climate](https://techcrunch.com/category/climate/)\n\n[Cloud Computing](https://techcrunch.com/tag/cloud-computing/)\n\n[Commerce](https://techcrunch.com/category/commerce/)\n\n[Crypto](https://techcrunch.com/category/cryptocurrency/)\n\n[Enterprise](https://techcrunch.com/category/enterprise/)\n\n[EVs](https://techcrunch.com/tag/evs/)\n\n[Fintech](https://techcrunch.com/category/fintech/)\n\n[Fundraising](https://techcrunch.com/category/fundraising/)\n\n[Gadgets](https://techcrunch.com/category/gadgets/)\n\n[Gaming](https://techcrunch.com/category/gaming/)\n\n[Google](https://techcrunch.com/tag/google/)\n\n[Government & Policy](https://techcrunch.com/category/government-policy/)\n\n[Hardware](https://techcrunch.com/category/hardware/)\n\n[Instagram](https://techcrunch.com/tag/instagram/)\n\n[Layoffs](https://techcrunch.com/tag/layoffs/)\n\n[Media & Entertainment](https://techcrunch.com/category/media-entertainment/)\n\n[Meta](https://techcrunch.com/tag/meta/)\n\n[Microsoft](https://techcrunch.com/tag/microsoft/)\n\n[Privacy](https://techcrunch.com/category/privacy/)\n\n[Robotics](https://techcrunch.com/category/robotics/)\n\n[Security](https://techcrunch.com/category/security/)\n\n[Social](https://techcrunch.com/category/social/)\n\n[Space](https://techcrunch.com/category/space/)\n\n[Startups](https://techcrunch.com/category/startups/)\n\n[TikTok](https://techcrunch.com/tag/tiktok/)\n\n[Transportation](https://techcrunch.com/category/transportation/)\n\n[Venture](https://techcrunch.com/category/venture/)\n\n### More from TechCrunch\n\n[Staff](https://techcrunch.com/about-techcrunch/)\n\n[Events](https://techcrunch.com/events/)\n\n[Startup Battlefield](https://techcrunch.com/startup-battlefield/)\n\n[StrictlyVC](https://strictlyvc.com/)\n\n[Newsletters](https://techcrunch.com/newsletters/)\n\n[Podcasts](https://techcrunch.com/podcasts/)\n\n[Videos](https://techcrunch.com/video/)\n\n[Partner Content](https://techcrunch.com/sponsored/)\n\n[TechCrunch Brand Studio](https://techcrunch.com/brand-studio/)\n\n[Crunchboard](https://www.crunchboard.com/)\n\n[Contact Us](https://techcrunch.com/contact-us/)\n\n[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F28%2Fbot-detection-startup-spur-nabs-200m-from-insight%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F28%2Fbot-detection-startup-spur-nabs-200m-from-insight%2F&text=Bot-detection+startup+Spur+nabs+%24200M+from+Insight&via=techcrunch)[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F28%2Fbot-detection-startup-spur-nabs-200m-from-insight%2F&title=Bot-detection+startup+Spur+nabs+%24200M+from+Insight&summary=Spur+Intelligence+has+raised+a+%24200+million+round+from+Insight+Partners+for+its+tech+that+can+identify+legit+human+traffic+from+bots.&mini=1&source=TechCrunch)[](https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F28%2Fbot-detection-startup-spur-nabs-200m-from-insight%2F&title=Bot-detection+startup+Spur+nabs+%24200M+from+Insight)[](mailto:?subject=Bot-detection+startup+Spur+nabs+%24200M+from+Insight&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F28%2Fbot-detection-startup-spur-nabs-200m-from-insight%2F)[](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/)\n\nIn Brief\n\nPosted:\n\n2:29 PM PDT · July 28, 2026\n\n![Image 5: render of LLM AI bot reading multiple books at once](https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?w=1024)\n\n**Image Credits:**Malte Mueller / Getty Images\n\n*   ![Image 6: Julie Bort](https://techcrunch.com/wp-content/uploads/2025/08/julie-bort-disrupt.jpg)\n\n*   [Julie Bort](https://techcrunch.com/author/julie-bort/)\n\n# Bot-detection startup Spur nabs $200M from Insight\n\nSpur Intelligence, a cybersecurity startup based in Lake Mary, Florida, has raised a $200 million round led by Insight Partners.\n\nSpur, founded by two former Defense Department engineers in 2017 — five years before ChatGPT’s public launch — was prescient. The startup’s tech helps enterprises distinguish legitimate human users from increasingly well-hidden bot traffic to help identify fake users and threats.\n\n“As sophisticated criminal VPNs, residential proxy networks, and anonymization infrastructure proliferate, organizations are increasingly operating with a critical blind spot: they can see the activity, but not the infrastructure behind it,” Insight’s Thomas Krane said in a written statement.\n\nDetecting malicious traffic has, of course, been a hill corporate security teams have been climbing for eons. But nothing compares to the onslaught facing them today. As of mid-2026, bots are now [more active](https://radar.cloudflare.com/traffic#bot-vs-human) on the internet than humans, Cloudflare reported last month.\n\n“Thought it would be end of 2027, then early 2027, but agentic traffic growing so fast that bots have now passed human traffic online for the first time in the Internet’s history,” Cloudflare founder and CEO Matthew Prince posted [on X last month](https://x.com/eastdakota/status/2062212701414187452), pointing to his company’s latest traffic report.\n\n[Video 4](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight)\n\nBuild Mode: Inside the Fundraise\n\n[Video 5](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight)\n\n[Video 6](https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight)\n\n0 seconds of 52 seconds Volume 0%\n\nPress shift qu",
+        "image_url": "images/24548b890c9b9766.webp",
+        "image_credit": "TechCrunch",
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+        "image_status": "downloaded",
+        "image_phash": "e7e7e3a7a1c1fbff",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "b738e7d0ebe1bd8695bd",
+        "headline": "AI leaders sign a statement asking the government to do something about automated AI",
+        "facts": [
+          "Title: AI leaders sign statement asking the government to do something about automated AI",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972161%2Fai-leaders-us-government-openai-anthropic-google-meta)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "b738e7d0ebe1bd8695bd",
+            "title": "AI leaders sign a statement asking the government to do something about automated AI",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+            "published_at_bjt": "2026-07-29T03:46:43+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "e050557ad32ec2a52e77",
+            "title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development' - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVl9NRzJ5SGg2Y2dtTFhzV2xuS1p5STRZcENkVFBqRlpxd1JvNFZWalNCcGxGbTNiQ0pxcjQzLVdySFhVT3J0eDdsbDBOSEc4Y09CS0w0MXg2a3hwSWc0ckxYOU1RenBkSGpvU0F6aW1rc0s2cU1hbGZfbVZscnl4eERRMDFjb3dQ",
+            "published_at_bjt": "2026-07-29T05:26:59+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "fb802860b45af6bce6e2",
+        "headline": "AI’s finally expensive enough to make Wall Street nervous",
+        "facts": [
+          "Title: AI’s finally expensive enough to make Wall Street nervous",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972119%2Fai-stock-fall-google-capex)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "fb802860b45af6bce6e2",
+            "title": "AI’s finally expensive enough to make Wall Street nervous",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+            "published_at_bjt": "2026-07-29T03:33:03+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "e9c474af2da2d9c444c2",
+        "headline": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "facts": [
+          "Title: Perplexity’s Personal Computer turns Windows PCs into AI agents",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F971750%2Fperplexity-personal-computer-windows-ai-agents)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "e9c474af2da2d9c444c2",
+            "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+            "published_at_bjt": "2026-07-28T20:30:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "ecef0332b5bc2c98b766",
+            "title": "Perplexity Brings Orchestrator Agent Personal Computer to Windows - OpenTools",
+            "source": "OpenTools",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVRTQtOGU5Smo1bWt2V3lmWEUyeVJfbUNBcmpIVjB6WDhpOTZFZXZmVnd5c1IxSjFQSDZYSlAyVld5TXk5V0drSHVzTXFtNGV2ZzJlQ3FqaFA4TzZoZXN0cy12YnRKR3UtZHkwS3Z0NUVoQ0dsUTVSbQ",
+            "published_at_bjt": "2026-06-05T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "45dfc0750560ef29b6b6",
+            "title": "Perplexity’s Personal Computer is a Mac mini running an AI OS - Macworld",
+            "source": "Macworld",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblpfOU1mLXlTcDAzdDFaMW1UUTNSQ3QzU1prWTdXVjRmM3M2anRiVV81bXNZRk5GQ2JQVUdxYXVkd3ZodXNrUVR3bGp4SDQ3SFZCT1RaTTFPbzFfbHRZbF9yOTlHU1lHSlBGbzhQT0ZnaUJpVWtjRDA5bkF5NzVXa3RxOHR2NTFIS2ExWUp3QzJqY3o3alZXVkUzejhrekpIMUpvcGNWeHJQZw",
+            "published_at_bjt": "2026-03-12T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "aac5c2ee248b6d444452",
+            "title": "Perplexity’s Personal Computer is now available to everyone on Mac - TechCrunch",
+            "source": "TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRG14Q3ZzOHF4cmtNbWxhTTNIbHVZejBnbktpTWVjOUJDNWx3Y1BKa0xxd2JDeGQyRkQweU05NjdfVkczVURvTzh4V2J2ZXFfRTkyYnVkV05uUTFJT0duX2JaY3lFZk1Sc1JUdTVjMmdKMEJrMFJGMnpLdy1BcEpUckdMQjVhRGhCNEFPYzh6LWRMREVmaE56RG9wYXNpdw",
+            "published_at_bjt": "2026-05-07T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "21326661e9cc36f6c618",
+        "headline": "Smart rings are looking like my kind of AI gadget",
+        "facts": [
+          "Title: Smart rings are looking like my kind of AI gadget",
+          "[Skip to main content](https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fgadgets%2F971744%2Fsmart-ring-ai-gadget-stream-index)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "21326661e9cc36f6c618",
+            "title": "Smart rings are looking like my kind of AI gadget",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+            "published_at_bjt": "2026-07-28T20:00:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "13f5d160244e3e554f2c",
+            "title": "I Tested The Best Smart Rings Of 2026: Here Are My Top Picks - Forbes",
+            "source": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3E4VHNtdzJmdXYxZDlsY3ozdlNrc0ZWNU1BbE9BVWE5MDdLZTNHdkZjWG8tRk5VOXpwYWNROXZva29tMFZOVTBYbmRBbmtCNVJ6Uno1bENrcUJKRldiS0lIZjQ1azZtVW9CcmdLWEdVV24yWTZ5NXBzeDc5eVZIZE04NA",
+            "published_at_bjt": "2026-05-21T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "06677fec34dbce9eee85",
+            "title": "The Best Smart Rings of 2026 - Reviewed",
+            "source": "Reviewed",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLURuZGxMOFhhSFZfMjRhb0hXNVh2al84ak1YWDF2OVdiTkhUTnkxN0hualBKMTBuZUlDUEktVVNocUs4WFZNZ0tqTE9XcjJid2l1V2J1UGR0ajhWQlUxd1hqN1k5VUVYWmsyNzJpOVQ",
+            "published_at_bjt": "2025-11-05T16:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "8d60b8a2989351b35849",
+            "title": "The Best Smart Rings We've Tested for 2026 - PCMag",
+            "source": "PCMag",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtMFhOejhrTV81Nnhib0xVR04xM0xOTFB1eVhveVlzUjd0ZFFtWkNxZGtSSkNVM2V3R1ZEUkNSVmltSlZvZFVmdFQ3S3QxZ1pDa2RucXpHSFBpT0ZW",
+            "published_at_bjt": "2026-07-21T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "90f8cc0546ceff0f4e2a",
+        "headline": "Bot-detection startup Spur nabs $200M from Insight",
+        "facts": [
+          "Title: Bot-detection startup Spur nabs $200M from Insight",
+          "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)",
+          "*   [Latest](https://techcrunch.com/latest/)",
+          "*   [Startups](https://techcrunch.com/category/startups/)",
+          "*   [Venture](https://techcrunch.com/category/venture/)",
+          "*   [Apple](https://techcrunch.com/tag/apple/)",
+          "*   [Security](https://techcrunch.com/category/security/)",
+          "*   [AI](https://techcrunch.com/category/artificial-intelligence/)"
+        ],
+        "sources": [
+          {
+            "article_id": "90f8cc0546ceff0f4e2a",
+            "title": "Bot-detection startup Spur nabs $200M from Insight",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
+            "published_at_bjt": "2026-07-29T05:29:34+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "AI烧钱烧到华尔街紧张，Perplexity把Windows变成AI代理，智能戒指迎来春天",
+    "lead": "今天科技圈的关键词是“成本”与“落地”。一边是AI基础设施的巨额投入让资本市场开始怀疑回报周期，另一边是AI应用正在悄悄进入你的电脑和手指——Perplexity推出Windows版AI代理，智能戒指也开始集成AI功能。同时，超过1100名AI从业者联名呼吁政府干预自动化AI，而一家检测机器人的公司拿到了2亿美元融资。",
+    "sections": [
+      {
+        "story_id": "b738e7d0ebe1bd8695bd",
+        "title": "超1100名AI从业者联名呼吁政府干预自动化AI",
+        "dek": "OpenAI、Anthropic、谷歌、Meta等公司领袖签署声明，要求政府采取措施应对自动化AI的风险。",
+        "body": "今天，超过1100名AI从业者，包括来自OpenAI、Anthropic、谷歌、Meta等公司的领袖，联合签署了一份声明，呼吁美国政府采取行动应对自动化AI的发展。声明指出，自动化AI——即能够自主运行、无需人类干预的AI系统——可能带来失控风险，需要政府制定规则。这与过去行业主导的自我监管思路不同，现在从业者主动要求外部介入。技术门槛在于，自动化AI的决策过程难以解释和预测，监管难度大。例如，一个自动交易系统可能在毫秒内完成数千笔交易，但一旦出现错误，后果可能是灾难性的。声明中特别提到了“前沿自动化AI”，即那些能力接近或超越人类水平的系统，认为它们需要更严格的审查。对普通人来说，这可能意味着未来AI应用会面临更严格的安全审查，比如自动驾驶、自动客服等场景的部署速度可能放缓。同时，这也可能催生新的职业，如AI审计师和伦理合规官。行动建议：关注相关立法动态，尤其是在涉及就业和隐私的领域。如果你从事AI开发，建议提前了解合规要求，避免未来政策变化带来的风险。",
+        "takeaway": "AI行业从“别管我”转向“请管我”，自动化AI的风险共识正在形成。",
+        "image_url": "images/138c5c43e693ea93.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "b738e7d0ebe1bd8695bd",
+          "e050557ad32ec2a52e77"
+        ],
+        "source_refs": [
+          {
+            "article_id": "b738e7d0ebe1bd8695bd",
+            "title": "AI leaders sign a statement asking the government to do something about automated AI",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta",
+            "published_at_bjt": "2026-07-29T03:46:43+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "e050557ad32ec2a52e77",
+            "title": "Over 1,100 AI workers sign letter asking US to support tools that 'pace the frontier of automated AI development' - Yahoo",
+            "source": "Yahoo",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVl9NRzJ5SGg2Y2dtTFhzV2xuS1p5STRZcENkVFBqRlpxd1JvNFZWalNCcGxGbTNiQ0pxcjQzLVdySFhVT3J0eDdsbDBOSEc4Y09CS0w0MXg2a3hwSWc0ckxYOU1RenBkSGpvU0F6aW1rc0s2cU1hbGZfbVZscnl4eERRMDFjb3dQ",
+            "published_at_bjt": "2026-07-29T05:26:59+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25362061/STK_414_AI_CHATBOT_R2_CVirginia_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "3c3c001c18183800"
+      },
+      {
+        "story_id": "fb802860b45af6bce6e2",
+        "title": "AI终于贵到让华尔街紧张了",
+        "dek": "谷歌等巨头的资本支出超出预期，投资者开始质疑AI的回报周期。",
+        "body": "今天The Verge报道了一个有意思的信号：AI终于贵到让华尔街感到不安了。背景是谷歌等科技巨头公布的资本支出数字超出了分析师的预期，这些钱大部分流向了AI基础设施——数据中心、GPU集群、电力消耗。过去几年，市场对AI的热情几乎不计成本，但最近几周，多家AI相关公司的股价出现回调。变化在于，投资者开始追问：这些投入什么时候能产生足够的收入？从技术门槛看，训练前沿模型的成本确实在指数级增长，而商业化路径仍然模糊。以谷歌为例，其母公司Alphabet在最新财报中披露的资本支出同比增长超过五成，主要用于建设新的数据中心和采购专用芯片。然而，AI产品的收入增长并未同步跟上，这导致部分投资者开始重新评估估值。华尔街的担忧并非没有道理：历史上，每一次技术革命都伴随着过度投资和泡沫，AI可能也不例外。但另一方面，AI的长期潜力依然被看好，关键在于谁能率先找到可持续的商业模式。对普通人来说，这意味着未来AI服务的价格可能会上涨，或者免费服务的质量会下降。例如，OpenAI已经推出了付费版ChatGPT Plus，而谷歌的Gemini也可能逐步引入订阅模式。行动建议：如果你依赖某些AI工具，可以关注其定价策略变化，提前规划预算。同时，留意那些能够证明自身盈利能力的企业，它们更可能在资本寒冬中存活下来。",
+        "takeaway": "AI的资本盛宴进入中场，投资者开始要求看到真金白银的回报。",
+        "image_url": "images/02175a74ea206578.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "fb802860b45af6bce6e2"
+        ],
+        "source_refs": [
+          {
+            "article_id": "fb802860b45af6bce6e2",
+            "title": "AI’s finally expensive enough to make Wall Street nervous",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/972119/ai-stock-fall-google-capex",
+            "published_at_bjt": "2026-07-29T03:33:03+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKS501_STOCKS_CVIRGINIA_A.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "636141463e3ebc80"
+      },
+      {
+        "story_id": "e9c474af2da2d9c444c2",
+        "title": "Perplexity的Personal Computer把Windows变成AI代理",
+        "dek": "Perplexity推出Windows版Personal Computer，让PC具备AI代理能力。",
+        "body": "Perplexity今天宣布，其Personal Computer产品正式支持Windows系统。这款产品本质上是一个AI代理平台，可以理解你的指令、操作应用程序、管理文件，甚至跨软件完成任务。此前该产品仅支持Mac，现在扩展到Windows，意味着覆盖了绝大多数PC用户。技术门槛在于，AI代理需要深度集成操作系统权限，同时保证安全性和隐私。与传统的语音助手不同，Perplexity的代理能执行多步骤任务，比如“整理上个月的发票并发送邮件给财务”。它通过自然语言理解你的意图，然后调用系统API或第三方应用接口来执行操作。例如，你可以说“帮我找一下上周的会议记录，提取关键决策，然后发给团队”，它就会自动搜索文件、提取内容并发送邮件。对普通人来说，这相当于给电脑装了一个“会干活的AI管家”。不过，这也带来了隐私担忧：代理需要读取你的文件、邮件和日历，这些数据如何存储和保护？Perplexity表示所有处理都在本地进行，但用户仍需谨慎。行动建议：如果你是Windows用户，可以尝试安装体验，但注意权限设置，避免敏感数据泄露。建议先从非敏感任务开始，比如文件整理或日程安排。",
+        "takeaway": "AI代理从概念走向桌面，Windows用户终于能体验“动口不动手”的电脑操作。",
+        "image_url": "images/0068c032638c1698.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "e9c474af2da2d9c444c2",
+          "ecef0332b5bc2c98b766",
+          "45dfc0750560ef29b6b6",
+          "aac5c2ee248b6d444452"
+        ],
+        "source_refs": [
+          {
+            "article_id": "e9c474af2da2d9c444c2",
+            "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/971750/perplexity-personal-computer-windows-ai-agents",
+            "published_at_bjt": "2026-07-28T20:30:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "ecef0332b5bc2c98b766",
+            "title": "Perplexity Brings Orchestrator Agent Personal Computer to Windows - OpenTools",
+            "source": "OpenTools",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVRTQtOGU5Smo1bWt2V3lmWEUyeVJfbUNBcmpIVjB6WDhpOTZFZXZmVnd5c1IxSjFQSDZYSlAyVld5TXk5V0drSHVzTXFtNGV2ZzJlQ3FqaFA4TzZoZXN0cy12YnRKR3UtZHkwS3Z0NUVoQ0dsUTVSbQ",
+            "published_at_bjt": "2026-06-05T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "45dfc0750560ef29b6b6",
+            "title": "Perplexity’s Personal Computer is a Mac mini running an AI OS - Macworld",
+            "source": "Macworld",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNblpfOU1mLXlTcDAzdDFaMW1UUTNSQ3QzU1prWTdXVjRmM3M2anRiVV81bXNZRk5GQ2JQVUdxYXVkd3ZodXNrUVR3bGp4SDQ3SFZCT1RaTTFPbzFfbHRZbF9yOTlHU1lHSlBGbzhQT0ZnaUJpVWtjRDA5bkF5NzVXa3RxOHR2NTFIS2ExWUp3QzJqY3o3alZXVkUzejhrekpIMUpvcGNWeHJQZw",
+            "published_at_bjt": "2026-03-12T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "aac5c2ee248b6d444452",
+            "title": "Perplexity’s Personal Computer is now available to everyone on Mac - TechCrunch",
+            "source": "TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRG14Q3ZzOHF4cmtNbWxhTTNIbHVZejBnbktpTWVjOUJDNWx3Y1BKa0xxd2JDeGQyRkQweU05NjdfVkczVURvTzh4V2J2ZXFfRTkyYnVkV05uUTFJT0duX2JaY3lFZk1Sc1JUdTVjMmdKMEJrMFJGMnpLdy1BcEpUckdMQjVhRGhCNEFPYzh6LWRMREVmaE56RG9wYXNpdw",
+            "published_at_bjt": "2026-05-07T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25472503/STK271_PERPLEXITY_C.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "5d79118181df7f69"
+      },
+      {
+        "story_id": "21326661e9cc36f6c618",
+        "title": "智能戒指正在成为我喜欢的AI小设备",
+        "dek": "智能戒指开始集成AI功能，成为更自然的可穿戴AI入口。",
+        "body": "今天The Verge的一篇评论文章指出，智能戒指正在成为理想的AI小设备。与智能手表相比，戒指更轻便、续航更长、佩戴无感，适合全天候健康监测和轻量交互。最新一代产品开始集成AI功能，比如通过语音或手势控制智能家居、实时翻译、健康数据分析等。技术门槛在于，戒指体积小，传感器和电池受限，AI处理需要依赖云端或手机。变化在于，AI让戒指从“记录器”变成了“助手”。例如，三星的Galaxy Ring已经支持通过双击接听电话或控制音乐播放，而Oura Ring则利用AI分析睡眠数据并提供改善建议。未来，戒指可能成为AI助手的理想载体——它始终戴在手上，随时可以唤醒，却又不像手机那样让人分心。对普通人来说，这意味着未来可能不需要掏出手机，抬抬手就能完成很多操作。比如，在开车时用手指轻点戒指就能导航，或者在会议上悄悄用戒指翻译外语。但挑战也很明显：电池续航、传感器精度和隐私保护都需要改进。行动建议：如果你对可穿戴设备感兴趣，可以关注三星、Oura等品牌的新品，但注意数据隐私和续航表现。可以先从基础的健康监测功能开始体验。",
+        "takeaway": "智能戒指+AI，可能是最不打扰人的可穿戴计算形态。",
+        "image_url": "images/884c6aed82a6b2d0.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "21326661e9cc36f6c618",
+          "13f5d160244e3e554f2c",
+          "06677fec34dbce9eee85",
+          "8d60b8a2989351b35849"
+        ],
+        "source_refs": [
+          {
+            "article_id": "21326661e9cc36f6c618",
+            "title": "Smart rings are looking like my kind of AI gadget",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/gadgets/971744/smart-ring-ai-gadget-stream-index",
+            "published_at_bjt": "2026-07-28T20:00:00+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "13f5d160244e3e554f2c",
+            "title": "I Tested The Best Smart Rings Of 2026: Here Are My Top Picks - Forbes",
+            "source": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPN3E4VHNtdzJmdXYxZDlsY3ozdlNrc0ZWNU1BbE9BVWE5MDdLZTNHdkZjWG8tRk5VOXpwYWNROXZva29tMFZOVTBYbmRBbmtCNVJ6Uno1bENrcUJKRldiS0lIZjQ1azZtVW9CcmdLWEdVV24yWTZ5NXBzeDc5eVZIZE04NA",
+            "published_at_bjt": "2026-05-21T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "06677fec34dbce9eee85",
+            "title": "The Best Smart Rings of 2026 - Reviewed",
+            "source": "Reviewed",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qLURuZGxMOFhhSFZfMjRhb0hXNVh2al84ak1YWDF2OVdiTkhUTnkxN0hualBKMTBuZUlDUEktVVNocUs4WFZNZ0tqTE9XcjJid2l1V2J1UGR0ajhWQlUxd1hqN1k5VUVYWmsyNzJpOVQ",
+            "published_at_bjt": "2025-11-05T16:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "8d60b8a2989351b35849",
+            "title": "The Best Smart Rings We've Tested for 2026 - PCMag",
+            "source": "PCMag",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtMFhOejhrTV81Nnhib0xVR04xM0xOTFB1eVhveVlzUjd0ZFFtWkNxZGtSSkNVM2V3R1ZEUkNSVmltSlZvZFVmdFQ3S3QxZ1pDa2RucXpHSFBpT0ZW",
+            "published_at_bjt": "2026-07-21T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/RING.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "ffffe7e7e3e7ffce"
+      },
+      {
+        "story_id": "90f8cc0546ceff0f4e2a",
+        "title": "机器人检测初创公司Spur从Insight融资2亿美元",
+        "dek": "Spur获得2亿美元融资，用于检测和防御自动化机器人。",
+        "body": "今天TechCrunch报道，机器人检测初创公司Spur从Insight Partners获得了2亿美元融资。Spur的技术核心是识别网络上的自动化机器人——无论是恶意爬虫、虚假账户还是自动化攻击。随着AI生成的虚假内容泛滥，企业和平台对反机器人工具的需求激增。技术门槛在于，机器人越来越像真人，需要多维度的行为分析才能准确识别。Spur通过分析IP地址、行为模式、浏览器指纹等特征来区分人类和机器。例如，一个账号在短时间内发送大量相似评论，或者访问频率异常，就可能被标记为机器人。这笔融资表明，资本正在押注“反AI”赛道——当AI生成内容越来越逼真，检测工具的价值就越大。对普通人来说，这意味着你遇到的网络诈骗、虚假评论、刷票行为可能会减少。例如，电商平台可以利用Spur的技术过滤虚假评价，社交媒体可以打击僵尸粉。但这也可能带来隐私担忧：为了检测机器人，平台需要收集更多用户行为数据。行动建议：如果你运营网站或社群，可以考虑集成类似服务；普通用户则可以在可疑页面留意验证机制，如验证码或行为验证。同时，注意保护自己的在线行为数据，避免被过度采集。",
+        "takeaway": "AI越强，反AI的工具越值钱，机器人检测成了资本新宠。",
+        "image_url": "images/24548b890c9b9766.webp",
+        "image_credit": "TechCrunch",
+        "source_ids": [
+          "90f8cc0546ceff0f4e2a"
+        ],
+        "source_refs": [
+          {
+            "article_id": "90f8cc0546ceff0f4e2a",
+            "title": "Bot-detection startup Spur nabs $200M from Insight",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight",
+            "published_at_bjt": "2026-07-29T05:29:34+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+        "image_status": "downloaded",
+        "image_phash": "e7e7e3a7a1c1fbff"
+      }
+    ],
+    "synthesis": "今天的新闻串起来看，AI行业正处在一个微妙的转折点：大厂们砸钱建算力，华尔街开始紧张；但另一边，AI代理和智能硬件正在变得更具体、更贴近个人。监管呼声渐高，反欺诈工具也成了资本追捧的对象。"
+  },
+  "podcast": {
+    "title": "AI的昂贵时刻与智能戒指的温柔革命",
+    "description": "今天五件事：AI领袖联名信、华尔街对AI成本担忧、Perplexity将Windows变成AI代理、智能戒指成为AI新形态、Spur获2亿美元融资。从资本到硬件，AI正在经历一场信任与成本的考验。",
+    "blocks": [
+      {
+        "block_id": "opening_001",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "你好，欢迎收听今天7月29日的「伊恩每日·科技」。今天有五件事，但核心只有一个：AI正在从概念炒作进入成本与信任的考验期。一边是AI领袖联名上书，请求政府管管自动化AI；另一边，华尔街因为AI太烧钱开始紧张了。同时，Perplexity把Windows变成了AI代理，智能戒指悄悄成为新形态，而一家反机器人公司拿到了2亿美元。我们一个一个聊。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 35.688
+      },
+      {
+        "block_id": "story_001",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，超过1100名AI从业者——来自OpenAI、Anthropic、Google、Meta等公司——签署了一封联名信，请求美国政府采取措施应对自动化AI。这封信不是反对AI，而是要求政府“管起来”：建立监管框架、设立安全标准，防止自动化AI引发大规模失业、社会不平等和安全风险。注意，这是从业者自己提出的，不是外部批评。过去几年，AI公司一直强调“自我监管”，现在主动要求政府介入，说明技术跑得太快，连造它的人都觉得需要刹车了。\n\n对比2023年那封呼吁暂停训练超强AI的公开信，这次更具体：不是所有AI，而是那些能替代人类决策和工作的自动化系统。技术门槛已经很低——GPT-4级别的模型就能完成大量重复性工作。成本门槛方面，训练前沿模型需要数亿美元，但部署自动化AI的成本正在快速下降。产业赢家可能是监管合规工具公司，输家则是依赖低成本劳动力的行业。\n\n对普通人来说，这意味着未来几年你的工作可能被AI部分替代，但监管会试图缓冲冲击。不过，监管本身也有代价：可能拖慢创新，或者让大公司更容易设置壁垒。这封信更像一个信号：AI自动化不再是科幻，而是即将落地的现实。",
+        "story_id": "b738e7d0ebe1bd8695bd",
+        "audio_file": "",
+        "start_sec": 36.888,
+        "duration_sec": 97.344
+      },
+      {
+        "block_id": "question_001",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，联名信提到具体威胁了吗？比如哪些岗位最危险？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 135.432,
+        "duration_sec": 6.408
+      },
+      {
+        "block_id": "answer_001",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "信里没有列举具体岗位，但根据上下文，自动化AI威胁最大的可能是客服、数据录入、内容审核、甚至初级编程。这些岗位的工作流程相对标准化，AI已经能做得不错。不过，这封信的重点是呼吁政府建立“安全港”机制，让公司报告自动化部署计划，而不是直接禁止。所以，短期看，受影响的是重复性工作，但长期看，所有白领工作都可能被波及。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 143.04,
+        "duration_sec": 33.456
+      },
+      {
+        "block_id": "story_002",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天聊一个让华尔街坐立不安的信号：AI终于贵到让投资者开始怀疑人生了。\n\n先看事实。7月29日，The Verge报道，Google母公司Alphabet的资本支出暴增，主要砸向AI基础设施，但财报公布后股价下跌——因为投资者发现，这些投入还没有带来对等的收入增长。这不是Google一家的问题。微软、亚马逊、Meta都在疯狂建数据中心、买GPU，每个季度几百亿美元地花，但AI产品的订阅费和广告收入，远没到能覆盖这些支出的程度。\n\n对比一下2023年，那时候只要沾上AI，股价就涨。市场相信“先投入、后回报”的故事，认为AI是下一个互联网。但现在，故事讲了一年多，回报还没来，华尔街开始算账了。\n\n算账的逻辑很简单：你花了多少钱，赚了多少钱，差额是多少。AI基础设施的投入是实打实的——单是训练一个GPT-5级别的模型，成本可能超过10亿美元。而AI产品呢？ChatGPT的订阅收入、微软Copilot的企业付费、Google的AI广告增量，都还远不足以填平这个窟窿。\n\n技术门槛其实不是问题——钱能解决算力，人才也能挖。真正的门槛是成本门槛。当投入规模大到影响公司整体利润时，CFO们就会开始问：这钱什么时候能赚回来？\n\n这个博弈里，赢家和输家已经比较清晰了。赢家是英伟达这样的“卖铲人”——不管谁建数据中心，都得买它的GPU。输家可能是那些过度投资但变现慢的云厂商，比如Google Cloud和Azure，它们花了几百亿建算力，但客户（包括AI创业公司）自己也在烧钱，付费能力有限。\n\n对普通人来说，这意味着什么？AI产品可能不会变得更便宜。公司需要收回成本，要么涨价，要么在免费版里塞更多广告。你用的ChatGPT、Copilot、Gemini，未来很可能要么更贵，要么更“吵”。\n\n我的判断是：AI产业正在从“烧钱抢地盘”进入“算账过日子”阶段。这不是泡沫破裂，而是市场在逼着公司证明自己。接下来，我们会看到更多AI公司开始强调“单位经济模型”和“投资回报率”，而不是只讲参数和算力。\n\n对投资者来说，这是个风险重估的时刻。对用户来说，这是个提醒：免费午餐快结束了。",
+        "story_id": "fb802860b45af6bce6e2",
+        "audio_file": "",
+        "start_sec": 177.696,
+        "duration_sec": 169.608
+      },
+      {
+        "block_id": "story_003",
+        "speaker": "ian",
+        "role": "story",
+        "text": "想象一下，你坐在电脑前，对屏幕说一句“帮我订一张下周二去北京的机票，选靠窗座位”，然后电脑就自己打开浏览器、登录网站、填好信息、完成支付。这不是科幻，这是Perplexity刚刚在Windows上推出的“Personal Computer”功能。\n\nPerplexity之前已经在Mac上发布了类似产品，现在正式扩展到Windows。它本质上是一个运行在操作系统之上的AI层，能够理解屏幕上的所有像素内容，并模拟鼠标和键盘操作来执行任务。它不只是回答问题的聊天机器人，而是一个能操控电脑的AI代理。\n\n和传统的自动化工具比如RPA（机器人流程自动化）相比，Perplexity不需要你编写任何脚本或规则。你用自然语言说出需求，它就能理解上下文并自主完成操作。比如，它可以自动填写表格、整理文件夹、发送邮件，甚至跨应用完成复杂流程。\n\n这项技术的门槛非常高。首先，它需要多模态大模型来实时理解屏幕上的图像——不仅仅是识别文字，还要理解按钮、菜单、弹窗等UI元素。其次，它需要精确的模拟控制能力，确保鼠标点击和键盘输入在正确的位置。最后，实时推理需要大量的算力，这对成本和延迟都是挑战。\n\n从产业格局来看，赢家显然是Perplexity这类AI代理公司，它们正在重新定义人机交互的方式。输家则可能是传统的RPA厂商，比如UiPath和Automation Anywhere，因为它们的核心价值——通过编程实现自动化——正在被自然语言交互所取代。此外，操作系统厂商如微软也需要思考如何应对：是拥抱这类第三方AI代理，还是推出自己的竞品？\n\n对你我这样的普通用户来说，这意味着你的电脑很快会变成一个“能帮你干活”的智能助手。你不再需要学习复杂的软件操作，只要说出需求，电脑就能替你完成。但硬币的另一面是隐私风险：这个AI代理需要看到你屏幕上的一切——包括邮件、聊天记录、银行账户信息。Perplexity如何处理这些数据，是否会上传云端，将是决定用户信任的关键。\n\n我的判断是：AI代理是继智能手机之后最重大的人机交互变革，但隐私和安全性将是它能否普及的最大障碍。在技术成熟之前，建议你先用一些简单的、不涉及敏感信息的任务来体验，比如整理桌面文件或设置日历提醒。",
+        "story_id": "e9c474af2da2d9c444c2",
+        "audio_file": "",
+        "start_sec": 348.504,
+        "duration_sec": 175.176
+      },
+      {
+        "block_id": "question_002",
+        "speaker": "listener",
+        "role": "question",
+        "text": "Perplexity的代理和微软Copilot有什么区别？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 524.88,
+        "duration_sec": 4.632
+      },
+      {
+        "block_id": "answer_002",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "好问题。微软Copilot更多是嵌入Office等应用的辅助工具，比如帮你写文档、做PPT。而Perplexity的“个人电脑”是系统级的——它可以操作任何Windows应用，甚至包括第三方软件。Copilot是“集成”，Perplexity是“覆盖”。但微软的优势是深度绑定系统，未来可能推出类似功能。目前Perplexity更激进，但微软更稳妥。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 530.712,
+        "duration_sec": 30.648
+      },
+      {
+        "block_id": "story_004",
+        "speaker": "ian",
+        "role": "story",
+        "text": "你有没有想过，一个比硬币大不了多少的戒指，可能比你的智能手表更懂你的身体？今天，The Verge的一篇文章让我重新审视了智能戒指这个品类。文章作者说，智能戒指终于找到了自己的定位——不是取代手表，而是作为AI的“低调传感器”。\n\n先看事实：三星、Oura等品牌的智能戒指，可以24/7监测心率、睡眠、血氧等生理指标，然后通过AI分析给出健康建议。这些产品已经上市，Oura Ring 4售价约350美元，三星Galaxy Ring约400美元。\n\n对比智能手表，戒指的优势很明显：更轻便，几乎无感佩戴；续航更长，普遍在一周以上；更适合全天候佩戴，尤其是睡觉时。而智能手表往往需要每天充电，且体积较大，很多人不愿意戴着睡觉。\n\n技术门槛在哪里？核心是微型化传感器和低功耗AI芯片。要在这么小的空间里塞进多个高精度传感器，同时保证续航，需要非常先进的封装和芯片设计。成本方面，高端戒指约300-500美元，已经和主流智能手表相当。\n\n那么，谁会受益？健康AI公司是最大赢家——它们可以利用戒指收集的连续生理数据，训练更精准的疾病预测模型。谁可能受损？智能手表厂商——如果戒指能替代手表的部分健康监测功能，用户可能不再需要手表。\n\n对你我来说，这意味着AI健康监测将变得更加无感。你可能戴着戒指睡觉，AI自动分析你的睡眠质量、心率变异性，甚至提前预警潜在的健康风险。你不需要主动操作，AI在后台默默工作。\n\n我的判断是：智能戒指不会完全取代手表，但会分走健康监测这块蛋糕。未来，戒指+耳机的组合可能成为新的“随身AI终端”——戒指负责感知身体，耳机负责语音交互。这个趋势值得关注。",
+        "story_id": "21326661e9cc36f6c618",
+        "audio_file": "",
+        "start_sec": 562.56,
+        "duration_sec": 137.712
+      },
+      {
+        "block_id": "story_005",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天要聊一笔2亿美元的融资，背后是一个你可能没听过、但每天都在打交道的问题：怎么判断屏幕对面的是真人还是机器？\n\n反机器人公司Spur从Insight Partners拿到了2亿美元。Spur的核心业务是检测和防御自动化机器人——包括虚假账号、爬虫、恶意AI代理。随着AI生成内容泛滥，企业越来越难分清哪些是真人用户、哪些是机器脚本。传统的验证码已经形同虚设，AI可以轻松破解。Spur的做法是分析行为模式：比如鼠标移动轨迹、点击频率、页面停留时间、打字节奏，而不是简单地问“你是不是机器人”。\n\n对比传统安全公司，Spur的差异化在于“AI对抗AI”。传统方案主要靠规则库和签名匹配，但机器人的行为也在进化。Spur用机器学习模型实时分析流量，识别那些模仿人类但存在细微异常的机器人。技术门槛很高：需要处理海量数据，延迟要低到毫秒级，同时避免误伤真实用户。成本门槛也不低，但企业愿意为此付费——虚假流量意味着广告浪费、数据污染、甚至欺诈损失。\n\n这笔融资的产业信号很明确：AI时代，身份验证正在从“你是谁”转向“你怎么做”。赢家是Spur这类反机器人初创，它们抓住了企业对抗AI欺诈的刚需。输家是那些依赖虚假流量来维持数据的平台——比如靠刷量撑数据的社交网络、刷单的电商平台。\n\n对普通人来说，这有两面性。好处是你在网上的互动会更安全，比如你点的广告更可能是真人投放的，你收到的评论更可能是真实用户的。但代价是，为了判断你是不是真人，你的行为数据会被更深入地分析——鼠标怎么动、页面怎么翻、打字快慢，这些都可能被记录。隐私和安全的平衡，正在被重新定义。\n\n我的判断是：反机器人会成为AI基础设施的一部分，就像防火墙一样标配。但普通用户需要关注的是，这些检测系统是否透明、数据是否被滥用。毕竟，证明自己是人这件事，正在变得越来越复杂。",
+        "story_id": "90f8cc0546ceff0f4e2a",
+        "audio_file": "",
+        "start_sec": 701.472,
+        "duration_sec": 152.52
+      },
+      {
+        "block_id": "question_003",
+        "speaker": "listener",
+        "role": "question",
+        "text": "今天这些事，哪一件对普通人影响最大？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 855.192,
+        "duration_sec": 4.008
+      },
+      {
+        "block_id": "answer_003",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "我觉得是Perplexity的AI代理。它直接改变你使用电脑的方式，而且隐私风险最贴近个人。智能戒指影响健康，但你可以选择不戴；联名信和华尔街是宏观趋势；Spur是幕后技术。但AI代理一旦普及，你的每一次点击、每一个文件都可能被AI理解，这是根本性的变化。当然，影响最大的也可能是最慢的——监管和商业模式调整需要时间。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 860.4,
+        "duration_sec": 32.64
+      },
+      {
+        "block_id": "synthesis_001",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "今天五件事，看似分散，但有一条主线：AI正在从“能做什么”转向“成本多少、谁受益、谁受损”。联名信和华尔街紧张都指向同一个问题——AI的投入和风险需要被管理。Perplexity和智能戒指则展示了AI落地的两种路径：一种是系统级代理，强大但侵入；一种是轻量传感器，无感但局限。Spur的融资则提醒我们，AI越强大，反AI的需求就越大。整体来看，AI产业正在分化：一边是巨头烧钱赌未来，一边是初创寻找利基。对普通人来说，AI的影响越来越具体——你的工作、你的电脑、你的健康、你的网络安全，都在被重塑。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 894.24,
+        "duration_sec": 50.208
+      },
+      {
+        "block_id": "closing_001",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "好，今天就是这样。AI领袖呼吁监管、华尔街质疑成本、Perplexity接管你的电脑、智能戒指戴上你的手指、反机器人公司拿到巨款——这些信号拼在一起，告诉我们AI正在进入一个更复杂、更现实的阶段。明天见。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 945.648,
+        "duration_sec": 20.976
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "AI leaders sign a statement asking the government to do something about automated AI",
+        "start_sec": 36.888,
+        "story_id": "b738e7d0ebe1bd8695bd"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "AI’s finally expensive enough to make Wall Street nervous",
+        "start_sec": 177.696,
+        "story_id": "fb802860b45af6bce6e2"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "Perplexity’s Personal Computer turns Windows PCs into AI agents",
+        "start_sec": 348.504,
+        "story_id": "e9c474af2da2d9c444c2"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "Smart rings are looking like my kind of AI gadget",
+        "start_sec": 562.56,
+        "story_id": "21326661e9cc36f6c618"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "Bot-detection startup Spur nabs $200M from Insight",
+        "start_sec": 701.472,
+        "story_id": "90f8cc0546ceff0f4e2a"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 894.24,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 966.7,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.3823,
+      0.4716,
+      0.421,
+      0.5087,
+      0.3742,
+      0.4395,
+      0.4781,
+      0.5031,
+      0.3806,
+      0.3983,
+      0.4005,
+      0.446,
+      0.482,
+      0.4173,
+      0.3365,
+      0.3661,
+      0.3707,
+      0.4597,
+      0.3886,
+      0.4091,
+      0.499,
+      0.3688,
+      0.5135,
+      0.5029,
+      0.3228,
+      0.3691,
+      0.4138,
+      0.5339,
+      0.3584,
+      0.4411,
+      0.438,
+      0.4351,
+      0.4664,
+      0.3738,
+      0.3823,
+      0.3622,
+      0.5254,
+      0.5195,
+      0.5524,
+      0.4105,
+      0.3875,
+      0.5321,
+      0.3506,
+      0.4803,
+      0.4312,
+      0.4409,
+      0.4149,
+      0.3735,
+      0.4204,
+      0.368,
+      0.46,
+      0.5284,
+      0.423,
+      0.3814,
+      0.4439,
+      0.4379,
+      0.36,
+      0.4852,
+      0.4698,
+      0.373,
+      0.4182,
+      0.4638,
+      0.3559,
+      0.4636,
+      0.3701,
+      0.367,
+      0.3846,
+      0.3459,
+      0.4312,
+      0.389,
+      0.47,
+      0.4316,
+      0.426,
+      0.4321,
+      0.4063,
+      0.4029,
+      0.4065,
+      0.4377,
+      0.4412,
+      0.39,
+      0.4201,
+      0.4559,
+      0.4598,
+      0.3924,
+      0.384,
+      0.4373,
+      0.5565,
+      0.4105,
+      0.3737,
+      0.3795,
+      0.4076,
+      0.4367,
+      0.4489,
+      0.3776,
+      0.4279,
+      0.3976,
+      0.5043,
+      0.387,
+      0.4308,
+      0.4443,
+      0.3634,
+      0.3956,
+      0.5108,
+      0.3691,
+      0.4706,
+      0.4798,
+      0.4406,
+      0.5054,
+      0.4444,
+      0.3813,
+      0.3485,
+      0.396,
+      0.4679,
+      0.412,
+      0.4335,
+      0.4502,
+      0.4246,
+      0.4156,
+      0.4158,
+      0.3938,
+      0.4638,
+      0.3891,
+      0.3979,
+      0.4448,
+      0.3757,
+      0.424,
+      0.3244,
+      0.4588,
+      0.4938,
+      0.5298,
+      0.4204,
+      0.3867,
+      0.4296,
+      0.4606,
+      0.4316,
+      0.4345,
+      0.4104,
+      0.3954,
+      0.3926,
+      0.471,
+      0.3701,
+      0.4814,
+      0.4573,
+      0.4479,
+      0.4492,
+      0.4903,
+      0.4496,
+      0.4706,
+      0.4972,
+      0.4911,
+      0.4459,
+      0.3733,
+      0.3876,
+      0.4011,
+      0.3485,
+      0.4403,
+      0.4315,
+      0.4729,
+      0.485,
+      0.5197
+    ]
+  },
+  "status": "quality_passed",
+  "created_at_bjt": "2026-07-29T07:34:32+08:00",
+  "updated_at_bjt": "2026-07-29T07:36:54+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}
