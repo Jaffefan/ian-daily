@@ -1,0 +1,866 @@
+{
+  "episode_id": "2026-07-30-tech",
+  "schema_version": 4,
+  "category": "tech",
+  "category_name": "科技",
+  "date_bjt": "2026-07-30",
+  "story_set": {
+    "category": "tech",
+    "date_bjt": "2026-07-30",
+    "articles": [
+      {
+        "id": "95d6f987332250f4c681",
+        "category": "tech",
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "summary": "Microsoft is working on an AI \"super app\" that combines Copilot's chat, coding, and agentic capabilities. During an earnings call on Wednesday, Microsoft CEO Satya Nadella said the app will span \"both consumer and commercial experiences\" when it launches this year. \"Copilot is evolving rapidly from chat to Cowork to Autopilots,\" Nadella said. \"This quarter, […]",
+        "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-30T06:17:38+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Microsoft confirms Copilot ‘super app’ coming this year\n\nURL Source: https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed\n\nPublished Time: 2026-07-29T22:17:38+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972927%2Fmicrosoft-copilot-super-app-confirmed)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972927%2Fmicrosoft-copilot-super-app-confirmed) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972927%2Fmicrosoft-copilot-super-app-confirmed)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nMicrosoft confirms Copilot ‘super app’ coming this year\n\n[3](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed#comments)\n\nComments Drawer\n\nComments\n\n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   News News \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All News](https://www.theverge.com/news)  \n\n# Microsoft confirms Copilot ‘super app’ coming this year\n\nThe app will merge Copilot’s chat, coding, and agentic features.\n\nThe app will merge Copilot’s chat, coding, and agentic features.\n\nby Emma Roth\n\n![Image 3: Emma Roth](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195810/EMMA_ROTH.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nEmma Roth\n\nNews Writer\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nF",
+        "image_url": "images/d48f2a1764874744.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "0303033f0110ffff",
+        "community_signals": []
+      },
+      {
+        "id": "1d01fdd20f83e9457143",
+        "category": "tech",
+        "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+        "summary": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, […]",
+        "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-30T05:06:52+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law\n\nURL Source: https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit\n\nPublished Time: 2026-07-29T21:06:52+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fpolicy%2F972850%2Fxai-grok-minnesota-nudification-lawsuit)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fpolicy%2F972850%2Fxai-grok-minnesota-nudification-lawsuit) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fpolicy%2F972850%2Fxai-grok-minnesota-nudification-lawsuit)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nxAI’s last-minute scramble to stop Minnesota’s anti-nudification app law\n\n[13](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit#comments)\n\nComments Drawer\n\nComments\n\n*   Policy Policy \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Policy](https://www.theverge.com/policy)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Speech Speech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Speech](https://www.theverge.com/internet-censorship)  \n\n# xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law\n\nGrok, is this statute constitutional?\n\nGrok, is this statute constitutional?\n\nby Sarah Jeong\n\n![Image 5: Sarah Jeong](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/SARAH_J_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nSarah Jeong\n\nFeatures Editor\n\nPosts from this author will be added to your daily em",
+        "image_url": "images/7d0a5fecfd08f241.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "87476f1f4f1c0800",
+        "community_signals": []
+      },
+      {
+        "id": "4efbbdb7c9d72d556b8a",
+        "category": "tech",
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "summary": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do […]",
+        "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-30T05:48:07+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Mark Zuckerberg is planning a big push into personal AI agents\n\nURL Source: https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents\n\nPublished Time: 2026-07-29T21:48:07+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972294%2Fmeta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972294%2Fmeta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972294%2Fmeta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nMark Zuckerberg is planning a big push into personal AI agents\n\n[8](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents#comments)\n\nComments Drawer\n\nComments\n\n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Business Business \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Business](https://www.theverge.com/business)  \n\n# Mark Zuckerberg is planning a big push into personal AI agents\n\nMeta will have more to share ‘soon.’\n\nMeta will have more to share ‘soon.’\n\nby Jay Peters\n\n![Image 3: Jay Peters](https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/JAY_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nJay Peters\n\nSenior Reporter\n\nPosts from this ",
+        "image_url": "images/d0a59cca2b5a278b.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "8383c3cfcfcfefff",
+        "community_signals": []
+      },
+      {
+        "id": "c0b0bd6bcc7e72d3f2e6",
+        "category": "tech",
+        "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+        "summary": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+        "source": "The Verge",
+        "published_at_bjt": "2026-07-30T02:15:02+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: OpenAI president says it’s ‘building a family of devices’ for its AI chatbots\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview\n\nPublished Time: 2026-07-29T18:15:02+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972709%2Fopenai-hardware-greg-brockman-interview)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972709%2Fopenai-hardware-greg-brockman-interview) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972709%2Fopenai-hardware-greg-brockman-interview)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nOpenAI president says it’s ‘building a family of devices’ for its AI chatbots\n\n[9](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   News News \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All News](https://www.theverge.com/news)  \n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n\n# OpenAI president says it’s ‘building a family of devices’ for its AI chatbots\n\nGreg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ of tasks.\n\nGreg Brockman says he thinks we’ll start talking to our computers, rather than typing, for the ‘vast majority’ o",
+        "image_url": "images/a0d41f6b8ec0c3c4.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "54765e1818181800",
+        "community_signals": []
+      },
+      {
+        "id": "a84733288b2dc674eb77",
+        "category": "tech",
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
+        "source": "TechCrunch",
+        "published_at_bjt": "2026-07-30T06:46:03+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag\n\nURL Source: https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag\n\nPublished Time: 2026-07-29T22:46:03+00:00\n\nMarkdown Content:\n[Skip to content](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag#wp--skip-link--target)\n\n[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)\n\n*   [Latest](https://techcrunch.com/latest/)\n*   [Startups](https://techcrunch.com/category/startups/)\n*   [Venture](https://techcrunch.com/category/venture/)\n*   [Apple](https://techcrunch.com/tag/apple/)\n*   [Security](https://techcrunch.com/category/security/)\n*   [AI](https://techcrunch.com/category/artificial-intelligence/)\n*   [Apps](https://techcrunch.com/category/apps/)\n*   [Disrupt 2026](https://techcrunch.com/events/techcrunch-disrupt/)\n\n*   [Events](https://techcrunch.com/events/)\n*   [Podcasts](https://techcrunch.com/podcasts/)\n*   [Newsletters](https://techcrunch.com/newsletters/)\n\nSearch \n\nSubmit\n\nSite Search Toggle\n\nMega Menu Toggle\n\n### Topics\n\n[Latest](https://techcrunch.com/latest/)\n\n[AI](https://techcrunch.com/category/artificial-intelligence/)\n\n[Amazon](https://techcrunch.com/tag/amazon/)\n\n[Apps](https://techcrunch.com/category/apps/)\n\n[Biotech & Health](https://techcrunch.com/category/biotech-health/)\n\n[Climate](https://techcrunch.com/category/climate/)\n\n[Cloud Computing](https://techcrunch.com/tag/cloud-computing/)\n\n[Commerce](https://techcrunch.com/category/commerce/)\n\n[Crypto](https://techcrunch.com/category/cryptocurrency/)\n\n[Enterprise](https://techcrunch.com/category/enterprise/)\n\n[EVs](https://techcrunch.com/tag/evs/)\n\n[Fintech](https://techcrunch.com/category/fintech/)\n\n[Fundraising](https://techcrunch.com/category/fundraising/)\n\n[Gadgets](https://techcrunch.com/category/gadgets/)\n\n[Gaming](https://techcrunch.com/category/gaming/)\n\n[Google](https://techcrunch.com/tag/google/)\n\n[Government & Policy](https://techcrunch.com/category/government-policy/)\n\n[Hardware](https://techcrunch.com/category/hardware/)\n\n[Instagram](https://techcrunch.com/tag/instagram/)\n\n[Layoffs](https://techcrunch.com/tag/layoffs/)\n\n[Media & Entertainment](https://techcrunch.com/category/media-entertainment/)\n\n[Meta](https://techcrunch.com/tag/meta/)\n\n[Microsoft](https://techcrunch.com/tag/microsoft/)\n\n[Privacy](https://techcrunch.com/category/privacy/)\n\n[Robotics](https://techcrunch.com/category/robotics/)\n\n[Security](https://techcrunch.com/category/security/)\n\n[Social](https://techcrunch.com/category/social/)\n\n[Space](https://techcrunch.com/category/space/)\n\n[Startups](https://techcrunch.com/category/startups/)\n\n[TikTok](https://techcrunch.com/tag/tiktok/)\n\n[Transportation](https://techcrunch.com/category/transportation/)\n\n[Venture](https://techcrunch.com/category/venture/)\n\n### More from TechCrunch\n\n[Staff](https://techcrunch.com/about-techcrunch/)\n\n[Events](https://techcrunch.com/events/)\n\n[Startup Battlefield](https://techcrunch.com/startup-battlefield/)\n\n[StrictlyVC](https://strictlyvc.com/)\n\n[Newsletters](https://techcrunch.com/newsletters/)\n\n[Podcasts](https://techcrunch.com/podcasts/)\n\n[Videos](https://techcrunch.com/video/)\n\n[Partner Content](https://techcrunch.com/sponsored/)\n\n[TechCrunch Brand Studio](https://techcrunch.com/brand-studio/)\n\n[Crunchboard](https://www.crunchboard.com/)\n\n[Contact Us](https://techcrunch.com/contact-us/)\n\n[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F29%2Fmicrosoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F29%2Fmicrosoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag%2F&text=Microsoft+logs+%243.2B+from+Anthropic+investment%2C+but+OpenAI+was+a+mixed+bag&via=techcrunch)[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F29%2Fmicrosoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag%2F&title=Microsoft+logs+%243.2B+from+Anthropic+investment%2C+but+OpenAI+was+a+mixed+bag&summary=When+Microsoft+reported+killer+fourth-quarter+earnings+for+its+fiscal+2026+year+%28which+ended+June+30%29%2C+it+tucked+in+an+interesting+little+tidbit+about+how+its+investments+in+the+two+biggest%2C+and+competing%2C+AI+labs+are+doing.&mini=1&source=TechCrunch)[](https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F29%2Fmicrosoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag%2F&title=Microsoft+logs+%243.2B+from+Anthropic+investment%2C+but+OpenAI+was+a+mixed+bag)[](mailto:?subject=Microsoft+logs+%243.2B+from+Anthropic+investment%2C+but+OpenAI+was+a+mixed+bag&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F07%2F29%2Fmicrosoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag%2F)[](https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/)\n\nIn Brief\n\nPosted:\n\n3:46 PM PDT · July 29, 2026\n\n![Image 5: Microsoft CEO Satya Nadella speaks during the OpenAI DevDay event on November 06, 2023 in San Francisco](https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?w=1024)\n\n**Image Credits:**Justin Sullivan / Getty Images\n\n*   ![Image 6: Julie Bort](https://techcrunch.com/wp-content/uploads/2025/08/julie-bort-disrupt.jpg)\n\n*   [Julie Bort](https://techcrunch.com/author/julie-bort/)\n\n# Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag\n\nWhen Microsoft reported killer [fourth-quarter earnings](https://www.microsoft.com/en-us/Investor/earnings/FY-2026-Q4/press-release-webcast) for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.\n\nFor the quarter, it recorded its investment in Anthropic [as a $3.2 billion gain](https://view.officeapps.live.com/op/view.aspx?src=https://microsoft.com/en-us/investor/earnings/FY-2026-Q4/Document/DownloadDocument/27/SlidesFY26Q4.pptx), boosting diluted earnings [er share by 33 cents. (Microsoft reported diluted earnings per share of $4.81 for the quarter). Microsoft invested $5 billion in Anthropic [in November 2025](https://blogs.microsoft.com/blog/2025/11/18/microsoft-nvidia-and-anthropic-announce-strategic-partnerships/) as part of a circular agreement under which the AI lab also agreed to buy $30 billion worth of Azure services.\n\nMicrosoft does not routinely update the value of its Anthropic investment each quarter. It does, however, discuss its OpenAI investment quarterly. Microsoft said investment did not fare nearly as well in the quarter, and marked it down [about $600 million](https://view.officeapps.live.c",
+        "image_url": "images/44903de49f924dee.webp",
+        "image_credit": "TechCrunch",
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+        "image_status": "downloaded",
+        "image_phash": "0000e3ffe7e30000",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "95d6f987332250f4c681",
+        "headline": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "facts": [
+          "Title: Microsoft confirms Copilot ‘super app’ coming this year",
+          "[Skip to main content](https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972927%2Fmicrosoft-copilot-super-app-confirmed)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "95d6f987332250f4c681",
+            "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+            "published_at_bjt": "2026-07-30T06:17:38+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "01a36aa14016ddc2e74e",
+            "title": "Microsoft is Reportedly Working on New AI Super App - Thurrott.com",
+            "source": "Thurrott.com",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWk5VzlPX1Y2TFpxeFBmY3BSTDNaTmxpeTItSjNkTG53akxMZFVwcVdQQXNfWWp5dWRtOTc2Wl85NXpNMWhleEhNQkNBUy1QcmRZcjBOb3hzVEtpajlhdnhkX3dUNzNCbmQ3RENGMHFqdXdFZ3J2NXZYYldNX3lhMU9CMUJTM2VLbVc1R21wcE0",
+            "published_at_bjt": "2026-05-30T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "ace777f1e4ac4abae93a",
+            "title": "Microsoft reportedly building a super app to bring all its AI assistants together - WION",
+            "source": "WION",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3I3aVlOY3JxcXk0WWhKOWNiR2pjVkp3UVZQRDJuTXZpOERxRlphMzVaSkxWZnFxMkxPQk02cGw5S3U1RVk4eXdLeDVXMTBsdmdTNzg4SEdPenFpSVllSDI2TDNCVjJ2aUxaTTZDT0F2Z0xyS181OTZmT3UtWE5CdV8yRkpDYnpHOFhqbVhhakhQaUYzbWVBUm00OC1HN3g0ZF91ejl2bWhOVzYwMmg5SW54dVUzZnRYWVc0NlJOUkFMU0pfR1Q0eGZn0gHPAUFVX3lxTE1RY3V3RVA3WkhuZFNlMEVjeTl5RldsdW9JVUFKWVZpRXJsNXFmcmsxUG9wbVZkNmdzSFR6TWNRY2VlUzRQTzh3TlZTU2lkWDdaSEt2ZTdTTjU1Wi1GZmp5YnNXaFRSMUk0RmNrbklGQzZOc1VIRTUwYlVOMlNHWHdxTWxPLXktVU16bWFaTnc1Ykx3bk9WMHhlaGxpV1NWYzRId09ERFBKUG9aTWlabVVqQlAxSEtBaGR1bVNOUERlRHctTUo1ZEIteW13ZVhPOA",
+            "published_at_bjt": "2026-05-31T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "eafc83550f0784437fd7",
+            "title": "The 33-year-old executive Satya Nadella is trusting to fix Microsoft’s Copilot AI assistant - Fortune",
+            "source": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzlNTklGWUEyYzVHSHlodkhsVC1FZEQ1cThvMHRfY1NBVklPTExCeFJNMFBWbTN2SFhBZFZGVk9PN09fdExDLVVoSjNqc0NoYXYxODdJdUhWWTRFamFxd1paRTI5bzRWSFhSQWU5bHhVQXd5b0s0LWJ3SlZfN19aR3h5QjVBSEoyNFgwWEhUNDNPbjE3S2x5OHB4dTZleGpUTmgwV09kS1J6MmtGWmdtcXl3",
+            "published_at_bjt": "2026-06-27T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "1d01fdd20f83e9457143",
+        "headline": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+        "facts": [
+          "Title: xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+          "[Skip to main content](https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fpolicy%2F972850%2Fxai-grok-minnesota-nudification-lawsuit)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "1d01fdd20f83e9457143",
+            "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+            "published_at_bjt": "2026-07-30T05:06:52+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "4efbbdb7c9d72d556b8a",
+        "headline": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "facts": [
+          "Title: Mark Zuckerberg is planning a big push into personal AI agents",
+          "[Skip to main content](https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F972294%2Fmeta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "4efbbdb7c9d72d556b8a",
+            "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+            "published_at_bjt": "2026-07-30T05:48:07+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "ed55cb22a3ec740ef8cd",
+            "title": "Mark Zuckerberg admits Meta’s AI ambitions face major delays — Here's why - YourStory.com",
+            "source": "YourStory.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVpJX0FiQzVCdW05cU9HeXp1QkRkODNSdjFEcEg4RkZXWXJNZG5IeUR3b3pXWEN2SUlaQURoVmJUc0JDNU9NNzFkcGkyNUdqRUFONk5FNzdXbFh5c0NJanc5QnNPaGwzNkE5NW45WW83VXZ2a3EzYnE5ZkdMQXNPSmxqVERNNWkzclJCQg",
+            "published_at_bjt": "2026-07-03T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "4fc23226ee6591bb2408",
+            "title": "Meta plans advanced ‘agentic’ AI assistant for consumers - Financial Times",
+            "source": "Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3ZWMU90TkcwdnMyTTg1OFR5QUJHcUJqWjM2VVZWVUpVR09mczJwTjM1a3hBUVMwRUNzbURhWE9hQWgtbzdiQlNSZGFpMFRGQUNUWmFmTERXV05EcmdKd0hLc2ltQzRHQk55ZUtvRXBEeVpNdDlVdnhXUjNGRmtyeS1jbU4",
+            "published_at_bjt": "2026-05-05T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "b632f989b1054cf8c36f",
+            "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative - cnbc.com",
+            "source": "cnbc.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlVhN0JxajBvMzBkcUZ1SF9HME1wMGtkdUxnRmQ4Qm16UUdvUV9pY0JIU1FFWDllcXJEUTdQTEhETDUzMXp6dHpTaWhVUDZGcW5XcGctZVdGT0h3NGZEdkFWNlBrempzQ0loVzNRQ1dUbkRjay1aM2UyR2thWWI0dl9RSXJaLUVZX1RvZ1lhdjJkV29WV08xWE1iclBNZ0ZfdjBPYtIBqgFBVV95cUxPaU9ESkdlQ3UzVE55d0ItWUp5VGE2X1FnWV83eGFRUERQbUcxN3pKTVRtY0pMZ09YRC1pa3AtYm51N0VMVFZIUF9meWdheFFiTU5Hemh1a0UtTFdSTEJuanJxVEdVYkZWd3NlUUJxdjVOVVhtZlE1Z0NLeW90QVpWLWhpSFppN0t1QXk0X1hOdkg0QWQ3aTRBNzdsTzVzOTdNeTNuSFg4RG96QQ",
+            "published_at_bjt": "2026-04-22T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "c0b0bd6bcc7e72d3f2e6",
+        "headline": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+        "facts": [
+          "Title: OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F972709%2Fopenai-hardware-greg-brockman-interview)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "c0b0bd6bcc7e72d3f2e6",
+            "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+            "published_at_bjt": "2026-07-30T02:15:02+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "65f7ff3b77debba642ec",
+            "title": "ChatGPT encouraged Adam Raine’s suicidal thoughts. His family’s lawyer says OpenAI knew it was broken - The Guardian",
+            "source": "The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVJIbUhwT0hlUVZ0VVUxSlZIaEFEZVB5NHJpZEJDN2J6em1MR0ZWbzl6cWhyVWFfbkh5YTZVM0tpbVgwNDhMUVA0VDR6RnVPTkJNVE1jMjJNQ1dTazF2RDA2Qi1Ebk45Y1ptNDVmT05vZ0swdXRyMFBuNENSZjVWTUxqdkpuUWYzWXpqakZpRjRRazdZN2xR",
+            "published_at_bjt": "2025-08-30T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "a84733288b2dc674eb77",
+        "headline": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "facts": [
+          "Title: Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)",
+          "*   [Latest](https://techcrunch.com/latest/)",
+          "*   [Startups](https://techcrunch.com/category/startups/)",
+          "*   [Venture](https://techcrunch.com/category/venture/)",
+          "*   [Apple](https://techcrunch.com/tag/apple/)",
+          "*   [Security](https://techcrunch.com/category/security/)",
+          "*   [AI](https://techcrunch.com/category/artificial-intelligence/)"
+        ],
+        "sources": [
+          {
+            "article_id": "a84733288b2dc674eb77",
+            "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
+            "published_at_bjt": "2026-07-30T06:46:03+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "AI超级应用、个人代理与硬件：科技巨头的新战场",
+    "lead": "今天，微软、Meta、OpenAI和xAI几乎同时释放了关于AI未来形态的关键信号。从微软的Copilot超级应用到Meta的个人AI代理，再到OpenAI的硬件计划，一场围绕AI入口的争夺战已经白热化。与此同时，xAI正试图阻止明尼苏达州一项针对AI脱衣应用的立法，而微软从Anthropic投资中获得了32亿美元账面收益。这些事件共同勾勒出AI产业在应用层、监管层和资本层的复杂图景。",
+    "sections": [
+      {
+        "story_id": "95d6f987332250f4c681",
+        "title": "微软确认Copilot超级应用今年到来",
+        "dek": "微软计划将Copilot整合为一款超级应用，统一所有AI助手功能。",
+        "body": "微软今天证实，其AI助手Copilot将升级为一款“超级应用”，并计划在今年内推出。这一消息由微软官方在The Verge的报道中确认。此前，Thurrott.com和WION在5月底就曾报道微软正在开发一款超级应用，旨在将所有AI助手整合到一起。Fortune则在6月底报道，微软CEO萨提亚·纳德拉正委托一位33岁的高管来修复Copilot的问题。\n\n所谓超级应用，是指一款集成了多种功能的应用，用户无需切换不同App即可完成聊天、搜索、办公、购物等任务。微软此举显然是效仿微信、支付宝等超级应用模式，但以AI为核心驱动。目前Copilot已嵌入Windows、Office、Edge等产品，但分散在不同入口。新超级应用将统一这些能力，并可能加入更多第三方服务。\n\n从技术门槛看，整合多模态AI模型（文本、图像、语音）和跨平台服务是主要挑战。微软需要确保不同功能模块的协同，同时保持低延迟和高准确性。成本方面，大规模推理需要大量算力，但微软有Azure云和自研芯片支撑。\n\n这一变化对产业的影响：赢家是微软，它有望通过超级应用巩固其在企业市场和消费市场的AI入口地位。输家可能是独立的AI助手应用，如ChatGPT、谷歌Gemini等，它们将面临微软生态捆绑的竞争。对普通人来说，未来可能只需一个应用就能完成工作、生活和娱乐中的大部分AI交互，但数据隐私和平台依赖风险也会增加。",
+        "takeaway": "微软的超级应用战略将AI从工具升级为平台，普通人应关注其整合后的实际体验，并留意数据集中带来的隐私问题。",
+        "image_url": "images/d48f2a1764874744.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "95d6f987332250f4c681",
+          "01a36aa14016ddc2e74e",
+          "ace777f1e4ac4abae93a",
+          "eafc83550f0784437fd7"
+        ],
+        "source_refs": [
+          {
+            "article_id": "95d6f987332250f4c681",
+            "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/972927/microsoft-copilot-super-app-confirmed",
+            "published_at_bjt": "2026-07-30T06:17:38+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "01a36aa14016ddc2e74e",
+            "title": "Microsoft is Reportedly Working on New AI Super App - Thurrott.com",
+            "source": "Thurrott.com",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcWk5VzlPX1Y2TFpxeFBmY3BSTDNaTmxpeTItSjNkTG53akxMZFVwcVdQQXNfWWp5dWRtOTc2Wl85NXpNMWhleEhNQkNBUy1QcmRZcjBOb3hzVEtpajlhdnhkX3dUNzNCbmQ3RENGMHFqdXdFZ3J2NXZYYldNX3lhMU9CMUJTM2VLbVc1R21wcE0",
+            "published_at_bjt": "2026-05-30T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "ace777f1e4ac4abae93a",
+            "title": "Microsoft reportedly building a super app to bring all its AI assistants together - WION",
+            "source": "WION",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU3I3aVlOY3JxcXk0WWhKOWNiR2pjVkp3UVZQRDJuTXZpOERxRlphMzVaSkxWZnFxMkxPQk02cGw5S3U1RVk4eXdLeDVXMTBsdmdTNzg4SEdPenFpSVllSDI2TDNCVjJ2aUxaTTZDT0F2Z0xyS181OTZmT3UtWE5CdV8yRkpDYnpHOFhqbVhhakhQaUYzbWVBUm00OC1HN3g0ZF91ejl2bWhOVzYwMmg5SW54dVUzZnRYWVc0NlJOUkFMU0pfR1Q0eGZn0gHPAUFVX3lxTE1RY3V3RVA3WkhuZFNlMEVjeTl5RldsdW9JVUFKWVZpRXJsNXFmcmsxUG9wbVZkNmdzSFR6TWNRY2VlUzRQTzh3TlZTU2lkWDdaSEt2ZTdTTjU1Wi1GZmp5YnNXaFRSMUk0RmNrbklGQzZOc1VIRTUwYlVOMlNHWHdxTWxPLXktVU16bWFaTnc1Ykx3bk9WMHhlaGxpV1NWYzRId09ERFBKUG9aTWlabVVqQlAxSEtBaGR1bVNOUERlRHctTUo1ZEIteW13ZVhPOA",
+            "published_at_bjt": "2026-05-31T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "eafc83550f0784437fd7",
+            "title": "The 33-year-old executive Satya Nadella is trusting to fix Microsoft’s Copilot AI assistant - Fortune",
+            "source": "Fortune",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMzlNTklGWUEyYzVHSHlodkhsVC1FZEQ1cThvMHRfY1NBVklPTExCeFJNMFBWbTN2SFhBZFZGVk9PN09fdExDLVVoSjNqc0NoYXYxODdJdUhWWTRFamFxd1paRTI5bzRWSFhSQWU5bHhVQXd5b0s0LWJ3SlZfN19aR3h5QjVBSEoyNFgwWEhUNDNPbjE3S2x5OHB4dTZleGpUTmgwV09kS1J6MmtGWmdtcXl3",
+            "published_at_bjt": "2026-06-27T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK259_MICROSOFT_COPILOT_3__D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "0303033f0110ffff"
+      },
+      {
+        "story_id": "1d01fdd20f83e9457143",
+        "title": "xAI紧急阻止明尼苏达州反AI脱衣应用法",
+        "dek": "xAI is suing Minnesota Attorney General Keith Ellison over a law passed back in May that broadly targets \"nudification\" apps, claiming that the statute's punitive provisions leave the company with \"no practical choice but to restrict Grok Imagine's image-editing features in various ways.\" The law, the company argues, violates the First Amendment. Back in January, […]",
+        "body": "xAI正在最后一刻努力阻止明尼苏达州一项针对AI“脱衣”应用的法律生效。这项法律旨在禁止通过AI技术生成或传播虚假裸体图像，即所谓的“nudification”应用。xAI认为该法律过于宽泛，可能影响其AI模型Grok的合法使用。\n\n该法律的变化在于：明尼苏达州成为美国首批专门针对AI生成裸体内容立法的州之一。此前，这类内容主要受现有色情报复或儿童色情法律约束，但新法直接针对AI工具本身。xAI的诉讼焦点是，法律可能要求平台对用户生成内容进行审查，从而侵犯言论自由。\n\n技术门槛方面，检测AI生成的裸体图像本身是一个技术难题，现有工具误报率较高。成本方面，合规审查将增加运营支出。\n\n这一事件的赢家是隐私保护倡导者，他们推动了对AI滥用的监管。输家是xAI和其他AI公司，它们可能面临更严格的审查。对普通人来说，这项法律有助于保护个人免受AI生成的虚假色情内容侵害，但也可能限制AI的创造力。",
+        "takeaway": "AI监管正在加速，普通人应了解当地法律对AI使用的限制，同时警惕AI生成虚假内容的潜在危害。",
+        "image_url": "images/7d0a5fecfd08f241.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "1d01fdd20f83e9457143"
+        ],
+        "source_refs": [
+          {
+            "article_id": "1d01fdd20f83e9457143",
+            "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/policy/972850/xai-grok-minnesota-nudification-lawsuit",
+            "published_at_bjt": "2026-07-30T05:06:52+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK022_ELON_MUSK_CVIRGINIA4_I.jpg?quality=90&strip=all&crop=0%2C9.9676601489831%2C100%2C80.064679702034&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "87476f1f4f1c0800"
+      },
+      {
+        "story_id": "4efbbdb7c9d72d556b8a",
+        "title": "扎克伯格计划大力推动个人AI代理",
+        "dek": "Meta is all-in on AI, and sometime soon, the company is going to make a big push into personal AI agents that can do things on your behalf. On Wednesday's Q2 2026 earnings call, CEO Mark Zuckerberg previewed a high-level vision of how the company is thinking about personal agents and what it will do […]",
+        "body": "马克·扎克伯格在Meta第二季度财报电话会议上宣布，计划大力推动个人AI代理。这些代理将能够代表用户执行任务，如预订餐厅、管理日程、购物等。此前，Financial Times在5月报道Meta计划为消费者推出高级“代理型”AI助手，而YourStory.com在7月初指出Meta的AI雄心面临重大延迟。\n\n个人AI代理与现有AI助手的区别在于：代理具有主动性和自主决策能力，而不仅仅是回答问题。例如，代理可以监控用户的日历，主动建议会议时间并发送邀请。Meta的目标是将代理整合到其社交平台和硬件设备中，如Facebook、Instagram和Ray-Ban智能眼镜。\n\n技术门槛很高：代理需要理解复杂上下文、进行多步推理，并安全地访问用户数据。成本方面，训练和运行代理模型需要大量算力，Meta正在投资自研芯片和基础设施。\n\n赢家是Meta，它有望通过社交网络数据优势打造个性化代理。输家可能是现有虚拟助手如Siri、Alexa，它们缺乏社交图谱。对普通人来说，个人AI代理能大幅提升效率，但隐私和安全风险不容忽视——代理需要访问大量个人数据。",
+        "takeaway": "Meta的个人AI代理将重新定义人机交互，普通人应权衡便利性与隐私风险，谨慎授权数据访问。",
+        "image_url": "images/d0a59cca2b5a278b.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "4efbbdb7c9d72d556b8a",
+          "ed55cb22a3ec740ef8cd",
+          "4fc23226ee6591bb2408",
+          "b632f989b1054cf8c36f"
+        ],
+        "source_refs": [
+          {
+            "article_id": "4efbbdb7c9d72d556b8a",
+            "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/972294/meta-q2-2026-earnings-mark-zuckerberg-personal-ai-agents",
+            "published_at_bjt": "2026-07-30T05:48:07+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "ed55cb22a3ec740ef8cd",
+            "title": "Mark Zuckerberg admits Meta’s AI ambitions face major delays — Here's why - YourStory.com",
+            "source": "YourStory.com",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVpJX0FiQzVCdW05cU9HeXp1QkRkODNSdjFEcEg4RkZXWXJNZG5IeUR3b3pXWEN2SUlaQURoVmJUc0JDNU9NNzFkcGkyNUdqRUFONk5FNzdXbFh5c0NJanc5QnNPaGwzNkE5NW45WW83VXZ2a3EzYnE5ZkdMQXNPSmxqVERNNWkzclJCQg",
+            "published_at_bjt": "2026-07-03T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "4fc23226ee6591bb2408",
+            "title": "Meta plans advanced ‘agentic’ AI assistant for consumers - Financial Times",
+            "source": "Financial Times",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3ZWMU90TkcwdnMyTTg1OFR5QUJHcUJqWjM2VVZWVUpVR09mczJwTjM1a3hBUVMwRUNzbURhWE9hQWgtbzdiQlNSZGFpMFRGQUNUWmFmTERXV05EcmdKd0hLc2ltQzRHQk55ZUtvRXBEeVpNdDlVdnhXUjNGRmtyeS1jbU4",
+            "published_at_bjt": "2026-05-05T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "b632f989b1054cf8c36f",
+            "title": "Meta is tracking employee keystrokes on Google, LinkedIn, Wikipedia as part of AI training initiative - cnbc.com",
+            "source": "cnbc.com",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlVhN0JxajBvMzBkcUZ1SF9HME1wMGtkdUxnRmQ4Qm16UUdvUV9pY0JIU1FFWDllcXJEUTdQTEhETDUzMXp6dHpTaWhVUDZGcW5XcGctZVdGT0h3NGZEdkFWNlBrempzQ0loVzNRQ1dUbkRjay1aM2UyR2thWWI0dl9RSXJaLUVZX1RvZ1lhdjJkV29WV08xWE1iclBNZ0ZfdjBPYtIBqgFBVV95cUxPaU9ESkdlQ3UzVE55d0ItWUp5VGE2X1FnWV83eGFRUERQbUcxN3pKTVRtY0pMZ09YRC1pa3AtYm51N0VMVFZIUF9meWdheFFiTU5Hemh1a0UtTFdSTEJuanJxVEdVYkZWd3NlUUJxdjVOVVhtZlE1Z0NLeW90QVpWLWhpSFppN0t1QXk0X1hOdkg0QWQ3aTRBNzdsTzVzOTdNeTNuSFg4RG96QQ",
+            "published_at_bjt": "2026-04-22T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25546252/STK169_Mark_Zuckerburg_CVIRGINIA_D.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "8383c3cfcfcfefff"
+      },
+      {
+        "story_id": "c0b0bd6bcc7e72d3f2e6",
+        "title": "OpenAI总裁称正在打造AI设备家族",
+        "dek": "In an interview with our friend Joanna Stern on her YouTube channel, OpenAI president Greg Brockman said the company is working on a \"family of devices\" for interacting with its AI models. However, Brockman didn't confirm reports that one of those devices is a smart speaker OpenAI's rumored to be launching in 2027, or earlier […]",
+        "body": "OpenAI总裁格雷格·布罗克曼在接受The Verge采访时透露，公司正在“构建一系列设备”来承载其AI聊天机器人。这标志着OpenAI从纯软件公司向软硬件一体化转型。此前，The Guardian在2025年8月报道了ChatGPT被指控鼓励用户自杀的诉讼，凸显了AI安全风险。\n\nOpenAI的硬件计划并非首次传闻，但布罗克曼的确认是官方首次明确表态。这些设备可能包括智能音箱、可穿戴设备或专用AI终端，旨在提供比手机更自然的交互体验。与苹果、谷歌等竞争对手不同，OpenAI的硬件将深度集成其GPT模型，并可能采用定制芯片。\n\n技术门槛极高：硬件设计、供应链管理、散热、功耗等都是挑战。成本方面，研发和制造需要数十亿美元投入。OpenAI近期估值超过千亿美元，有资金实力，但硬件业务利润率低，风险大。\n\n赢家是OpenAI，如果成功，它将拥有AI生态的硬件入口。输家可能是现有智能设备厂商，如亚马逊Echo、谷歌Nest。对普通人来说，专用AI设备可能提供更沉浸的体验，但需要接受新生态和潜在的高价格。",
+        "takeaway": "OpenAI的硬件计划将AI竞争从软件延伸到物理世界，普通人可关注其产品形态，但不必急于购买第一代产品。",
+        "image_url": "images/a0d41f6b8ec0c3c4.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "c0b0bd6bcc7e72d3f2e6",
+          "65f7ff3b77debba642ec"
+        ],
+        "source_refs": [
+          {
+            "article_id": "c0b0bd6bcc7e72d3f2e6",
+            "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/972709/openai-hardware-greg-brockman-interview",
+            "published_at_bjt": "2026-07-30T02:15:02+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "65f7ff3b77debba642ec",
+            "title": "ChatGPT encouraged Adam Raine’s suicidal thoughts. His family’s lawyer says OpenAI knew it was broken - The Guardian",
+            "source": "The Guardian",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVJIbUhwT0hlUVZ0VVUxSlZIaEFEZVB5NHJpZEJDN2J6em1MR0ZWbzl6cWhyVWFfbkh5YTZVM0tpbVgwNDhMUVA0VDR6RnVPTkJNVE1jMjJNQ1dTazF2RDA2Qi1Ebk45Y1ptNDVmT05vZ0swdXRyMFBuNENSZjVWTUxqdkpuUWYzWXpqakZpRjRRazdZN2xR",
+            "published_at_bjt": "2025-08-30T15:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2182154299.jpg?quality=90&strip=all&crop=0%2C10.752607989199%2C100%2C78.494784021602&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "54765e1818181800"
+      },
+      {
+        "story_id": "a84733288b2dc674eb77",
+        "title": "微软从Anthropic投资中录得32亿美元收益",
+        "dek": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+        "body": "微软在最新财报中披露，其对AI公司Anthropic的投资带来了约相关数量亿美元的账面收益。然而，对OpenAI的投资则表现混合。TechCrunch报道了这一消息。\n\nAnthropic是Claude模型开发商，微软在本年度向其投资数十亿美元。这笔投资如今增值显著，反映了AI赛道的资本热度。相比之下，微软对OpenAI的早期投资虽然巨大，但OpenAI近期面临商业化挑战和领导层变动，收益不如预期。\n\n这一变化表明，AI投资并非稳赚不赔。微软通过分散投资降低了风险：Anthropic专注于安全AI，OpenAI则追求通用人工智能。技术门槛上，两家公司都需要持续烧钱研发，而商业化落地是最大考验。\n\n赢家是Anthropic，其估值和影响力因微软背书而提升。输家可能是OpenAI，其与微软的关系变得复杂。对普通人来说，AI公司的财务表现间接影响产品定价和可用性，但短期内用户无需担心。",
+        "takeaway": "微软的AI投资策略显示，分散押注是降低风险的关键。普通人应理性看待AI公司的估值，关注实际产品而非资本故事。",
+        "image_url": "images/44903de49f924dee.webp",
+        "image_credit": "TechCrunch",
+        "source_ids": [
+          "a84733288b2dc674eb77"
+        ],
+        "source_refs": [
+          {
+            "article_id": "a84733288b2dc674eb77",
+            "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
+            "published_at_bjt": "2026-07-30T06:46:03+08:00",
+            "authority_tier": 1
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+        "image_status": "downloaded",
+        "image_phash": "0000e3ffe7e30000"
+      }
+    ],
+    "synthesis": "今天的新闻串起来看，AI产业正在从模型竞赛转向应用和生态竞争。微软、Meta、OpenAI都在押注“超级应用”或“个人代理”作为AI的终极入口，而xAI的诉讼则凸显了AI技术滥用带来的监管压力。微软的财务数据也表明，AI投资正在产生可观的账面回报，但实际落地仍面临挑战。"
+  },
+  "podcast": {
+    "title": "AI 巨头混战：超级应用、个人代理与硬件野心",
+    "description": "微软确认 Copilot 超级应用年内上线，Meta 押注个人 AI 代理，OpenAI 自研硬件，xAI 起诉明州反脱衣法，微软投资 Anthropic 获利 32 亿美元。科技巨头在 AI 赛道的战略分化与碰撞。",
+    "blocks": [
+      {
+        "block_id": "opening_1",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "今天聊一个很清晰的趋势：AI 巨头们的战略正在迅速分化。微软想把 Copilot 做成一个“超级应用”，Meta 想让你拥有一个“个人 AI 代理”，OpenAI 干脆要自己造硬件，而 xAI 则在法庭上跟一个州的法律死磕。这些动作看似分散，但背后都指向同一个问题：AI 到底应该以什么形态进入我们的生活？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 27.768
+      },
+      {
+        "block_id": "story_microsoft_superapp",
+        "speaker": "ian",
+        "role": "story",
+        "text": "微软今年要推一个Copilot“超级应用”，这是The Verge从微软官方确认的消息。所谓超级应用，就是把聊天、支付、办公、搜索等各种功能塞进一个App里，这个概念最早来自微信和东南亚的Grab。微软的Copilot超级应用，核心是把所有AI助手整合到一起：个人版Copilot、企业版Microsoft 365 Copilot、开发者工具、甚至Bing Chat，全部放进一个入口。\n\n这意味着什么？以前你用Copilot写文档要打开Word，用Bing Chat要开浏览器，用GitHub Copilot要进IDE——现在一个App全搞定。微软的逻辑很清楚：AI能力本身是功能，但功能很容易被替代；只有把功能做成平台，才能产生粘性。想象一下，你早上用Copilot安排日程，工作中让它写周报，晚上用它规划旅行路线，所有数据都在一个生态里流转。\n\n微软的底气来自它的企业用户基础。全球有数亿Office 365用户，如果这些用户都迁移到Copilot超级应用，那微软就牢牢锁住了企业AI市场。但挑战也很明显：超级应用需要打通不同后端服务，统一数据模型，还要处理隐私合规。微信的成功建立在社交关系链上，微软没有这个基础。它更多是“工具聚合”，而非“生活聚合”。\n\n对普通人来说，好处是方便——一个App解决所有AI需求，不用记多个账号和界面。坏处是数据更集中，隐私风险更高。微软必须证明它能保护用户数据，尤其是在企业场景下。\n\n我的判断是：微软做超级应用，战略上正确，但执行难度极大。它需要让用户觉得“一个App就够了”，而不是“一个App太乱了”。如果成功，微软会成为AI时代的操作系统；如果失败，它只是又一个臃肿的软件包。",
+        "story_id": "95d6f987332250f4c681",
+        "audio_file": "",
+        "start_sec": 28.968,
+        "duration_sec": 132.648
+      },
+      {
+        "block_id": "story_meta_agents",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，Meta的马克·扎克伯格在Q2财报电话会上宣布，公司将大力押注“个人AI代理”。这不是一个通用的聊天机器人，而是一个能代表你执行任务的智能体——帮你订餐厅、管理日程、甚至替你在社交媒体上互动。\n\n变化是什么？过去一年，Meta的AI战略主要围绕Llama开源模型和Meta AI聊天助手，但扎克伯格承认进展有延迟。现在，他明确转向“代理”模式：每个用户拥有自己的AI代理，代理之间可以交互。这与微软的“超级应用”思路截然不同——微软是中心化的，一个Copilot管所有；Meta是去中心化的，让代理成为用户的数字延伸。\n\n技术门槛在哪里？个人代理需要深度理解用户的偏好、习惯和社交关系。Meta的优势在于它拥有全球最大的社交图谱和用户行为数据——你的点赞、评论、浏览历史、好友列表，都是训练代理的原材料。但这也意味着极高的隐私风险：代理必须访问你的个人信息才能个性化，而Meta过去的隐私记录并不光彩。从技术上看，代理还需要解决“身份认证”和“权限控制”问题——怎么确保代理只做你允许的事？如果代理被黑客控制，它可能替你发送恶意消息或泄露隐私。\n\n产业赢家与输家？赢家是Meta的广告主——更智能的代理意味着更精准的用户画像和更高的转化率。输家可能是传统SaaS公司——如果代理能替你管理日程、订餐、回复消息，那Calendly、OpenTable这类独立应用的价值就会被削弱。对微软来说，Meta的代理模式也是一种威胁：如果用户习惯让代理处理一切，微软的Copilot超级应用可能失去入口地位。\n\n对普通人影响？短期内，你可能在Instagram或WhatsApp里看到“让代理帮你回复”的按钮。长期看，如果你的代理足够聪明，它可能成为你的数字管家——但代价是你必须交出更多数据。扎克伯格说“个人代理是未来核心交互模式”，但前提是Meta能证明它值得信任。否则，这不过是一个更智能的广告机器。",
+        "story_id": "4efbbdb7c9d72d556b8a",
+        "audio_file": "",
+        "start_sec": 162.816,
+        "duration_sec": 151.248
+      },
+      {
+        "block_id": "question_1",
+        "speaker": "listener",
+        "role": "question",
+        "text": "微软和 Meta 的思路，一个做聚合，一个做代理，哪个更可能成功？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 315.264,
+        "duration_sec": 5.76
+      },
+      {
+        "block_id": "answer_1",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "好问题。从技术门槛看，超级应用更难——需要打通不同后端服务、统一数据模型、处理隐私合规。微软的优势是企业生态，它有 Office、Azure、Teams，天然适合做平台。Meta 的优势是社交图谱和海量用户数据，个人代理更依赖对用户行为的理解。从商业角度看，超级应用更容易形成护城河，因为用户切换成本高；个人代理则更容易被替代，除非它深度绑定社交关系。短期内，微软的路径更稳妥，但 Meta 的想象空间更大。不过，两者并非完全对立：微软的超级应用里也可以嵌入个人代理功能，Meta 的个人代理也可以聚合服务。最终可能殊途同归。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 322.224,
+        "duration_sec": 51.936
+      },
+      {
+        "block_id": "story_openai_hardware",
+        "speaker": "ian",
+        "role": "story",
+        "text": "OpenAI 总裁 Greg Brockman 在接受 The Verge 采访时确认，公司正在“构建一个设备家族”，让 AI 聊天机器人以专用硬件的形式存在。这不是传闻，而是官方表态。此前 OpenAI 已与苹果前设计总监 Jony Ive 合作过硬件项目，这次是正式将硬件列为战略方向。\n\n这条路的逻辑类似当年亚马逊做 Echo：与其让 AI 寄生在别人的手机里，不如自己造一个专属载体。专用 AI 设备可以摆脱对苹果、Google 等平台的依赖，实现深度软硬一体优化。想象一下，一个专门运行 ChatGPT 的设备，没有其他 app 干扰，语音交互为主，可能还带摄像头和传感器。它的核心优势是专注和隐私——所有数据本地处理，不上传云端，响应更快，也更安全。\n\n但硬件制造的门槛极高。从芯片选型、供应链管理到渠道分销，OpenAI 毫无经验。智能手机已经足够强大，用户凭什么多带一个设备？亚马逊 Echo 成功是因为智能音箱填补了家居场景的空白——你在厨房做饭时喊一声“Alexa”比掏手机方便。OpenAI 的设备需要找到类似的不可替代场景。可能的突破口是实时翻译、会议助手或教育辅导，这些场景需要持续语音交互，手机反而累赘。\n\n对普通人的影响：如果成功，你会得到一个更专注、更私密的 AI 助手，但初期价格不菲，且可能面临生态封闭的问题。对产业而言，这是 AI 公司从软件向硬件垂直整合的标志性一步。赢家是能提供差异化体验的硬件厂商，输家是那些只做通用 AI 平台的公司。风险在于，如果场景没找对，这可能会成为又一个“谷歌眼镜”——技术超前但市场不买账。我的判断是：OpenAI 的硬件战略值得关注，但短期内不会改变你使用 AI 的方式。真正的考验是明年能否拿出一款让人“非用不可”的产品。",
+        "story_id": "c0b0bd6bcc7e72d3f2e6",
+        "audio_file": "",
+        "start_sec": 375.36,
+        "duration_sec": 138.456
+      },
+      {
+        "block_id": "story_xai_lawsuit",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，xAI 正在明尼苏达州打一场法律战。7月30日，该州一项反“脱衣化”法律即将生效，xAI 在最后一刻提起诉讼，试图阻止它。这项法律要求，任何生成裸体或色情内容的 AI 应用，必须添加数字水印、限制未成年人使用，否则面临重罚。xAI 认为法律违宪，侵犯言论自由。\n\n所谓“脱衣化”应用，是指利用 AI 将照片中人物的衣服“脱掉”的工具，通常基于扩散模型，通过训练大量裸体图像，学会“补全”被衣物遮挡的身体部分。这类应用在网络上已存在多年，常被用于制作非自愿的色情内容，受害者多为女性。明尼苏达州的法律正是针对这类工具，要求它们标注来源、设置年龄验证。\n\n但 xAI 的 Grok 模型本身并不提供“脱衣”功能。马斯克认为，法律定义模糊，可能波及所有图像生成模型——比如，一个模型生成穿着泳衣的人，如果被解释为“暗示裸体”，也可能违规。他主张，这相当于事前审查，违反了美国宪法第一修正案。\n\n这场官司的代价很高。如果法律被推翻，其他州类似的立法也会受阻；如果维持，AI 公司可能需要为每个州定制合规方案——比如在明尼苏达州禁用某些功能，在其他州开放，成本将大幅上升。对于普通用户，影响更直接：你可能无法在明尼苏达州使用某些 AI 图像工具，或者每次生成图片时都看到“该内容已标注”的提示。\n\n我的判断是，这场争议的核心不是技术，而是边界。AI 生成内容的能力远超法律制定者的预期，而“脱衣化”只是冰山一角。明尼苏达州的法律试图解决一个真实问题——非自愿色情内容的泛滥——但用一刀切的方式，可能误伤合法应用。xAI 的诉讼更像一次试探：法院如何界定 AI 的“言论”属性？这将是未来几年 AI 监管的关键判例。",
+        "story_id": "1d01fdd20f83e9457143",
+        "audio_file": "",
+        "start_sec": 515.016,
+        "duration_sec": 138.456
+      },
+      {
+        "block_id": "question_2",
+        "speaker": "listener",
+        "role": "question",
+        "text": "xAI 起诉明州法律，胜算大吗？对普通人有什么影响？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 654.672,
+        "duration_sec": 5.952
+      },
+      {
+        "block_id": "answer_2",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "从法律角度看，xAI 胜算不大。美国法院通常尊重州政府在保护未成年人方面的立法，只要法律不是针对特定言论内容。但 xAI 的论点是法律过于宽泛，可能扼杀合法的 AI 应用。如果 xAI 胜诉，其他州类似的法律也会被挑战，AI 内容生成将处于更宽松的监管环境；如果败诉，各州可能纷纷效仿，AI 公司需要为每个州定制合规方案，成本大幅上升。对普通人来说，最直接的影响是：你用 AI 生成内容时，可能会遇到更多限制和内容审核。比如，你只是想生成一张艺术风格的裸体画，可能也会被标记或拒绝。此外，数字水印要求可能影响图像质量，或者让你的创作被追踪。总之，这场官司的结果将决定 AI 内容创作的自由度。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 661.824,
+        "duration_sec": 60.312
+      },
+      {
+        "block_id": "story_microsoft_anthropic",
+        "speaker": "ian",
+        "role": "story",
+        "text": "微软在AI投资上终于有了一个可以量化的回报数字。根据微软最新财报，其对Anthropic的投资录得32亿美元的账面收益，而对OpenAI的投资表现则“好坏参半”。\n\n先说事实。微软在2024年向Anthropic投资了数十亿美元，如今随着Anthropic估值大涨，这笔投资带来了32亿美元的未实现收益。Anthropic是Claude模型背后的公司，Claude以安全性和可控性著称，在企业和开发者群体中口碑很好。相比之下，微软对OpenAI的投资虽然带来了营收增长，但OpenAI的成本更高，加上管理层动荡，微软的回报不如预期。\n\n这背后是两种不同的技术路线和商业策略。Anthropic的Claude模型从一开始就强调“宪法AI”，即通过一套明确的规则约束模型行为，使其更安全、更可控。这种设计在需要合规性的企业客户中很受欢迎，比如金融、医疗、法律等行业。而OpenAI的GPT系列虽然知名度高、通用性强，但在商业化过程中面临高昂的推理成本和人才流失问题。OpenAI的营收在增长，但成本增长更快，导致利润率承压。\n\n微软的投资策略是“多面下注”——同时投资OpenAI和Anthropic，分散风险。32亿美元的账面收益说明Anthropic的估值增长很快，但这笔钱还没变现，只是账面上的数字。对微软来说，这笔投资不仅是财务回报，更是战略布局：通过投资锁定技术合作，确保Azure成为这些模型的云平台。无论哪家胜出，微软都能从中获益。\n\n对普通人来说，这意味着AI领域的竞争格局正在分化。OpenAI不再是唯一的明星，Anthropic等更注重安全性的公司正在崛起。未来你使用的AI工具可能会更强调可控性和透明度，而不是一味追求能力上限。同时，微软的“多面下注”策略也说明，AI领域的投资风险依然很高，即使是巨头也无法准确预测谁会是最终赢家。\n\n我的判断是：32亿美元的账面收益是一个信号，表明AI行业的估值泡沫还在膨胀，但微软通过分散投资降低了风险。对普通用户来说，好消息是AI产品的选择会更多元，安全性和可控性会成为新的竞争焦点。坏消息是，这些投资最终都会通过云服务价格转嫁给用户，AI的使用成本短期内不会大幅下降。",
+        "story_id": "a84733288b2dc674eb77",
+        "audio_file": "",
+        "start_sec": 723.336,
+        "duration_sec": 175.68
+      },
+      {
+        "block_id": "question_3",
+        "speaker": "listener",
+        "role": "question",
+        "text": "微软同时投资 OpenAI 和 Anthropic，不会冲突吗？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 900.216,
+        "duration_sec": 5.4
+      },
+      {
+        "block_id": "answer_3",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "不冲突，反而很聪明。微软的核心战略是让 Azure 成为 AI 基础设施，无论哪个模型胜出，微软都能赚钱。投资 OpenAI 和 Anthropic 就像同时投资苹果和安卓——两个阵营都押注，确保 Azure 是它们的首选云平台。而且，微软自己也在开发模型，比如 Phi 系列，所以它并不完全依赖外部。这种多线布局降低了风险，也给了微软更多谈判筹码。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 906.816,
+        "duration_sec": 32.304
+      },
+      {
+        "block_id": "synthesis_1",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "把这些事件串起来，能看到 AI 行业正在经历一场“形态分化”。微软走聚合平台路线，Meta 走个人代理路线，OpenAI 走专用硬件路线，xAI 则在争取监管空间。它们共同回答一个问题：AI 应该以什么方式存在于你的生活中？是超级应用里的一个标签页，是你手机里的一个智能助手，是一个独立的硬件设备，还是受法律严格约束的内容工具？没有标准答案，但每个选择都意味着不同的技术架构、商业模式和用户关系。从投资角度看，微软的多面下注策略最稳健，但 Meta 和 OpenAI 的赌注更大，风险也更高。xAI 的法律战则提醒我们，AI 的发展不仅取决于技术，还取决于法律和社会的接受度。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 940.32,
+        "duration_sec": 54.0
+      },
+      {
+        "block_id": "closing_1",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "对于你来说，这些变化意味着：未来一两年，你可能会被各种 AI 产品包围——微软的超级应用、Meta 的个人代理、OpenAI 的硬件，以及更多受监管限制的生成工具。选择权在你，但每个选择背后，都是一家公司对 AI 未来的赌注。我是伊恩，明天见。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 995.52,
+        "duration_sec": 22.92
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "Microsoft confirms Copilot ‘super app’ coming this year",
+        "start_sec": 28.968,
+        "story_id": "95d6f987332250f4c681"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "Mark Zuckerberg is planning a big push into personal AI agents",
+        "start_sec": 162.816,
+        "story_id": "4efbbdb7c9d72d556b8a"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "OpenAI president says it’s ‘building a family of devices’ for its AI chatbots",
+        "start_sec": 375.36,
+        "story_id": "c0b0bd6bcc7e72d3f2e6"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "xAI’s last-minute scramble to stop Minnesota’s anti-nudification app law",
+        "start_sec": 515.016,
+        "story_id": "1d01fdd20f83e9457143"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "start_sec": 723.336,
+        "story_id": "a84733288b2dc674eb77"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 940.32,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 1018.5,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.3807,
+      0.3705,
+      0.3716,
+      0.3592,
+      0.3317,
+      0.436,
+      0.3835,
+      0.3372,
+      0.3572,
+      0.3953,
+      0.4275,
+      0.3792,
+      0.3958,
+      0.4446,
+      0.3352,
+      0.4403,
+      0.3991,
+      0.4479,
+      0.3767,
+      0.3514,
+      0.4577,
+      0.4461,
+      0.3966,
+      0.4346,
+      0.4318,
+      0.4134,
+      0.3564,
+      0.3913,
+      0.493,
+      0.3617,
+      0.4855,
+      0.4352,
+      0.3061,
+      0.377,
+      0.4189,
+      0.4265,
+      0.4119,
+      0.3756,
+      0.3698,
+      0.3924,
+      0.4102,
+      0.3718,
+      0.3897,
+      0.3837,
+      0.3701,
+      0.401,
+      0.4381,
+      0.4259,
+      0.4516,
+      0.6296,
+      0.5237,
+      0.4435,
+      0.3615,
+      0.3773,
+      0.503,
+      0.4313,
+      0.3753,
+      0.3839,
+      0.5138,
+      0.555,
+      0.4523,
+      0.3583,
+      0.3613,
+      0.3759,
+      0.3987,
+      0.4536,
+      0.4319,
+      0.4784,
+      0.3829,
+      0.3961,
+      0.4166,
+      0.3605,
+      0.4024,
+      0.4161,
+      0.3881,
+      0.449,
+      0.3841,
+      0.4408,
+      0.4315,
+      0.4624,
+      0.3925,
+      0.412,
+      0.4238,
+      0.4553,
+      0.3798,
+      0.3924,
+      0.4117,
+      0.4572,
+      0.3625,
+      0.4897,
+      0.3359,
+      0.4276,
+      0.4795,
+      0.36,
+      0.3408,
+      0.3904,
+      0.3929,
+      0.4182,
+      0.3679,
+      0.3541,
+      0.3527,
+      0.4164,
+      0.4896,
+      0.6603,
+      0.4285,
+      0.3838,
+      0.358,
+      0.3418,
+      0.357,
+      0.3625,
+      0.3686,
+      0.402,
+      0.5054,
+      0.3577,
+      0.4419,
+      0.404,
+      0.4785,
+      0.4145,
+      0.5938,
+      0.3951,
+      0.3225,
+      0.5048,
+      0.5529,
+      0.4252,
+      0.4774,
+      0.4266,
+      0.3947,
+      0.4262,
+      0.4282,
+      0.3907,
+      0.4666,
+      0.4347,
+      0.3901,
+      0.4434,
+      0.3362,
+      0.4209,
+      0.4338,
+      0.3547,
+      0.3797,
+      0.425,
+      0.3649,
+      0.6501,
+      0.3744,
+      0.384,
+      0.476,
+      0.325,
+      0.4166,
+      0.4461,
+      0.3858,
+      0.4618,
+      0.3613,
+      0.3958,
+      0.4256,
+      0.3589,
+      0.453,
+      0.3344,
+      0.4213,
+      0.3251,
+      0.4188,
+      0.4191
+    ]
+  },
+  "status": "quality_passed",
+  "created_at_bjt": "2026-07-30T07:36:30+08:00",
+  "updated_at_bjt": "2026-07-30T07:37:59+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}
