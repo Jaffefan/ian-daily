@@ -3,7 +3,7 @@
   "channels": {
     "tech": {
       "attempts": 1,
-      "status": "quality_passed",
+      "status": "published",
       "stages": {
         "preflight": {
           "status": "completed",
@@ -53,11 +53,11 @@
       },
       "errors": [],
       "episode_id": "2026-07-29-tech",
-      "updated_at_bjt": "2026-07-29T07:36:54+08:00"
+      "updated_at_bjt": "2026-07-29T12:14:09+08:00"
     },
     "education": {
       "attempts": 1,
-      "status": "quality_passed",
+      "status": "published",
       "stages": {
         "preflight": {
           "status": "completed",
@@ -107,7 +107,7 @@
       },
       "errors": [],
       "episode_id": "2026-07-29-education",
-      "updated_at_bjt": "2026-07-29T07:42:48+08:00"
+      "updated_at_bjt": "2026-07-29T12:14:09+08:00"
     },
     "sports": {
       "attempts": 2,
@@ -170,6 +170,53 @@
   "notifications": {
     "generation:sports": "2026-07-29T08:12:53+08:00"
   },
-  "release": {},
-  "updated_at_bjt": "2026-07-29T08:12:53+08:00"
+  "release": {
+    "education": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-07-29-education",
+          "at_bjt": "2026-07-29T12:13:06+08:00"
+        },
+        "verified": {
+          "detail": "2026-07-29-education",
+          "at_bjt": "2026-07-29T12:14:07+08:00"
+        },
+        "feishu_notified": {
+          "detail": "2026-07-29-education",
+          "at_bjt": "2026-07-29T12:14:09+08:00"
+        },
+        "published": {
+          "detail": "2026-07-29-education",
+          "at_bjt": "2026-07-29T12:14:09+08:00"
+        }
+      },
+      "detail": "2026-07-29-education",
+      "at_bjt": "2026-07-29T12:14:09+08:00"
+    },
+    "tech": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-07-29-tech",
+          "at_bjt": "2026-07-29T12:13:06+08:00"
+        },
+        "verified": {
+          "detail": "2026-07-29-tech",
+          "at_bjt": "2026-07-29T12:14:07+08:00"
+        },
+        "feishu_notified": {
+          "detail": "2026-07-29-tech",
+          "at_bjt": "2026-07-29T12:14:09+08:00"
+        },
+        "published": {
+          "detail": "2026-07-29-tech",
+          "at_bjt": "2026-07-29T12:14:09+08:00"
+        }
+      },
+      "detail": "2026-07-29-tech",
+      "at_bjt": "2026-07-29T12:14:09+08:00"
+    }
+  },
+  "updated_at_bjt": "2026-07-29T12:14:09+08:00"
 }
