@@ -1,0 +1,14 @@
+{
+  "episode_id": "2026-07-31-sports",
+  "publishable": true,
+  "story_count": 5,
+  "source_count": 10,
+  "domestic_count": 3,
+  "reading_chars": 2863,
+  "podcast_chars": 4482,
+  "audio_duration_sec": 886.9,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.028,
+  "errors": [],
+  "warnings": []
+}

@@ -1,0 +1,14 @@
+{
+  "episode_id": "2026-07-31-tech",
+  "publishable": true,
+  "story_count": 5,
+  "source_count": 17,
+  "domestic_count": 0,
+  "reading_chars": 2426,
+  "podcast_chars": 4310,
+  "audio_duration_sec": 860.0,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.05,
+  "errors": [],
+  "warnings": []
+}

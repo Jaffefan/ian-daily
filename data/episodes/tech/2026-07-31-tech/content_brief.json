@@ -1,0 +1,240 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-07-31",
+  "stories": [
+    {
+      "story_id": "7e27e30e057a78c390be",
+      "headline": "Tim Cook hints at iCloud Plus tier for AI power users",
+      "facts": [
+        "Title: Tim Cook hints at iCloud Plus tier for AI power users",
+        "[Skip to main content](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F973552%2Fapple-ceo-tim-cook-icloud-plus-ai)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F973552%2Fapple-ceo-tim-cook-icloud-plus-ai)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "7e27e30e057a78c390be",
+          "title": "Tim Cook hints at iCloud Plus tier for AI power users",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/973552/apple-ceo-tim-cook-icloud-plus-ai",
+          "published_at_bjt": "2026-07-31T06:29:45+08:00",
+          "authority_tier": 1
+        }
+      ]
+    },
+    {
+      "story_id": "59d1112174bf62f0aa5a",
+      "headline": "Google DeepMind’s new AI model can control a robot’s entire body",
+      "facts": [
+        "Title: Google DeepMind’s new AI model can control a robot’s entire body",
+        "[Skip to main content](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F973276%2Fgoogle-deepmind-gemini-robotics-2-whole-body)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F973276%2Fgoogle-deepmind-gemini-robotics-2-whole-body)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "59d1112174bf62f0aa5a",
+          "title": "Google DeepMind’s new AI model can control a robot’s entire body",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body",
+          "published_at_bjt": "2026-07-31T01:18:45+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "a8728edbe04a919d3579",
+          "title": "Google DeepMind Ships Three Physical AI Models For Whole Body Control, Dexterity And Multi Robot Collaboration - MarkTechPost",
+          "source": "MarkTechPost",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdExRZGsyZExSU09FNjhneVdreHVFdGFUaC1pdGxEbUxJN3hydzdJSGtxOW5LUU15WWYxWVNUV19vc3k4azZ1M2Z2VHpJN1JZWGprMkMzY3I1ZWxmZGFua1JTRS1QbmQzSkxaWklIeVhZd2c2emZNaEZlbU9Vc3JUU3BWUVlWR3oxZXpJTVZIVlhVMmxFejZQeWZReExyU2xtR1lRMi10VEJoTEwtU2xpZklhNEtyLU83S20yNWI0cG41ZmNGRENuN9IBzgFBVV95cUxQOVFWS1V0UUprM2FXMEk3YUQ0Zmd4al96bWJsb3lwVmN4aUNiZEp2SldCeGxycmp1Tkt2bzR1ZFdoc1ZZM2tGSk5wV2tqNEx3dzk3R2ZIb3U5Um1YbHJMX3l1TlNQVElwTi1zT0NwVVpWdWNTV1JKdlJwZGd3WXBVZDR3Tm9DYWRvOWpnVEdhUFNfMy1kMkd0X091ZmZUWU5IVXU4MjVmT21rcUl0MWlLLThBbk02VjJGc2lLcnAyMk5IZndOLXFuZURvZWRRZw",
+          "published_at_bjt": "2026-07-31T01:20:50+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "807eb983bc78b4a057ab",
+          "title": "Google's New Gemini Robotics 2 Platform Allows For 'Intelligent Whole-Body Control' - Engadget",
+          "source": "Engadget",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVRDZXRFSE1IeTgwU3JiNmZvclJKZnUyaGhmNzV3TUY2SHYwbTh6dEtHclltUm1mZzFBV1E2R1Q2Y1dCczc1ZEFBRVAwWGRPSTZrcDNMOXZ1RkR4blh3MzAyN0xBS28wNVhlNHRNZXVPNTVXT3NUQ05OWmlLZkVqTVBfUlk3TWhNaGRZS01McTJHbkRZR1FRZEk1R01zSzQ",
+          "published_at_bjt": "2026-07-31T01:57:10+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "b140d4722098f61a801d",
+          "title": "Gemini Robotics 2 brings whole body intelligence to robots - Google DeepMind",
+          "source": "Google DeepMind",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEljb2ZqM3EyZWp0SHNWT3NaaWJEQWpITjMtSGQyaHYwd1d0dndlZ2luNl9RaERRbUR4cmlZcDIzUmJDUDNHZ0tDTWNKd0FjTFBFaUc5STF2QkZKbEVJMHhDZzFxOWFpWHZCU2hwTHljQWhNTmZpSlpoN0lTZkwySW9qaTVodnB6Nm9XNjM2MkJEUQ",
+          "published_at_bjt": "2026-07-30T23:04:50+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "cc7448ef4b1d255a771d",
+      "headline": "The loss of Situational Awareness",
+      "facts": [
+        "Title: The loss of Situational Awareness",
+        "I am not by any means an expert at finance but I think I do now have some advice for people who are: Do not name your hedge fund anything that will be hilarious if it blows up. Don’t use a name like “[Long-Term Capital Management](https://en.wikipedia.org/wiki/Long-Term_Capital_Management)” or “[Amaranth Advisors](https://en.wikipedia.org/wiki/Amaranth_Advis",
+        "Anyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold [most](https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/) or [all](https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-",
+        "Well, according to CNBC, [the fund was worth $45 billion at the start of July](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html). It is [now worth $10 billion](https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses), after the sale of assets to Griffin. T",
+        "Every detail of this disaster is funnier than the last. Situational Awareness had a staff of eight, of whom _four_ were investment professionals. “The fund’s largest holdings at the end of the first quarter included Nebius Group, Sandisk, Micron and CoreWeave, according to filings,” CNBC wrote. “All four of those stocks are down more than 35 percent this mon"
+      ],
+      "numeric_claims": [
+        "Anyway, Situational Awareness, the hedge fund started by a 24-year-old former OpenAI employee that focuses on artificial intelligence bets, has sold [most](https://www.reuters.com/technology/citadel-buys-most-situationals-stock-holdings-after-ai-share-rout-sources-say-2026-07-30/) or [all](https://www.axios.com/2026/07/30/ai-hedge-fund-situational-awareness-",
+        "Well, according to CNBC, [the fund was worth $45 billion at the start of July](https://www.cnbc.com/2026/07/30/leopold-aschenbrenners-hedge-fund-is-facing-steep-ai-losses.html). It is [now worth $10 billion](https://www.bloomberg.com/news/articles/2026-07-30/situational-awareness-assets-fall-to-10-billion-after-losses), after the sale of assets to Griffin. T",
+        "Every detail of this disaster is funnier than the last. Situational Awareness had a staff of eight, of whom _four_ were investment professionals. “The fund’s largest holdings at the end of the first quarter included Nebius Group, Sandisk, Micron and CoreWeave, according to filings,” CNBC wrote. “All four of those stocks are down more than 35 percent this mon"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "cc7448ef4b1d255a771d",
+          "title": "The loss of Situational Awareness",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks",
+          "published_at_bjt": "2026-07-31T04:46:25+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "390f02b3d62d55d8d644",
+          "title": "Pilot’s loss of situational awareness leads to crash - General Aviation News",
+          "source": "General Aviation News",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc1I5Q29VU2s0TDRYMkhwdmZuQTBxajVOejhnazlEbkV6Y3NJWW9VWDFVZzZ3RU1Zb2lCWUZEc0lwS21jYWxfWWVYQ3UwaGdOdDZVY2p2SDh6QldfUkZxcjVMbXhpWTRLckk4amRxUXYxaHJNbkZHdFVfSGhhR2M4ekVobWNLVE11ZEtrR3ZUazNfbS15ZGktbjdYcw",
+          "published_at_bjt": "2022-12-14T16:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "783ad48458e3dd5b9b58",
+          "title": "Former NTSB investigator on LaGuardia crash: Did controller lose ‘situational awareness’? - The Hill",
+          "source": "The Hill",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFAxcVdPNHVNczVKNy0yLTJUQ3VMTmJOR3dkVmlGRWxJUWNaaGp2cHh4YWU4QVRINTRnTzNHSEZ6eUFYMGdXb2gydGdtWlJaYlBwVnhvX3RaelgwaC00a0VpcXRRdGRad2l1WEprZzZZUEZJU3FKVVVvam93empYazdBazg3Tkx2RzcyNUhuMlhSMEhiaWfSAZsBQVVfeXFMTlJ3WEpBVFFla0JLQTFqSGg4YjZrVGM3aUY3cDJOXzJoOEJSNjdoVUJEVHVvdmZSUlY4ckM4bmI1ek91OUhVRHlxNFNvTnlhYWlUQWVBNlo4WXVVUEFMaFh0b05NR3B4ejhTTWM0TW5ad0NMLURiLXlZd0IyZjhYWjVZeDJrMk1SbzlvdFdnaDQzNFhORWpoS0s2ZjA",
+          "published_at_bjt": "2026-03-24T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "83fb1329b1b2aab84f38",
+          "title": "Situational awareness: A guide for journalists - Committee to Protect Journalists",
+          "source": "Committee to Protect Journalists",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MX3p4c24wTkRYYlU5M1MxM0hnUU5uTm41elVUUWhQNndEUTZsM2J6N1ZTWVdMMUdBUHIwTzhraXZjbXppM2lTRl9IWnB0RkVnb202enVLbmp4OEZhSUt6Vnd2MFJIUmhfTUFlcjJjZ2c0VEhMU2xzNl9B0gF_QVVfeXFMT3FtZVpHbjlIR29EQkxWZ1pfMF9xVUhJalJXWDZxS2RvN3VzOUdESS1sTzJKdkNoY1hfTHZnWnlLbTFacWNxNVBpRGVGcjJHa3R6bEUzLTF6S2FKd29kaUlSRWhacmFSRnBlWDd0QzNocHZWSGg5UGdVMUdmcXktaw",
+          "published_at_bjt": "2023-07-31T15:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "ae4bd0d754f45cce0d23",
+      "headline": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+      "facts": [
+        "Title: Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+        "[Skip to main content](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fgadgets%2F973163%2Ffriend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fgadgets%2F973163%2Ffriend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "ae4bd0d754f45cce0d23",
+          "title": "Friend re-launches its AI pendant with a speaker that talks to you, for twice the price",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/gadgets/973163/friend-re-launches-its-ai-pendant-with-a-speaker-that-talks-to-you-for-twice-the-price",
+          "published_at_bjt": "2026-07-31T00:33:32+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "2814ad67f23b19f51971",
+          "title": "Friend Launches $249 AI Pendant That Talks Back, Doubling the Price of Its Loneliness Companion - finance.biggo.com",
+          "source": "finance.biggo.com",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1VXl5M2xiT1ROTXJMSTBfWlFzeWw5dzdwcDE2eVFRd044dExNXzB1N1VEbWtxR21MRllpMDNOSV9zaENGTUF6NWw4VlJYR3BmRmMwMjNUbXFXWGcyVHRUZzFpZmxvVEMtdW5meG1ZV0ZlVkdzQVE",
+          "published_at_bjt": "2026-07-31T02:35:42+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "68833bfa08cbcaa4413c",
+          "title": "Friend Is Back With a New AI Pendant, and Its Marketing Is More Depressing Than Ever - Gizmodo",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVENjZU9rYmZtLWY5aXlNYzFTM1pqZmFyTjNlNkgxY0Q4Nnk0Q1VtYk5HRUllS2VCakU0Q1RVTkxIUExPdWpMU2g0MFE4Rlk0R0RNLU11NjBTcF9fZnB5UTRETC02Tl9oWHNGaVBqQURJWEl1bmpPcTNjRDdwWVdwU0k5c0NMSUNyS0pxaERwYzVhdTQ0bWJjaW1ieE5BQUhxazNpUlJxWUVWTGlRa3lETl9yMzg",
+          "published_at_bjt": "2026-07-31T04:51:46+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "657105f40f19e73fc65c",
+          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag",
+          "published_at_bjt": "2026-07-31T03:44:16+08:00",
+          "authority_tier": 1
+        }
+      ]
+    },
+    {
+      "story_id": "5df6cbdbbfce999bdfb4",
+      "headline": "LinkedIn actually adds a ‘seems like AI slop’ button",
+      "facts": [
+        "Title: LinkedIn actually adds a ‘seems like AI slop’ button",
+        "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F973384%2Flinkedin-seems-like-ai-slop-button)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F973384%2Flinkedin-seems-like-ai-slop-button)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "5df6cbdbbfce999bdfb4",
+          "title": "LinkedIn actually adds a ‘seems like AI slop’ button",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/973384/linkedin-seems-like-ai-slop-button",
+          "published_at_bjt": "2026-07-31T02:43:26+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "f222f9e71c56efa51e58",
+          "title": "LinkedIn Adds New ‘Seems Like AI Slop’ Button to Report All the AI Slop - Gizmodo",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0wyaTh2UWtvV2o5a1NUbjdVZGJxRmZUUzhNRkFCQUJEV3FhR19aZi1rM092YlI5RUJ3OHpJclRTdHBEdjIxci0xRUNESWFLS3IycnUwN0ZwQ0Q4QlBxT2EwbWo3dlRPNFQ2U0xBNFdMcW1TdGxJWXU1MjJBSjZvb3RiTEgydXBHT2ZUQUNmR0FkZ1E3NnZZVm1LbG8xc0preHc",
+          "published_at_bjt": "2026-07-31T05:15:54+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "895b3d92bc867aec4d7c",
+          "title": "LinkedIn adds a 'seems like AI slop' report button for AI-generated posts - TweakTown",
+          "source": "TweakTown",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdERFQ1ZSRlJXQ3c1eWtQcUZZTDM3U3NVbXNYODJwM2Fac3pLLXZFVVRyTHR2V2ROUk5OUEFaNDJlVlhZMmNQQzdyaXJoamNtWHRTQ21pb0c2QkluNjZxcTNENmFGZmcyLWE4SldoSzlmaXkyODNFTmx1OHplcHBvQVBfWWRmbWU0NllTd1pySmtsdEJGRmZmQXh4SkszYm1RU3c0ck85RDR0bDNLSlNZRTV1YUlxNVpnS0pGdA",
+          "published_at_bjt": "2026-07-31T04:57:07+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "06a8cb118eb09047ded5",
+          "title": "LinkedIn Adds 'Seems Like AI Slop' Button to Combat Low-Quality Content - IGN",
+          "source": "IGN",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1Q2Nmd2cC0tci1NV1A5bTFjUllpSUVLRkgzaW02Ukl1dnQ0ZDlxWERTMGw5QTFnbWhTUTFFZGlCTFNlRlR4aGkwZUNuTzlSNGY5N3NxeTRYelE2MVhmcjhyQ3FFQ0Fnam5zYVZvVENvR1ZnaURiRTFFSjFzV0dwQW45YzRvQ0hnOFZQNUtoa2l5bE9BTDNOZV9tcjlhNFE",
+          "published_at_bjt": "2026-07-08T15:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    }
+  ],
+  "shared_theme": "",
+  "risk_flags": []
+}

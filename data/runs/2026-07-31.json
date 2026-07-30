@@ -1,0 +1,147 @@
+{
+  "date_bjt": "2026-07-31",
+  "channels": {
+    "tech": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-31T07:35:17+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-07-31T07:35:21+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-31T07:35:26+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-31T07:35:29+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-31T07:37:21+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "source",
+          "at_bjt": "2026-07-31T07:37:22+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-31T07:37:24+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-31T07:38:50+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-31T07:38:50+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-07-31-tech",
+      "updated_at_bjt": "2026-07-31T07:38:50+08:00"
+    },
+    "education": {
+      "attempts": 1,
+      "status": "failed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-31T07:38:50+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "80 candidates",
+          "at_bjt": "2026-07-31T07:38:53+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-31T07:39:24+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-31T07:39:25+08:00"
+        }
+      },
+      "errors": [
+        "图文章节过短：820e23082128e92ba273"
+      ],
+      "episode_id": "",
+      "updated_at_bjt": "2026-07-31T07:40:16+08:00"
+    },
+    "sports": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-31T07:40:16+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-07-31T07:40:18+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-07-31T07:40:29+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-07-31T07:40:31+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-07-31T07:42:36+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "fallback, source",
+          "at_bjt": "2026-07-31T07:43:16+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-31T07:43:17+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-07-31T07:44:29+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-07-31T07:44:29+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-07-31-sports",
+      "updated_at_bjt": "2026-07-31T07:44:29+08:00"
+    }
+  },
+  "notifications": {},
+  "release": {},
+  "updated_at_bjt": "2026-07-31T07:44:29+08:00"
+}
