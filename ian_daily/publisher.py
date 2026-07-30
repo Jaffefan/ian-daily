@@ -105,6 +105,7 @@ def notify_generation_failures() -> None:
     payload = json.loads(path.read_text(encoding="utf-8"))
     date_bjt = str(payload.get("at_bjt") or datetime.now(BJT).isoformat())[:10]
     ledger = RunLedgerStore()
+    final_run = ledger.load(date_bjt) if ledger.path(date_bjt).exists() else None
     notified: set[str] = set()
     for category, error in payload.get("failures", {}).items():
         if category in config.CATEGORIES:
@@ -124,6 +125,17 @@ def notify_generation_failures() -> None:
                 ledger.mark_notified(date_bjt, key)
         except (OSError, ValueError, TypeError):
             continue
+    if final_run and any(
+        channel.attempts or channel.episode_id or channel.stages
+        for channel in final_run.channels.values()
+    ):
+        for category, channel in final_run.channels.items():
+            if channel.status not in {"failed", "skipped", "pending"}:
+                continue
+            key = f"generation:{category}"
+            error = channel.errors[-1] if channel.errors else "最终生成重试后仍没有可发布节目"
+            if ledger.should_notify(date_bjt, key) and send_channel_card(None, None, category, error):
+                ledger.mark_notified(date_bjt, key)
 
 
 def notify_release_overdue(date_bjt: str | None = None) -> None:

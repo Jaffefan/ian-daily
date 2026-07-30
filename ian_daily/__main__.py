@@ -38,7 +38,7 @@ def parser() -> argparse.ArgumentParser:
     prepare.add_argument("--rebuild", action="store_true", help="重建当天已发布页面但不重复通知")
     commands.add_parser("verify-release", help="验证 Pages 和音频已经上线")
     commands.add_parser("finalize-release", help="完成发布状态并发送飞书")
-    commands.add_parser("notify-overdue", help="通知九点发布逾期")
+    commands.add_parser("notify-overdue", help="通知宽限重试后的发布逾期")
     commands.add_parser("migrate-storage", help="迁移为按频道分层的数据目录")
     usage = commands.add_parser("usage", help="查看模型 token 与费用")
     usage.add_argument("--date")

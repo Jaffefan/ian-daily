@@ -16,6 +16,7 @@ from ian_daily.audio import _render_provider, generate_podcast_audio_async
 from ian_daily.agents import _limit_listener_exchanges, _remove_residual_numeric_precision, _usable_fact, audit_editions, build_content_brief, build_fact_packs, generate_podcast, generate_reading
 from ian_daily.images import resolve_story_images
 from ian_daily.publisher import finalize_release, notify_generation_failures, prepare_release
+from ian_daily.operations import RunLedgerStore
 from ian_daily.site import build_site
 from ian_daily.storage import EpisodeStore
 
@@ -317,6 +318,23 @@ class NotificationTests(unittest.TestCase):
                 notify_generation_failures()
                 notify_generation_failures()
             send.assert_called_once_with(None, report, "sports", "音频时长不足")
+
+    def test_final_skipped_channel_sends_one_failure_card(self):
+        with tempfile.TemporaryDirectory() as temp:
+            data_dir = Path(temp)
+            (data_dir / "last_generation.json").write_text(json.dumps({
+                "at_bjt": "2026-01-01T07:10:00+08:00", "failures": {}, "episodes": []
+            }), encoding="utf-8")
+            ledger = RunLedgerStore(data_dir / "runs")
+            ledger.finish("2026-01-01", "tech", "quality_passed", "2026-01-01-tech")
+            ledger.finish("2026-01-01", "education", "skipped", error="72 小时内没有可发布事件")
+            ledger.finish("2026-01-01", "sports", "quality_passed", "2026-01-01-sports")
+            with patch("ian_daily.publisher.config.DATA_DIR", data_dir), \
+                 patch("ian_daily.publisher.config.RUNS_DIR", data_dir / "runs"), \
+                 patch("ian_daily.publisher.send_channel_card", return_value=True) as send:
+                notify_generation_failures()
+                notify_generation_failures()
+            send.assert_called_once_with(None, None, "education", "72 小时内没有可发布事件")
 
 
 class SiteTests(unittest.TestCase):
