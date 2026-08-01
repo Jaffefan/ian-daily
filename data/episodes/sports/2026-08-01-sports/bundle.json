@@ -1,0 +1,817 @@
+{
+  "episode_id": "2026-08-01-sports",
+  "schema_version": 4,
+  "category": "sports",
+  "category_name": "运动",
+  "date_bjt": "2026-08-01",
+  "story_set": {
+    "category": "sports",
+    "date_bjt": "2026-08-01",
+    "articles": [
+      {
+        "id": "c1e296a8697a642fafd2",
+        "category": "sports",
+        "title": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 手机新浪网",
+        "summary": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18",
+        "source": "手机新浪网",
+        "published_at_bjt": "2026-08-01T07:09:43+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 2,
+        "engagement": 0,
+        "full_body": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\",\"/swg/\",\"/swg/*\"],\"FL1an\":false,\"FdrFJe\":\"-8103439910065056143\",\"Fwhl2e\":\"%.@.[\\\"en-US\\\",\\\"US\\\",[\\\"FINANCE_TOP_INDICES\\\",\\\"GENESIS_PUBLISHER_SECTION\\\",\\\"WEB_TEST_1_0_0\\\"],null,null,1,1,\\\"US:en\\\",null,null,null,null,null,null,null,false],\\\"en-US\\\",\\\"US\\\",true,[3,5,9,19],1,true,\\\"954975386\\\",null,null,null,false]\",\"GASP4\":1333,\"Guyvcf\":\"/home\",\"HiPsbb\":1,\"Im6cmf\":\"/_/DotsSplashUi\",\"JgLEj\":0,\"LVIXXb\":1,\"LoQv7e\":false,\"MT7f9b\":[],\"MUE6Ne\":\"dots-splash\",\"MZbqOb\":\"//www.google.com/setprefs?cs\\u003d2\\u0026sig\\u003d0_y1LmwlZydxHmVJhNWcwdtRzXzEY%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"MuJWjd\":false,\"QrtxK\":\"\",\"S06Grb\":\"\",\"S6lZl\":116942117,\"TSDtV\":\"%.@.[[null,[[45447451,null,null,null,\\\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\\\",null,\\\"AQrj7e\\\"],[45447446,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"arpmnf\\\"],[45447445,10000,null,null,null,null,\\\"gksIhe\\\"],[45447442,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"K01E3b\\\"],[45447443,null,null,null,\\\"117964,122423\\\",null,\\\"wRa13\\\"],[45641040,null,true,null,null,null,\\\"SEyySc\\\"],[45447425,null,false,null,null,null,\\\"dH92cf\\\"],[45646097,null,true,null,null,null,\\\"zjqpP\\\"],[45447432,null,false,null,null,null,\\\"xGtuJf\\\"],[45447448,null,null,null,\\\"cnn.com,eurasiantimes.com\\\",null,\\\"i6NW6e\\\"],[45459555,null,false,null,null,null,\\\"Imeoqb\\\"],[45792579,null,false,null,null,null,\\\"hDlJ9d\\\"],[45447441,null,false,null,null,null,\\\"lGu6U\\\"],[45532880,null,true,null,null,null,\\\"tCJq5e\\\"],[45447452,null,null,null,\\\"\\\",null,\\\"iTkiFf\\\"],[45447444,null,true,null,null,null,\\\"j1Sd4d\\\"],[45447427,10000,null,null,null,null,\\\"IrjXhf\\\"],[45447447,null,null,null,\\\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\\\",null,\\\"Ia4eSd\\\"],[45447453,null,null,null,\\\"\\\",null,\\\"JNfYbb\\\"]],\\\"CAMSER0I88O5KQgCCL+NDKWf6wQI\\\"]]]\",\"UDh4De\":\"//www.google.com/setprefs?cs\\u003d0\\u0026sig\\u003d0_y1LmwlZydxHmVJhNWcwdtRzXzEY%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"UTVOtf\":false,\"UUFaWc\":\"%.@.null,1000,2]\",\"Vvafkd\":false,\"Y12zTb\":\"//www.google.com/setprefs?cs\\u003d1\\u0026sig\\u003d0_y1LmwlZydxHmVJhNWcwdtRzXzEY%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"Yllh3e\":\"%.@.1785543074470501,75467265,2165830602]\",\"b5W2zf\":\"default_DotsSplashUi_desktop_ms\",\"cfb2h\":\"boq_dotssplashserver_20260727.06_p0\",\"eNnkwf\":\"1785543074\",\"eptZe\":\"/_/DotsSplashUi/\",\"fPDxwd\":[97493636,97493658,105739270],\"gGcLoe\":false,\"hbSvMb\":[106113460,97442197,105739270,97493636,98073362,105901316,97656897,1714242,97493658,1706538,97785986,97675219,13404284,97442181,105739254,97493620,98073330,97656881,97493642,97785970],\"hsFLT\":\"%.@.null,10,3]\",\"iCzhFc\":false,\"k76Vlc\":[\"G-SYGF1G18MM\"],\"mc2ogb\":1,\"nQyAE\":{\"xGtuJf\":\"false\",\"IrjXhf\":\"10000\",\"hDlJ9d\":\"false\",\"dH92cf\":\"false\",\"i6NW6e\":\"cnn.com,eurasiantimes.com\",\"wRa13\":\"117964,122423\",\"tCJq5e\":\"true\",\"K01E3b\":\"114086,117964,122423,123687,126247\",\"JNfYbb\":\"\",\"AQrj7e\":\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\",\"gksIhe\":\"10000\",\"iTkiFf\":\"\",\"lGu6U\":\"false\",\"Ia4eSd\":\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\",\"arpmnf\":\"114086,117964,122423,123687,126247\",\"zjqpP\":\"true\"},\"p9hQne\":\"https://www.gstatic.com/_/boq-dots/_/r/\",\"qwAQke\":\"DotsSplashUi\",\"qymVe\":\"Qzh8PGDWUZxu7f1Jt_BmjRcu6Ds\",\"r84ZEe\":\"//www.google.com/setprefs?sig\\u003d0_y1LmwlZydxHmVJhNWcwdtRzXzEY%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026safeui\\u003dimages\",\"rdVWlb\":0,\"rtQCxc\":420,\"u4g7r\":\"%.@.null,1,3]\",\"uS02ke\":\"ojltauXbHIGU_tMPyuffiAg\",\"utHyne\":{\"/dssw.js?xhrRoot\\u003d%2F_%2FDotsSplashUi\\u0026mssRowKey\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.dTdPnE86sJY.2018.O\\u0026buildLabel\\u003dboq_dotssplashserver_20260727.06_p0\":\"%.@.[null,null,null,\\\"/dssw.js?xhrRoot\\\\u003d%2F_%2FDotsSplashUi\\\\u0026mssRowKey\\\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.dTdPnE86sJY.2018.O\\\\u0026buildLabel\\\\u003dboq_dotssplashserver_20260727.06_p0\\\"],\\\"\\\",true]\"},\"vXmutd\":\"%.@.\\\"US\\\",\\\"ZZ\\\",\\\"RNw7MQ\\\\u003d\\\\u003d\\\"]\",\"vk7rPe\":\"//www.google.com/preferences?hl\\u003den-US\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en#appearance\",\"w2btAe\":\"%.@.null,null,\\\"\\\",false,null,null,null,false]\",\"ww0Jqc\":\"US\",\"x96UBf\":\"news.url.google.com\",\"xn5OId\":false,\"xnI9P\":false,\"xwAfE\":true,\"y2FhP\":\"prod\",\"yFnxrf\":1884,\"ysqeUe\":\"%.@.[1714243,13404284,15874407,40260062,40261562,40261571,40262007,40262028,40262208,40262379,40262405,40262408,40262431,72304157,99106383,99107170,102639914,104384299,104398823,104403486,104415750,104424925,104426719,104441052,104451552,104459252,104463141,104997031,106381282,115822001,115835391,116778925,117327663,117886247,119383102,119571506,119617109,120195911,122501447,122527788,122529124],false,true]\",\"zChJod\":\"%.@.]\"}; window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x1c02201, 0x140c0264, 0x200, ]; window.IJ_values = ['\\/\\/www.google.com\\/advanced_search?hl\\x3den-US\\x26fg\\x3d1',[null,null,\"\",false,null,null,null,false],'0','www.google.com','https:\\/\\/news.google.com\\/', null ,'boq_dotssplashserver_20260727.06_p0','news.google.com','US:en', 0.0 , 1.0 , 0.0 , null , null , null ,'','Jvz_7SPnUP5zwYmTkMeIxg','rUUlncPSJPs8SSh_cYDIdg','DEFAULT','English (United States)','', 2026.0 ,'https:\\/\\/news.google.com\\/rss\\/articles\\/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18', null ,'ltr', false ,'https:\\/\\/accounts.google.com\\/AccountChooser?continue\\x3dhttps:\\/\\/news.google.com\\/rss\\/articles\\/CBMicE",
+        "image_url": "images/c6d5171a71ca8de3.webp",
+        "image_credit": "手机新浪网",
+        "image_kind": "source",
+        "image_source_url": "http://n.sinaimg.cn/sinakd20260731s/300/w720h380/20260731/5396-504b24e8650983c0f80a7f98185eaf36.jpg",
+        "image_status": "downloaded",
+        "image_phash": "3c3f7c18101c3c30",
+        "community_signals": []
+      },
+      {
+        "id": "7a482a8efd071700a635",
+        "category": "sports",
+        "title": "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 - 手机新浪网",
+        "summary": "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ",
+        "source": "手机新浪网",
+        "published_at_bjt": "2026-08-01T06:28:25+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 2,
+        "engagement": 0,
+        "full_body": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\",\"/swg/\",\"/swg/*\"],\"FL1an\":false,\"FdrFJe\":\"5141290048672568233\",\"Fwhl2e\":\"%.@.[\\\"en-US\\\",\\\"US\\\",[\\\"FINANCE_TOP_INDICES\\\",\\\"GENESIS_PUBLISHER_SECTION\\\",\\\"WEB_TEST_1_0_0\\\"],null,null,1,1,\\\"US:en\\\",null,null,null,null,null,null,null,false],\\\"en-US\\\",\\\"US\\\",true,[3,5,9,19],1,true,\\\"954975386\\\",null,null,null,false]\",\"GASP4\":1333,\"Guyvcf\":\"/home\",\"HiPsbb\":1,\"Im6cmf\":\"/_/DotsSplashUi\",\"JgLEj\":0,\"LVIXXb\":1,\"LoQv7e\":false,\"MT7f9b\":[],\"MUE6Ne\":\"dots-splash\",\"MZbqOb\":\"//www.google.com/setprefs?cs\\u003d2\\u0026sig\\u003d0_AnexuSYPkevOrTWRinRI7BdxC9Q%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"MuJWjd\":false,\"QrtxK\":\"\",\"S06Grb\":\"\",\"S6lZl\":116942117,\"TSDtV\":\"%.@.[[null,[[45447451,null,null,null,\\\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\\\",null,\\\"AQrj7e\\\"],[45447446,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"arpmnf\\\"],[45447445,10000,null,null,null,null,\\\"gksIhe\\\"],[45447442,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"K01E3b\\\"],[45447443,null,null,null,\\\"117964,122423\\\",null,\\\"wRa13\\\"],[45641040,null,true,null,null,null,\\\"SEyySc\\\"],[45447425,null,false,null,null,null,\\\"dH92cf\\\"],[45646097,null,true,null,null,null,\\\"zjqpP\\\"],[45447432,null,false,null,null,null,\\\"xGtuJf\\\"],[45447448,null,null,null,\\\"cnn.com,eurasiantimes.com\\\",null,\\\"i6NW6e\\\"],[45459555,null,false,null,null,null,\\\"Imeoqb\\\"],[45792579,null,false,null,null,null,\\\"hDlJ9d\\\"],[45447441,null,false,null,null,null,\\\"lGu6U\\\"],[45532880,null,true,null,null,null,\\\"tCJq5e\\\"],[45447452,null,null,null,\\\"\\\",null,\\\"iTkiFf\\\"],[45447444,null,true,null,null,null,\\\"j1Sd4d\\\"],[45447427,10000,null,null,null,null,\\\"IrjXhf\\\"],[45447447,null,null,null,\\\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\\\",null,\\\"Ia4eSd\\\"],[45447453,null,null,null,\\\"\\\",null,\\\"JNfYbb\\\"]],\\\"CAMSER0I88O5KQgCCL+NDKWf6wQI\\\"]]]\",\"UDh4De\":\"//www.google.com/setprefs?cs\\u003d0\\u0026sig\\u003d0_AnexuSYPkevOrTWRinRI7BdxC9Q%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"UTVOtf\":false,\"UUFaWc\":\"%.@.null,1000,2]\",\"Vvafkd\":false,\"Y12zTb\":\"//www.google.com/setprefs?cs\\u003d1\\u0026sig\\u003d0_AnexuSYPkevOrTWRinRI7BdxC9Q%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"Yllh3e\":\"%.@.1785543075142550,75478750,2199795418]\",\"b5W2zf\":\"default_DotsSplashUi_desktop_ms\",\"cfb2h\":\"boq_dotssplashserver_20260727.06_p0\",\"eNnkwf\":\"1785543075\",\"eptZe\":\"/_/DotsSplashUi/\",\"fPDxwd\":[97493636,97493658,105739270],\"gGcLoe\":false,\"hbSvMb\":[98073362,105901316,105739270,106113460,97675219,97493658,97442197,1706538,1714257,97785986,97656897,97493636,13404283,13404288,98073330,105739254,97493642,97442181,97785970,97656881,97493620],\"hsFLT\":\"%.@.null,10,3]\",\"iCzhFc\":false,\"k76Vlc\":[\"G-SYGF1G18MM\"],\"mc2ogb\":1,\"nQyAE\":{\"xGtuJf\":\"false\",\"IrjXhf\":\"10000\",\"hDlJ9d\":\"false\",\"dH92cf\":\"false\",\"i6NW6e\":\"cnn.com,eurasiantimes.com\",\"wRa13\":\"117964,122423\",\"tCJq5e\":\"true\",\"K01E3b\":\"114086,117964,122423,123687,126247\",\"JNfYbb\":\"\",\"AQrj7e\":\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\",\"gksIhe\":\"10000\",\"iTkiFf\":\"\",\"lGu6U\":\"false\",\"Ia4eSd\":\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\",\"arpmnf\":\"114086,117964,122423,123687,126247\",\"zjqpP\":\"true\"},\"p9hQne\":\"https://www.gstatic.com/_/boq-dots/_/r/\",\"qwAQke\":\"DotsSplashUi\",\"qymVe\":\"szlhgw5bndHCFL41laoPIZVKEbo\",\"r84ZEe\":\"//www.google.com/setprefs?sig\\u003d0_AnexuSYPkevOrTWRinRI7BdxC9Q%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026safeui\\u003dimages\",\"rdVWlb\":0,\"rtQCxc\":420,\"u4g7r\":\"%.@.null,1,3]\",\"uS02ke\":\"ozltatbZCN7t_tMP2u34mAg\",\"utHyne\":{\"/dssw.js?xhrRoot\\u003d%2F_%2FDotsSplashUi\\u0026mssRowKey\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.dTdPnE86sJY.2018.O\\u0026buildLabel\\u003dboq_dotssplashserver_20260727.06_p0\":\"%.@.[null,null,null,\\\"/dssw.js?xhrRoot\\\\u003d%2F_%2FDotsSplashUi\\\\u0026mssRowKey\\\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.dTdPnE86sJY.2018.O\\\\u0026buildLabel\\\\u003dboq_dotssplashserver_20260727.06_p0\\\"],\\\"\\\",true]\"},\"vXmutd\":\"%.@.\\\"US\\\",\\\"ZZ\\\",\\\"RNw7MQ\\\\u003d\\\\u003d\\\"]\",\"vk7rPe\":\"//www.google.com/preferences?hl\\u003den-US\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en#appearance\",\"w2btAe\":\"%.@.null,null,\\\"\\\",false,null,null,null,false]\",\"ww0Jqc\":\"US\",\"x96UBf\":\"news.url.google.com\",\"xn5OId\":false,\"xnI9P\":false,\"xwAfE\":true,\"y2FhP\":\"prod\",\"yFnxrf\":1884,\"ysqeUe\":\"%.@.[1714247,13404283,13404288,15833571,15874407,40260060,40261562,40261571,40262007,40262028,40262208,40262379,40262405,40262408,40262431,72304157,99106383,99107170,102639914,104398823,104403486,104415750,104424925,104426719,104441052,104451552,104459252,104463141,104997031,106381282,115822001,115835391,116778925,117327663,117886247,118812450,119383102,119571506,119617109,120048172,120177292,120195911,122503478],false,true]\",\"zChJod\":\"%.@.]\"}; window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x1c02201, 0x140c0264, 0x200, ]; window.IJ_values = ['\\/\\/www.google.com\\/advanced_search?hl\\x3den-US\\x26fg\\x3d1',[null,null,\"\",false,null,null,null,false],'0','www.google.com','https:\\/\\/news.google.com\\/', null ,'boq_dotssplashserver_20260727.06_p0','news.google.com','US:en', 0.0 , 1.0 , 0.0 , null , null , null ,'','kP42sD2AqWbmAnsngYxnfw','Qt6x9PGPMsMZtEun0fpfIQ','DEFAULT','English (United States)','', 2026.0 ,'https:\\/\\/news.google.com\\/rss\\/articles\\/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ', null ,'ltr', false ,'https:\\/\\/accounts.google.com\\/AccountChooser?continue\\x3dhttp",
+        "image_url": "images/85cf2f4f374d3984.webp",
+        "image_credit": "手机新浪网",
+        "image_kind": "source",
+        "image_source_url": "http://n.sinaimg.cn/sinakd/sni/452/w1426h626/20260731/4427-582236718a5a8c8cbd8ca57452ff2c1d.jpg",
+        "image_status": "downloaded",
+        "image_phash": "ff99ffffff810100",
+        "community_signals": []
+      },
+      {
+        "id": "aae13d8158210444dfe2",
+        "category": "sports",
+        "title": "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 - shobserver.com",
+        "summary": "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 shobserver.com",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc",
+        "source": "shobserver.com",
+        "published_at_bjt": "2026-08-01T03:44:00+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 2,
+        "engagement": 0,
+        "full_body": "window.WIZ_global_data = {\"AfY8Hf\":false,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\",\"/swg/\",\"/swg/*\"],\"FL1an\":false,\"FdrFJe\":\"-4039479998623441204\",\"Fwhl2e\":\"%.@.[\\\"en-US\\\",\\\"US\\\",[\\\"FINANCE_TOP_INDICES\\\",\\\"GENESIS_PUBLISHER_SECTION\\\",\\\"WEB_TEST_1_0_0\\\"],null,null,1,1,\\\"US:en\\\",null,null,null,null,null,null,null,false],\\\"en-US\\\",\\\"US\\\",true,[3,5,9,19],1,true,\\\"954975386\\\",null,null,null,false]\",\"GASP4\":1333,\"Guyvcf\":\"/home\",\"HiPsbb\":1,\"Im6cmf\":\"/_/DotsSplashUi\",\"JgLEj\":0,\"LVIXXb\":1,\"LoQv7e\":false,\"MT7f9b\":[],\"MUE6Ne\":\"dots-splash\",\"MZbqOb\":\"//www.google.com/setprefs?cs\\u003d2\\u0026sig\\u003d0_nHxRR9pRYfgEUJ4EaO5cBd-AZB8%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"MuJWjd\":false,\"QrtxK\":\"\",\"S06Grb\":\"\",\"S6lZl\":116942117,\"TSDtV\":\"%.@.[[null,[[45447451,null,null,null,\\\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\\\",null,\\\"AQrj7e\\\"],[45447446,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"arpmnf\\\"],[45447445,10000,null,null,null,null,\\\"gksIhe\\\"],[45447442,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"K01E3b\\\"],[45447443,null,null,null,\\\"117964,122423\\\",null,\\\"wRa13\\\"],[45641040,null,true,null,null,null,\\\"SEyySc\\\"],[45447425,null,false,null,null,null,\\\"dH92cf\\\"],[45646097,null,true,null,null,null,\\\"zjqpP\\\"],[45447432,null,false,null,null,null,\\\"xGtuJf\\\"],[45447448,null,null,null,\\\"cnn.com,eurasiantimes.com\\\",null,\\\"i6NW6e\\\"],[45459555,null,false,null,null,null,\\\"Imeoqb\\\"],[45792579,null,false,null,null,null,\\\"hDlJ9d\\\"],[45447441,null,false,null,null,null,\\\"lGu6U\\\"],[45532880,null,true,null,null,null,\\\"tCJq5e\\\"],[45447452,null,null,null,\\\"\\\",null,\\\"iTkiFf\\\"],[45447444,null,true,null,null,null,\\\"j1Sd4d\\\"],[45447427,10000,null,null,null,null,\\\"IrjXhf\\\"],[45447447,null,null,null,\\\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\\\",null,\\\"Ia4eSd\\\"],[45447453,null,null,null,\\\"\\\",null,\\\"JNfYbb\\\"]],\\\"CAMSER0I88O5KQgCCL+NDKWf6wQI\\\"]]]\",\"UDh4De\":\"//www.google.com/setprefs?cs\\u003d0\\u0026sig\\u003d0_nHxRR9pRYfgEUJ4EaO5cBd-AZB8%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"UTVOtf\":false,\"UUFaWc\":\"%.@.null,1000,2]\",\"Vvafkd\":false,\"Y12zTb\":\"//www.google.com/setprefs?cs\\u003d1\\u0026sig\\u003d0_nHxRR9pRYfgEUJ4EaO5cBd-AZB8%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"Yllh3e\":\"%.@.1785543075860325,70076906,171492959]\",\"b5W2zf\":\"default_DotsSplashUi_desktop_ms\",\"cfb2h\":\"boq_dotssplashserver_20260727.06_p0\",\"eNnkwf\":\"1785543075\",\"eptZe\":\"/_/DotsSplashUi/\",\"fPDxwd\":[97493636,97493658,105739270],\"gGcLoe\":false,\"hbSvMb\":[97656897,105739270,97675219,105901316,106113460,1706538,97785986,97493658,98073362,1714251,97442197,97493636,13404284,13404288,97656881,105739254,97785970,97493642,98073330,97442181,97493620],\"hsFLT\":\"%.@.null,10,3]\",\"iCzhFc\":false,\"k76Vlc\":[\"G-SYGF1G18MM\"],\"mc2ogb\":1,\"nQyAE\":{\"xGtuJf\":\"false\",\"IrjXhf\":\"10000\",\"hDlJ9d\":\"false\",\"dH92cf\":\"false\",\"i6NW6e\":\"cnn.com,eurasiantimes.com\",\"wRa13\":\"117964,122423\",\"tCJq5e\":\"true\",\"K01E3b\":\"114086,117964,122423,123687,126247\",\"JNfYbb\":\"\",\"AQrj7e\":\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\",\"gksIhe\":\"10000\",\"iTkiFf\":\"\",\"lGu6U\":\"false\",\"Ia4eSd\":\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\",\"arpmnf\":\"114086,117964,122423,123687,126247\",\"zjqpP\":\"true\"},\"p9hQne\":\"https://www.gstatic.com/_/boq-dots/_/r/\",\"qwAQke\":\"DotsSplashUi\",\"qymVe\":\"GubWxA_dV0gUKbIeBuX_AMit1DE\",\"r84ZEe\":\"//www.google.com/setprefs?sig\\u003d0_nHxRR9pRYfgEUJ4EaO5cBd-AZB8%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026safeui\\u003dimages\",\"rdVWlb\":0,\"rtQCxc\":420,\"u4g7r\":\"%.@.null,1,3]\",\"uS02ke\":\"ozltaqXBNOqTtdEP34zjUQ\",\"utHyne\":{\"/dssw.js?xhrRoot\\u003d%2F_%2FDotsSplashUi\\u0026mssRowKey\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.dTdPnE86sJY.2018.O\\u0026buildLabel\\u003dboq_dotssplashserver_20260727.06_p0\":\"%.@.[null,null,null,\\\"/dssw.js?xhrRoot\\\\u003d%2F_%2FDotsSplashUi\\\\u0026mssRowKey\\\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.dTdPnE86sJY.2018.O\\\\u0026buildLabel\\\\u003dboq_dotssplashserver_20260727.06_p0\\\"],\\\"\\\",true]\"},\"vXmutd\":\"%.@.\\\"US\\\",\\\"ZZ\\\",\\\"RNw7MQ\\\\u003d\\\\u003d\\\"]\",\"vk7rPe\":\"//www.google.com/preferences?hl\\u003den-US\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en#appearance\",\"w2btAe\":\"%.@.null,null,\\\"\\\",false,null,null,null,false]\",\"ww0Jqc\":\"US\",\"x96UBf\":\"news.url.google.com\",\"xn5OId\":false,\"xnI9P\":false,\"xwAfE\":true,\"y2FhP\":\"prod\",\"yFnxrf\":1884,\"ysqeUe\":\"%.@.[1714254,13404284,13404288,15833571,15874407,25942134,40260062,40261562,40261571,40262007,40262028,40262208,40262379,40262396,40262405,40262408,40262431,72304157,99106383,99107170,102639914,104398823,104403486,104415750,104424925,104426719,104441052,104443158,104451552,104459252,104463141,104997031,106381282,115822001,115835391,116778925,117327663,117886247,119383102,119571506,119617109,120048171,120195911,122501448,122516574,122516587,122527787],false,true]\",\"zChJod\":\"%.@.]\"}; window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x1c02201, 0x140c0264, 0x200, ]; window.IJ_values = ['\\/\\/www.google.com\\/advanced_search?hl\\x3den-US\\x26fg\\x3d1',[null,null,\"\",false,null,null,null,false],'0','www.google.com','https:\\/\\/news.google.com\\/', null ,'boq_dotssplashserver_20260727.06_p0','news.google.com','US:en', 0.0 , 1.0 , 0.0 , null , null , null ,'','Q-gtJY3beNBxoEstmO0xsQ','LTlqhC2J15py6xC3otPLXQ','DEFAULT','English (United States)','', 2026.0 ,'https:\\/\\/news.google.com\\/rss\\/articles\\/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc', null ,'ltr', false ,'https:\\/\\/accounts.google.com\\/AccountChooser?continue\\x3dhttps:\\/\\/news.google.com\\/rss\\/articles\\/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWd",
+        "image_url": "images/5d0ff64955fbf9db.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "image_kind": "fallback",
+        "image_source_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "image_status": "source_unavailable",
+        "image_phash": "fffbcf8f1ca81f1f",
+        "community_signals": []
+      },
+      {
+        "id": "47bc8e582b839bc47b47",
+        "category": "sports",
+        "title": "Korda produces 'special' second round to recover from day one woes",
+        "summary": "World number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.",
+        "url": "https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo",
+        "source": "BBC Sport",
+        "published_at_bjt": "2026-08-01T03:09:31+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Women's Open: best shots from Nelly Korda's second round\n\nURL Source: https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo\n\nMarkdown Content:\n[BBC Homepage](https://www.bbc.com/)\n\n*   [Skip to content](https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo#main-heading)\n*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)\n\n*   [Sign in](https://session.bbc.com/session?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsport%2Fgolf%2Fvideos%2Fce97337ljzjo&userOrigin=SPORT_GNL&sequenceId=7f584a9b-56cc-4c4c-82a5-725fb0dac9f5)\n\n*   [Home](https://www.bbc.com/)\n*   [News](https://www.bbc.com/news)\n*   [Sport](https://www.bbc.com/sport)\n*   [Business](https://www.bbc.com/business)\n*   [Technology](https://www.bbc.com/technology)\n*   [Health](https://www.bbc.com/health)\n*   [Culture](https://www.bbc.com/culture)\n*   [Arts](https://www.bbc.com/arts)\n*   [Travel](https://www.bbc.com/travel)\n*   [Earth](https://www.bbc.com/future-planet)\n*   [Audio](https://www.bbc.com/audio)\n*   [Video](https://www.bbc.com/video)\n*   [Live](https://www.bbc.com/live)\n\n[More menu](https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo#global-navigation-more-menu)\n\n[More menu](https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo#global-navigation-more-menu)\n\n[Search BBC](https://www.bbc.com/search?d=SPORT_GNL)\n\n*   [Home](https://www.bbc.com/)\n*   [News](https://www.bbc.com/news)\n*   [Sport](https://www.bbc.com/sport)\n*   [Business](https://www.bbc.com/business)\n*   [Technology](https://www.bbc.com/technology)\n*   [Health](https://www.bbc.com/health)\n*   [Culture](https://www.bbc.com/culture)\n*   [Arts](https://www.bbc.com/arts)\n*   [Travel](https://www.bbc.com/travel)\n*   [Earth](https://www.bbc.com/future-planet)\n*   [Audio](https://www.bbc.com/audio)\n*   [Video](https://www.bbc.com/video)\n*   [Live](https://www.bbc.com/live)\n\nClose menu\n\n[BBC Sport](https://www.bbc.co.uk/sport)\n\n[Menu](https://www.bbc.co.uk/sport/all-sports)\n\n*   [Home](https://www.bbc.co.uk/sport)\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [Cricket](https://www.bbc.co.uk/sport/cricket)\n*   [Formula 1](https://www.bbc.co.uk/sport/formula1)\n*   [Rugby U](https://www.bbc.co.uk/sport/rugby-union)\n*   [Tennis](https://www.bbc.co.uk/sport/tennis)\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Cycling](https://www.bbc.co.uk/sport/cycling)\n*   [Athletics](https://www.bbc.co.uk/sport/athletics)\n\n[More](https://www.bbc.co.uk/sport/all-sports)\n\n**A-Z Sports**\n*   [American Football](https://www.bbc.co.uk/sport/american-football)\n*   [Athletics](https://www.bbc.co.uk/sport/athletics)\n*   [Basketball](https://www.bbc.co.uk/sport/basketball)\n*   [Boxing](https://www.bbc.co.uk/sport/boxing)\n*   [Commonwealth Games](https://www.bbc.co.uk/sport/commonwealth-games)\n*   [Cricket](https://www.bbc.co.uk/sport/cricket)\n*   [Cycling](https://www.bbc.co.uk/sport/cycling)\n*   [Darts](https://www.bbc.co.uk/sport/darts)\n*   [Disability Sport](https://www.bbc.co.uk/sport/disability-sport)\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [Formula 1](https://www.bbc.co.uk/sport/formula1)\n*   [Gaelic Games](https://www.bbc.co.uk/sport/northern-ireland/gaelic-games)\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Gymnastics](https://www.bbc.co.uk/sport/gymnastics)\n*   [Horse Racing](https://www.bbc.co.uk/sport/horse-racing)\n*   [Mixed Martial Arts](https://www.bbc.co.uk/sport/mixed-martial-arts)\n*   [Motorsport](https://www.bbc.co.uk/sport/motorsport)\n*   [Netball](https://www.bbc.co.uk/sport/netball)\n*   [Rugby League](https://www.bbc.co.uk/sport/rugby-league)\n*   [Rugby Union](https://www.bbc.co.uk/sport/rugby-union)\n*   [Snooker](https://www.bbc.co.uk/sport/snooker)\n*   [Swimming](https://www.bbc.co.uk/sport/swimming)\n*   [Tennis](https://www.bbc.co.uk/sport/tennis)\n*   [Full Sports A-Z](https://www.bbc.co.uk/sport/all-sports)\n\n**More from Sport**\n*   [England](https://www.bbc.co.uk/sport/england)\n*   [Scotland](https://www.bbc.co.uk/sport/scotland)\n*   [Wales](https://www.bbc.co.uk/sport/wales)\n*   [Northern Ireland](https://www.bbc.co.uk/sport/northern-ireland)\n*   [News Feeds](https://www.bbc.co.uk/sport/15890345)\n*   [Help & FAQs](https://www.bbc.co.uk/sport/15561348)\n\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Leaderboards](https://www.bbc.co.uk/sport/golf/leaderboard)\n*   [Calendar](https://www.bbc.co.uk/sport/golf/calendar)\n\n# Korda produces 'special' second round to recover from day one woes\n\n## This content is not available in your location.\n\nThere was an error\n\nWorld number one Nelly Korda returns to form on day two of the Women's Open, carding three-under-par 68 to erase her opening round struggles. Her bounce-back leaves her one under par total and just five shots behind leader Haeran Ryu, setting up an exciting weekend chase at Royal Lytham & St. Annes Golf Course.\n\nROUND REPORT: [Ryu leads Open in pursuit of third straight major](https://www.bbc.co.uk/sport/golf/articles/c0qvlle2348o)\n\n_Available to UK users only._\n\n*   Subsection [Golf](https://www.bbc.co.uk/sport/golf) \n\n*   Published 4 hours ago \n\nShare\n\nclose panel\n\nShare page\n\nCopy link\n\n[About sharing](https://www.bbc.co.uk/usingthebbc/terms/can-i-share-things-from-the-bbc)\n\nRead description\n\n## Editor's recommendations\n\n*   \n[Korda produces 'special' second round to recover from day one woes. Video, 00:03:15 Korda produces 'special' second round to recover from day one woes](https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo) \n\n    *   Subsection [Golf](https://www.bbc.co.uk/sport/golf) \n    \n\n    *   Published 4 hours ago \n\n3:15\n\n![Image 1: Nelly Korda](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/6999/live/58364c70-8d11-11f1-b2ab-0dd01740f9f6.jpg)\n\n*   \n[Up Next. Casemiro excited to play alongside 'football god' Messi in Miami. Video, 00:01:13 Casemiro excited to play alongside 'football god' Messi in Miami](https://www.bbc.co.uk/sport/football/videos/c70g7w02qneo) \n\n    *   Subsection [US MLS](https://www.bbc.co.uk/sport/football/us-major-league) \n    \n\n    *   Published 10 hours ago \n\nUp Next\n\n1:13\n\n![Image 2: Casemiro](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/4591/live/d82c8690-8cd7-11f1-a7ab-8b30adf0800a.jpg)\n\n*   \n[I hope they do not ruin World Cup - Ancelotti. Video, 00:00:27 I hope they do not ruin World Cup - Ancelotti](https://www.bbc.co.uk/sport/football/videos/c62e866v3myo) \n\n    *   Subsection [World Cup](https://www.bbc.co.uk/sport/football/world-cup) \n    \n\n    *   Published 1 day ago \n\n0:27\n\n![Image 3: Carlo Ancelotti](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/522c/live/73416430-8c00-11f1-a7ab-8b30adf0800a.jpg)\n\n*   \n[Rodgers makes it clear this will be final NFL season. Video, 00:00:49 Rodgers makes it clear this will be final NFL season](https://www.bbc.co.uk/sport/american-football/videos/ckgv6001ld5o) \n\n    *   Subsection [American Football](https://www.bbc.co.uk/sport/american-football) \n    \n\n    *   Published 2 days ago \n\n0:49\n\n![Image 4: Aaron Rodgers](https://ichef.bbci.co.uk/ace/standard/",
+        "image_url": "images/ef6f2efc8bc25575.webp",
+        "image_credit": "BBC Sport",
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6999/live/58364c70-8d11-11f1-b2ab-0dd01740f9f6.jpg",
+        "image_status": "downloaded",
+        "image_phash": "001020227ffffff0",
+        "community_signals": []
+      },
+      {
+        "id": "2d0c44306326665db193",
+        "category": "sports",
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "summary": "Football's world governing body abandons plans to sell off stakes in its major competitions after widespread opposition to president Gianni Infantino's idea.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po",
+        "source": "BBC Sport",
+        "published_at_bjt": "2026-08-01T08:04:50+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Fifa World Cup plans: Governing body scraps Gianni Infantino's private investment proposal after widespread opposition\n\nURL Source: https://www.bbc.co.uk/sport/football/articles/czekr6kn58po\n\nPublished Time: 2026-07-31T23:30:48.905Z\n\nMarkdown Content:\n[BBC Homepage](https://www.bbc.com/)\n\n*   [Skip to content](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po#main-heading)\n*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)\n\n*   [Sign in](https://session.bbc.com/session?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2Farticles%2Fczekr6kn58po&userOrigin=SPORT_GNL&sequenceId=9d039015-1796-4fff-b58a-7b18c1cdf9ac)\n\n*   [Home](https://www.bbc.com/)\n*   [News](https://www.bbc.com/news)\n*   [Sport](https://www.bbc.com/sport)\n*   [Business](https://www.bbc.com/business)\n*   [Technology](https://www.bbc.com/technology)\n*   [Health](https://www.bbc.com/health)\n*   [Culture](https://www.bbc.com/culture)\n*   [Arts](https://www.bbc.com/arts)\n*   [Travel](https://www.bbc.com/travel)\n*   [Earth](https://www.bbc.com/future-planet)\n*   [Audio](https://www.bbc.com/audio)\n*   [Video](https://www.bbc.com/video)\n*   [Live](https://www.bbc.com/live)\n\n[More menu](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po#global-navigation-more-menu)\n\n[More menu](https://www.bbc.co.uk/sport/football/articles/czekr6kn58po#global-navigation-more-menu)\n\n[Search BBC](https://www.bbc.com/search?d=SPORT_GNL)\n\n*   [Home](https://www.bbc.com/)\n*   [News](https://www.bbc.com/news)\n*   [Sport](https://www.bbc.com/sport)\n*   [Business](https://www.bbc.com/business)\n*   [Technology](https://www.bbc.com/technology)\n*   [Health](https://www.bbc.com/health)\n*   [Culture](https://www.bbc.com/culture)\n*   [Arts](https://www.bbc.com/arts)\n*   [Travel](https://www.bbc.com/travel)\n*   [Earth](https://www.bbc.com/future-planet)\n*   [Audio](https://www.bbc.com/audio)\n*   [Video](https://www.bbc.com/video)\n*   [Live](https://www.bbc.com/live)\n\nClose menu\n\n[BBC Sport](https://www.bbc.co.uk/sport)\n\n[Menu](https://www.bbc.co.uk/sport/all-sports)\n\n*   [Home](https://www.bbc.co.uk/sport)\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [Cricket](https://www.bbc.co.uk/sport/cricket)\n*   [Formula 1](https://www.bbc.co.uk/sport/formula1)\n*   [Rugby U](https://www.bbc.co.uk/sport/rugby-union)\n*   [Tennis](https://www.bbc.co.uk/sport/tennis)\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Cycling](https://www.bbc.co.uk/sport/cycling)\n*   [Athletics](https://www.bbc.co.uk/sport/athletics)\n\n[More](https://www.bbc.co.uk/sport/all-sports)\n\n**A-Z Sports**\n*   [American Football](https://www.bbc.co.uk/sport/american-football)\n*   [Athletics](https://www.bbc.co.uk/sport/athletics)\n*   [Basketball](https://www.bbc.co.uk/sport/basketball)\n*   [Boxing](https://www.bbc.co.uk/sport/boxing)\n*   [Commonwealth Games](https://www.bbc.co.uk/sport/commonwealth-games)\n*   [Cricket](https://www.bbc.co.uk/sport/cricket)\n*   [Cycling](https://www.bbc.co.uk/sport/cycling)\n*   [Darts](https://www.bbc.co.uk/sport/darts)\n*   [Disability Sport](https://www.bbc.co.uk/sport/disability-sport)\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [Formula 1](https://www.bbc.co.uk/sport/formula1)\n*   [Gaelic Games](https://www.bbc.co.uk/sport/northern-ireland/gaelic-games)\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Gymnastics](https://www.bbc.co.uk/sport/gymnastics)\n*   [Horse Racing](https://www.bbc.co.uk/sport/horse-racing)\n*   [Mixed Martial Arts](https://www.bbc.co.uk/sport/mixed-martial-arts)\n*   [Motorsport](https://www.bbc.co.uk/sport/motorsport)\n*   [Netball](https://www.bbc.co.uk/sport/netball)\n*   [Rugby League](https://www.bbc.co.uk/sport/rugby-league)\n*   [Rugby Union](https://www.bbc.co.uk/sport/rugby-union)\n*   [Snooker](https://www.bbc.co.uk/sport/snooker)\n*   [Swimming](https://www.bbc.co.uk/sport/swimming)\n*   [Tennis](https://www.bbc.co.uk/sport/tennis)\n*   [Full Sports A-Z](https://www.bbc.co.uk/sport/all-sports)\n\n**More from Sport**\n*   [England](https://www.bbc.co.uk/sport/england)\n*   [Scotland](https://www.bbc.co.uk/sport/scotland)\n*   [Wales](https://www.bbc.co.uk/sport/wales)\n*   [Northern Ireland](https://www.bbc.co.uk/sport/northern-ireland)\n*   [News Feeds](https://www.bbc.co.uk/sport/15890345)\n*   [Help & FAQs](https://www.bbc.co.uk/sport/15561348)\n\n*   [FIFA World Cup](https://www.bbc.co.uk/sport/football/world-cup)\n*   [Results](https://www.bbc.co.uk/sport/football/world-cup/scores-fixtures/)\n*   [Top Scorers](https://www.bbc.co.uk/sport/football/world-cup/top-scorers)\n*   [Teams](https://www.bbc.co.uk/sport/football/teams)\n\n[Advertisement](https://www.bbc.com/usingthebbc/cookies/)\n\n[Advertisement](https://www.bbc.com/usingthebbc/cookies/)\n\n[in association with](https://www.bbcglobalnews.com/bbc-storyworks-content-definitions/)\n\n# Fifa scraps controversial World Cup investment plan\n\n![Image 1: 'Breaking' graphic](https://ichef.bbci.co.uk/ace/standard/2048/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png)\n\nBy Jack Skelton,BBC Sport senior journalist and[Simon Stone](https://www.bbc.co.uk/sport/topics/c8gr7dqlp5pt),Chief football news reporter\n\n*   Published 1 August 2026 \n\n**Fifa president Gianni Infantino says he has scrapped the controversial plan to sell off stakes in the governing body's major competitions, following widespread opposition.**\n\nInfantino said it had become clear the project had \"created divisions\" that are \"no longer in the interest\" of its original objective.\n\nThe Swiss added: \"As a result, this proposal will not proceed.\"\n\nInfantino had offered all 211 member associations $40m (£30m) if they backed a proposal for private investment in its tournaments, including the men's and women's World Cups.\n\nMore to follow.\n\n## Related topics\n\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [FIFA World Cup 2026](https://www.bbc.co.uk/sport/football/world-cup)\n\n*   \n[Infantino on the brink? Who might replace him if he goes?](https://www.bbc.co.uk/sport/football/articles/c998m4ve0rpo) \n\n    \n\n    *   Published 4 hours ago \n\n![Image 2: Fifa president Gianni Infantino waves while walking](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/feaa/live/b1e19dc0-8cf7-11f1-b2ab-0dd01740f9f6.jpg)\n\n*   \n[Fifa executive says staff 'deceived' by Infantino plans](https://www.bbc.co.uk/sport/football/articles/c2dkj03jp34o) \n\n    \n\n    *   Published 1 hour ago \n\n![Image 3: Gianni Infantino watches on during the 2026 World Cup](https://ichef.bbci.co.uk/ace/standard/2560/cpsprodpb/e2c1/live/dd857660-8cfa-11f1-b8ee-9b3c26ad07bb.jpg)\n\n## More on this story\n\n*   \n[Follow your club with BBC Sport](https://www.bbc.co.uk/sport/football/articles/ce8e6y90g2jo) \n\n    \n\n    *   Published 8 June \n\n![Image 4: A graphic of Premier League players from every team in the division in 2025-26 season, with the Premier League trophy in front of them.](https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/91b6/live/4a573810-8e3b-11f0-9cf6-cbf3e73ce2b9.jpg)\n\n*   [Listen to the",
+        "image_url": "images/f44cb0e7f8b89a94.webp",
+        "image_credit": "BBC Sport",
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg",
+        "image_status": "downloaded",
+        "image_phash": "8183c7e7c7e7ffbf",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "c1e296a8697a642fafd2",
+        "headline": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 手机新浪网",
+        "facts": [
+          "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 手机新浪网"
+        ],
+        "sources": [
+          {
+            "article_id": "c1e296a8697a642fafd2",
+            "title": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 手机新浪网",
+            "source": "手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18",
+            "published_at_bjt": "2026-08-01T07:09:43+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "126187ed6bf18a31baec",
+            "title": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 京报网",
+            "source": "京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40OEIyZmFNbE9PZjhUX2tjR2NoTlh4U2ZkNHFydGdEZ1hpbFk0dWRvMHNobEZYd3RFbkpyaDNWcnFGUk5yQTEzU2FJWkp1TlZGZDhrSVNldEI3N3JyWkE",
+            "published_at_bjt": "2026-07-31T06:38:07+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [
+          "未取得有效正文，只能使用来源摘要或标题"
+        ],
+        "community_signals": []
+      },
+      {
+        "story_id": "7a482a8efd071700a635",
+        "headline": "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 - 手机新浪网",
+        "facts": [
+          "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 手机新浪网"
+        ],
+        "sources": [
+          {
+            "article_id": "7a482a8efd071700a635",
+            "title": "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 - 手机新浪网",
+            "source": "手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ",
+            "published_at_bjt": "2026-08-01T06:28:25+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [
+          "未取得有效正文，只能使用来源摘要或标题"
+        ],
+        "community_signals": []
+      },
+      {
+        "story_id": "aae13d8158210444dfe2",
+        "headline": "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 - shobserver.com",
+        "facts": [
+          "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 shobserver.com"
+        ],
+        "sources": [
+          {
+            "article_id": "aae13d8158210444dfe2",
+            "title": "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 - shobserver.com",
+            "source": "shobserver.com",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc",
+            "published_at_bjt": "2026-08-01T03:44:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [
+          "未取得有效正文，只能使用来源摘要或标题"
+        ],
+        "community_signals": []
+      },
+      {
+        "story_id": "47bc8e582b839bc47b47",
+        "headline": "Korda produces 'special' second round to recover from day one woes",
+        "facts": [
+          "Title: Women's Open: best shots from Nelly Korda's second round",
+          "*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)",
+          "*   [Sign in](https://session.bbc.com/session?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsport%2Fgolf%2Fvideos%2Fce97337ljzjo&userOrigin=SPORT_GNL&sequenceId=7f584a9b-56cc-4c4c-82a5-725fb0dac9f5)",
+          "*   [Home](https://www.bbc.com/)",
+          "*   [News](https://www.bbc.com/news)",
+          "*   [Sport](https://www.bbc.com/sport)",
+          "*   [Business](https://www.bbc.com/business)",
+          "*   [Technology](https://www.bbc.com/technology)"
+        ],
+        "sources": [
+          {
+            "article_id": "47bc8e582b839bc47b47",
+            "title": "Korda produces 'special' second round to recover from day one woes",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo",
+            "published_at_bjt": "2026-08-01T03:09:31+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "e2c1ae0bc0a72cbb6d7e",
+            "title": "Women's Open: best shots from Nelly Korda's second round - BBC",
+            "source": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYZnBzUTJ3S2JZNjJTLXRVMV9rdFkxenBHdThZU3JNdUFHb3ZjTG5XcWVoZVp2aE9fTWMzdlNZTFN2b1NpSTVoczl2VVF1cEpZeDdIWUtmRzFvdVdUQVU3cDRR",
+            "published_at_bjt": "2026-08-01T03:09:31+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "2d0c44306326665db193",
+        "headline": "Fifa scraps controversial World Cup investment plan",
+        "facts": [
+          "Title: Fifa World Cup plans: Governing body scraps Gianni Infantino's private investment proposal after widespread opposition",
+          "*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)",
+          "*   [Sign in](https://session.bbc.com/session?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsport%2Ffootball%2Farticles%2Fczekr6kn58po&userOrigin=SPORT_GNL&sequenceId=9d039015-1796-4fff-b58a-7b18c1cdf9ac)",
+          "*   [Home](https://www.bbc.com/)",
+          "*   [News](https://www.bbc.com/news)",
+          "*   [Sport](https://www.bbc.com/sport)",
+          "*   [Business](https://www.bbc.com/business)",
+          "*   [Technology](https://www.bbc.com/technology)"
+        ],
+        "sources": [
+          {
+            "article_id": "2d0c44306326665db193",
+            "title": "Fifa scraps controversial World Cup investment plan",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po",
+            "published_at_bjt": "2026-08-01T08:04:50+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "569b112ac05d15e6352c",
+            "title": "Fifa scraps controversial World Cup investment plan - adaderana.lk",
+            "source": "adaderana.lk",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OSTc3TDdCQzRhUXZmdmhGVXY2R1RDMWlCVE9RUWhKRnpETHVLNEk4cTg4Y0tqR2toM3JuTFV4RFYtQVpRVHN3d3NObG4tTVpqTkZ4RktaN3FPWGRXLV90ag",
+            "published_at_bjt": "2026-08-01T07:58:13+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "2e24d8b04376ca93c48b",
+            "title": "FIFA scraps controversial $20 billion World Cup investment plan - CNN",
+            "source": "CNN",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE13WkpXRHJpSnB0emhZUXJjR0dXVmRpN05fc0dqd1llNlZLQklUV29hbEZRYUdqVnVQdTloN0gzODQ3bG1BQTh2YnBCMHZhQTdnMExfZEFCUmJWVXY2Qm5OU0V3Q1VkSW9KMEZyUUY4NExfdTFyU2E1UC1FR0NrNnJ2TTFOeXlDM0pRalBJNUlJQQ",
+            "published_at_bjt": "2026-08-01T07:38:39+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "a8386a33fa76aa07277a",
+            "title": "FIFA’s Infantino scraps controversial World Cup private investment plan - Al Jazeera",
+            "source": "Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9lUGJlSUtmbjRZOWd1ZkFxcVdvTHc0d01oRngwSzcyTUJuMWNXQVR5VVp5RHE4eUhUOFphUE5sRFBEVmt6SW5rRi12YTlqdlFSbHhLLUxVbGE0VGVIbV94aE9fYU9uRThIbXgwWi1BLXg5Mjk3WmM4Y3YwaVZFS1NqMGw1R28yc2lPZkVmRHhyODFwbk9Xdll4aXRiRzA0cVJva082Y3BTRE1jVjBRbmx30gG3AUFVX3lxTE5RUW5ZUzJMTHJiQ25vR0RLQ1Y2TUdCeGtoUWFIY0VIR2Z0Q3ZyUVlvZXJUYVFVeVIxUm9kckl5cThUMThTbTVaZWUzaV90WG9YRGV2Vk11anZsN2s5NUx2VXh6dlpualpJN2lXZlJlUzlQT1dJcGtMLVJtNU1BdzFjSmduVkxMbjZ2SkxSMl9peVBlTEJWUktjdnlOR3JMUFhXX1RKa3RER3MxY0FiX0dTN21GbmhFSQ",
+            "published_at_bjt": "2026-08-01T08:00:50+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "星耀礼服、乒超对阵、名哨执法、高球逆转、世界杯投资生变：今日体坛五件事",
+    "lead": "今天，从亚运礼服到世界杯投资，从乒超对阵到高尔夫逆转，体育世界动静不小。我们挑出五件值得你关注的事，逐一拆解背后的门道，也看看它们和你的运动生活有什么关系。",
+    "sections": [
+      {
+        "story_id": "c1e296a8697a642fafd2",
+        "title": "亚运礼服“星耀”发布：穿在身上的文化自信",
+        "dek": "中国体育代表团为爱知·名古屋亚运会准备的礼服正式亮相，设计背后是传统与现代的融合。",
+        "body": "今天上午，中国体育代表团在爱知·名古屋亚运会的礼服“星耀”正式发布。从名字就能感受到，这套礼服想传递的是一种闪耀、自信的气质。虽然目前公开的细节有限，但从以往的经验看，中国代表团在大型赛事上的礼服设计，往往会融入传统文化元素，比如祥云、龙纹、中国红等，同时兼顾运动员的穿着舒适度和运动功能。这次“星耀”的设计，预计也会在面料科技和剪裁上下功夫，让运动员在开幕式上既精神又自在。\n\n礼服的设计往往是一个国家文化自信的体现。回顾历史，中国代表团在奥运会、亚运会等大型赛事上的礼服，从早期的“番茄炒蛋”到后来的“青花瓷”“龙服”，每一次亮相都引发广泛关注。这些设计不仅是为了好看，更是向世界展示中国文化的一个窗口。这次“星耀”礼服，从命名到设计，都透露出一种年轻、闪耀的气质，可能更符合当代审美。\n\n对于运动员来说，礼服不仅要美观，更要实用。开幕式往往持续几个小时，运动员需要长时间站立、行走，甚至可能遇到天气变化。因此，面料的选择至关重要。现代运动礼服通常会采用吸湿排汗、弹性好的功能性面料，确保运动员在穿着时保持舒适。此外，剪裁也会考虑到运动员的体型特点，既展现身材，又不妨碍活动。\n\n对普通人来说，选运动装备也可以借鉴这种思路：既要好看，更要舒服。专业运动服的设计，往往在吸湿排汗、弹力伸展上有讲究，日常健身不妨多关注这些功能指标，而不是只看颜值。比如，跑步时选择速干面料的T恤，瑜伽时选择高弹力的裤子，这些都能提升运动体验。下次买运动装备时，不妨多看看标签上的功能说明，而不是被外观迷惑。",
+        "takeaway": "对普通人来说，选运动装备也可以借鉴这种思路：既要好看，更要舒服。专业运动服的设计，往往在吸湿排汗、弹力伸展上有讲究，日常健身不妨多关注这些功能指标，而不是只看颜值。",
+        "image_url": "images/c6d5171a71ca8de3.webp",
+        "image_credit": "手机新浪网",
+        "source_ids": [
+          "c1e296a8697a642fafd2",
+          "126187ed6bf18a31baec"
+        ],
+        "source_refs": [
+          {
+            "article_id": "c1e296a8697a642fafd2",
+            "title": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 手机新浪网",
+            "source": "手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WZUVRU3ZBRUpqVnM4M2Z6eHBJYjdyZmFqZXFJZU9Qb290cTNYZGh5VzB5eVl0VTlIaGlHR3NwLWh3b29iX3EwZW1uTzBtTEJCcUM2eE44ZU5kTFkwWFhwd0ZaREt6MmVVVUF3MmtPa18",
+            "published_at_bjt": "2026-08-01T07:09:43+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "126187ed6bf18a31baec",
+            "title": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 京报网",
+            "source": "京报网",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE40OEIyZmFNbE9PZjhUX2tjR2NoTlh4U2ZkNHFydGdEZ1hpbFk0dWRvMHNobEZYd3RFbkpyaDNWcnFGUk5yQTEzU2FJWkp1TlZGZDhrSVNldEI3N3JyWkE",
+            "published_at_bjt": "2026-07-31T06:38:07+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "http://n.sinaimg.cn/sinakd20260731s/300/w720h380/20260731/5396-504b24e8650983c0f80a7f98185eaf36.jpg",
+        "image_status": "downloaded",
+        "image_phash": "3c3f7c18101c3c30"
+      },
+      {
+        "story_id": "7a482a8efd071700a635",
+        "title": "乒超雄安站对阵出炉：中超电缆迎战汕头明润",
+        "dek": "2026赛季乒超联赛雄安站男团对阵揭晓，强强对话一触即发。",
+        "body": "乒超联赛雄安站的男团对阵今天出炉，中超电缆将对阵汕头明润。乒超联赛是国内乒乓球最高水平的职业赛事，各俱乐部汇聚了国手和世界高手，每一场对决都充满悬念。雄安站作为本赛季的一站，自然吸引了众多球迷的目光。对阵双方的实力如何，关键球员的状态怎样，都是赛前大家关注的焦点。\n\n乒乓球比赛的胜负，往往在发球、接发球和前三板的细节中决定，一个环节的失误就可能改变整场比赛的走向。中超电缆和汕头明润都是乒超的传统强队，两队中都有多名国家队选手。中超电缆以年轻球员为主，冲击力强；汕头明润则经验丰富，战术多变。这场对决，很可能是一场速度与旋转的较量，也是年轻与经验的碰撞。\n\n乒超联赛的赛制是团体赛，包括单打和双打。排兵布阵非常关键，教练需要根据对手的特点安排出场顺序。比如，如果对方有一名实力超强的选手，可能会用“田忌赛马”的策略，让己方较弱选手去碰对方强手，而集中优势兵力拿下其他场次。这种策略博弈，让比赛更加精彩。\n\n对于普通乒乓球爱好者来说，看乒超不仅是欣赏高水平的对决，更是学习的机会。业余爱好者打比赛，也可以学学专业选手在关键分上的处理方式，比如发球抢攻、控制落点，这些细节能让你在球场上更有竞争力。此外，双打比赛中的配合也值得借鉴，如何与搭档沟通、如何跑位，都是业余比赛中常见的难题。",
+        "takeaway": "看乒超，不妨多留意球员的接发球技术和战术变化，这对提升你自己的乒乓球水平很有帮助。业余爱好者打比赛，也可以学学专业选手在关键分上的处理方式，比如发球抢攻、控制落点，这些细节能让你在球场上更有竞争力。",
+        "image_url": "images/85cf2f4f374d3984.webp",
+        "image_credit": "手机新浪网",
+        "source_ids": [
+          "7a482a8efd071700a635"
+        ],
+        "source_refs": [
+          {
+            "article_id": "7a482a8efd071700a635",
+            "title": "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 - 手机新浪网",
+            "source": "手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiTzRXMjJGS2MtMDFxNHRQSTRpZjFtV2Y4VHFGdHNOSnphemZmMFdUOHFjUDFremdSTjdwSHBENXlMLWdZVDVVT1VtNm83TVpBOHhtNDE5UkFNWUMwZzl6dXRwWmR2ZHU0dExWamIxaTE0UQ",
+            "published_at_bjt": "2026-08-01T06:28:25+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "http://n.sinaimg.cn/sinakd/sni/452/w1426h626/20260731/4427-582236718a5a8c8cbd8ca57452ff2c1d.jpg",
+        "image_status": "downloaded",
+        "image_phash": "ff99ffffff810100"
+      },
+      {
+        "story_id": "aae13d8158210444dfe2",
+        "title": "世界级名哨先执法中超？裁判资源调配的智慧与争议",
+        "dek": "明日之星冠军杯特邀的国际名哨，为何先去执法中超？中足联的这波操作引发讨论。",
+        "body": "今天有报道讨论了一个有趣的现象：明日之星冠军杯特邀的世界级名哨，先被安排去执法中超比赛。这看起来像是中足联在“薅”上海足协的“羊毛”，但背后其实是裁判资源的高效调配。国际名哨来华，时间有限，先执法中超这种高关注度的比赛，既能提升联赛执法水平，也能让本土裁判近距离学习。而明日之星冠军杯作为青少年赛事，虽然也需要高水平裁判，但优先级可能稍低。这种安排，体现了赛事运营中对资源合理利用的考量。\n\n裁判是足球比赛中不可或缺的一部分，他们的判罚直接影响比赛结果。国际级名哨通常拥有丰富的执法经验，能够更好地控制比赛节奏，处理突发情况。中超联赛作为中国足球的顶级赛事，每轮比赛都备受关注，裁判的每一个判罚都可能引发争议。因此，邀请国际名哨来执法，有助于提高中超的执法公信力。\n\n然而，这种安排也引发了一些争议。有人认为，明日之星冠军杯是青少年赛事，更需要高水平裁判来保证公平，因为年轻球员的成长环境至关重要。如果名哨都去执法中超，青少年比赛的质量可能受到影响。这种观点也有道理，但赛事运营方需要权衡各方利益，做出最优决策。\n\n这个案例告诉我们，资源有限时，如何分配是一门学问。对普通人来说，无论是健身时间还是运动装备，都可以借鉴这种“优先级”思维：把最好的资源用在最关键的场合，才能发挥最大效益。比如，如果你每天只有一小时锻炼时间，就应该优先安排最需要提升的项目，而不是平均分配。同样，购买运动装备时，也可以把钱花在最重要的鞋子上，而不是买一堆花哨但无用的配件。",
+        "takeaway": "这个案例告诉我们，资源有限时，如何分配是一门学问。对普通人来说，无论是健身时间还是运动装备，都可以借鉴这种“优先级”思维：把最好的资源用在最关键的场合，才能发挥最大效益。",
+        "image_url": "images/5d0ff64955fbf9db.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "source_ids": [
+          "aae13d8158210444dfe2"
+        ],
+        "source_refs": [
+          {
+            "article_id": "aae13d8158210444dfe2",
+            "title": "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 - shobserver.com",
+            "source": "shobserver.com",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE83T3BNWXFGVFg1UmdHZFduTl81ZTByQmJtYTB2eVNYS3Qweml0dkZDV2lTelZGYzE2UjljaWdmVy1Pd0NSX1o0N3p5Z19oazlVYXpRNnpqWENCX24wZGc",
+            "published_at_bjt": "2026-08-01T03:44:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "fallback",
+        "image_source_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "image_status": "source_unavailable",
+        "image_phash": "fffbcf8f1ca81f1f"
+      },
+      {
+        "story_id": "47bc8e582b839bc47b47",
+        "title": "科达大满贯次轮反弹：从低谷到“特别”的逆转",
+        "dek": "女子高尔夫大满贯赛事中，内莉·科达在首轮低迷后，第二轮打出“特别”表现，强势反弹。",
+        "body": "在女子高尔夫大满贯赛事中，世界顶尖球员内莉·科达上演了一场精彩的逆转。首轮她表现不佳，但第二轮她打出了“特别”的一轮，成功从低谷中恢复。高尔夫是一项心理和技巧并重的运动，首轮的失误往往会影响球员的心态。科达的反弹，一方面得益于她扎实的基本功，另一方面也离不开强大的心理调节能力。她在第二轮中可能调整了策略，比如更稳健的开球、更精准的铁杆，以及关键的推杆表现，这些细节共同促成了她的复苏。\n\n高尔夫是一项极其考验心理素质的运动。一轮比赛要打18洞，持续四五个小时，期间球员需要保持高度专注。首轮表现不佳，很容易让球员产生自我怀疑，进而影响后续发挥。科达作为世界排名前列的球员，经历过无数大赛，她知道如何从低谷中走出来。她可能会在赛后和教练沟通，调整挥杆动作，或者改变比赛策略，比如在开球时选择更安全的落点，避免冒险。\n\n科达的逆转对普通人很有启发：运动中的低谷并不可怕，关键是如何调整心态和策略。如果你在健身或某项运动中遇到瓶颈，不妨像科达一样，放慢节奏，专注于基础动作，或者改变一下训练计划，也许就能迎来突破。比如，跑步遇到平台期，可以尝试间歇跑；举重遇到瓶颈，可以调整动作细节。重要的是，不要因为一时的失败而放弃，而是把它当作成长的机会。",
+        "takeaway": "科达的逆转对普通人很有启发：运动中的低谷并不可怕，关键是如何调整心态和策略。如果你在健身或某项运动中遇到瓶颈，不妨像科达一样，放慢节奏，专注于基础动作，或者改变一下训练计划，也许就能迎来突破。",
+        "image_url": "images/ef6f2efc8bc25575.webp",
+        "image_credit": "BBC Sport",
+        "source_ids": [
+          "47bc8e582b839bc47b47",
+          "e2c1ae0bc0a72cbb6d7e"
+        ],
+        "source_refs": [
+          {
+            "article_id": "47bc8e582b839bc47b47",
+            "title": "Korda produces 'special' second round to recover from day one woes",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/golf/videos/ce97337ljzjo",
+            "published_at_bjt": "2026-08-01T03:09:31+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "e2c1ae0bc0a72cbb6d7e",
+            "title": "Women's Open: best shots from Nelly Korda's second round - BBC",
+            "source": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBYZnBzUTJ3S2JZNjJTLXRVMV9rdFkxenBHdThZU3JNdUFHb3ZjTG5XcWVoZVp2aE9fTWMzdlNZTFN2b1NpSTVoczl2VVF1cEpZeDdIWUtmRzFvdVdUQVU3cDRR",
+            "published_at_bjt": "2026-08-01T03:09:31+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/6999/live/58364c70-8d11-11f1-b2ab-0dd01740f9f6.jpg",
+        "image_status": "downloaded",
+        "image_phash": "001020227ffffff0"
+      },
+      {
+        "story_id": "2d0c44306326665db193",
+        "title": "国际足联叫停世界杯投资计划：200亿美元方案为何搁浅",
+        "dek": "国际足联宣布放弃一项争议性的世界杯私人投资计划，该计划曾引发广泛反对。",
+        "body": "国际足联今天宣布，放弃一项由主席因凡蒂诺提出的世界杯私人投资计划。这项计划涉及金额高达约200亿美元，原本旨在为世界杯赛事筹集资金，但因多方反对而被迫取消。反对者担心，私人资本介入可能会影响世界杯的独立性和公平性，甚至让赛事沦为商业工具。国际足联在压力下选择让步，说明在体育治理中，透明和公信力至关重要。这一决定也反映了国际体育组织在商业化与公共利益之间寻求平衡的艰难。\n\n世界杯是全球最具影响力的体育赛事之一，其商业价值巨大。国际足联作为管理机构，需要筹集资金来举办赛事，同时也要维护赛事的公正性。私人投资计划本意是引入更多资金，但可能带来利益冲突。比如，投资者可能要求影响赛事决策，或者利用世界杯进行商业推广，这都可能损害赛事的纯粹性。因此，反对声浪高涨，最终迫使国际足联放弃。\n\n这件事看似离普通人很远，但背后是体育商业化的边界问题。对普通运动爱好者来说，这意味着要警惕过度商业化的赛事和产品，选择那些真正以运动员和球迷为中心的活动。同时，也提醒我们，任何决策都需要考虑多方利益，不能只看眼前的经济回报。比如，你参加一场商业跑步比赛，如果主办方只注重盈利，而忽视了参赛者的体验和安全，那么这样的比赛就不值得参加。选择那些口碑好、注重参与者体验的赛事，才能获得更好的运动体验。",
+        "takeaway": "这件事看似离普通人很远，但背后是体育商业化的边界问题。对普通运动爱好者来说，这意味着要警惕过度商业化的赛事和产品，选择那些真正以运动员和球迷为中心的活动。同时，也提醒我们，任何决策都需要考虑多方利益，不能只看眼前的经济回报。",
+        "image_url": "images/f44cb0e7f8b89a94.webp",
+        "image_credit": "BBC Sport",
+        "source_ids": [
+          "2d0c44306326665db193",
+          "569b112ac05d15e6352c",
+          "2e24d8b04376ca93c48b",
+          "a8386a33fa76aa07277a"
+        ],
+        "source_refs": [
+          {
+            "article_id": "2d0c44306326665db193",
+            "title": "Fifa scraps controversial World Cup investment plan",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/czekr6kn58po",
+            "published_at_bjt": "2026-08-01T08:04:50+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "569b112ac05d15e6352c",
+            "title": "Fifa scraps controversial World Cup investment plan - adaderana.lk",
+            "source": "adaderana.lk",
+            "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OSTc3TDdCQzRhUXZmdmhGVXY2R1RDMWlCVE9RUWhKRnpETHVLNEk4cTg4Y0tqR2toM3JuTFV4RFYtQVpRVHN3d3NObG4tTVpqTkZ4RktaN3FPWGRXLV90ag",
+            "published_at_bjt": "2026-08-01T07:58:13+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "2e24d8b04376ca93c48b",
+            "title": "FIFA scraps controversial $20 billion World Cup investment plan - CNN",
+            "source": "CNN",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOE13WkpXRHJpSnB0emhZUXJjR0dXVmRpN05fc0dqd1llNlZLQklUV29hbEZRYUdqVnVQdTloN0gzODQ3bG1BQTh2YnBCMHZhQTdnMExfZEFCUmJWVXY2Qm5OU0V3Q1VkSW9KMEZyUUY4NExfdTFyU2E1UC1FR0NrNnJ2TTFOeXlDM0pRalBJNUlJQQ",
+            "published_at_bjt": "2026-08-01T07:38:39+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "a8386a33fa76aa07277a",
+            "title": "FIFA’s Infantino scraps controversial World Cup private investment plan - Al Jazeera",
+            "source": "Al Jazeera",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeV9lUGJlSUtmbjRZOWd1ZkFxcVdvTHc0d01oRngwSzcyTUJuMWNXQVR5VVp5RHE4eUhUOFphUE5sRFBEVmt6SW5rRi12YTlqdlFSbHhLLUxVbGE0VGVIbV94aE9fYU9uRThIbXgwWi1BLXg5Mjk3WmM4Y3YwaVZFS1NqMGw1R28yc2lPZkVmRHhyODFwbk9Xdll4aXRiRzA0cVJva082Y3BTRE1jVjBRbmx30gG3AUFVX3lxTE5RUW5ZUzJMTHJiQ25vR0RLQ1Y2TUdCeGtoUWFIY0VIR2Z0Q3ZyUVlvZXJUYVFVeVIxUm9kckl5cThUMThTbTVaZWUzaV90WG9YRGV2Vk11anZsN2s5NUx2VXh6dlpualpJN2lXZlJlUzlQT1dJcGtMLVJtNU1BdzFjSmduVkxMbjZ2SkxSMl9peVBlTEJWUktjdnlOR3JMUFhXX1RKa3RER3MxY0FiX0dTN21GbmhFSQ",
+            "published_at_bjt": "2026-08-01T08:00:50+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/2f88/live/90bb0030-8d3a-11f1-b8ee-9b3c26ad07bb.jpg",
+        "image_status": "downloaded",
+        "image_phash": "8183c7e7c7e7ffbf"
+      }
+    ],
+    "synthesis": "今日体坛呈现多元图景：中国代表团发布亚运新礼服，乒超联赛对阵出炉，足球裁判资源调配引发讨论，高尔夫大满贯上演逆转好戏，国际足联则叫停了一项争议投资计划。这些事件背后，是体育装备、赛事运营、裁判管理、运动员心理和体育商业的多个切面，每一条都藏着普通人也能借鉴的门道。"
+  },
+  "podcast": {
+    "title": "伊恩每日·运动：星耀礼服、乒超对阵、世界杯投资风波，还有高尔夫名将的逆袭",
+    "description": "今天是2026年8月1日。中国代表团发布亚运会礼服，乒超雄安站对阵出炉，FIFA放弃争议投资计划，高尔夫名将科尔达状态回勇。这些看似无关的新闻，其实都指向同一个主题：在压力与争议中，如何找回自己的节奏。",
+    "blocks": [
+      {
+        "block_id": "b1",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "你好，欢迎收听「伊恩每日·运动」。今天是2026年8月1日。先看一眼今天的大新闻：爱知·名古屋亚运会中国代表团的礼服发布了，叫「星耀礼服」；乒超雄安站的男团对阵也出炉了，中超电缆对汕头明润；中足联那边，明日之星冠军杯特邀的世界级名哨，先跑去执法中超了，这事儿挺有意思。国外方面，FIFA放弃了因凡蒂诺提出的私人投资计划，高尔夫名将内莉·科尔达在女子公开赛第二轮打出了「特别」的表现。这几件事看起来没什么关联，但把它们放在一起，你会发现一个共同的主题：在压力面前，如何找回自己的节奏。无论是运动员、代表团，还是国际组织，都在面对这个课题。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 49.224
+      },
+      {
+        "block_id": "b2",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天早上，中国体育代表团发布了明年爱知·名古屋亚运会的礼服，名字叫「星耀礼服」。消息很短，官方只给了名字和几张图，具体设计细节还没完全公开。但你知道吗，礼服这件事，从来不只是好看那么简单。\n\n先说说「星耀」这个名字。星，是星光，耀，是荣耀。听起来就带着一种「我要在聚光灯下闪耀」的劲儿。这类发布会通常有个套路：先放设计图，然后网友开始讨论「有没有中国元素」「颜色正不正」。但这次信息有限，我们还没看到实物细节，所以先不急着评价美丑。\n\n我想说的是，礼服对运动员意味着什么。你想想，运动员平时训练穿什么？速干衣、运动鞋、汗湿的T恤。但开幕式那天，他们穿上量身定制的礼服，走进能容纳几万人的体育场，灯光打下来，全场欢呼。那一刻，衣服就不再是衣服了，它是一种身份的确认——「我是代表中国来的」。\n\n心理学上有个概念叫「穿衣认知」，你穿什么，会影响你怎么想自己。运动员穿上礼服，会不自觉地挺直腰板，眼神更坚定。这不是玄学，是真实的心理暗示。所以，发布礼服，其实是在给运动员注入心理能量，让他们在赛前就进入「战斗状态」。\n\n当然，礼服也承载着公众的期待。我们普通人看开幕式，除了看运动员入场，还会盯着礼服看。它像一张名片，向世界展示我们的审美和文化。所以，每一次礼服发布，都是一次集体情绪的投射。好看，我们骄傲；不好看，我们吐槽。但无论如何，当运动员穿上它，我们都会为他们加油。\n\n说到普通人，你可能觉得礼服离自己很远。但其实，我们每个人都有自己的「礼服时刻」——面试穿的正装、婚礼上的礼服、毕业典礼的学士服。那些衣服让你瞬间进入角色，提醒你「这一刻很重要」。所以，下次你穿上正式衣服时，不妨也给自己一点心理暗示：我可以做得更好。\n\n回到「星耀礼服」，虽然细节还没公布，但我相信设计师一定花了不少心思。等更多信息出来，我们再细聊。现在，先期待明年亚运会，期待中国运动员穿着这身礼服，在名古屋的夜空下，闪耀出属于他们的星光。\n\n好了，今天先聊到这儿。我是伊恩，咱们明天见。",
+        "story_id": "c1e296a8697a642fafd2",
+        "audio_file": "",
+        "start_sec": 50.424,
+        "duration_sec": 154.752
+      },
+      {
+        "block_id": "b3",
+        "speaker": "ian",
+        "role": "story",
+        "text": "乒超雄安站的男团对阵刚刚出炉，中超电缆和汕头明润这两支老牌强队，将在这一站正面碰一碰。消息来自手机新浪网，发布于今天早上。对阵表出来了，但具体的排兵布阵、谁打一单谁打二单，还得等赛前官方确认。\n\n先说说这两支队。中超电缆和汕头明润，在乒超里都是有名有姓的劲旅。中超电缆，听名字就知道有企业背景，这些年投入不小，队里既有经验丰富的老将压阵，也有冲击力强的年轻选手。汕头明润呢，同样不差，俱乐部运营成熟，球员配置也很有深度。两队碰面，从来都不缺火药味。\n\n乒超的赛制是团体对抗，五盘三胜，其中有一盘是双打。这种赛制下，排兵布阵特别讲究。你可能会问，为什么排阵这么关键？因为乒乓球不像篮球足球，场上就一个人，你这边派谁，对面怎么应对，直接决定比赛走向。比如，你如果让队里最稳的选手去打对方最难缠的，那可能就浪费了；反过来，你要是田忌赛马，用下等马兑掉对方的上等马，那剩下的盘就有机会。所以教练的脑子，在赛前就已经开始转了。\n\n雄安站是本赛季乒超的重要一站。为什么重要？因为乒超联赛是积分制，每一站的胜负都关系到最终的排名和季后赛资格。雄安站虽然不是总决赛，但每一分都算数，各队都憋着劲要拿分。中超电缆和汕头明润，现在积分形势如何，我没查到具体数字，但可以确定的是，这一场谁都输不起，尤其是强强对话，赢一场可能就改变整个赛季的走势。\n\n说到球员状态，这是比赛最大的变数。乒乓球运动员的状态起伏很快，可能上一站还势不可挡，这一站就手感冰凉。而且，雄安站是连续作战，体能和专注度都是考验。谁能更快进入状态，谁能在关键分上咬住，谁就能占据主动。\n\n关键分，这是乒乓球最刺激的地方。10平、11平，一分定胜负，那种紧张感，隔着屏幕都能感受到。这时候，技术反而不是最重要的，心理素质才是。老将的优势就在这，见过大场面，知道怎么处理这种压力。年轻选手呢，冲劲足，但容易急，就看能不能稳住。\n\n这场比赛，对普通乒乓球爱好者来说，也是个学习的机会。你看职业选手怎么处理关键分，怎么调整节奏，怎么变化发球，这些都能用到你自己的球局里。比如，你平时打球，领先的时候容易松，落后的时候容易慌，那你就看看职业选手是怎么保持专注的。还有，发球的变化，职业选手的发球，不只是把球发过去，而是有旋转、落点、节奏的组合，你哪怕学个一招半式，也能让你的球友头疼。\n\n当然，我们看比赛，不只是看输赢，更是看人的表现。谁能在逆境中站出来，谁能在胶着时打破僵局，这些瞬间，才是体育最动人的地方。中超电缆和汕头明润，谁会更胜一筹？现在说还太早，但可以肯定的是，这场对决，值得期待。\n\n后续的看点，除了这场比赛本身，还有两队在整个雄安站的表现。乒超联赛是漫长的赛季，一站打好了，不代表后面就顺了。所以，这场比赛，既是实力的检验，也是心态的试金石。\n\n最后，给普通人的建议：如果你也打乒乓球，不妨在比赛日约上球友，边看边聊，学学职业选手的战术思路。或者，你干脆去球馆打一场，感受一下那种对抗的乐趣。体育的魅力，不就在这吗？好了，今天的乒超前瞻就到这，我们比赛见。",
+        "story_id": "7a482a8efd071700a635",
+        "audio_file": "",
+        "start_sec": 206.376,
+        "duration_sec": 243.864
+      },
+      {
+        "block_id": "b4",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，乒超的赛制是怎样的？为什么叫「乒超」？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 451.44,
+        "duration_sec": 4.632
+      },
+      {
+        "block_id": "b5",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "好问题。乒超全称是「中国乒乓球俱乐部超级联赛」，始于1999年，是国内最高水平的乒乓球职业联赛。赛制通常采用五场三胜制，包括单打和双打。每支俱乐部可以聘请国内外高水平选手，所以竞争非常激烈。乒超不仅是国内球员的练兵场，也是外援展示实力的舞台。对于普通爱好者来说，看乒超可以学到很多战术细节，比如发球变化、接发球抢攻、相持中的落点控制。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 457.272,
+        "duration_sec": 33.696
+      },
+      {
+        "block_id": "b6",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，国际足联宣布放弃了一项备受争议的私人投资计划。这个计划由主席因凡蒂诺提出，原本打算募集200亿美元，用于世界杯相关项目。但消息一出，就遭到了广泛的反对。反对者担心，私人资本介入会损害足球的公平性和独立性。最终，因凡蒂诺选择撤回计划，这被看作是一次重大让步。\n\n咱们先捋一捋，这200亿美元是个什么概念？它比很多国家的年度体育预算还要多。这笔钱原本打算怎么用？据公开报道，是用于扩大世界杯规模、增加参赛队伍、改善基础设施等等。听起来挺美好，但问题出在钱从哪来。私人投资者不是慈善家，他们投钱是要回报的。回报从哪来？很可能是从转播权、赞助商、甚至门票价格里来。这样一来，世界杯的商业味儿会更浓，而足球的纯粹性就可能被稀释。\n\n反对的声音主要来自欧洲足球俱乐部联盟和一些国家的足协。他们担心，一旦私人资本深度介入，国际足联的决策就会受制于资本，而不是足球本身。比如，为了讨好投资者，可能会把世界杯办成更频繁、更商业化的赛事，甚至改变比赛规则，让比赛更刺激、更吸金，但可能牺牲公平性。这就像你请了个金主爸爸，以后吃饭就得看人家脸色。\n\n因凡蒂诺撤回计划，说明他听到了反对的声音。但问题来了：世界杯的办赛资金从哪来？国际足联的商业模式会不会调整？这不仅是管理层的难题，也关系到咱们球迷。你想，如果世界杯变成一场纯粹的商业秀，门票贵得离谱，转播还要额外付费，那看球的乐趣是不是就打折了？\n\n咱们普通人能做什么？其实，关注和讨论就是第一步。足球是世界的运动，它的未来不该只由少数人决定。咱们球迷的声音，也是一种力量。就像这次反对声浪，让计划撤回。所以，下次再有什么大计划，咱们多留个心眼，多聊聊，也许就能让足球保持它该有的样子。\n\n好了，今天先聊到这。我是伊恩，咱们明天见。",
+        "story_id": "2d0c44306326665db193",
+        "audio_file": "",
+        "start_sec": 492.168,
+        "duration_sec": 142.2
+      },
+      {
+        "block_id": "b7",
+        "speaker": "ian",
+        "role": "story",
+        "text": "先看事实：2026年8月1日，女子公开赛第二轮，内莉·科尔达打出了“特别”的一轮，成功摆脱了第一轮的困境。BBC用“special”来形容她的表现。第一轮她发挥不佳，一度让人担心能否晋级，但第二轮她调整了状态，打出了精彩的一轮。\n\n咱们拆解一下，为什么第一轮会“糟”，第二轮又能“特别”？高尔夫是心理要求极高的运动，一轮失误可能毁掉整个比赛，但科尔达展示了顶级球员的调整能力。她的秘诀是什么？往往是专注于当下，不去想结果。\n\n具体来说，第一轮可能输在“想太多”——总想着要领先、要抓鸟，结果动作变形。第二轮她可能只是把每一杆当成独立任务，不去想总成绩，反而打出了流畅的节奏。这种“过程导向”而非“结果导向”的心态，是很多业余球友容易忽略的。\n\n对普通人来说，这有什么启发？比如你打羽毛球、跑步，或者任何竞技项目，如果总盯着比分或配速，容易紧张、动作僵硬。试着把注意力放在每一次呼吸、每一步落地、每一次挥拍上，反而能发挥更好。\n\n再说代价：第一轮的失误可能让她多花了不少精力去追，但顶级球员的调整能力就在于能快速翻篇。这也提醒我们，失误不可怕，可怕的是让失误影响后面的表现。\n\n后续看点：她能否保持这种状态，在接下来的轮次中继续冲冠？我们拭目以待。\n\n最后，给大众的建议：下次运动时，试着把目标从“我要赢”换成“我做好每一个动作”，你会发现，结果往往不差。",
+        "story_id": "47bc8e582b839bc47b47",
+        "audio_file": "",
+        "start_sec": 635.568,
+        "duration_sec": 105.48
+      },
+      {
+        "block_id": "b8",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，我平时打高尔夫总是一号木开球就紧张，怎么调整？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 742.248,
+        "duration_sec": 5.616
+      },
+      {
+        "block_id": "b9",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "这个问题很典型。一号木开球紧张，通常是因为你太在意距离和方向。科尔达的调整方法可以借鉴：把注意力放在呼吸和动作节奏上，而不是结果。你可以试试在挥杆前做一次深呼吸，然后想一个关键词，比如「流畅」。另外，练习时模拟比赛压力，比如设定目标，如果没达到就做俯卧撑。这样能帮你适应压力。记住，高尔夫是打给自己看的，放松才能发挥。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 749.064,
+        "duration_sec": 31.776
+      },
+      {
+        "block_id": "b10",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天咱们聊一个足球圈里挺有意思的事儿。中足联被质疑“薅上海足协羊毛”——原本为“明日之星冠军杯”青少年赛事特邀的世界级名哨，先去执法了中超。这听起来有点绕，但其实就是说，为青少年比赛请来的高水平裁判，被临时调去吹中超了。\n\n先摆事实：这条新闻来自上海观察者网，说的是中足联把上海足协为“明日之星冠军杯”特邀的国际级裁判，先安排去吹中超比赛。具体是哪位裁判、吹了哪场，新闻里没细说，但“世界级名哨”这个说法，说明裁判水平很高。\n\n那为什么会有这种调配？说白了，就是顶级裁判太稀缺。中超、足协杯、青少年赛事，还有各种国际比赛，都需要高水平裁判。但顶尖裁判就那么几个，赛事一多，难免要互相借调。中足联作为管理机构，可能觉得中超更需要名哨压阵，毕竟关注度高、对抗激烈。\n\n但这事儿引发了一个思考：青少年赛事的执法质量，会不会因此打折扣？你想，年轻球员正处于涨球的关键期，比赛公平公正特别重要。如果裁判水平不够，漏判、误判多了，不仅影响比赛结果，还可能打击小球员的积极性。而且，青少年比赛本来就是培养裁判的试验田，让年轻裁判多吹高水平比赛，对他们成长也有好处。\n\n再说说裁判资源紧张这事儿。其实不只是中国，全球都面临这个问题。裁判工作压力大、报酬不高，还经常挨骂，愿意干的人越来越少。所以，如何合理调配有限的裁判资源，就成了一个管理难题。中足联这么做，可能是出于无奈，但至少应该透明化，别让俱乐部和球迷觉得有猫腻。\n\n对咱们普通人来说，这事儿有啥启示？第一，看球的时候，对裁判多点理解，他们也是人，也会犯错。第二，如果你身边有孩子踢球，可以鼓励他们尊重裁判，从小养成好习惯。第三，如果你自己也想当裁判，现在其实是个机会，因为缺人嘛。\n\n最后，希望中足联能平衡好各方需求，既保证中超的执法质量，也别亏待了青少年赛事。毕竟，中国足球的未来，在那些年轻球员身上。好了，今天就说这么多，咱们明天见。",
+        "story_id": "aae13d8158210444dfe2",
+        "audio_file": "",
+        "start_sec": 782.04,
+        "duration_sec": 152.28
+      },
+      {
+        "block_id": "b11",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，裁判资源紧张，对我们业余爱好者有什么影响？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 935.52,
+        "duration_sec": 5.184
+      },
+      {
+        "block_id": "b12",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "影响其实不小。业余比赛虽然水平不高，但同样需要公正的执法。如果专业裁判不够，可能会让一些业余赛事由非专业人士执法，导致误判增多。这会影响比赛体验，甚至可能引发冲突。所以，如果你参加业余比赛，可以主动学习一些基本规则，理解裁判的判罚，这样能减少误解。另外，如果你有兴趣，也可以考个裁判证，为社区赛事做贡献。裁判是比赛的守护者，缺了他们，比赛就乱了。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 941.904,
+        "duration_sec": 34.704
+      },
+      {
+        "block_id": "b13",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "我们来复盘一下今天的几条新闻。礼服发布，是给运动员一个仪式感；乒超对阵，是给球迷一个期待；FIFA放弃投资计划，是给足球一个底线；科尔达的逆袭，是给所有人一个示范；裁判调配，是给赛事一个提醒。它们共同说明：无论外界如何变化，回归本质才是王道。运动员穿上礼服，记住自己代表谁；球队面对强敌，记住自己为什么打；组织面对反对，记住自己为谁服务；球员面对失误，记住自己热爱什么。这就是「找回节奏」的真谛。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 977.808,
+        "duration_sec": 37.32
+      },
+      {
+        "block_id": "b14",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "今天的节目就到这里。明天，亚运会备战进入新阶段，乒超雄安站也将开打，FIFA的后续动作值得关注。对于你，无论今天遇到什么压力，试着像科尔达那样，深呼吸，专注于当下。感谢收听，我们明天见。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 1016.328,
+        "duration_sec": 18.36
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "爱知·名古屋亚运会中国体育代表团“星耀礼服”发布 - 手机新浪网",
+        "start_sec": 50.424,
+        "story_id": "c1e296a8697a642fafd2"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "2026赛季乒超雄安站男团对阵出炉，中超电缆vs汕头明润 - 手机新浪网",
+        "start_sec": 206.376,
+        "story_id": "7a482a8efd071700a635"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "Fifa scraps controversial World Cup investment plan",
+        "start_sec": 492.168,
+        "story_id": "2d0c44306326665db193"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "Korda produces 'special' second round to recover from day one woes",
+        "start_sec": 635.568,
+        "story_id": "47bc8e582b839bc47b47"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "中足联薅上海足协羊毛？明日之星冠军杯特邀的世界级名哨，为何先去执法中超 - shobserver.com",
+        "start_sec": 782.04,
+        "story_id": "aae13d8158210444dfe2"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 977.808,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 1034.7,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.4587,
+      0.3865,
+      0.3888,
+      0.5386,
+      0.4576,
+      0.5052,
+      0.3815,
+      0.4137,
+      0.4666,
+      0.5593,
+      0.4443,
+      0.5427,
+      0.5183,
+      0.4005,
+      0.3478,
+      0.417,
+      0.4657,
+      0.4594,
+      0.3852,
+      0.4617,
+      0.4001,
+      0.4551,
+      0.48,
+      0.5456,
+      0.5939,
+      0.4016,
+      0.3924,
+      0.3554,
+      0.4456,
+      0.3894,
+      0.4555,
+      0.5448,
+      0.457,
+      0.4636,
+      0.4049,
+      0.4036,
+      0.344,
+      0.5005,
+      0.3823,
+      0.4749,
+      0.4859,
+      0.3545,
+      0.5836,
+      0.3899,
+      0.489,
+      0.4203,
+      0.4186,
+      0.3989,
+      0.3783,
+      0.5691,
+      0.4782,
+      0.449,
+      0.4331,
+      0.4264,
+      0.4566,
+      0.4216,
+      0.3484,
+      0.4091,
+      0.4774,
+      0.4413,
+      0.4161,
+      0.3907,
+      0.4109,
+      0.3522,
+      0.4865,
+      0.5617,
+      0.4692,
+      0.4003,
+      0.3625,
+      0.4507,
+      0.5323,
+      0.4516,
+      0.469,
+      0.4342,
+      0.4735,
+      0.3459,
+      0.4554,
+      0.4477,
+      0.4632,
+      0.5279,
+      0.4536,
+      0.5618,
+      0.3365,
+      0.7122,
+      0.424,
+      0.3637,
+      0.4754,
+      0.3867,
+      0.3926,
+      0.3634,
+      0.393,
+      0.4331,
+      0.373,
+      0.3984,
+      0.4333,
+      0.393,
+      0.4635,
+      0.3721,
+      0.4508,
+      0.3969,
+      0.4407,
+      0.5148,
+      0.4998,
+      0.4662,
+      0.458,
+      0.4022,
+      0.4186,
+      0.4273,
+      0.469,
+      0.4876,
+      0.4477,
+      0.3801,
+      0.4147,
+      0.5363,
+      0.593,
+      0.4422,
+      0.4528,
+      0.4512,
+      0.419,
+      0.4358,
+      0.4409,
+      0.4058,
+      0.4034,
+      0.5358,
+      0.5908,
+      0.4678,
+      0.4388,
+      0.4604,
+      0.4348,
+      0.4763,
+      0.4277,
+      0.3811,
+      0.6517,
+      0.4297,
+      0.4413,
+      0.3917,
+      0.4101,
+      0.4721,
+      0.4307,
+      0.3683,
+      0.477,
+      0.4738,
+      0.442,
+      0.409,
+      0.472,
+      0.6776,
+      0.4807,
+      0.4222,
+      0.3956,
+      0.4037,
+      0.5716,
+      0.3682,
+      0.3839,
+      0.3691,
+      0.4264,
+      0.3494,
+      0.4856,
+      0.4486,
+      0.3626,
+      0.541
+    ]
+  },
+  "status": "quality_passed",
+  "created_at_bjt": "2026-08-01T08:13:11+08:00",
+  "updated_at_bjt": "2026-08-01T08:14:41+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}
