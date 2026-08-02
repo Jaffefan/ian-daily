@@ -1,0 +1,14 @@
+{
+  "episode_id": "2026-08-03-education",
+  "publishable": true,
+  "story_count": 5,
+  "source_count": 15,
+  "domestic_count": 3,
+  "reading_chars": 2819,
+  "podcast_chars": 4468,
+  "audio_duration_sec": 934.3,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.047,
+  "errors": [],
+  "warnings": []
+}

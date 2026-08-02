@@ -1,0 +1,14 @@
+{
+  "episode_id": "2026-08-03-sports",
+  "publishable": true,
+  "story_count": 5,
+  "source_count": 8,
+  "domestic_count": 3,
+  "reading_chars": 2425,
+  "podcast_chars": 4285,
+  "audio_duration_sec": 857.4,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.006,
+  "errors": [],
+  "warnings": []
+}
