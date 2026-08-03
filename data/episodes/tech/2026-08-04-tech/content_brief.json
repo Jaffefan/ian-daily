@@ -1,0 +1,195 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-08-04",
+  "stories": [
+    {
+      "story_id": "43ffd8cfe889c732b881",
+      "headline": "Europe’s AI labeling and transparency rules are now in effect",
+      "facts": [
+        "Europe’s AI labeling and transparency rules are now in effect | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Europe’s AI labeling and transparency rules are now in effect\",\"description\":\"The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.\","
+      ],
+      "numeric_claims": [],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "43ffd8cfe889c732b881",
+          "title": "Europe’s AI labeling and transparency rules are now in effect",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "published_at_bjt": "2026-08-04T01:38:45+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "0350920093172a74dd07",
+          "title": "EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity? - Tech Policy Press",
+          "source": "Tech Policy Press",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3Z0RU5HTGdmd2l0U09VWm94TENiV1ZEZlMyVTYxcUxJMm1ZLTRtNDgtUGV2SzA3czJ5bk5DX0N4LXlBVXVVcXRYaGxwVUlrdEp0WFJPZzNtUmVXSDhBNWdGS3hzem1CMkNqWUtvcHRKOU83RE1oN2NiaTR2ZTZsYXlCcm8xSEtBbHcwNVNRZFpRSlJHbTNMZEFxWDRXYWcz",
+          "published_at_bjt": "2026-08-03T21:09:03+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "d8cdfb762408abe5cc8d",
+          "title": "Europe’s AI Labels Are Now Mandatory - WeRSM",
+          "source": "WeRSM",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xMHF4VndNWDJoWENKOTQ3RlVxbWxxajBmb2laNGJETFR3RWV1azRDTVJva0xqWWRYX3pXcnVnSEtlYzhiT3EySjNnUnd0MUhUSm5DdFhTdXd6SDhBOWZIUlc4SF8",
+          "published_at_bjt": "2026-08-04T04:05:13+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "d661ebc329b6ac52893b",
+          "title": "EU Artificial Intelligence Act transparency rules now in place across Europe - Open Access Government",
+          "source": "Open Access Government",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVVyTnhGQXoxM1dPSU1lc2N5d2pYM19HcW85YTZxQ1VGdEJKckRHM1NYMVRPV2JOTmk2S1BwQXhsTDZQVXg1RGlUZWc4NlBPdi1fTUlQa0ZkaVJJQUJXdGdwclVOR2RGWjNyUzFwQU80SzBZYkFSRjctTXlpZkNJRS1qTVJVWUxORmh2c2VWM2JiQ3l0ejhSemFJbTNINmU2U2hFWEVDMzIySWZJRVNLdjRUOTBfbVV5bmFlWUZ3",
+          "published_at_bjt": "2026-08-03T21:21:37+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "85ef3dedf8bfc4e0aa34",
+      "headline": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "facts": [
+        "Title: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "The CEO, who famously studied philosophy and earned a PhD in social theory, implied in Palantir’s quarterly shareholder letter that these were the kinds of capitalists who gave rise to Marxist socialism.",
+        "“There are Marxist overtones and undertones to our business,” he wrote in a letter to [shareholders about Palantir’s outstanding quarter he wrote](https://www.palantir.com/q2-2026-letter/en/). “Others, including many of those building large language models, intend, knowingly or otherwise, to capture the means of production of their purported partners.”",
+        "To be clear, AI labs have hardly cornered Palantir out of the market. Quite the opposite. The skyrocketing use of AI helped Palantir achieve record-breaking results. For its second quarter, the company [reported](https://investors.palantir.com/news-details/2026/Palantir-Reports-Q2-2026-U-S--Comm-Revenue-Growth-of-149-YY-and-Revenue-Growth-of-93-YY-Raises-FY-"
+      ],
+      "numeric_claims": [
+        "“There are Marxist overtones and undertones to our business,” he wrote in a letter to [shareholders about Palantir’s outstanding quarter he wrote](https://www.palantir.com/q2-2026-letter/en/). “Others, including many of those building large language models, intend, knowingly or otherwise, to capture the means of production of their purported partners.”",
+        "To be clear, AI labs have hardly cornered Palantir out of the market. Quite the opposite. The skyrocketing use of AI helped Palantir achieve record-breaking results. For its second quarter, the company [reported](https://investors.palantir.com/news-details/2026/Palantir-Reports-Q2-2026-U-S--Comm-Revenue-Growth-of-149-YY-and-Revenue-Growth-of-93-YY-Raises-FY-"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "85ef3dedf8bfc4e0aa34",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "published_at_bjt": "2026-08-04T07:19:50+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "afc8d39c9e495399b330",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’ - Yahoo Finance UK",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEJDQjhpN0pEUnp2QkY4ZkpqbWhVdHVxN21pcFBta2VzYmpKRURlVFc4LWlPZ3V6TWFLQU9kRGxaSWFEeTFaN2lOOUttMk5XdnVHU1ZqeTl3LUh1VnV2ZVpiMDRtTm8zbEFrVUZ4ZDJyVnAycEdwUy1YS0ZqY0FZbHViSkx4Ny1R",
+          "published_at_bjt": "2026-08-04T07:19:50+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "4f7ba0173228deb1e316",
+      "headline": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "facts": [
+        "China’s Alibaba takes another swipe at America’s AI supremacy | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"China’s Alibaba takes another swipe at America’s AI supremacy\",\"description\":\"Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. \",\"datePublished\":\"2026-08-03T11:01:11+00:00\",\"dateModified\":\"2026"
+      ],
+      "numeric_claims": [
+        "China’s Alibaba takes another swipe at America’s AI supremacy | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"China’s Alibaba takes another swipe at America’s AI supremacy\",\"description\":\"Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. \",\"datePublished\":\"2026-08-03T11:01:11+00:00\",\"dateModified\":\"2026"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "4f7ba0173228deb1e316",
+          "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "published_at_bjt": "2026-08-03T19:01:11+08:00",
+          "authority_tier": 1
+        }
+      ]
+    },
+    {
+      "story_id": "ce6011755f1495ee3a40",
+      "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "facts": [
+        "Title: Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "After [rounds](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/) of [delays](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/), [Siri AI arrived](https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/) in the consumer beta build ",
+        "And yet, the arrival feels somewhat anticlimactic. Apple finally has a functional — actually, a fairly impressive — AI assistant, but it’s arrived past the time where such a launch feels novel and exciting.",
+        "If anything, the AI race has surged ahead in the months and years Apple has [dawdled](https://techcrunch.com/2025/03/07/ai-powered-more-personalized-siri-is-delayed/) on AI. Today, AI tools are coding and building software, AI agents are completing multistep tasks, and AI is working alongside you, using your computer, reasoning, thinking, remembering, creati",
+        "That is not to say [Apple’s Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) isn’t valuable or useful. With Siri AI’s launch, Apple delivered on its promises and then some."
+      ],
+      "numeric_claims": [
+        "After [rounds](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/) of [delays](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/), [Siri AI arrived](https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/) in the consumer beta build ",
+        "If anything, the AI race has surged ahead in the months and years Apple has [dawdled](https://techcrunch.com/2025/03/07/ai-powered-more-personalized-siri-is-delayed/) on AI. Today, AI tools are coding and building software, AI agents are completing multistep tasks, and AI is working alongside you, using your computer, reasoning, thinking, remembering, creati",
+        "That is not to say [Apple’s Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) isn’t valuable or useful. With Siri AI’s launch, Apple delivered on its promises and then some."
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "ce6011755f1495ee3a40",
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
+          "published_at_bjt": "2026-08-04T02:43:43+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "38d86356338cb17bcc32",
+          "title": "Apple Finally Fixed Siri. So Why Does It Feel Anticlimactic? - Bitcoin World",
+          "source": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xcjRuaGNwcWIzNmI3NmFmZENXYTJRLTM5MGUtWm5OT09VZnhFczFKZXBRN3VseEdUcUE0djdFQTN2NVBNWmZvNW0yd1plSjRiTTcxTEJqTkFkTWxOOTRxM05IZDNzOC1GaW1sdUZyc1FSRUtYRGx0enpn",
+          "published_at_bjt": "2026-08-04T03:00:11+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "0207a85f8617785e87bc",
+      "headline": "Congress’ favorite AI tool? ChatGPT",
+      "facts": [
+        "Title: Congress’ favorite AI tool?",
+        "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)",
+        "* [Latest](https://techcrunch.com/latest/)",
+        "* [Startups](https://techcrunch.com/category/startups/)",
+        "* [Venture](https://techcrunch.com/category/venture/)"
+      ],
+      "numeric_claims": [
+        "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "0207a85f8617785e87bc",
+          "title": "Congress’ favorite AI tool? ChatGPT",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
+          "published_at_bjt": "2026-08-04T00:40:55+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "e3ec4128e7db1b6c1e0b",
+          "title": "What Is Congress’s Favorite AI Tool? - Gizmodo",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JZGt5bFZkVW14Rzdta2NFdGNWcHAyQWNWWFdPZl8tQUpBYXgxSXN1Vnh6b2lEY2R6TFJFVnNQd1Zxb0QwaENOU1Jvd01hbEtBT2xlZ21kcGVSTXVYTFhnYUtMdHpwSGdxczJwRl9neVRTWUk",
+          "published_at_bjt": "2026-08-04T04:56:32+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "d2703faf3ac49ddecabf",
+          "title": "Congress’s AI Spending: ChatGPT Dominates With 90% Of Federal Tool Purchases - Bitcoin World",
+          "source": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nN080RlZNQ0pKRnBwc2ZrWmtjZldOX2ZhRlV4NjRnVUtXeVpfb2JQTXpvNEY4NEZQSWVjMGJ5UER3MEV2b2lDZjUyNk9oNmZSMks2azM0bnBvTmtxSC1ldGdqRFFBTHBTdEdyY3FEZEVHZ2NW",
+          "published_at_bjt": "2026-08-04T01:00:11+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "70a0c4f4c0b67a74180d",
+          "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation - CNBC",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV",
+          "published_at_bjt": "2026-08-03T19:00:01+08:00",
+          "authority_tier": 2
+        }
+      ]
+    }
+  ],
+  "shared_theme": "",
+  "risk_flags": []
+}

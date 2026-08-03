@@ -1,0 +1,293 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-08-04",
+  "articles": [
+    {
+      "id": "43ffd8cfe889c732b881",
+      "category": "tech",
+      "title": "Europe’s AI labeling and transparency rules are now in effect",
+      "summary": "The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc's landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge",
+      "published_at_bjt": "2026-08-04T01:38:45+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Europe’s AI labeling and transparency rules are now in effect | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Europe’s AI labeling and transparency rules are now in effect\",\"description\":\"The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.\",\"datePublished\":\"2026-08-03T17:38:45+00:00\",\"dateModified\":\"2026-08-03T17:38:45+00:00\",\"url\":\"https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes\",\"mainEntityOfPage\":\"https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"The Verge\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016\",\"width\":\"1200\",\"height\":\"628\"}},\"articleSection\":\"AI\",\"keywords\":[\"AI\",\"News\",\"Policy\",\"Politics\",\"Regulation\",\"Tech\"],\"author\":[{\"@type\":\"Person\",\"name\":\"Jess Weatherbed\",\"url\":\"https://www.theverge.com/authors/jess-weatherbed\"}],\"isAccessibleForFree\":false,\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613\",\"height\":\"1068\",\"width\":\"2040\"},{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=0,0,100,100\",\"height\":\"1360\",\"width\":\"2040\"},{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/EU-AI-label-icons-hero.jpg?quality=90&strip=all&crop=16.666666666667,0,66.666666666667,100\",\"height\":\"1360\",\"width\":\"1359\"}],\"speakable\":{\"@type\":\"SpeakableSpecification\",\"xpath\":[\"/html/head/title\",\"/html/head/meta[@name='description']/@content\"]},\"articleBody\":\"The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online. The new transparency obligations under the bloc’s landmark AI Act came into effect on August 2nd, requiring companies to disclose when people are interacting with AI models, and if content has been generated or altered by them.\\nThe transparency rules differ between providers (companies that develop and market AI systems) and deployers (platforms and services that use those AI systems), though some companies like Meta and SpaceXAI are classified as both.\\n[Image: If enough companies do adopt the EU’s AI icons then labels should look more consistent across online platforms. https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-03-181006.jpg?quality=90&strip=all]\\nProviders must design AI systems to explicitly notify users when they’re dealing with AI instead of a human, “unless this is obvious,” and include machine-readable marks on synthetic audio, image, video, and text so that it can be detected as artificially generated or manipulated. Likewise, deployers are required to label any AI-generated or manipulated image, audio, and video deepfake content that’s designed to look real.\\n“The rapid development of generative and interactive AI systems is making it increasingly difficult to distinguish AI interactions and AI-generated content from human-created and authentic content,” the European Commission said in its transparency guidelines. “People should know when they are interacting with AI or exposed to AI-generated content. This will help them make informed decisions, calibrate their trust and reliance on AI and avoid misinformation or deception.”\\nThe Commission has also developed a set of AI disclosure labels that tech platforms can adopt in accordance with the AI Act rules, alongside examples of when they should be used. These mirror similar labels that have already been introduced by TikTok, Instagram, and Facebook. The EU-made icons have been introduced to prevent platforms from having to design their own, and while the EU examples are optional to use, the Commission pointedly notes that its labeling requirements “are not.”\\n[Media: https://www.youtube.com/watch?v=0Xtd8vhytuo]\\nCompanies that fail to comply with these new transparency rules risk facing fines of up to €15 million (about $17.2 million), or 3 percent of their global annual turnover. While the new transparency rules are enforceable immediately for new AI systems, any models and services that launched before August 2nd have a four-month grace period until December 2nd to comply.\",\"about\":[{\"@type\":\"Thing\",\"name\":\"AI\",\"url\":\"https://www.theverge.com/ai-artificial-intelligence\"},{\"@type\":\"Thing\",\"name\":\"News\",\"url\":\"https://www.theverge.com/news\"},{\"@type\":\"Thing\",\"name\":\"Policy\",\"url\":\"https://www.theverge.com/policy\"}]} {\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"AI\",\"item\":\"https://www.theverge.com/ai-artificial-intelligence\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"News\",\"item\":\"https://www.theverge.com/news\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Policy\",\"item\":\"https://www.theverge.com/policy\"}]} function OptanonWrapper() {} try { if (typeof history.scrollRestoration !== 'undefined') { const homepage = window.location.pathname === '/'; const scrollRestorationKey = sessionStorage.getItem('v:feed'); if (homepage && scrollRestorationKey) { history.scrollRestoration = 'manual'; } else { history.scrollRestoration = 'auto'; } } } catch (e) { console.warn('Failed to set scrollRestoration', e); } (function(){var t={\"overtone\":\"nyun1q0\",\"vergeLight\":\"_1se63890\",\"vergeDark\":\"_1nfixzc0\"},k=\"verge-theme\",s={\"dark\":\"vergeDark\",\"light\":\"vergeLight\"},f=null,p=false;function a(n){var c=t[n];if(c)document.body.className=c;document.body.setAttribute('data-duet-theme',n);}try{var q=new URLSearchParams(window.location.search).get('theme');if(q&&t[q]){a(q);p=true;}}catch(e){}if(!p&&f&&t[f]){a(f);p=true;}if(!p)try{var v=localStorage.getItem(k);if(v&&t[v]){a(v);p=true;}}catch(e){}if(!p&&s)try{a(window.matchMedia('(prefers-color-scheme: dark)').matches?s.dark:s.light);}catch(e){}})(); :root { --font-fkroman: '__fkRomanStandard_cfceed', '__fkRomanStandard_Fallback_cfceed', Georgia, serif;--font-manuka: '__manuka_62afb5', '__manuka_Fallback_62afb5', Impact, Helvetica, sans-serif;--font-polysans: '__polySans_9afc27', '__polySans_Fallback_9afc27', Helvetica, Arial, sans-serif;--font-polysans-mono: '__polySansMono_0b836e', '__polySansMono_Fallback_0b836e', Courier New, Courier, monospace; } *, *::before, *::after { transition: none!important; } Skip to main content The homepage The Verge The Verge logo. The Verge The Verge logo. Tech Reviews Science Entertainment AI Policy Notifications Notifications Hamburger Navigation Button The homepage The Verge The Verge logo. Notifications Notifications Hamburger Navigation Button Navigation Drawer The ",
+      "image_url": "images/e8045d5ce048ff38.webp",
+      "image_credit": "伊恩每日 · 本地题图",
+      "image_kind": "fallback",
+      "image_source_url": "https://www.google-analytics.com/g/collect?v=2&tid=G-C3QZPB4GVE&cid=555&en=noscript_page_view",
+      "image_status": "source_unavailable",
+      "image_phash": "ffe6e51ff90f83f1",
+      "community_signals": []
+    },
+    {
+      "id": "85ef3dedf8bfc4e0aa34",
+      "category": "tech",
+      "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "source": "TechCrunch",
+      "published_at_bjt": "2026-08-04T07:19:50+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’\n\nURL Source: https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist\n\nPublished Time: 2026-08-03T23:19:50+00:00\n\nMarkdown Content:\nPalantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.\n\nThe CEO, who famously studied philosophy and earned a PhD in social theory, implied in Palantir’s quarterly shareholder letter that these were the kinds of capitalists who gave rise to Marxist socialism.\n\n“There are Marxist overtones and undertones to our business,” he wrote in a letter to [shareholders about Palantir’s outstanding quarter he wrote](https://www.palantir.com/q2-2026-letter/en/). “Others, including many of those building large language models, intend, knowingly or otherwise, to capture the means of production of their purported partners.”\n\nTo be clear, AI labs have hardly cornered Palantir out of the market. Quite the opposite. The skyrocketing use of AI helped Palantir achieve record-breaking results. For its second quarter, the company [reported](https://investors.palantir.com/news-details/2026/Palantir-Reports-Q2-2026-U-S--Comm-Revenue-Growth-of-149-YY-and-Revenue-Growth-of-93-YY-Raises-FY-2026-Revenue-Guidance-to-82-YY-Growth-and-U-S--Comm-Revenue-Guidance-to-134-YY-Crushing-Consensus-Expectations/) $1.9 billion in revenue, up 93% over the year-ago quarter, and $1.1 billion in profit, “more profit in a single quarter than we did in total revenue in the same period the year before,” he wrote.\n\nDuring the quarterly conference call with Wall Street analysts, he explained his analogy further, relying heavily on a sort of “tech bro patriot” jargon common among defense tech companies. (Palantir’s senior leadership is entirely male.)\n\nHe asked on the call, if companies are going “to buy into a future” where your job helps your “adversaries win, and everybody who does win is a small, tiny group of people living in a tiny place that somehow believe because they eat vegetables and they don’t support war fighters that they deserve to have the total means of production of this country? And the rest of us should just sit by it back and absorb the cost of that revolution, which we’re paying for.”\n\nPalantir, in contrast, serves model-agnostic AI and analysis software to governments and enterprises, and allows organizations to control their data as well as their AI “exhaust,” aka, their prompts, orchestration, context.\n\n“How are we paying for it? In the enterprise context, people sign up for token self pleasurings… at real cost like other forms of self pleasure,” he said. “You are paying for the right for them to migrate your IP, your know-how, your expertise to their model, so that they can build a competitive business that doesn’t require your business or people. And why are they doing it? It’s actually being done for what they believe are moral reasons. They are superior to you. They deserve to colonize your enterprise.”\n\nJarring language aside, he is making an underlying point that is increasingly being repeated elsewhere, including from the likes of [Microsoft CEO Satya Nadella.](https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/)\n\nThis theory points to the [significant list of companies](https://x.com/itsolelehmann/status/2082644674981089564) that partnered or paid for Anthropic and OpenAI while the AI labs launched similar businesses ranging from design tools to, healthcare operations, legal, even drug discovery.\n\nThe truth is, none of these companies are economic villains or heroes — anymore than other for-profit companies are. AI is growing so quickly, the market changing so rapidly, there is clearly room for all, Palantir’s results show.\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n",
+      "image_url": "images/a8c0abd98f8e9ae5.webp",
+      "image_credit": "TechCrunch",
+      "image_kind": "source",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
+      "image_status": "downloaded",
+      "image_phash": "7e7e640000000000",
+      "community_signals": []
+    },
+    {
+      "id": "4f7ba0173228deb1e316",
+      "category": "tech",
+      "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a […]",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+      "source": "The Verge",
+      "published_at_bjt": "2026-08-03T19:01:11+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "China’s Alibaba takes another swipe at America’s AI supremacy | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"China’s Alibaba takes another swipe at America’s AI supremacy\",\"description\":\"Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. \",\"datePublished\":\"2026-08-03T11:01:11+00:00\",\"dateModified\":\"2026-08-03T11:01:11+00:00\",\"url\":\"https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai\",\"mainEntityOfPage\":\"https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai\",\"publisher\":{\"@type\":\"Organization\",\"name\":\"The Verge\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/verge-placeholder_f212b3.png?quality=90&strip=all&crop=0,0.13712291199202,100,99.725754176016\",\"width\":\"1200\",\"height\":\"628\"}},\"articleSection\":\"AI\",\"keywords\":[\"AI\",\"News\",\"Tech\"],\"author\":[{\"@type\":\"Person\",\"name\":\"Robert Hart\",\"url\":\"https://www.theverge.com/authors/robert-hart\"}],\"isAccessibleForFree\":false,\"image\":[{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,10.737892056687,100,78.524215886627\",\"height\":\"2094\",\"width\":\"4000\"},{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0,0.0062492188476426,100,99.987501562305\",\"height\":\"2666\",\"width\":\"4000\"},{\"@type\":\"ImageObject\",\"url\":\"https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=16.6625,0,66.675,100\",\"height\":\"2667\",\"width\":\"2667\"}],\"speakable\":{\"@type\":\"SpeakableSpecification\",\"xpath\":[\"/html/head/title\",\"/html/head/meta[@name='description']/@content\"]},\"articleBody\":\"Chinese tech giant Alibaba released what it says is its largest and “most capable AI model to date,” claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI’s Kimi K3. Alibaba said it was making the model, Qwen3.8-Max, widely available to users in a blog post published on Monday. The release had been expected after the company previewed the model last month, when it claimed it was “second only to Fable 5,” Anthropic’s flagship.\\nThe open release of another highly capable Chinese AI model adds to sky-high tensions along multiple fronts in Silicon Valley and Washington over how to safely manage AI systems and retain the US’ technological edge over China. \\nResults from Alibaba’s own testing shared on Monday suggests it’s as powerful as claimed, as does its ranking on crowdsourced model-comparison platform Arena.AI. Alibaba’s own testing shows the model’s performance to broadly match — and sometimes exceed — that of Fable 5 on benchmark tests. On the Arena text model leaderboard, Qwen3.8-Max trails only Fable 5 and three models in Anthropic’s Opus family. For frontend coding, it is beaten only by two Claude Opus models and Kimi K3, and for visual analysis, only Fable 5 trounces it. \\nAlibaba says Qwen3.8-Max has 2.4 trillion parameters, a numerical measure of the settings a model learns during training that it uses to process data, recognize patterns, and undertake various tasks. While parameter counts are widely used as a shorthand for model performance, a bigger number does not always mean better. Moonshot’s Kimi K3 model has 2.8 trillion parameters, but most top American labs keep figures private, and neither OpenAI nor Anthropic disclose exact counts for their top systems.\\nThe Chinese company said it will release the weights for Qwen3.8-Max next week. Weights are the adjustable numerical values of an AI that determine how it processes information. Open-weight systems, while more restrictive than traditional open-source software, give developers far more control than they have over proprietary products from companies like OpenAI and Anthropic. Qwen3.8-Max marks a return to open-weight releases for Alibaba after the company briefly pivoted towards proprietary releases for its more advanced models earlier this year. \\nOpen-weight releases have become a growing point of differentiation for China’s AI industry, where they have become the norm. Moonshot released Kimi K3’s last week and many other top AI models are also open-weight. Beijing has championed the strategy as a means of growing China’s influence in global AI governance and encouraging widespread adoption of domestic tech champions. \\nAlibaba’s release intensifies competition with China, whose firms appear to be rapidly narrowing the gap with US companies and have increased the tempo of releases in recent weeks. Qwen3.8-Max closely follows the release of Kimi K3, viewed as another challenge to American AI dominance, and both ByteDance and MiniMax released capable new video generation models on Friday. \\nOpenness has also proved to be a divisive issue. Amid reports of potential crackdown on open tools in the wake of the Chinese releases, the US industry has largely rallied around preserving access to open-weight models, both as a safety necessity and as means of preserving competition. That debate comes as closed-model providers, notably OpenAI and Anthropic, face increasing scrutiny after revealing a slew of cyberattacks unknowingly perpetrated by their own escaped AI agents. Incident reports from one victim suggest the restrictive safety rails intended to stop nefarious use of AI models also limits their use as defensive tools.\",\"about\":[{\"@type\":\"Thing\",\"name\":\"AI\",\"url\":\"https://www.theverge.com/ai-artificial-intelligence\"},{\"@type\":\"Thing\",\"name\":\"News\",\"url\":\"https://www.theverge.com/news\"},{\"@type\":\"Thing\",\"name\":\"Tech\",\"url\":\"https://www.theverge.com/tech\"}]} {\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"AI\",\"item\":\"https://www.theverge.com/ai-artificial-intelligence\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"News\",\"item\":\"https://www.theverge.com/news\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Tech\",\"item\":\"https://www.theverge.com/tech\"}]} function OptanonWrapper() {} try { if (typeof history.scrollRestoration !== 'undefined') { const homepage = window.location.pathname === '/'; const scrollRestorationKey = sessionStorage.getItem('v:feed'); if (homepage && scrollRestorationKey) { history.scrollRestoration = 'manual'; } else { history.scrollRestoration = 'auto'; } } } catch (e) { console.warn('Failed to set scrollRestoration', e); } (function(){var t={\"overtone\":\"nyun1q0\",\"vergeLight\":\"_1se63890\",\"vergeDark\":\"_1nfixzc0\"},k=\"verge-theme\",s={\"dark\":\"vergeDark\",\"light\":\"vergeLight\"},f=null,p=false;function a(n){var c=t[n];if(c)document.body.className=c;document.body.setAttribute('data-duet-theme',n);}try{var q=new URLSearchParams(window.location.search).get('theme');if(q&&t[q]){a(q);p=true;}}catch(e){}if(!p&&f&&t[f]){a(f);p=true;}if(!p)try",
+      "image_url": "images/2b967a86af3a5b96.webp",
+      "image_credit": "The Verge",
+      "image_kind": "source",
+      "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&strip=all&crop=0%2C10.737892056687%2C100%2C78.524215886627&w=1200",
+      "image_status": "downloaded",
+      "image_phash": "ffff9c8000000000",
+      "community_signals": []
+    },
+    {
+      "id": "ce6011755f1495ee3a40",
+      "category": "tech",
+      "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. Yet it arrives at a moment when simply being a capable AI assistant no longer feels revolutionary.",
+      "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
+      "source": "TechCrunch",
+      "published_at_bjt": "2026-08-04T02:43:43+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: Apple finally fixed Siri. So why does it feel anticlimactic?\n\nURL Source: https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic\n\nPublished Time: 2026-08-03T18:43:43+00:00\n\nMarkdown Content:\nAfter [rounds](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/) of [delays](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/), [Siri AI arrived](https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/) in the consumer beta build of iOS 27, [launched](https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/) in July. The AI assistant now does what Apple promised: It understands your personal context, taps into broad world knowledge to answer your questions, and surfaces relevant information stored on your iPhone.\n\nAnd yet, the arrival feels somewhat anticlimactic. Apple finally has a functional — actually, a fairly impressive — AI assistant, but it’s arrived past the time where such a launch feels novel and exciting.\n\nIf anything, the AI race has surged ahead in the months and years Apple has [dawdled](https://techcrunch.com/2025/03/07/ai-powered-more-personalized-siri-is-delayed/) on AI. Today, AI tools are coding and building software, AI agents are completing multistep tasks, and AI is working alongside you, using your computer, reasoning, thinking, remembering, creating media, and more. Being a functional chatbot or AI helper isn’t the breakthrough that it once would have been.\n\nThat is not to say [Apple’s Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) isn’t valuable or useful. With Siri AI’s launch, Apple delivered on its promises and then some.\n\nYou can now have natural, back-and-forth conversations with Siri, which has settings that let you tweak the expressivity and pacing of its voice responses. You can also type to the assistant, if you choose, or use it via a dedicated app for the first time, referencing past conversations.\n\nThe assistant can understand your personal context, helping you find things like photos, emails, contacts, texts, or calendar appointments — even when you’re not quite sure what you’re looking for or where. For instance, you could ask it to pull up the last receipt you saved on your iPhone, without saying where it was stored or what the receipt was for, and Siri will find it for you.\n\nYou can also ask it about things you’ve saved only as a photo, like your driver’s license number from a pic of your license, or a QR code you screenshotted to reference later, as a reminder to visit someone’s website. You can launch websites and use apps via Siri, doing things like getting directions, playing music, editing a photo, drafting an email, playing your audiobooks, and much more.\n\nThankfully, Siri now consistently and accurately plays the song, podcast, or audiobook you request on your preferred app — a low bar to be sure, but one [where Siri stumbled before](https://news.ycombinator.com/item?id=35731825).\n\nSiri can brainstorm with you, too. Among other things, it can help you refine ideas, learn about a new topic, or explore a recipe — like suggesting something you can make with your random ingredients in your fridge! You can ask when your favorite band is playing or when a particular event is, and Siri answers correctly, giving you the information you need, based on your location.\n\nYou can use Siri in the camera’s viewfinder to learn about things in the real world or to help you split a restaurant bill with your friends.\n\nIn short, it’s exactly what you always hoped Siri would be: a useful assistant that lets you use your iPhone easily, just by talking, and one that can answer questions of any sort instead of shuffling you off to the web.\n\nThese [improvements](https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/) were made possible by [Apple’s partnership with Google](https://techcrunch.com/2026/01/12/googles-gemini-to-power-apples-ai-features-like-siri/) for the use of its Gemini AI models. Apple didn’t just slap its name on Gemini AI; it used Google’s technology to train and refine its own proprietary Apple Foundation Models. The result is AI models designed to run on Apple’s own silicon and on its private cloud compute infrastructure and actually work.\n\nYet, despite finally delivering a functional, helpful version of Siri, it feels almost like Apple fixed a long-standing bug — a forever-broken Siri — rather than doing something revolutionary here. This is how Siri was meant to work all along. The only marvel is that, after so many years of failing to perform tasks correctly, it actually works.\n\nThe general public who don’t run beta builds on their devices will gain access to the new Siri when Apple officially releases iOS 27, expected in September.\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n\nSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\n\nYou can contact or verify outreach from Sarah by emailing [sarahp@techcrunch.com](mailto:sarahp@techcrunch.com) or via encrypted message at sarahperez.01 on Signal.\n\n[View Bio](https://techcrunch.com/author/sarah-perez/)\n",
+      "image_url": "images/b1c66f7a8b33a19c.webp",
+      "image_credit": "TechCrunch",
+      "image_kind": "source",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+      "image_status": "downloaded",
+      "image_phash": "ffc3c3c747060400",
+      "community_signals": []
+    },
+    {
+      "id": "0207a85f8617785e87bc",
+      "category": "tech",
+      "title": "Congress’ favorite AI tool? ChatGPT",
+      "summary": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
+      "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
+      "source": "TechCrunch",
+      "published_at_bjt": "2026-08-04T00:40:55+08:00",
+      "language": "en",
+      "region": "global",
+      "authority_tier": 1,
+      "engagement": 0,
+      "full_body": "Title: Congress’ favorite AI tool? ChatGPT\n\nURL Source: https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt\n\nPublished Time: 2026-08-03T16:40:55+00:00\n\nMarkdown Content:\n[Skip to content](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt#wp--skip-link--target)\n\n[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)\n\n*   [Latest](https://techcrunch.com/latest/)\n*   [Startups](https://techcrunch.com/category/startups/)\n*   [Venture](https://techcrunch.com/category/venture/)\n*   [Apple](https://techcrunch.com/tag/apple/)\n*   [Security](https://techcrunch.com/category/security/)\n*   [AI](https://techcrunch.com/category/artificial-intelligence/)\n*   [Apps](https://techcrunch.com/category/apps/)\n*   [Disrupt 2026](https://techcrunch.com/events/techcrunch-disrupt/)\n\n*   [Events](https://techcrunch.com/events/)\n*   [Podcasts](https://techcrunch.com/podcasts/)\n*   [Newsletters](https://techcrunch.com/newsletters/)\n\nSearch \n\nSubmit\n\nSite Search Toggle\n\nMega Menu Toggle\n\n### Topics\n\n[Latest](https://techcrunch.com/latest/)\n\n[AI](https://techcrunch.com/category/artificial-intelligence/)\n\n[Amazon](https://techcrunch.com/tag/amazon/)\n\n[Apps](https://techcrunch.com/category/apps/)\n\n[Biotech & Health](https://techcrunch.com/category/biotech-health/)\n\n[Climate](https://techcrunch.com/category/climate/)\n\n[Cloud Computing](https://techcrunch.com/tag/cloud-computing/)\n\n[Commerce](https://techcrunch.com/category/commerce/)\n\n[Crypto](https://techcrunch.com/category/cryptocurrency/)\n\n[Enterprise](https://techcrunch.com/category/enterprise/)\n\n[EVs](https://techcrunch.com/tag/evs/)\n\n[Fintech](https://techcrunch.com/category/fintech/)\n\n[Fundraising](https://techcrunch.com/category/fundraising/)\n\n[Gadgets](https://techcrunch.com/category/gadgets/)\n\n[Gaming](https://techcrunch.com/category/gaming/)\n\n[Google](https://techcrunch.com/tag/google/)\n\n[Government & Policy](https://techcrunch.com/category/government-policy/)\n\n[Hardware](https://techcrunch.com/category/hardware/)\n\n[Instagram](https://techcrunch.com/tag/instagram/)\n\n[Layoffs](https://techcrunch.com/tag/layoffs/)\n\n[Media & Entertainment](https://techcrunch.com/category/media-entertainment/)\n\n[Meta](https://techcrunch.com/tag/meta/)\n\n[Microsoft](https://techcrunch.com/tag/microsoft/)\n\n[Privacy](https://techcrunch.com/category/privacy/)\n\n[Robotics](https://techcrunch.com/category/robotics/)\n\n[Security](https://techcrunch.com/category/security/)\n\n[Social](https://techcrunch.com/category/social/)\n\n[Space](https://techcrunch.com/category/space/)\n\n[Startups](https://techcrunch.com/category/startups/)\n\n[TikTok](https://techcrunch.com/tag/tiktok/)\n\n[Transportation](https://techcrunch.com/category/transportation/)\n\n[Venture](https://techcrunch.com/category/venture/)\n\n### More from TechCrunch\n\n[Staff](https://techcrunch.com/about-techcrunch/)\n\n[Events](https://techcrunch.com/events/)\n\n[Startup Battlefield](https://techcrunch.com/startup-battlefield/)\n\n[StrictlyVC](https://strictlyvc.com/)\n\n[Newsletters](https://techcrunch.com/newsletters/)\n\n[Podcasts](https://techcrunch.com/podcasts/)\n\n[Videos](https://techcrunch.com/video/)\n\n[Partner Content](https://techcrunch.com/sponsored/)\n\n[TechCrunch Brand Studio](https://techcrunch.com/brand-studio/)\n\n[Crunchboard](https://www.crunchboard.com/)\n\n[Contact Us](https://techcrunch.com/contact-us/)\n\n[](https://www.facebook.com/sharer.php?u=https%3A%2F%2Ftechcrunch.com%2F2026%2F08%2F03%2Fcongresss-favorite-ai-tool-chatgpt%2F)[](https://twitter.com/intent/tweet?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F08%2F03%2Fcongresss-favorite-ai-tool-chatgpt%2F&text=Congress%E2%80%99+favorite+AI+tool%3F+ChatGPT&via=techcrunch)[](https://www.linkedin.com/shareArticle?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F08%2F03%2Fcongresss-favorite-ai-tool-chatgpt%2F&title=Congress%E2%80%99+favorite+AI+tool%3F+ChatGPT&summary=House+spending+records+show+OpenAI%27s+ChatGPT+dominates+paid+AI+use+on+Capitol+Hill%2C+with+congressional+offices+relying+on+the+chatbot+to+draft+memos%2C+summarize+legislation%2C+and+assist+constituent+communications.&mini=1&source=TechCrunch)[](https://www.reddit.com/submit?url=https%3A%2F%2Ftechcrunch.com%2F2026%2F08%2F03%2Fcongresss-favorite-ai-tool-chatgpt%2F&title=Congress%E2%80%99+favorite+AI+tool%3F+ChatGPT)[](mailto:?subject=Congress%E2%80%99+favorite+AI+tool%3F+ChatGPT&body=Article%3A+https%3A%2F%2Ftechcrunch.com%2F2026%2F08%2F03%2Fcongresss-favorite-ai-tool-chatgpt%2F)[](https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/)\n\nIn Brief\n\nPosted:\n\n9:40 AM PDT · August 3, 2026\n\n![Image 5](https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024)\n\n**Image Credits:**Samuel Boivin / NurPhoto / Getty Images\n\n*   ![Image 6: Rebecca Bellan](https://techcrunch.com/wp-content/uploads/2021/08/bellan-rebecca-contributor-copy.jpg)\n\n*   [Rebecca Bellan](https://techcrunch.com/author/rebecca-bellan/)\n\n# Congress’ favorite AI tool? ChatGPT\n\nOpenAI’s ChatGPT is Congress’ AI tool of choice so far in terms of money spent, according to a [report from CNBC](https://www.cnbc.com/2026/08/03/openai-chatgpt-anthropic-congress-house-ai-spending.html).\n\nOpenAI received roughly 90% of all spending on AI tools by House offices, committees, and institutional accounts during the year ending in March 31, per House disbursement records. CNBC found that Congress spent around $100,580 across 798 transactions on ChatGPT, out of at least $113,740 in total AI spending. Anthropic’s Claude trailed in second place at $13,160 across 37 transactions.\n\nDemocratic offices accounted for $54,165 in AI purchases, three times the $15,782 spent by Republican offices.\n\nThe insights exclude any Congressional AI adoption from free accounts or AI bundled into broader software contracts.\n\nCongressional staffers are using ChatGPT and other tools to write memos, summarize and analyze legislation, respond to constituents, prepare hearing materials, sort through policy research, and even draft social media posts.\n\nTopics\n\n[AI](https://techcrunch.com/category/artificial-intelligence/), [ChatGPT](https://techcrunch.com/tag/chatgpt/), [Congress](https://techcrunch.com/tag/congress/), [Government & Policy](https://techcrunch.com/category/government-policy/), [In Brief](https://techcrunch.com/tag/in-brief/), [OpenAI](https://techcrunch.com/tag/openai/)\n\n![Image 7: Event Logo](https://techcrunch.com/wp-content/uploads/2025/04/Disrupt2026-Color.png)\n\nOctober 13 – 15\n\nSan Francisco\n\nScale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.\n\n**Save up to $330 toda**y!\n\n[**REGISTER NOW**](https://techcrunch.com/events/tc-disrupt-2026/?utm_source=tc&utm_medium=ad&utm_campaign=disrupt2026&utm_content=ticketsales&promo=rightrail_disrupt2025_rb&display=)\n",
+      "image_url": "images/6c2d37f113041241.webp",
+      "image_credit": "TechCrunch",
+      "image_kind": "source",
+      "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+      "image_status": "downloaded",
+      "image_phash": "ccb9dcb9b878e060",
+      "community_signals": []
+    }
+  ],
+  "fact_packs": [
+    {
+      "story_id": "43ffd8cfe889c732b881",
+      "headline": "Europe’s AI labeling and transparency rules are now in effect",
+      "facts": [
+        "Europe’s AI labeling and transparency rules are now in effect | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"Europe’s AI labeling and transparency rules are now in effect\",\"description\":\"The European Union has ushered in some additional rules that aim to make it easier for people to identify chatbots and AI deepfakes online.\",\"datePublished\":\"2026-08-03T17:38:45+00:00\",\"dateModified\":\"2026-08-03T17:38:45+00:00\",\"url\":\"https://www.theverge.com/ai-artificial-intelli"
+      ],
+      "sources": [
+        {
+          "article_id": "43ffd8cfe889c732b881",
+          "title": "Europe’s AI labeling and transparency rules are now in effect",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "published_at_bjt": "2026-08-04T01:38:45+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "0350920093172a74dd07",
+          "title": "EU AI Act Transparency Rules Are Now In Effect. Was It A Missed Opportunity? - Tech Policy Press",
+          "source": "Tech Policy Press",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU3Z0RU5HTGdmd2l0U09VWm94TENiV1ZEZlMyVTYxcUxJMm1ZLTRtNDgtUGV2SzA3czJ5bk5DX0N4LXlBVXVVcXRYaGxwVUlrdEp0WFJPZzNtUmVXSDhBNWdGS3hzem1CMkNqWUtvcHRKOU83RE1oN2NiaTR2ZTZsYXlCcm8xSEtBbHcwNVNRZFpRSlJHbTNMZEFxWDRXYWcz",
+          "published_at_bjt": "2026-08-03T21:09:03+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "d8cdfb762408abe5cc8d",
+          "title": "Europe’s AI Labels Are Now Mandatory - WeRSM",
+          "source": "WeRSM",
+          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xMHF4VndNWDJoWENKOTQ3RlVxbWxxajBmb2laNGJETFR3RWV1azRDTVJva0xqWWRYX3pXcnVnSEtlYzhiT3EySjNnUnd0MUhUSm5DdFhTdXd6SDhBOWZIUlc4SF8",
+          "published_at_bjt": "2026-08-04T04:05:13+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "d661ebc329b6ac52893b",
+          "title": "EU Artificial Intelligence Act transparency rules now in place across Europe - Open Access Government",
+          "source": "Open Access Government",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLVVyTnhGQXoxM1dPSU1lc2N5d2pYM19HcW85YTZxQ1VGdEJKckRHM1NYMVRPV2JOTmk2S1BwQXhsTDZQVXg1RGlUZWc4NlBPdi1fTUlQa0ZkaVJJQUJXdGdwclVOR2RGWjNyUzFwQU80SzBZYkFSRjctTXlpZkNJRS1qTVJVWUxORmh2c2VWM2JiQ3l0ejhSemFJbTNINmU2U2hFWEVDMzIySWZJRVNLdjRUOTBfbVV5bmFlWUZ3",
+          "published_at_bjt": "2026-08-03T21:21:37+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "85ef3dedf8bfc4e0aa34",
+      "headline": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+      "facts": [
+        "Title: After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+        "Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+        "The CEO, who famously studied philosophy and earned a PhD in social theory, implied in Palantir’s quarterly shareholder letter that these were the kinds of capitalists who gave rise to Marxist socialism.",
+        "“There are Marxist overtones and undertones to our business,” he wrote in a letter to [shareholders about Palantir’s outstanding quarter he wrote](https://www.palantir.com/q2-2026-letter/en/). “Others, including many of those building large language models, intend, knowingly or otherwise, to capture the means of production of their purported partners.”",
+        "To be clear, AI labs have hardly cornered Palantir out of the market. Quite the opposite. The skyrocketing use of AI helped Palantir achieve record-breaking results. For its second quarter, the company [reported](https://investors.palantir.com/news-details/2026/Palantir-Reports-Q2-2026-U-S--Comm-Revenue-Growth-of-149-YY-and-Revenue-Growth-of-93-YY-Raises-FY-2026-Revenue-Guidance-to-82-YY-Growth-and-U-S--Comm-Revenue-Guidance-to-134-YY-Crushing-Consensus-Expectations/) $1.9 billion in revenue, up",
+        "During the quarterly conference call with Wall Street analysts, he explained his analogy further, relying heavily on a sort of “tech bro patriot” jargon common among defense tech companies. (Palantir’s senior leadership is entirely male.)",
+        "He asked on the call, if companies are going “to buy into a future” where your job helps your “adversaries win, and everybody who does win is a small, tiny group of people living in a tiny place that somehow believe because they eat vegetables and they don’t support war fighters that they deserve to have the total means of production of this country?",
+        "And the rest of us should just sit by it back and absorb the cost of that revolution, which we’re paying for.”"
+      ],
+      "sources": [
+        {
+          "article_id": "85ef3dedf8bfc4e0aa34",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "published_at_bjt": "2026-08-04T07:19:50+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "afc8d39c9e495399b330",
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’ - Yahoo Finance UK",
+          "source": "Yahoo Finance UK",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEJDQjhpN0pEUnp2QkY4ZkpqbWhVdHVxN21pcFBta2VzYmpKRURlVFc4LWlPZ3V6TWFLQU9kRGxaSWFEeTFaN2lOOUttMk5XdnVHU1ZqeTl3LUh1VnV2ZVpiMDRtTm8zbEFrVUZ4ZDJyVnAycEdwUy1YS0ZqY0FZbHViSkx4Ny1R",
+          "published_at_bjt": "2026-08-04T07:19:50+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "4f7ba0173228deb1e316",
+      "headline": "China’s Alibaba takes another swipe at America’s AI supremacy",
+      "facts": [
+        "China’s Alibaba takes another swipe at America’s AI supremacy | The Verge {\"@context\":\"https://schema.org\",\"@type\":\"NewsArticle\",\"headline\":\"China’s Alibaba takes another swipe at America’s AI supremacy\",\"description\":\"Alibaba says its latest model can compete with Anthropic’s Claude Fable 5. \",\"datePublished\":\"2026-08-03T11:01:11+00:00\",\"dateModified\":\"2026-08-03T11:01:11+00:00\",\"url\":\"https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai\",\"mainEntityOfPage\""
+      ],
+      "sources": [
+        {
+          "article_id": "4f7ba0173228deb1e316",
+          "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+          "published_at_bjt": "2026-08-03T19:01:11+08:00",
+          "authority_tier": 1
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "ce6011755f1495ee3a40",
+      "headline": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+      "facts": [
+        "Title: Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "After [rounds](https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/) of [delays](https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/), [Siri AI arrived](https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/) in the consumer beta build of iOS 27, [launched](https://www.macrumors.com/2026/07/13/apple-seeds-ios-27-public-beta-1/) in July. The AI assistant now does what Apple ",
+        "And yet, the arrival feels somewhat anticlimactic. Apple finally has a functional — actually, a fairly impressive — AI assistant, but it’s arrived past the time where such a launch feels novel and exciting.",
+        "If anything, the AI race has surged ahead in the months and years Apple has [dawdled](https://techcrunch.com/2025/03/07/ai-powered-more-personalized-siri-is-delayed/) on AI. Today, AI tools are coding and building software, AI agents are completing multistep tasks, and AI is working alongside you, using your computer, reasoning, thinking, remembering, creating media, and more. Being a functional chatbot or AI helper isn’t the breakthrough that it once would have been.",
+        "That is not to say [Apple’s Siri AI](https://www.apple.com/newsroom/2026/06/apple-introduces-siri-ai-a-profoundly-more-capable-and-personal-assistant/) isn’t valuable or useful. With Siri AI’s launch, Apple delivered on its promises and then some.",
+        "You can now have natural, back-and-forth conversations with Siri, which has settings that let you tweak the expressivity and pacing of its voice responses. You can also type to the assistant, if you choose, or use it via a dedicated app for the first time, referencing past conversations.",
+        "The assistant can understand your personal context, helping you find things like photos, emails, contacts, texts, or calendar appointments — even when you’re not quite sure what you’re looking for or where. For instance, you could ask it to pull up the last receipt you saved on your iPhone, without saying where it was stored or what the receipt was for, and Siri will find it for you.",
+        "You can also ask it about things you’ve saved only as a photo, like your driver’s license number from a pic of your license, or a QR code you screenshotted to reference later, as a reminder to visit someone’s website. You can launch websites and use apps via Siri, doing things like getting directions, playing music, editing a photo, drafting an email, playing your audiobooks, and much more."
+      ],
+      "sources": [
+        {
+          "article_id": "ce6011755f1495ee3a40",
+          "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic",
+          "published_at_bjt": "2026-08-04T02:43:43+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "38d86356338cb17bcc32",
+          "title": "Apple Finally Fixed Siri. So Why Does It Feel Anticlimactic? - Bitcoin World",
+          "source": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xcjRuaGNwcWIzNmI3NmFmZENXYTJRLTM5MGUtWm5OT09VZnhFczFKZXBRN3VseEdUcUE0djdFQTN2NVBNWmZvNW0yd1plSjRiTTcxTEJqTkFkTWxOOTRxM05IZDNzOC1GaW1sdUZyc1FSRUtYRGx0enpn",
+          "published_at_bjt": "2026-08-04T03:00:11+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    },
+    {
+      "story_id": "0207a85f8617785e87bc",
+      "headline": "Congress’ favorite AI tool? ChatGPT",
+      "facts": [
+        "Title: Congress’ favorite AI tool?",
+        "[![Image 3](https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg)TechCrunch Desktop Logo](https://techcrunch.com/)[![Image 4](https://techcrunch.com/wp-content/uploads/2024/09/tc-logo-mobile.svg)TechCrunch Mobile Logo](https://techcrunch.com/)",
+        "*   [Latest](https://techcrunch.com/latest/)",
+        "*   [Startups](https://techcrunch.com/category/startups/)",
+        "*   [Venture](https://techcrunch.com/category/venture/)",
+        "*   [Apple](https://techcrunch.com/tag/apple/)",
+        "*   [Security](https://techcrunch.com/category/security/)",
+        "*   [AI](https://techcrunch.com/category/artificial-intelligence/)"
+      ],
+      "sources": [
+        {
+          "article_id": "0207a85f8617785e87bc",
+          "title": "Congress’ favorite AI tool? ChatGPT",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt",
+          "published_at_bjt": "2026-08-04T00:40:55+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "e3ec4128e7db1b6c1e0b",
+          "title": "What Is Congress’s Favorite AI Tool? - Gizmodo",
+          "source": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JZGt5bFZkVW14Rzdta2NFdGNWcHAyQWNWWFdPZl8tQUpBYXgxSXN1Vnh6b2lEY2R6TFJFVnNQd1Zxb0QwaENOU1Jvd01hbEtBT2xlZ21kcGVSTXVYTFhnYUtMdHpwSGdxczJwRl9neVRTWUk",
+          "published_at_bjt": "2026-08-04T04:56:32+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "d2703faf3ac49ddecabf",
+          "title": "Congress’s AI Spending: ChatGPT Dominates With 90% Of Federal Tool Purchases - Bitcoin World",
+          "source": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nN080RlZNQ0pKRnBwc2ZrWmtjZldOX2ZhRlV4NjRnVUtXeVpfb2JQTXpvNEY4NEZQSWVjMGJ5UER3MEV2b2lDZjUyNk9oNmZSMks2azM0bnBvTmtxSC1ldGdqRFFBTHBTdEdyY3FEZEVHZ2NW",
+          "published_at_bjt": "2026-08-04T01:00:11+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "70a0c4f4c0b67a74180d",
+          "title": "ChatGPT dominates early AI spending in Congress as lawmakers weigh regulation - CNBC",
+          "source": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZ1BLdlA5cWZ3WDdqdXQ2MTQyTGd6c2E4UDNlekpkSWpKbUtsVVdNMEY0dlNFX3dELUJrSmFPQXBmR0RHcHNyc2IyRzFoREFBQW1kdUtyeVFLLU56TEdTc0U4TUR3SEl3Mi10dlZRYnRXZVE5a05keU81aVlyNVdyMDFwTDlTRzIteVFfWE1mV21CZ9IBlwFBVV95cUxQLXNHTThFYzNpRmtCa2dHSjJnSU9MMEpJay1KbE55N21ES1U1ejJNT055X2pHb1lhcjUzT2RHbzRGRVlyOFExRUtyNG1xelhiWXV4SHdUUUhpTlBXUUFKUXRKeGNaR19TSndjRmV4ZDNybW4zcUxJbGgzeEtuaUxUWDc0Z0dXU2NzRGRXbERKdHI4VmdRYWRV",
+          "published_at_bjt": "2026-08-03T19:00:01+08:00",
+          "authority_tier": 2
+        }
+      ],
+      "uncertainties": [],
+      "community_signals": []
+    }
+  ]
+}
