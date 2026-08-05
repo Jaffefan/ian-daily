@@ -1,0 +1,917 @@
+{
+  "episode_id": "2026-08-05-tech",
+  "schema_version": 4,
+  "category": "tech",
+  "category_name": "科技",
+  "date_bjt": "2026-08-05",
+  "story_set": {
+    "category": "tech",
+    "date_bjt": "2026-08-05",
+    "articles": [
+      {
+        "id": "9be0fafa6f21f3b3158f",
+        "category": "tech",
+        "title": "AMD’s data center business is booming while gaming takes a backseat",
+        "summary": "Driven by demand for AI capacity, AMD's data center revenue more than doubled year-over-year in its latest earnings report, reaching $6.7 billion. That's up from $5.8 billion in Q1, and jumping 107 percent from the $3.2 billion it reported for the same period a year ago. During Tuesday's earnings call, AMD CEO Lisa Su said […]",
+        "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+        "source": "The Verge",
+        "published_at_bjt": "2026-08-05T04:57:49+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: AMD’s data center business is booming while gaming takes a backseat\n\nURL Source: https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen\n\nPublished Time: 2026-08-04T20:57:49+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975381%2Famd-q2-2026-earnings-ai-gaming-ryzen)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975381%2Famd-q2-2026-earnings-ai-gaming-ryzen) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975381%2Famd-q2-2026-earnings-ai-gaming-ryzen)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nAMD’s data center business is booming while gaming takes a backseat\n\n[3](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen#comments)\n\nComments Drawer\n\nComments\n\n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Business Business \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Business](https://www.theverge.com/business)  \n\n# AMD’s data center business is booming while gaming takes a backseat\n\nThe company’s data center revenue has more than doubled, hitting $6.7 billion.\n\nThe company’s data center revenue has more than doubled, hitting $6.7 billion.\n\nby Stevie Bonifield\n\n![Image 4: Stevie Bonifield](https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STEVIE_BONIFIELD_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nStevie Bonifield\n\nNews Writer\n\nPosts from",
+        "image_url": "images/66401dc046b013f9.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "4f4f4343417d3f0f",
+        "community_signals": []
+      },
+      {
+        "id": "30d8d6544d2f9c31bee1",
+        "category": "tech",
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "summary": "SpaceX's AI revenue grew more than three times to $2.6 billion from the year before, mostly because of deals that the company made to provide compute to other AI companies, according to SpaceX's quarterly earnings. The AI division, which the company said in its documents to go public was the source of most of its […]",
+        "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+        "source": "The Verge",
+        "published_at_bjt": "2026-08-05T04:47:55+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: SpaceX made more revenue as an AI company than a space company\n\nURL Source: https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud\n\nPublished Time: 2026-08-04T20:47:55+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F975335%2Fspacex-made-more-money-as-a-neocloud)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F975335%2Fspacex-made-more-money-as-a-neocloud) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F975335%2Fspacex-made-more-money-as-a-neocloud)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nSpaceX made more revenue as an AI company than a space company\n\n[3](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud#comments)\n\nComments Drawer\n\nComments\n\n*   Science Science \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Science](https://www.theverge.com/science)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Business Business \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Business](https://www.theverge.com/business)  \n\n# SpaceX made more revenue as an AI company than a space company\n\nBut it’s still losing money overall.\n\nBut it’s still losing money overall.\n\nby Elizabeth Lopatto\n\n![Image 2: Elizabeth Lopatto](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195809/ELIZABETH_LOPATTO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nElizabeth Lopatto\n\nSenior Reporter\n\nPosts from this author will be added to your dail",
+        "image_url": "images/0bb2e501a2dbb3d8.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0%2C10.754013220586%2C100%2C78.491973558828&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "00c0c0c0d0f0c0e0",
+        "community_signals": []
+      },
+      {
+        "id": "8a853907275af03bba9e",
+        "category": "tech",
+        "title": "How an OpenAI influencer trip backfired",
+        "summary": "The brand trip is a right of passage for influencers. It's a mark of legitimacy that a sponsor wants to invite them on an all-expenses-paid vacation, often with luxurious freebies and activities. Trips can also spur hard feelings from uninvited influencers, trigger criticism from the public, and project a certain frivolousness. Usually it is fast […]",
+        "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+        "source": "The Verge",
+        "published_at_bjt": "2026-08-05T01:46:41+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: How an OpenAI influencer trip backfired\n\nURL Source: https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing\n\nPublished Time: 2026-08-04T17:46:41+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975173%2Fopenai-influencers-brand-trip-ai-backlash-marketing)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975173%2Fopenai-influencers-brand-trip-ai-backlash-marketing) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975173%2Fopenai-influencers-brand-trip-ai-backlash-marketing)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\nHow an OpenAI influencer trip backfired\n\n[18](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing#comments)\n\nComments Drawer\n\nComments\n\n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Entertainment Entertainment \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Entertainment](https://www.theverge.com/entertainment)  \n\n# How an OpenAI influencer trip backfired\n\nWhat did the content creators learn about ChatGPT at the “summer club” weekend trip?\n\nWhat did the content creators learn about ChatGPT at the “summer club” weekend trip?\n\nby Mia Sato\n\n![Image 3: Mia Sato](https://platform.theverge.com/wp-content/uploads/sites/2/chorus/author_profile_images/195839/MIA_SATO.0.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nMia ",
+        "image_url": "images/bd0ac774957f45ef.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&strip=all&crop=0,32.674640384805,100,34.650719230389",
+        "image_status": "downloaded",
+        "image_phash": "1f3f2302020c1f1f",
+        "community_signals": []
+      },
+      {
+        "id": "d9bbcafa4afdbcf849d8",
+        "category": "tech",
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "summary": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+        "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+        "source": "TechCrunch",
+        "published_at_bjt": "2026-08-04T23:50:06+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Spotify expands AI remix and covers project with Merlin partnership\n\nURL Source: https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort\n\nPublished Time: 2026-08-04T15:50:06+00:00\n\nMarkdown Content:\nDuring its second-quarter earnings call on Tuesday, Spotify again teased the upcoming release of a new product that will allow music fans to leverage AI to make covers and remixes of artists’ music, with the artists’ consent.\n\nThe company [also announced that Merlin,](https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/) a licensing partner for independent labels and distributors, has now joined Universal Music Group (UMG) on the new AI music effort. The deal brings more than 30,000 labels from Merlin’s network to the product, which will allow fan-made covers and remixes by artists who agree to participate.\n\nSpotify has positioned its AI music product as being significantly different from the more controversial AI music startups that have been used to create fully artificial songs. Instead, Spotify co-CEO Gustav Söderström told investors on Tuesday’s call that the company’s AI music product will be about “real artists, not fake artists.”\n\n“We want artists to be consenting [to add] their work into this catalog, so people can play around with covers and remixes based on their art,” added co-CEO Alex Norström. “We also obviously want to give them credit. And last but not least…we not only have the consent and give credit, but we also drive the compensation for this. So, really, we’re talking about the first legal way to partake in this AI tailwind that we see coming for interactive music,” he said.\n\nAI music has flooded streaming services. Music streamer Deezer recently noted that [more than 50% of daily track uploads were generated with AI](https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/), up from 10% in January 2025.\n\nThe company told investors that a research preview of the fan remix and covers product would initially be made available to a subset of users. Spotify also noted that it would not require a full music catalog to get started. The company did not say when the preview would arrive.\n\nThe new tool will launch as a paid add-on, creating an additional revenue stream for artists, Spotify previously said.\n\n“Our remix and covers I think is an incredibly exciting product again because there is no one else that can really do this,” Söderström said. “Normal generative music will happen with or without us. This product will not happen without us, and it needs to exist so that existing artists can participate in this.”\n\n_When you purchase through links in our articles, [we may earn a small commission](https://techcrunch.com/techcrunch-affiliate-monetization-standards/). This doesn’t affect our editorial independence._\n\nSarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.\n\nYou can contact or verify outreach from Sarah by emailing [sarahp@techcrunch.com](mailto:sarahp@techcrunch.com) or via encrypted message at sarahperez.01 on Signal.\n\n[View Bio](https://techcrunch.com/author/sarah-perez/)\n",
+        "image_url": "images/427effb827f3d608.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "image_kind": "fallback",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg",
+        "image_status": "source_unavailable",
+        "image_phash": "f32bec838f1fafe7",
+        "community_signals": []
+      },
+      {
+        "id": "4bfbf86462cb0fec4fb2",
+        "category": "tech",
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "summary": "Hank Green, a popular YouTuber and science communicator, said he is stepping back from production amid intense criticism over his use of AI. Green described his AI usage as \"not healthy,\" but stressed that he used it for finding research sources and not to write scripts. Much of the ensuing firestorm in this corner of […]",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+        "source": "The Verge",
+        "published_at_bjt": "2026-08-05T01:33:46+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: ‘Not healthy’ LLM use is more common than you think\n\nURL Source: https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy\n\nPublished Time: 2026-08-04T17:33:46+00:00\n\nMarkdown Content:\n[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy#content)\n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F975180%2Fllm-ai-chatbot-use-not-healthy)\n\n[](https://www.theverge.com/)\n\n*   [Tech](https://www.theverge.com/tech)\n*   [Reviews](https://www.theverge.com/reviews)\n*   [Science](https://www.theverge.com/science)\n*   [Entertainment](https://www.theverge.com/entertainment)\n*   [AI](https://www.theverge.com/ai-artificial-intelligence)\n*   [Policy](https://www.theverge.com/policy)\n*      \n\n[The homepage](https://www.theverge.com/)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)\n\nNavigation Drawer\n\n*   [Login](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F975180%2Fllm-ai-chatbot-use-not-healthy) /  [Sign Up](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F975180%2Fllm-ai-chatbot-use-not-healthy)\n\nclose\n\nSearch \n\nLight System Dark\n\n*   Tech\n\n    *   [Amazon](https://www.theverge.com/amazon)\n    *   [Apple](https://www.theverge.com/apple)\n    *   [Facebook](https://www.theverge.com/facebook)\n    *   [Google](https://www.theverge.com/google)\n    *   [Microsoft](https://www.theverge.com/microsoft)\n    *   [Samsung](https://www.theverge.com/samsung)\n    *   [Business](https://www.theverge.com/business)\n    *   [See all tech](https://www.theverge.com/tech)\n\n*   Reviews\n\n    *   [Smart Home Reviews](https://www.theverge.com/smart-home-review)\n    *   [Phone Reviews](https://www.theverge.com/phone-review)\n    *   [Tablet Reviews](https://www.theverge.com/tablet-review)\n    *   [Headphone Reviews](https://www.theverge.com/headphone-review)\n    *   [See all reviews](https://www.theverge.com/reviews)\n\n*   Science\n\n    *   [Space](https://www.theverge.com/space)\n    *   [Energy](https://www.theverge.com/energy)\n    *   [Environment](https://www.theverge.com/environment)\n    *   [Health](https://www.theverge.com/health)\n    *   [See all science](https://www.theverge.com/science)\n\n*   Entertainment\n\n    *   [TV Shows](https://www.theverge.com/tv)\n    *   [Movies](https://www.theverge.com/film)\n    *   [Audio](https://www.theverge.com/audio)\n    *   [See all entertainment](https://www.theverge.com/entertainment)\n\n*   AI\n\n    *   [OpenAI](https://www.theverge.com/openai)\n    *   [Anthropic](https://www.theverge.com/anthropic)\n    *   [See all AI](https://www.theverge.com/ai-artificial-intelligence)\n\n*   Policy\n\n    *   [Antitrust](https://www.theverge.com/antitrust)\n    *   [Politics](https://www.theverge.com/politics)\n    *   [Law](https://www.theverge.com/law)\n    *   [Security](https://www.theverge.com/cyber-security)\n    *   [See all policy](https://www.theverge.com/policy)\n\n*   Gadgets\n\n    *   [Laptops](https://www.theverge.com/laptops)\n    *   [Phones](https://www.theverge.com/phones)\n    *   [TVs](https://www.theverge.com/televisions)\n    *   [Headphones](https://www.theverge.com/headphone)\n    *   [Speakers](https://www.theverge.com/speakers)\n    *   [Wearables](https://www.theverge.com/wearables)\n    *   [See all gadgets](https://www.theverge.com/gadgets)\n\n*   Verge Shopping\n\n    *   [Buying Guides](https://www.theverge.com/buying-guides)\n    *   [Deals](https://www.theverge.com/good-deals)\n    *   [Gift Guides](https://www.theverge.com/gift-guides)\n    *   [See all shopping](https://www.theverge.com/shopping)\n\n*   Gaming\n\n    *   [Xbox](https://www.theverge.com/microsoft-xbox)\n    *   [PlayStation](https://www.theverge.com/sony-playstation)\n    *   [Nintendo](https://www.theverge.com/nintendo)\n    *   [See all gaming](https://www.theverge.com/games)\n\n*   Streaming\n\n    *   [Disney](https://www.theverge.com/disney)\n    *   [HBO](https://www.theverge.com/hbo)\n    *   [Netflix](https://www.theverge.com/netflix)\n    *   [YouTube](https://www.theverge.com/youtube)\n    *   [Creators](https://www.theverge.com/creators)\n    *   [See all streaming](https://www.theverge.com/streaming)\n\n*   Transportation\n\n    *   [Electric Cars](https://www.theverge.com/electric-cars)\n    *   [Autonomous Cars](https://www.theverge.com/autonomous-cars)\n    *   [Ride-sharing](https://www.theverge.com/ride-sharing)\n    *   [Scooters](https://www.theverge.com/scooters)\n    *   [See all transportation](https://www.theverge.com/transportation)\n\n*   [Features](https://www.theverge.com/features)\n*   Verge Video\n\n    *   [TikTok](https://www.tiktok.com/@verge)\n    *   [YouTube](https://www.youtube.com/theverge)\n    *   [Instagram](https://www.instagram.com/verge)\n\n*   Podcasts\n\n    *   [Decoder](https://www.theverge.com/decoder-podcast-with-nilay-patel)\n    *   [The Vergecast](https://www.theverge.com/the-vergecast)\n    *   [Version History](https://www.theverge.com/version-history-podcast)\n\n*   [Newsletters](https://www.theverge.com/newsletters)\n*   [Archives](https://www.theverge.com/archives/full)\n*   [Store](https://shop.theverge.com/)\n*   [Verge Product Updates](https://www.theverge.com/verge-product-updates)\n\n[Subscribe](https://www.theverge.com/subscribe?itm_campaign=menu-nav-subscribe&itm_medium=site&itm_source=navigation)\n\n*   [](https://www.facebook.com/verge)\n*   [](https://www.threads.net/@verge)\n*   [](https://www.instagram.com/verge)\n*   [](https://www.youtube.com/user/theverge)\n*   [](https://www.theverge.com/rss/index.xml)\n\n[](https://www.theverge.com/)\n\n‘Not healthy’ LLM use is more common than you think\n\n[67](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy#comments)\n\nComments Drawer\n\nComments\n\n*   AI AI \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All AI](https://www.theverge.com/ai-artificial-intelligence)  \n*   Tech Tech \nPosts from this topic will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All Tech](https://www.theverge.com/tech)  \n\n# ‘Not healthy’ LLM use is more common than you think\n\nIt’s not just Hank Green.\n\nIt’s not just Hank Green.\n\nby Robert Hart\n\n![Image 3: Robert Hart](https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/ROB_H_BLURPLE.jpg?quality=90&strip=all&crop=0%2C0%2C100%2C100&w=2400)\n\nRobert Hart\n\nAI Reporter\n\nPosts from this author will be added to your daily email digest and your homepage feed.\n\nFollow\n[See All by Robert Hart](https://www.theverge.com/authors/robert-hart)\n\nAug 4, 2026, 5:33 PM UTC\n\n*    \n\n*    \n\n[6 7 67 Comments (All New)](https://www.theverge.com/ai-art",
+        "image_url": "images/6065d82cf726272b.webp",
+        "image_credit": "The Verge",
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "00201c16161e0800",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "9be0fafa6f21f3b3158f",
+        "headline": "AMD’s data center business is booming while gaming takes a backseat",
+        "facts": [
+          "Title: AMD’s data center business is booming while gaming takes a backseat",
+          "[Skip to main content](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975381%2Famd-q2-2026-earnings-ai-gaming-ryzen)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "9be0fafa6f21f3b3158f",
+            "title": "AMD’s data center business is booming while gaming takes a backseat",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+            "published_at_bjt": "2026-08-05T04:57:49+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "df30ae32b20a67963f8d",
+            "title": "AMD's AI Boom Pushes Data Center Revenue Past $6.7B - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWM2anFPRGlYYlY0M1NpdWxNZ2VLNEpBNktyLU92NHA3OThETFJkeVV1a0x4WDdMZU8wczkyc1hOQ2tUeTExbGxIV24xVHBjVU5iYXloLTZINzNGYWVnRDVpblMxcVdnSDNWS0RVWl90blF2bVFzN0JhMno2TkZIR2ZZN0c3YVo2d0d3",
+            "published_at_bjt": "2026-08-05T05:30:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "30d8d6544d2f9c31bee1",
+        "headline": "SpaceX made more revenue as an AI company than a space company",
+        "facts": [
+          "Title: SpaceX made more revenue as an AI company than a space company",
+          "[Skip to main content](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F975335%2Fspacex-made-more-money-as-a-neocloud)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "30d8d6544d2f9c31bee1",
+            "title": "SpaceX made more revenue as an AI company than a space company",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+            "published_at_bjt": "2026-08-05T04:47:55+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "9c3fdef207f7fd564e91",
+            "title": "Why SpaceX's $135 IPO May Have More To Do With AI Than Space - Forbes",
+            "source": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVVybXFMR0Q5bXExdVJKVDh5VEw3bDRZZHg1S2xzRTB6OGFlcS1SdUVPWmJSQ182c1FtaDNfNEpVeVZ4bDczTzNpTzYxY1RHdFFRdHpiSlVvYWNWaktHY3JtYUZvc2pUQ0czNzN6RFg0SU1aR1pnTEtrZ1g5QkNiXzd2bWh6OTZxNkFWUWlTVEZ2c2NvMC0weG1rUkxDa016RVJWU1FXeU0wanM1V0FJ",
+            "published_at_bjt": "2026-06-12T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "4d0a2743051955b6d7ca",
+            "title": "SpaceX revenue jumps 92% but stock tumbles as investors weigh AI spending - CNN",
+            "source": "CNN",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU1BOS1E0Rnh1MjR5bzJaekFjNFZVSFdrT3R3Vl84czd0Y1Q2ZlcwQzcxdTg2MlotX2hxQmNCVTFvNWpydmNYTlhTS0JLVWVZVExybTZLX2wxeEdHSmFYR3RUN2ozUnFVWTd4dUQtNUs",
+            "published_at_bjt": "2026-08-05T04:14:59+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "12f5364e53e04e4620d3",
+            "title": "Starlink drives SpaceX revenue as AI, launches lag - San Antonio Express-News",
+            "source": "San Antonio Express-News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWFjZm1vSFZnVm5lSkFMbGliQWUtTmJBNUhxWGdoZkdSWlcwVnR1T0VzdmNOWUFVSkQtM1k5Mk90aVhmMm1zU3RBV2g4cWtVamg4YTEySVJuTUJKQ1k0REprMFpDd2VEYTVLUEdYLU5qNndaNmxsM285QUkwbTM5dUhkRTl6dmQwVldKRTJlTzdOc01MMVM3YncxVE93SjVwWDdqOS1tNURpYTA",
+            "published_at_bjt": "2026-08-05T04:58:46+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "8a853907275af03bba9e",
+        "headline": "How an OpenAI influencer trip backfired",
+        "facts": [
+          "Title: How an OpenAI influencer trip backfired",
+          "[Skip to main content](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975173%2Fopenai-influencers-brand-trip-ai-backlash-marketing)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "8a853907275af03bba9e",
+            "title": "How an OpenAI influencer trip backfired",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+            "published_at_bjt": "2026-08-05T01:46:41+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "22f46be56991e6533f21",
+            "title": "How Shein’s influencer trip to a Chinese factory backfired - TechCrunch",
+            "source": "TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEdlQmRpR09WMGUyWWhtbEhBeTd5b1RMT1pXRWNpWGw1VUV2X0oydlhrQ2xjekdycFU5Y2VQLTd3eVQ5dFp1aE84TUZkc0QxUWFfQ09MdkMyLW5RbnJpdkRvZWFFVk5uYmpoanF1ZmwwNk1xNkc4dXNPOUc1Z3JYWXhsbEhOdklvUzFYYjVzeVJLenlWYWZv",
+            "published_at_bjt": "2023-06-27T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "744a4ffdd3d65a540752",
+            "title": "ChatGPT-maker OpenAI's First Influencer Trip Was Supposed To Be Aspirational, It Backfired Instead - News18",
+            "source": "News18",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2xibVZ0RjN2OWJRZGRXUmY4cTdrNTlheXhodVI2TXZXdVlKSmpyOUo1ajA3SkRET0Q1VGZjWkJXR19qclN2STZOSExGRHBsZTNuTW9uVWJfb2lXbVFMZGl3QUhzMFMxOXMxWEVxMUVpWkN3OFJFVlVKNEw1cV9YQlBtUlphQXNKbVFOTXAwZU96TU5JdEVNOGhQTWY1OTFQdU1TM3N0dTMzczZCT3FHb2Izd3JtMmt4ZVM0WVU1eWtrY1BMb3dxUi0wZ0R6MDVZZTRfQdIB2gFBVV95cUxNa1N2X29yUFVycHk2cG9QZGlaWHpBREQyb2dTRG4wbFRyc2hTVENBdG4yb0FFZzlkb3RmdzB6SnVHeU15MU5jZDVXME00WXFwR3VPaVRUc2lhdHZRVEhaN0h4Vm5oZGdTb3hQYnlXZE8tOE9qS2xSQUZhY1UybG9pSVpPRHNHQnB0dWViS2xwOXV6Y0JtaVphV0tqeDR2NXJGYXhNWGtlRkFlV2I4UURnam9NQmdUOXBnMWlMLTZZNFdCeE9ULWR0emVfd1dXREdSaHA5bDY3b0ZYdw",
+            "published_at_bjt": "2026-08-04T18:33:59+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "7e3e94fb2b39a93b030a",
+            "title": "OpenAI's Luxury Influencer Trip Sparks Backlash - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajk2MzdEZ01EeDR4a1h3UTdZOUZCOGVlLVplbDlZLWZRWWw2MUhZc0tjTkNsSHRDMGNrUG9JNjdWTEJKT280MFJ5UUZUMHlQZE9KbXNNT3lIekREZ01maU9WRTJnRTVlN0p3V0pxOGFDM3lzMzc4WWxUYl9na0dDZ1lRYkZnMlE",
+            "published_at_bjt": "2026-08-04T03:46:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "d9bbcafa4afdbcf849d8",
+        "headline": "Spotify expands AI remix and covers project with Merlin partnership",
+        "facts": [
+          "Title: Spotify expands AI remix and covers project with Merlin partnership",
+          "During its second-quarter earnings call on Tuesday, Spotify again teased the upcoming release of a new product that will allow music fans to leverage AI to make covers and remixes of artists’ music, with the artists’ consent.",
+          "The company [also announced that Merlin,](https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/) a licensing partner for independent labels and distributors, has now joined Universal Music Group (UMG) on the new AI music effort. The deal brings more than 30,000 labels from Merlin’s network to the product, which will allow fan-made covers and remixes by artists who agree to participate.",
+          "Spotify has positioned its AI music product as being significantly different from the more controversial AI music startups that have been used to create fully artificial songs. Instead, Spotify co-CEO Gustav Söderström told investors on Tuesday’s call that the company’s AI music product will be about “real artists, not fake artists.”",
+          "“We want artists to be consenting [to add] their work into this catalog, so people can play around with covers and remixes based on their art,” added co-CEO Alex Norström. “We also obviously want to give them credit. And last but not least…we not only have the consent and give credit, but we also drive the compensation for this. So, really, we’re talking about the first legal way to partake in this AI tailwind that we see coming for interactive music,” he said.",
+          "AI music has flooded streaming services. Music streamer Deezer recently noted that [more than 50% of daily track uploads were generated with AI](https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/), up from 10% in January 2025.",
+          "The company told investors that a research preview of the fan remix and covers product would initially be made available to a subset of users. Spotify also noted that it would not require a full music catalog to get started. The company did not say when the preview would arrive.",
+          "The new tool will launch as a paid add-on, creating an additional revenue stream for artists, Spotify previously said."
+        ],
+        "sources": [
+          {
+            "article_id": "d9bbcafa4afdbcf849d8",
+            "title": "Spotify expands AI remix and covers project with Merlin partnership",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+            "published_at_bjt": "2026-08-04T23:50:06+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "b6b409559dad13d31c17",
+            "title": "Spotify Expands AI Remix And Covers Project With Merlin, Adding 30,000 Independent Labels - Bitcoin World",
+            "source": "Bitcoin World",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIZnkxaVlSS19sanRhWXZmekcwS1M1MWdtVjliS1pjdmNZTUNYLTRnWXFjRW1yMXRiZXk1TWhCV2tFNUNrSnhTb0l6M1B1VDVEc0xBWUpOY3d4MVNXcVFNRlJoMDVLbmxPUVFKQ21lWjM",
+            "published_at_bjt": "2026-08-05T00:15:11+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "4bfbf86462cb0fec4fb2",
+        "headline": "‘Not healthy’ LLM use is more common than you think",
+        "facts": [
+          "Title: ‘Not healthy’ LLM use is more common than you think",
+          "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy#content)",
+          "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F975180%2Fllm-ai-chatbot-use-not-healthy)",
+          "[](https://www.theverge.com/)",
+          "*   [Tech](https://www.theverge.com/tech)",
+          "*   [Reviews](https://www.theverge.com/reviews)",
+          "*   [Science](https://www.theverge.com/science)",
+          "*   [Entertainment](https://www.theverge.com/entertainment)"
+        ],
+        "sources": [
+          {
+            "article_id": "4bfbf86462cb0fec4fb2",
+            "title": "‘Not healthy’ LLM use is more common than you think",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+            "published_at_bjt": "2026-08-05T01:33:46+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "8f335c27dd29762affe0",
+            "title": "Study finds ChatGPT gets science wrong more often than you think - ScienceDaily",
+            "source": "ScienceDaily",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaXdNcTNBTUhNWHF3cXlsM2hCa21rbnZKWUVYT2l5WF91cy1DV0liVkZyc2hYMFJBQ1RPZDVvVGhlU2taRVB5cHZEQjVHVzJFNG95cjJyWUoxQ2lSTFV4UHpycmRLV3ZwMlRIRzJZWQ",
+            "published_at_bjt": "2026-03-17T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "6c4f1eb0e9b2a9af5b00",
+            "title": "The viral “car wash” LLM challenge doesn’t mean what you think it means - IBM",
+            "source": "IBM",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3dzdYeTJrcjRYVTFuTTVyNkRXaURvOU1FckZEUHJVTUQ0aW0yMFpVNXhfTlU1TS1MQUhMZUhJT1BQcXhVWXMzVlBFcjdIa1BaQ0pKeXNnN0ZCaVNRWXByeklQRmxrQUNHQnlN",
+            "published_at_bjt": "2026-03-05T16:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "AI 重塑科技巨头：AMD、SpaceX 与 OpenAI 的新战场",
+    "lead": "当 AMD 的数据中心业务超越游戏，当 SpaceX 的星链收入超过发射业务，当 OpenAI 的网红营销遭遇滑铁卢，我们看到的不仅是财报数字的变化，更是 AI 时代产业格局的深刻重塑。今天，我们从这些事件中，梳理出 AI 如何改变科技公司的商业模式、市场策略，以及普通人的数字生活。",
+    "sections": [
+      {
+        "story_id": "9be0fafa6f21f3b3158f",
+        "title": "AMD：数据中心业务成为新引擎，游戏业务退居二线",
+        "dek": "AI 芯片需求推动 AMD 数据中心收入创新高，但游戏业务表现疲软。",
+        "body": "想象一下，你是一家芯片公司的 CEO，过去几年，你的游戏显卡是玩家心中的信仰，但如今，你发现卖得最好的产品，却是那些藏在数据中心里、为 AI 训练提供算力的芯片。这就是 AMD 的现状。根据 The Verge 的报道，AMD 最近一个季度的财报显示，数据中心业务收入突破了数十亿美元，而游戏业务则相对低迷。这背后的变化，是 AI 热潮带来的算力需求井喷。大型科技公司都在争相购买 GPU 来训练大模型，AMD 的 Instinct 系列芯片因此成为抢手货。相比之下，游戏显卡市场虽然依然庞大，但增长放缓，且面临英伟达的激烈竞争。AMD 的转型，反映了整个半导体行业的结构性变化：AI 正在成为芯片需求的第一推动力，而传统的消费级市场则相对饱和。对于普通消费者来说，这意味着未来的显卡可能会更贵，因为产能优先供应给利润更高的数据中心市场。同时，AMD 在 AI 芯片上的投入，也可能催生更强大的游戏显卡技术，因为 AI 加速功能正在成为游戏显卡的标配。",
+        "takeaway": "AMD 的财报显示，AI 正在重塑芯片行业的收入结构。对于消费者，这可能意味着游戏显卡价格短期难降，但长期来看，AI 技术也会带来更好的游戏体验。",
+        "image_url": "images/66401dc046b013f9.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "9be0fafa6f21f3b3158f",
+          "df30ae32b20a67963f8d"
+        ],
+        "source_refs": [
+          {
+            "article_id": "9be0fafa6f21f3b3158f",
+            "title": "AMD’s data center business is booming while gaming takes a backseat",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+            "published_at_bjt": "2026-08-05T04:57:49+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "df30ae32b20a67963f8d",
+            "title": "AMD's AI Boom Pushes Data Center Revenue Past $6.7B - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWM2anFPRGlYYlY0M1NpdWxNZ2VLNEpBNktyLU92NHA3OThETFJkeVV1a0x4WDdMZU8wczkyc1hOQ2tUeTExbGxIV24xVHBjVU5iYXloLTZINzNGYWVnRDVpblMxcVdnSDNWS0RVWl90blF2bVFzN0JhMno2TkZIR2ZZN0c3YVo2d0d3",
+            "published_at_bjt": "2026-08-05T05:30:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24002467/acastro_STK081_amd_02.jpg?quality=90&strip=all&crop=0%2C10.732984293194%2C100%2C78.534031413613&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "4f4f4343417d3f0f"
+      },
+      {
+        "story_id": "30d8d6544d2f9c31bee1",
+        "title": "SpaceX：星链收入超发射，AI 概念推高估值",
+        "dek": "SpaceX 的星链业务成为主要收入来源，但投资者更看重其在 AI 数据中心的潜力。",
+        "body": "一家太空公司，却靠卖互联网服务赚了最多的钱，这听起来有点跨界，但 SpaceX 正在这么做。根据 The Verge 的报道，SpaceX 最近一个财年的收入中，星链（Starlink）业务贡献了超过一半，而传统的火箭发射业务反而退居其次。星链的卫星互联网服务，原本是为了覆盖偏远地区，但如今，它找到了一个更赚钱的客户：AI 数据中心。这些数据中心需要海量数据传输，而星链可以提供低延迟的卫星连接，尤其是在地面光纤无法覆盖的地方。因此，SpaceX 的估值中，AI 概念占了很大比重，甚至有人将其称为“AI 基础设施公司”。然而，CNN 的报道指出，尽管 SpaceX 收入增长了 92%，但股价却下跌了，因为投资者担心 AI 支出的可持续性。这提醒我们，AI 热潮虽然推高了估值，但也带来了泡沫风险。对于普通人来说，星链的扩张意味着更多地方能享受到高速互联网，但卫星互联网的资费可能并不便宜。",
+        "takeaway": "SpaceX 的转型表明，AI 正在为传统行业带来新的商业模式。星链的成功，也显示了卫星互联网在 AI 时代的战略价值。",
+        "image_url": "images/0bb2e501a2dbb3d8.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "30d8d6544d2f9c31bee1",
+          "9c3fdef207f7fd564e91",
+          "4d0a2743051955b6d7ca",
+          "12f5364e53e04e4620d3"
+        ],
+        "source_refs": [
+          {
+            "article_id": "30d8d6544d2f9c31bee1",
+            "title": "SpaceX made more revenue as an AI company than a space company",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+            "published_at_bjt": "2026-08-05T04:47:55+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "9c3fdef207f7fd564e91",
+            "title": "Why SpaceX's $135 IPO May Have More To Do With AI Than Space - Forbes",
+            "source": "Forbes",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVVybXFMR0Q5bXExdVJKVDh5VEw3bDRZZHg1S2xzRTB6OGFlcS1SdUVPWmJSQ182c1FtaDNfNEpVeVZ4bDczTzNpTzYxY1RHdFFRdHpiSlVvYWNWaktHY3JtYUZvc2pUQ0czNzN6RFg0SU1aR1pnTEtrZ1g5QkNiXzd2bWh6OTZxNkFWUWlTVEZ2c2NvMC0weG1rUkxDa016RVJWU1FXeU0wanM1V0FJ",
+            "published_at_bjt": "2026-06-12T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "4d0a2743051955b6d7ca",
+            "title": "SpaceX revenue jumps 92% but stock tumbles as investors weigh AI spending - CNN",
+            "source": "CNN",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU1BOS1E0Rnh1MjR5bzJaekFjNFZVSFdrT3R3Vl84czd0Y1Q2ZlcwQzcxdTg2MlotX2hxQmNCVTFvNWpydmNYTlhTS0JLVWVZVExybTZLX2wxeEdHSmFYR3RUN2ozUnFVWTd4dUQtNUs",
+            "published_at_bjt": "2026-08-05T04:14:59+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "12f5364e53e04e4620d3",
+            "title": "Starlink drives SpaceX revenue as AI, launches lag - San Antonio Express-News",
+            "source": "San Antonio Express-News",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWFjZm1vSFZnVm5lSkFMbGliQWUtTmJBNUhxWGdoZkdSWlcwVnR1T0VzdmNOWUFVSkQtM1k5Mk90aVhmMm1zU3RBV2g4cWtVamg4YTEySVJuTUJKQ1k0REprMFpDd2VEYTVLUEdYLU5qNndaNmxsM285QUkwbTM5dUhkRTl6dmQwVldKRTJlTzdOc01MMVM3YncxVE93SjVwWDdqOS1tNURpYTA",
+            "published_at_bjt": "2026-08-05T04:58:46+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2286629860.jpg?quality=90&strip=all&crop=0%2C10.754013220586%2C100%2C78.491973558828&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "00c0c0c0d0f0c0e0"
+      },
+      {
+        "story_id": "8a853907275af03bba9e",
+        "title": "OpenAI 的网红营销翻车：AI 公司如何与公众沟通",
+        "dek": "OpenAI 邀请网红参加豪华旅行，却引发舆论反弹，凸显 AI 公司的公关困境。",
+        "body": "想象一下，你是一个知名科技博主，突然收到 OpenAI 的邀请，去参加一个全包式的豪华旅行，听起来不错吧？但当你在社交媒体上分享这次旅行的照片时，评论区却充满了质疑：“这是被收买了吗？”“AI 公司为什么要花这么多钱在营销上？”这正是 OpenAI 最近遭遇的尴尬。据 The Verge 报道，OpenAI 组织了一次网红旅行，本意是让有影响力的人体验其最新产品，并产生正面内容。但结果适得其反，许多网友认为这是一种不透明的营销手段，甚至有人质疑 OpenAI 在 AI 安全问题上投入不足，却花钱在公关上。这次事件反映了一个更深层的问题：AI 公司在快速扩张的同时，如何与公众建立信任？OpenAI 的 CEO 山姆·奥特曼曾多次强调 AI 安全，但一次营销活动就可能削弱这种信任。对于普通人来说，这件事提醒我们，在社交媒体上看到的“种草”内容，背后可能有着复杂的商业利益。",
+        "takeaway": "OpenAI 的营销失败，暴露了 AI 公司在公众沟通上的敏感性和脆弱性。对于用户，保持对网红推荐内容的批判性思考，是数字时代的必备素养。",
+        "image_url": "images/bd0ac774957f45ef.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "8a853907275af03bba9e",
+          "22f46be56991e6533f21",
+          "744a4ffdd3d65a540752",
+          "7e3e94fb2b39a93b030a"
+        ],
+        "source_refs": [
+          {
+            "article_id": "8a853907275af03bba9e",
+            "title": "How an OpenAI influencer trip backfired",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+            "published_at_bjt": "2026-08-05T01:46:41+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "22f46be56991e6533f21",
+            "title": "How Shein’s influencer trip to a Chinese factory backfired - TechCrunch",
+            "source": "TechCrunch",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEdlQmRpR09WMGUyWWhtbEhBeTd5b1RMT1pXRWNpWGw1VUV2X0oydlhrQ2xjekdycFU5Y2VQLTd3eVQ5dFp1aE84TUZkc0QxUWFfQ09MdkMyLW5RbnJpdkRvZWFFVk5uYmpoanF1ZmwwNk1xNkc4dXNPOUc1Z3JYWXhsbEhOdklvUzFYYjVzeVJLenlWYWZv",
+            "published_at_bjt": "2023-06-27T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "744a4ffdd3d65a540752",
+            "title": "ChatGPT-maker OpenAI's First Influencer Trip Was Supposed To Be Aspirational, It Backfired Instead - News18",
+            "source": "News18",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2xibVZ0RjN2OWJRZGRXUmY4cTdrNTlheXhodVI2TXZXdVlKSmpyOUo1ajA3SkRET0Q1VGZjWkJXR19qclN2STZOSExGRHBsZTNuTW9uVWJfb2lXbVFMZGl3QUhzMFMxOXMxWEVxMUVpWkN3OFJFVlVKNEw1cV9YQlBtUlphQXNKbVFOTXAwZU96TU5JdEVNOGhQTWY1OTFQdU1TM3N0dTMzczZCT3FHb2Izd3JtMmt4ZVM0WVU1eWtrY1BMb3dxUi0wZ0R6MDVZZTRfQdIB2gFBVV95cUxNa1N2X29yUFVycHk2cG9QZGlaWHpBREQyb2dTRG4wbFRyc2hTVENBdG4yb0FFZzlkb3RmdzB6SnVHeU15MU5jZDVXME00WXFwR3VPaVRUc2lhdHZRVEhaN0h4Vm5oZGdTb3hQYnlXZE8tOE9qS2xSQUZhY1UybG9pSVpPRHNHQnB0dWViS2xwOXV6Y0JtaVphV0tqeDR2NXJGYXhNWGtlRkFlV2I4UURnam9NQmdUOXBnMWlMLTZZNFdCeE9ULWR0emVfd1dXREdSaHA5bDY3b0ZYdw",
+            "published_at_bjt": "2026-08-04T18:33:59+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "7e3e94fb2b39a93b030a",
+            "title": "OpenAI's Luxury Influencer Trip Sparks Backlash - The Tech Buzz",
+            "source": "The Tech Buzz",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajk2MzdEZ01EeDR4a1h3UTdZOUZCOGVlLVplbDlZLWZRWWw2MUhZc0tjTkNsSHRDMGNrUG9JNjdWTEJKT280MFJ5UUZUMHlQZE9KbXNNT3lIekREZ01maU9WRTJnRTVlN0p3V0pxOGFDM3lzMzc4WWxUYl9na0dDZ1lRYkZnMlE",
+            "published_at_bjt": "2026-08-04T03:46:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-04-at-2.13.49-PM.png?quality=90&strip=all&crop=0,32.674640384805,100,34.650719230389",
+        "image_status": "downloaded",
+        "image_phash": "1f3f2302020c1f1f"
+      },
+      {
+        "story_id": "d9bbcafa4afdbcf849d8",
+        "title": "Spotify 联手 Merlin，AI 音乐翻唱与混音走向正规化",
+        "dek": "Spotify 与独立音乐版权方 Merlin 合作，扩大 AI 音乐项目，强调艺术家授权与补偿。",
+        "body": "当你在 Spotify 上听到一首由 AI 翻唱的流行歌曲，你会好奇它是怎么来的吗？Spotify 正在努力让这个过程变得合法且对艺术家友好。据 TechCrunch 报道，Spotify 在第二季度财报电话会议上宣布，Merlin（一个代表独立厂牌和发行商的授权伙伴）已加入其 AI 音乐项目，该项目允许用户基于艺术家的作品制作翻唱和混音，但前提是获得艺术家的同意。Merlin 的加入带来了超过 3 万个独立厂牌，这意味着更多音乐人的作品将进入这个 AI 创作库。Spotify 联合 CEO 强调，他们的 AI 音乐产品与那些生成“假艺术家”的 AI 初创公司不同，他们关注的是“真实艺术家，而非虚假艺术家”。他们希望艺术家能同意将自己的作品加入目录，供粉丝创作翻唱和混音，同时艺术家将获得署名和报酬。这实际上是在 AI 时代，为音乐版权和创作自由之间寻找平衡。对于普通用户来说，这意味着未来你可能会在 Spotify 上听到更多由 AI 生成的、但获得授权的音乐作品，而不用担心版权问题。",
+        "takeaway": "Spotify 的 AI 音乐项目，展示了如何在 AI 创作中保护艺术家权益。对于音乐爱好者，这可能意味着更丰富的创作生态，但也需要警惕 AI 作品的质量参差不齐。",
+        "image_url": "images/427effb827f3d608.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "source_ids": [
+          "d9bbcafa4afdbcf849d8",
+          "b6b409559dad13d31c17"
+        ],
+        "source_refs": [
+          {
+            "article_id": "d9bbcafa4afdbcf849d8",
+            "title": "Spotify expands AI remix and covers project with Merlin partnership",
+            "source": "TechCrunch",
+            "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+            "published_at_bjt": "2026-08-04T23:50:06+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "b6b409559dad13d31c17",
+            "title": "Spotify Expands AI Remix And Covers Project With Merlin, Adding 30,000 Independent Labels - Bitcoin World",
+            "source": "Bitcoin World",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIZnkxaVlSS19sanRhWXZmekcwS1M1MWdtVjliS1pjdmNZTUNYLTRnWXFjRW1yMXRiZXk1TWhCV2tFNUNrSnhTb0l6M1B1VDVEc0xBWUpOY3d4MVNXcVFNRlJoMDVLbmxPUVFKQ21lWjM",
+            "published_at_bjt": "2026-08-05T00:15:11+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "fallback",
+        "image_source_url": "https://techcrunch.com/wp-content/uploads/2026/05/tc-lockup-hp.svg",
+        "image_status": "source_unavailable",
+        "image_phash": "f32bec838f1fafe7"
+      },
+      {
+        "story_id": "4bfbf86462cb0fec4fb2",
+        "title": "“不健康”的 LLM 使用：比你想象的更普遍",
+        "dek": "一项研究显示，人们在使用大语言模型时，存在许多不健康的习惯，如过度依赖、盲目信任等。",
+        "body": "你是否有过这样的时刻：遇到问题，第一反应是问 ChatGPT，而不是自己思考？如果是，那你可能属于“不健康”的 LLM 使用者。The Verge 的一篇文章引用了一项研究，指出这种“不健康”的 LLM 使用方式比人们想象的更普遍。所谓“不健康”，并不是指使用 LLM 本身，而是指过度依赖、不加批判地接受 AI 输出，甚至将 AI 当作情感伴侣。研究显示，许多用户在使用 ChatGPT 等工具时，很少质疑其回答的准确性，尤其是在一些专业领域，如医学、法律等，这可能导致错误信息的传播。此外，一些用户会向 AI 倾诉个人问题，产生情感依赖，这可能对心理健康产生负面影响。这篇文章提醒我们，AI 工具虽然强大，但只是工具，不能替代人类的判断和情感。对于普通人来说，培养批判性思维，学会交叉验证 AI 提供的信息，是数字时代的重要技能。同时，也要注意使用 AI 的度，避免沉迷。",
+        "takeaway": "LLM 的“不健康”使用普遍存在，提醒我们在享受 AI 便利的同时，要保持理性和独立思考。对于用户，建立健康的 AI 使用习惯，是保护自己信息安全和心理健康的关键。",
+        "image_url": "images/6065d82cf726272b.webp",
+        "image_credit": "The Verge",
+        "source_ids": [
+          "4bfbf86462cb0fec4fb2",
+          "8f335c27dd29762affe0",
+          "6c4f1eb0e9b2a9af5b00"
+        ],
+        "source_refs": [
+          {
+            "article_id": "4bfbf86462cb0fec4fb2",
+            "title": "‘Not healthy’ LLM use is more common than you think",
+            "source": "The Verge",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+            "published_at_bjt": "2026-08-05T01:33:46+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "8f335c27dd29762affe0",
+            "title": "Study finds ChatGPT gets science wrong more often than you think - ScienceDaily",
+            "source": "ScienceDaily",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaXdNcTNBTUhNWHF3cXlsM2hCa21rbnZKWUVYT2l5WF91cy1DV0liVkZyc2hYMFJBQ1RPZDVvVGhlU2taRVB5cHZEQjVHVzJFNG95cjJyWUoxQ2lSTFV4UHpycmRLV3ZwMlRIRzJZWQ",
+            "published_at_bjt": "2026-03-17T15:00:00+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "6c4f1eb0e9b2a9af5b00",
+            "title": "The viral “car wash” LLM challenge doesn’t mean what you think it means - IBM",
+            "source": "IBM",
+            "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3dzdYeTJrcjRYVTFuTTVyNkRXaURvOU1FckZEUHJVTUQ0aW0yMFpVNXhfTlU1TS1MQUhMZUhJT1BQcXhVWXMzVlBFcjdIa1BaQ0pKeXNnN0ZCaVNRWXByeklQRmxrQUNHQnlN",
+            "published_at_bjt": "2026-03-05T16:00:00+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2253306515.jpg?quality=90&strip=all&crop=0%2C10.754336667151%2C100%2C78.491326665699&w=1200",
+        "image_status": "downloaded",
+        "image_phash": "00201c16161e0800"
+      }
+    ],
+    "synthesis": "今天的五条新闻，看似分散，实则共同指向一个核心趋势：AI 正在从技术概念变成商业基础设施。AMD 的财报显示，AI 芯片需求推动数据中心业务成为增长引擎，而游戏业务相对萎缩；SpaceX 的星链业务因其在 AI 数据中心的潜在应用而获得高估值，尽管发射业务仍是核心；OpenAI 的网红营销失败，则暴露了 AI 公司在公众沟通中的困境；Spotify 的 AI 音乐项目，试图在版权和创造力之间找到平衡；而关于 LLM 的“不健康”使用研究，提醒我们 AI 工具的双刃剑效应。这些事件共同描绘了 AI 如何渗透到科技产业的各个角落，并重塑商业逻辑和用户体验。"
+  },
+  "podcast": {
+    "title": "AI 财报季：谁在赚钱，谁在焦虑？",
+    "description": "AMD 数据中心业务暴涨，SpaceX 靠 Starlink 成为 AI 公司，OpenAI 营销翻车，Spotify 探索 AI 音乐，还有我们对 LLM 的依赖。今天，我们从这些事件中，看清 AI 产业的真实走向。",
+    "blocks": [
+      {
+        "block_id": "1",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "你好，欢迎收听伊恩每日科技。今天是2026年8月5日。今天的故事，都围绕着一个词：AI。但这不是又一个AI炒作的故事，而是关于AI如何重塑商业、营销，甚至我们日常习惯的真实切片。AMD的数据中心业务暴涨，SpaceX的营收结构发生剧变，OpenAI的营销活动遭遇滑铁卢，Spotify想用AI改造音乐，还有一项研究揭示了我们与AI聊天机器人之间可能不太健康的关系。这些事件背后，隐藏着AI产业怎样的底层逻辑？我们一个一个来看。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 43.128
+      },
+      {
+        "block_id": "2",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天，AMD发布了2026年第二季度财报。The Verge的报道标题很直接：数据中心业务蒸蒸日上，游戏业务退居二线。具体数字是，数据中心收入突破了67亿美元，同比增长翻倍。这个数字放在几年前，几乎难以想象。那时候，AMD的营收大头还是PC和游戏芯片，数据中心只是配角。现在，AI服务器芯片的需求，直接把数据中心业务推到了台前。\n\n变化是怎么发生的？关键在于技术门槛的差异。游戏芯片拼的是图形性能、功耗和性价比，市场节奏快，但天花板相对有限。而数据中心芯片拼的是算力密度、能效比和生态兼容性，客户是云服务商和大型AI公司，他们愿意为稳定、高效的算力支付溢价。AMD的MI系列加速卡，正是瞄准了这个市场，试图从英伟达手中抢夺份额。\n\n这场竞争，赢家是云服务商和AI公司。为什么？因为有了更多选择，议价能力增强，成本可能更低。AMD的入场，迫使英伟达在价格和产品迭代上更加积极。输家呢？可能是那些没有跟上AI转型的传统芯片厂商，比如英特尔，它在数据中心市场的份额正被AMD和英伟达双重挤压。\n\n对普通人来说，你可能感觉不到直接变化。但AI服务的成本，可能会因为这种竞争而下降。比如，你用的云盘、搜索引擎、甚至自动驾驶服务，背后都需要数据中心算力。算力成本降低，这些服务的价格可能更亲民，或者功能更强大。\n\n我的判断是，AMD的数据中心业务增长，是AI算力需求爆发的直接体现。但也要注意，游戏业务的相对萎缩，说明传统消费级芯片市场增长放缓。AMD的战略重心转移，是顺应趋势的明智之举。未来，数据中心业务占比还会继续提升，而游戏芯片可能不再是AMD的招牌。这场算力竞赛，才刚刚开始。",
+        "story_id": "9be0fafa6f21f3b3158f",
+        "audio_file": "",
+        "start_sec": 44.328,
+        "duration_sec": 144.072
+      },
+      {
+        "block_id": "3",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，AMD数据中心业务这么猛，那它的游戏业务是不是要完了？以后我们买游戏显卡会不会更贵？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 189.6,
+        "duration_sec": 10.056
+      },
+      {
+        "block_id": "4",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "好问题。AMD的游戏业务确实在财报中显得暗淡，但说“要完”还为时过早。游戏显卡市场依然存在，只是增长放缓。AMD的策略是优先把产能和研发资源投向高利润的数据中心芯片，这符合商业逻辑。至于游戏显卡价格，短期看，由于竞争减少，价格可能坚挺；但长期看，如果AMD在数据中心市场站稳脚跟，它会有更多资金反哺游戏显卡研发，说不定能带来更有竞争力的产品。所以，别急着悲观。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 200.856,
+        "duration_sec": 38.784
+      },
+      {
+        "block_id": "5",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天聊一个有点颠覆认知的消息：SpaceX，这家以火箭和太空探索闻名的公司，现在赚的钱，更多来自AI业务，而不是太空业务。The Verge的标题很直接，CNN的报道也印证了这一点：SpaceX营收同比增长92%，但股价反而下跌，因为投资者在权衡AI支出的风险。具体来看，Starlink是主要收入驱动力，而发射业务和AI云服务也在增长。\n\n先拆解一下这个变化。SpaceX的星链，本质上是一个太空互联网，但现在它也为AI公司提供算力服务，这就是所谓的“神经云”。所以，SpaceX的商业模式，已经从单纯的火箭发射，变成了太空基础设施+AI算力提供商。这种转型，让它的估值逻辑发生了变化。\n\n为什么SpaceX能切入AI算力？关键在于它的发射能力。传统数据中心建在地面，受限于土地、电力和散热。而SpaceX通过星链，把计算节点部署在太空，或者利用其火箭快速部署地面数据中心，为AI训练提供大规模、低延迟的算力。这种模式，技术门槛极高，需要火箭回收技术降低成本，也需要卫星组网能力。SpaceX在这两方面都有先发优势。\n\n那么，这场转型的赢家和输家是谁？赢家是SpaceX的早期投资者，因为他们押注了一家兼具太空和AI双重概念的公司，估值空间被打开。输家可能是传统电信运营商和云计算厂商，因为星链正在蚕食他们的市场，而SpaceX的神经云也可能分流一部分AI算力需求。\n\n对普通人来说，星链可能让偏远地区的网络接入成为可能，但更重要的是，它让我们看到，太空经济的想象空间，可能远超我们的预期。当一家公司既能发射火箭，又能提供AI算力，它的边界在哪里？这不仅是商业问题，也是技术趋势的缩影。\n\n我的判断是，SpaceX的转型，反映了AI时代对基础设施的重新定义。未来，算力可能像水电一样，成为基础服务，而太空，可能成为新的算力边疆。这听起来很科幻，但SpaceX已经在做了。",
+        "story_id": "30d8d6544d2f9c31bee1",
+        "audio_file": "",
+        "start_sec": 240.84,
+        "duration_sec": 156.0
+      },
+      {
+        "block_id": "6",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，SpaceX做AI算力，那它和亚马逊、微软这些云巨头比，有什么优势？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 398.04,
+        "duration_sec": 7.8
+      },
+      {
+        "block_id": "7",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "问得好。SpaceX的优势在于它的太空基础设施。它可以把数据中心部署在轨道上，或者利用星链的全球网络，提供低延迟、高带宽的连接。这对于一些需要全球覆盖的AI应用，比如自动驾驶、物联网，可能有独特价值。但劣势也很明显：建设太空数据中心成本极高，而且维护困难。所以，短期内它不会取代亚马逊或微软，但会在特定细分市场形成竞争。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 407.04,
+        "duration_sec": 34.032
+      },
+      {
+        "block_id": "8",
+        "speaker": "ian",
+        "role": "story",
+        "text": "想象一下，你是一家顶尖AI公司的市场部负责人，花了大价钱请来一群网红，包机、五星酒店、精心策划的行程，本想让全世界看到你的产品有多酷。结果呢？社交媒体上骂声一片，说你们是“精英主义”，搞“虚假宣传”。这不是什么小创业公司的翻车现场，而是OpenAI最近真实经历的事。\n\n根据The Verge的报道，OpenAI组织了一次网红旅行，邀请了一批社交媒体上的意见领袖，去体验他们的AI技术。活动的本意，是想通过这些人把AI的魅力传递给大众，营造一种“未来已来”的氛围。但事与愿违，这次旅行被批评为“精英主义”——因为只有少数受邀者能参加，普通用户被排除在外；同时，内容也被质疑是“虚假宣传”，因为展示的场景和普通人的实际使用体验差距太大。\n\n这件事的教训是什么？AI公司需要更接地气的营销方式，而不是制造距离感。你想想，当一家公司花大价钱请网红住豪华酒店、玩转最新科技，而普通用户连个客服都找不到时，这种反差自然会引发反感。这背后反映的，其实是AI技术正在从极客圈走向大众，但公众对AI的信任度仍然脆弱。大家不是不想要AI，而是不想被AI公司当成“韭菜”或者“背景板”。\n\n那么，谁会是赢家？那些能坦诚沟通的AI公司。比如，愿意公开承认技术局限、主动解释数据如何使用、甚至邀请普通用户参与测试的公司，反而更容易赢得信任。而输家，可能是那些过度依赖光环效应的品牌——以为靠几个网红和华丽包装就能搞定一切，结果却适得其反。\n\n对普通人来说，这件事给你什么提醒？当你看到AI公司的宣传时，需要多一分警惕。那些光鲜亮丽的演示、网红们的溢美之词，可能只是精心设计的营销话术。你要问的是：这个产品真的解决我的问题吗？我的数据安全吗？它会不会让我变得更懒、更依赖？保持清醒，别被“未来已来”的叙事冲昏头脑。毕竟，技术是为人服务的，而不是反过来。",
+        "story_id": "8a853907275af03bba9e",
+        "audio_file": "",
+        "start_sec": 442.272,
+        "duration_sec": 151.848
+      },
+      {
+        "block_id": "9",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，那OpenAI这次翻车，会不会影响它后续的产品推广？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 595.32,
+        "duration_sec": 5.808
+      },
+      {
+        "block_id": "10",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "短期内可能会有影响，毕竟负面新闻会让人对品牌产生疑虑。但OpenAI的产品力依然很强，只要后续能推出真正有用的功能，并且改善沟通方式，我觉得影响可控。毕竟，大众对AI的期待还是很高，一次营销失误，不足以动摇根本。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 602.328,
+        "duration_sec": 21.984
+      },
+      {
+        "block_id": "11",
+        "speaker": "ian",
+        "role": "story",
+        "text": "想象一下，你最喜欢的独立乐队，他们的歌，有一天可以被你重新混音，甚至用AI翻唱成另一个版本，而这一切，都是在乐队同意的前提下进行的。这不是科幻，而是Spotify正在推进的现实。8月4日，Spotify宣布与独立音乐授权商Merlin达成合作，将其网络中的超过3万个独立厂牌纳入AI翻唱和混音功能。这意味着，这个功能不再只是环球音乐集团的专属，而是扩展到了更广大的独立音乐世界。\n\nSpotify在第二季度财报电话会议上透露，这个产品将允许乐迷在获得艺术家同意的基础上，用AI制作翻唱和混音。Spotify联合CEO Gustav Söderström强调，这不同于那些备受争议的AI音乐初创公司——那些公司用AI生成完全人工的歌曲，而Spotify做的是“真实艺术家，而非假艺术家”。另一位联合CEO Alex Norström补充说，他们希望艺术家同意将自己的作品加入这个目录，让人们可以基于他们的艺术进行再创作，同时给予他们署名和报酬。\n\n这背后，是音乐产业对AI的两种截然不同的态度。一种是以环球音乐为代表的拥抱派，他们看到了AI在创作和分发上的潜力，但要求授权和分成。另一种是抵制派，比如一些唱片公司和艺术家，担心AI会取代人类创作，或者侵犯版权。Spotify选择了前者，但通过授权和分成机制，试图确保艺术家从中受益。\n\n这个合作的关键在于，Merlin作为独立厂牌的授权伙伴，代表了超过3万个厂牌，这些厂牌通常没有环球那样的谈判能力。通过Merlin，他们可以集体与Spotify谈判，确保自己的权益。对独立音乐人来说，这可能是一个新的收入来源，因为他们可以从AI生成的翻唱和混音中获得版税。而对那些没有跟上AI趋势的传统唱片公司来说，他们可能会失去一部分市场，因为独立音乐人通过AI获得了更多的曝光和变现机会。\n\n对普通人来说，这意味着你未来在Spotify上可能会听到更多有趣的AI混音作品，但前提是，它们必须合法合规。你可能会发现，你喜欢的某首独立歌曲，有了一个AI生成的爵士版或电子版，而原艺术家也能从中获益。这或许会让音乐创作变得更加民主化，但也带来了新的问题：如何界定AI创作的版权？如何确保艺术家得到公平的报酬？这些都需要在实践过程中不断探索。\n\nSpotify的这一举动，是在AI音乐浪潮中，试图找到一个平衡点：既拥抱技术，又保护创作者。它能否成功，将取决于艺术家、平台和用户之间的信任与合作。而这场实验，才刚刚开始。",
+        "story_id": "d9bbcafa4afdbcf849d8",
+        "audio_file": "",
+        "start_sec": 625.512,
+        "duration_sec": 198.0
+      },
+      {
+        "block_id": "12",
+        "speaker": "ian",
+        "role": "story",
+        "text": "今天聊一个有点反直觉的现象：大语言模型用得越多，可能越不健康。The Verge 报道了一项研究，发现不少用户对 AI 聊天机器人产生了过度依赖，甚至情感依恋。这不是科幻片里的情节，而是正在发生的现实。\n\n先说事实。这项研究调查了数千名用户，发现相当比例的人承认自己使用 LLM 的方式“不健康”。具体表现包括：每天花数小时和聊天机器人对话、在情绪低落时优先找 AI 倾诉、甚至对 AI 产生类似朋友或恋人的情感。研究还发现，这些用户往往在现实生活中感到孤独或社交焦虑。\n\n为什么会出现这种情况？关键在于 LLM 的设计。它们被训练成友好、顺从、永远在线，而且不会评判你。相比真人，AI 提供了无条件的积极关注，这很容易让人上瘾。尤其是当模型越来越擅长模拟共情，用户的大脑很难区分这是不是真实的情感交流。\n\n这种使用的代价是什么？短期看，AI 能缓解孤独感，但长期可能削弱人的社交能力。如果习惯了和 AI 聊天，你可能更不愿意去经营真实的人际关系，因为那需要付出更多努力，还可能遭遇拒绝。研究还指出，过度依赖 AI 做决策，会降低人的自主性和批判性思维。\n\n对普通人来说，这提醒我们：享受 AI 便利的同时，要保持清醒。把 AI 当工具，而不是替代品。如果你发现自己更愿意和 ChatGPT 分享心事，而不是找朋友聊聊，那可能需要警惕了。\n\n产业层面，赢家是那些提供健康使用指导的 AI 公司，比如设置使用时长提醒、鼓励用户寻求真人社交的厂商。输家可能是那些刻意设计成“情感伴侣”来增加用户粘性的产品，它们虽然短期能提高留存，但长期可能面临监管和舆论压力。\n\n技术本身是中性的，但使用方式会影响人的心理健康。AI 应该是放大人类能力的杠杆，而不是让我们退化的依赖。保持清醒，别让工具反过来控制你。",
+        "story_id": "4bfbf86462cb0fec4fb2",
+        "audio_file": "",
+        "start_sec": 824.712,
+        "duration_sec": 147.936
+      },
+      {
+        "block_id": "13",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "今天这五个故事，看似分散，但有一条主线：AI正在从技术概念，变成商业现实，甚至社会现象。AMD的数据中心暴涨，说明AI算力是硬需求；SpaceX的转型，说明AI可以重塑传统行业；OpenAI的营销翻车，说明AI公司需要更成熟的市场策略；Spotify的AI音乐，说明AI可以创造新价值，但需要规则；而LLM使用研究，则提醒我们，AI的影响已经深入个人生活。这些事件，共同指向一个趋势：AI不再是未来，而是现在。对于你来说，理解这些变化，就是理解我们即将面对的世界。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 973.848,
+        "duration_sec": 47.784
+      },
+      {
+        "block_id": "14",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "好了，今天的节目就到这里。我们聊了AMD、SpaceX、OpenAI、Spotify，还有我们自己的AI使用习惯。希望这些故事，能帮你更清晰地看待AI产业的真实图景。如果你有想法，欢迎在评论区留言。我是伊恩，我们明天见。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 1022.832,
+        "duration_sec": 22.704
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "AMD’s data center business is booming while gaming takes a backseat",
+        "start_sec": 44.328,
+        "story_id": "9be0fafa6f21f3b3158f"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "SpaceX made more revenue as an AI company than a space company",
+        "start_sec": 240.84,
+        "story_id": "30d8d6544d2f9c31bee1"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "How an OpenAI influencer trip backfired",
+        "start_sec": 442.272,
+        "story_id": "8a853907275af03bba9e"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "Spotify expands AI remix and covers project with Merlin partnership",
+        "start_sec": 625.512,
+        "story_id": "d9bbcafa4afdbcf849d8"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "‘Not healthy’ LLM use is more common than you think",
+        "start_sec": 824.712,
+        "story_id": "4bfbf86462cb0fec4fb2"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 973.848,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 1045.6,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.439,
+      0.481,
+      0.4344,
+      0.3968,
+      0.3736,
+      0.4174,
+      0.421,
+      0.5097,
+      0.3905,
+      0.3766,
+      0.4113,
+      0.4079,
+      0.4872,
+      0.4079,
+      0.4229,
+      0.4344,
+      0.4134,
+      0.4044,
+      0.4187,
+      0.5433,
+      0.3303,
+      0.3938,
+      0.3714,
+      0.4507,
+      0.3943,
+      0.44,
+      0.4739,
+      0.4476,
+      0.5181,
+      0.508,
+      0.5685,
+      0.4598,
+      0.4647,
+      0.4145,
+      0.3752,
+      0.3372,
+      0.3584,
+      0.3833,
+      0.475,
+      0.3652,
+      0.3518,
+      0.4095,
+      0.4043,
+      0.432,
+      0.4215,
+      0.4084,
+      0.4143,
+      0.4194,
+      0.3443,
+      0.5269,
+      0.5296,
+      0.4187,
+      0.3938,
+      0.3251,
+      0.3661,
+      0.4058,
+      0.4725,
+      0.4065,
+      0.3646,
+      0.468,
+      0.4209,
+      0.4874,
+      0.4093,
+      0.422,
+      0.359,
+      0.45,
+      0.4781,
+      0.5065,
+      0.5107,
+      0.447,
+      0.5749,
+      0.4662,
+      0.4607,
+      0.384,
+      0.3952,
+      0.4298,
+      0.3744,
+      0.4214,
+      0.4047,
+      0.4324,
+      0.3408,
+      0.4559,
+      0.5095,
+      0.3758,
+      0.4979,
+      0.4935,
+      0.4012,
+      0.5114,
+      0.4079,
+      0.4067,
+      0.6484,
+      0.5527,
+      0.36,
+      0.3654,
+      0.4505,
+      0.4347,
+      0.4377,
+      0.3711,
+      0.4314,
+      0.4536,
+      0.4327,
+      0.505,
+      0.4085,
+      0.3485,
+      0.3452,
+      0.4352,
+      0.3649,
+      0.5611,
+      0.4216,
+      0.3868,
+      0.381,
+      0.4132,
+      0.4516,
+      0.4427,
+      0.3499,
+      0.4716,
+      0.4045,
+      0.4651,
+      0.3487,
+      0.3915,
+      0.4436,
+      0.386,
+      0.4267,
+      0.4318,
+      0.4956,
+      0.478,
+      0.4353,
+      0.4255,
+      0.441,
+      0.546,
+      0.3993,
+      0.3737,
+      0.4031,
+      0.4252,
+      0.4194,
+      0.4417,
+      0.4825,
+      0.4295,
+      0.5204,
+      0.4337,
+      0.3674,
+      0.3638,
+      0.3953,
+      0.3819,
+      0.3819,
+      0.4266,
+      0.4789,
+      0.4413,
+      0.5046,
+      0.4503,
+      0.487,
+      0.3882,
+      0.3592,
+      0.4174,
+      0.3942,
+      0.4397,
+      0.4164,
+      0.4521,
+      0.4074,
+      0.3717
+    ]
+  },
+  "status": "quality_passed",
+  "created_at_bjt": "2026-08-05T08:16:44+08:00",
+  "updated_at_bjt": "2026-08-05T08:18:03+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}

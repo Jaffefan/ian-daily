@@ -1,0 +1,222 @@
+{
+  "category": "tech",
+  "date_bjt": "2026-08-05",
+  "stories": [
+    {
+      "story_id": "9be0fafa6f21f3b3158f",
+      "headline": "AMD’s data center business is booming while gaming takes a backseat",
+      "facts": [
+        "Title: AMD’s data center business is booming while gaming takes a backseat",
+        "[Skip to main content](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975381%2Famd-q2-2026-earnings-ai-gaming-ryzen)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975381%2Famd-q2-2026-earnings-ai-gaming-ryzen)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "9be0fafa6f21f3b3158f",
+          "title": "AMD’s data center business is booming while gaming takes a backseat",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/975381/amd-q2-2026-earnings-ai-gaming-ryzen",
+          "published_at_bjt": "2026-08-05T04:57:49+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "df30ae32b20a67963f8d",
+          "title": "AMD's AI Boom Pushes Data Center Revenue Past $6.7B - The Tech Buzz",
+          "source": "The Tech Buzz",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTWM2anFPRGlYYlY0M1NpdWxNZ2VLNEpBNktyLU92NHA3OThETFJkeVV1a0x4WDdMZU8wczkyc1hOQ2tUeTExbGxIV24xVHBjVU5iYXloLTZINzNGYWVnRDVpblMxcVdnSDNWS0RVWl90blF2bVFzN0JhMno2TkZIR2ZZN0c3YVo2d0d3",
+          "published_at_bjt": "2026-08-05T05:30:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "30d8d6544d2f9c31bee1",
+      "headline": "SpaceX made more revenue as an AI company than a space company",
+      "facts": [
+        "Title: SpaceX made more revenue as an AI company than a space company",
+        "[Skip to main content](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F975335%2Fspacex-made-more-money-as-a-neocloud)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fscience%2F975335%2Fspacex-made-more-money-as-a-neocloud)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "30d8d6544d2f9c31bee1",
+          "title": "SpaceX made more revenue as an AI company than a space company",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/science/975335/spacex-made-more-money-as-a-neocloud",
+          "published_at_bjt": "2026-08-05T04:47:55+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "9c3fdef207f7fd564e91",
+          "title": "Why SpaceX's $135 IPO May Have More To Do With AI Than Space - Forbes",
+          "source": "Forbes",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOVVybXFMR0Q5bXExdVJKVDh5VEw3bDRZZHg1S2xzRTB6OGFlcS1SdUVPWmJSQ182c1FtaDNfNEpVeVZ4bDczTzNpTzYxY1RHdFFRdHpiSlVvYWNWaktHY3JtYUZvc2pUQ0czNzN6RFg0SU1aR1pnTEtrZ1g5QkNiXzd2bWh6OTZxNkFWUWlTVEZ2c2NvMC0weG1rUkxDa016RVJWU1FXeU0wanM1V0FJ",
+          "published_at_bjt": "2026-06-12T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "4d0a2743051955b6d7ca",
+          "title": "SpaceX revenue jumps 92% but stock tumbles as investors weigh AI spending - CNN",
+          "source": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQU1BOS1E0Rnh1MjR5bzJaekFjNFZVSFdrT3R3Vl84czd0Y1Q2ZlcwQzcxdTg2MlotX2hxQmNCVTFvNWpydmNYTlhTS0JLVWVZVExybTZLX2wxeEdHSmFYR3RUN2ozUnFVWTd4dUQtNUs",
+          "published_at_bjt": "2026-08-05T04:14:59+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "12f5364e53e04e4620d3",
+          "title": "Starlink drives SpaceX revenue as AI, launches lag - San Antonio Express-News",
+          "source": "San Antonio Express-News",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcWFjZm1vSFZnVm5lSkFMbGliQWUtTmJBNUhxWGdoZkdSWlcwVnR1T0VzdmNOWUFVSkQtM1k5Mk90aVhmMm1zU3RBV2g4cWtVamg4YTEySVJuTUJKQ1k0REprMFpDd2VEYTVLUEdYLU5qNndaNmxsM285QUkwbTM5dUhkRTl6dmQwVldKRTJlTzdOc01MMVM3YncxVE93SjVwWDdqOS1tNURpYTA",
+          "published_at_bjt": "2026-08-05T04:58:46+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "8a853907275af03bba9e",
+      "headline": "How an OpenAI influencer trip backfired",
+      "facts": [
+        "Title: How an OpenAI influencer trip backfired",
+        "[Skip to main content](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975173%2Fopenai-influencers-brand-trip-ai-backlash-marketing)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Ftech%2F975173%2Fopenai-influencers-brand-trip-ai-backlash-marketing)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "8a853907275af03bba9e",
+          "title": "How an OpenAI influencer trip backfired",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/tech/975173/openai-influencers-brand-trip-ai-backlash-marketing",
+          "published_at_bjt": "2026-08-05T01:46:41+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "22f46be56991e6533f21",
+          "title": "How Shein’s influencer trip to a Chinese factory backfired - TechCrunch",
+          "source": "TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEdlQmRpR09WMGUyWWhtbEhBeTd5b1RMT1pXRWNpWGw1VUV2X0oydlhrQ2xjekdycFU5Y2VQLTd3eVQ5dFp1aE84TUZkc0QxUWFfQ09MdkMyLW5RbnJpdkRvZWFFVk5uYmpoanF1ZmwwNk1xNkc4dXNPOUc1Z3JYWXhsbEhOdklvUzFYYjVzeVJLenlWYWZv",
+          "published_at_bjt": "2023-06-27T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "744a4ffdd3d65a540752",
+          "title": "ChatGPT-maker OpenAI's First Influencer Trip Was Supposed To Be Aspirational, It Backfired Instead - News18",
+          "source": "News18",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb2xibVZ0RjN2OWJRZGRXUmY4cTdrNTlheXhodVI2TXZXdVlKSmpyOUo1ajA3SkRET0Q1VGZjWkJXR19qclN2STZOSExGRHBsZTNuTW9uVWJfb2lXbVFMZGl3QUhzMFMxOXMxWEVxMUVpWkN3OFJFVlVKNEw1cV9YQlBtUlphQXNKbVFOTXAwZU96TU5JdEVNOGhQTWY1OTFQdU1TM3N0dTMzczZCT3FHb2Izd3JtMmt4ZVM0WVU1eWtrY1BMb3dxUi0wZ0R6MDVZZTRfQdIB2gFBVV95cUxNa1N2X29yUFVycHk2cG9QZGlaWHpBREQyb2dTRG4wbFRyc2hTVENBdG4yb0FFZzlkb3RmdzB6SnVHeU15MU5jZDVXME00WXFwR3VPaVRUc2lhdHZRVEhaN0h4Vm5oZGdTb3hQYnlXZE8tOE9qS2xSQUZhY1UybG9pSVpPRHNHQnB0dWViS2xwOXV6Y0JtaVphV0tqeDR2NXJGYXhNWGtlRkFlV2I4UURnam9NQmdUOXBnMWlMLTZZNFdCeE9ULWR0emVfd1dXREdSaHA5bDY3b0ZYdw",
+          "published_at_bjt": "2026-08-04T18:33:59+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "7e3e94fb2b39a93b030a",
+          "title": "OpenAI's Luxury Influencer Trip Sparks Backlash - The Tech Buzz",
+          "source": "The Tech Buzz",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQajk2MzdEZ01EeDR4a1h3UTdZOUZCOGVlLVplbDlZLWZRWWw2MUhZc0tjTkNsSHRDMGNrUG9JNjdWTEJKT280MFJ5UUZUMHlQZE9KbXNNT3lIekREZ01maU9WRTJnRTVlN0p3V0pxOGFDM3lzMzc4WWxUYl9na0dDZ1lRYkZnMlE",
+          "published_at_bjt": "2026-08-04T03:46:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "d9bbcafa4afdbcf849d8",
+      "headline": "Spotify expands AI remix and covers project with Merlin partnership",
+      "facts": [
+        "Title: Spotify expands AI remix and covers project with Merlin partnership",
+        "During its second-quarter earnings call on Tuesday, Spotify again teased the upcoming release of a new product that will allow music fans to leverage AI to make covers and remixes of artists’ music, with the artists’ consent.",
+        "The company [also announced that Merlin,](https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/) a licensing partner for independent labels and distributors, has now joined Universal Music Group (UMG) on the new AI music effort. The deal brings more than 30,000 labels from Merlin’s network to the product, which ",
+        "Spotify has positioned its AI music product as being significantly different from the more controversial AI music startups that have been used to create fully artificial songs. Instead, Spotify co-CEO Gustav Söderström told investors on Tuesday’s call that the company’s AI music product will be about “real artists, not fake artists.”",
+        "“We want artists to be consenting [to add] their work into this catalog, so people can play around with covers and remixes based on their art,” added co-CEO Alex Norström. “We also obviously want to give them credit. And last but not least…we not only have the consent and give credit, but we also drive the compensation for this. So, really, we’re talking abo"
+      ],
+      "numeric_claims": [
+        "The company [also announced that Merlin,](https://newsroom.spotify.com/2026-08-04/merlin-spotify-licensing-agreements-fan-made-covers-remixes/) a licensing partner for independent labels and distributors, has now joined Universal Music Group (UMG) on the new AI music effort. The deal brings more than 30,000 labels from Merlin’s network to the product, which "
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "d9bbcafa4afdbcf849d8",
+          "title": "Spotify expands AI remix and covers project with Merlin partnership",
+          "source": "TechCrunch",
+          "url": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort",
+          "published_at_bjt": "2026-08-04T23:50:06+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "b6b409559dad13d31c17",
+          "title": "Spotify Expands AI Remix And Covers Project With Merlin, Adding 30,000 Independent Labels - Bitcoin World",
+          "source": "Bitcoin World",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIZnkxaVlSS19sanRhWXZmekcwS1M1MWdtVjliS1pjdmNZTUNYLTRnWXFjRW1yMXRiZXk1TWhCV2tFNUNrSnhTb0l6M1B1VDVEc0xBWUpOY3d4MVNXcVFNRlJoMDVLbmxPUVFKQ21lWjM",
+          "published_at_bjt": "2026-08-05T00:15:11+08:00",
+          "authority_tier": 2
+        }
+      ]
+    },
+    {
+      "story_id": "4bfbf86462cb0fec4fb2",
+      "headline": "‘Not healthy’ LLM use is more common than you think",
+      "facts": [
+        "Title: ‘Not healthy’ LLM use is more common than you think",
+        "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F975180%2Fllm-ai-chatbot-use-not-healthy)",
+        "[](https://www.theverge.com/)",
+        "* [Tech](https://www.theverge.com/tech)"
+      ],
+      "numeric_claims": [
+        "[Skip to main content](https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy#content)",
+        "[Subscribe](https://www.theverge.com/subscribe?itm_campaign=desktop-top-navigation-subscribe&itm_medium=site&itm_source=desktop-top-navigation)[Sign In](https://www.theverge.com/auth/login?returnPath=%2Fai-artificial-intelligence%2F975180%2Fllm-ai-chatbot-use-not-healthy)"
+      ],
+      "uncertainties": [],
+      "impact_angles": [],
+      "sources": [
+        {
+          "article_id": "4bfbf86462cb0fec4fb2",
+          "title": "‘Not healthy’ LLM use is more common than you think",
+          "source": "The Verge",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/975180/llm-ai-chatbot-use-not-healthy",
+          "published_at_bjt": "2026-08-05T01:33:46+08:00",
+          "authority_tier": 1
+        },
+        {
+          "article_id": "8f335c27dd29762affe0",
+          "title": "Study finds ChatGPT gets science wrong more often than you think - ScienceDaily",
+          "source": "ScienceDaily",
+          "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XaXdNcTNBTUhNWHF3cXlsM2hCa21rbnZKWUVYT2l5WF91cy1DV0liVkZyc2hYMFJBQ1RPZDVvVGhlU2taRVB5cHZEQjVHVzJFNG95cjJyWUoxQ2lSTFV4UHpycmRLV3ZwMlRIRzJZWQ",
+          "published_at_bjt": "2026-03-17T15:00:00+08:00",
+          "authority_tier": 2
+        },
+        {
+          "article_id": "6c4f1eb0e9b2a9af5b00",
+          "title": "The viral “car wash” LLM challenge doesn’t mean what you think it means - IBM",
+          "source": "IBM",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3dzdYeTJrcjRYVTFuTTVyNkRXaURvOU1FckZEUHJVTUQ0aW0yMFpVNXhfTlU1TS1MQUhMZUhJT1BQcXhVWXMzVlBFcjdIa1BaQ0pKeXNnN0ZCaVNRWXByeklQRmxrQUNHQnlN",
+          "published_at_bjt": "2026-03-05T16:00:00+08:00",
+          "authority_tier": 2
+        }
+      ]
+    }
+  ],
+  "shared_theme": "",
+  "risk_flags": []
+}
