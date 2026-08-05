@@ -1,0 +1,16 @@
+{
+  "episode_id": "2026-08-06-sports",
+  "publishable": false,
+  "story_count": 5,
+  "source_count": 14,
+  "domestic_count": 3,
+  "reading_chars": 3256,
+  "podcast_chars": 3837,
+  "audio_duration_sec": 750.2,
+  "fact_alignment": 1.0,
+  "text_overlap": 0.013,
+  "errors": [
+    "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内"
+  ],
+  "warnings": []
+}

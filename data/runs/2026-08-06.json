@@ -1,0 +1,172 @@
+{
+  "date_bjt": "2026-08-06",
+  "channels": {
+    "tech": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-08-06T07:32:12+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-08-06T07:32:15+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-08-06T07:32:20+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-08-06T07:32:23+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-08-06T07:34:00+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "source",
+          "at_bjt": "2026-08-06T07:34:01+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-08-06T07:34:03+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-08-06T07:35:28+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-08-06T07:35:29+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-08-06-tech",
+      "updated_at_bjt": "2026-08-06T07:35:29+08:00"
+    },
+    "education": {
+      "attempts": 1,
+      "status": "quality_passed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-08-06T07:35:29+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "80 candidates",
+          "at_bjt": "2026-08-06T07:35:32+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-08-06T07:35:40+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-08-06T07:35:41+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-08-06T07:37:40+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "fallback, source",
+          "at_bjt": "2026-08-06T07:37:55+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-08-06T07:37:56+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-08-06T07:39:20+08:00"
+        },
+        "quality": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-08-06T07:39:20+08:00"
+        }
+      },
+      "errors": [],
+      "episode_id": "2026-08-06-education",
+      "updated_at_bjt": "2026-08-06T07:39:20+08:00"
+    },
+    "sports": {
+      "attempts": 1,
+      "status": "failed",
+      "stages": {
+        "preflight": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-08-06T07:39:20+08:00"
+        },
+        "collection": {
+          "status": "completed",
+          "detail": "40 candidates",
+          "at_bjt": "2026-08-06T07:39:21+08:00"
+        },
+        "fact_pack": {
+          "status": "completed",
+          "detail": "5 stories",
+          "at_bjt": "2026-08-06T07:39:37+08:00"
+        },
+        "content_brief": {
+          "status": "completed",
+          "detail": "Qwen/Qwen3.5-4B",
+          "at_bjt": "2026-08-06T07:39:38+08:00"
+        },
+        "writing": {
+          "status": "completed",
+          "detail": "deepseek-v4-flash",
+          "at_bjt": "2026-08-06T07:41:24+08:00"
+        },
+        "images": {
+          "status": "completed",
+          "detail": "fallback, source",
+          "at_bjt": "2026-08-06T07:42:36+08:00"
+        },
+        "audit": {
+          "status": "completed",
+          "detail": "",
+          "at_bjt": "2026-08-06T07:42:37+08:00"
+        },
+        "tts": {
+          "status": "completed",
+          "detail": "edge",
+          "at_bjt": "2026-08-06T07:43:44+08:00"
+        },
+        "quality": {
+          "status": "failed",
+          "detail": "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内",
+          "at_bjt": "2026-08-06T07:43:44+08:00"
+        }
+      },
+      "errors": [
+        "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内"
+      ],
+      "episode_id": "2026-08-06-sports",
+      "updated_at_bjt": "2026-08-06T07:43:44+08:00"
+    }
+  },
+  "notifications": {},
+  "release": {},
+  "updated_at_bjt": "2026-08-06T07:43:44+08:00"
+}

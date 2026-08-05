@@ -1,0 +1,885 @@
+{
+  "episode_id": "2026-08-06-sports",
+  "schema_version": 4,
+  "category": "sports",
+  "category_name": "运动",
+  "date_bjt": "2026-08-06",
+  "story_set": {
+    "category": "sports",
+    "date_bjt": "2026-08-06",
+    "articles": [
+      {
+        "id": "42122e8702d12974f63d",
+        "category": "sports",
+        "title": "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "summary": "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 湖北日报传媒集团",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI",
+        "source": "湖北日报传媒集团",
+        "published_at_bjt": "2026-08-06T06:44:52+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 2,
+        "engagement": 0,
+        "full_body": "window.WIZ_global_data = {\"AfY8Hf\":true,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\",\"/swg/\",\"/swg/*\"],\"FL1an\":false,\"FdrFJe\":\"3301425173894270545\",\"Fwhl2e\":\"%.@.[\\\"en-US\\\",\\\"US\\\",[\\\"FINANCE_TOP_INDICES\\\",\\\"GENESIS_PUBLISHER_SECTION\\\",\\\"WEB_TEST_1_0_0\\\"],null,null,1,1,\\\"US:en\\\",null,null,null,null,null,null,null,false],\\\"en-US\\\",\\\"US\\\",true,[3,5,9,19],1,true,\\\"958125641\\\",null,null,null,false]\",\"GASP4\":1333,\"Guyvcf\":\"/home\",\"HiPsbb\":1,\"Im6cmf\":\"/_/DotsSplashUi\",\"JgLEj\":0,\"LVIXXb\":1,\"LoQv7e\":false,\"MT7f9b\":[],\"MUE6Ne\":\"dots-splash\",\"MZbqOb\":\"//www.google.com/setprefs?cs\\u003d2\\u0026sig\\u003d0_kUquVjSLOVCnSp-YDc5RfzkrWUA%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"MuJWjd\":false,\"QrtxK\":\"\",\"S06Grb\":\"\",\"S6lZl\":116942117,\"TSDtV\":\"%.@.[[null,[[45447451,null,null,null,\\\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\\\",null,\\\"AQrj7e\\\"],[45447446,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"arpmnf\\\"],[45447445,10000,null,null,null,null,\\\"gksIhe\\\"],[45447442,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"K01E3b\\\"],[45447443,null,null,null,\\\"117964,122423\\\",null,\\\"wRa13\\\"],[45641040,null,true,null,null,null,\\\"SEyySc\\\"],[45447425,null,false,null,null,null,\\\"dH92cf\\\"],[45646097,null,true,null,null,null,\\\"zjqpP\\\"],[45447432,null,false,null,null,null,\\\"xGtuJf\\\"],[45447448,null,null,null,\\\"cnn.com,eurasiantimes.com\\\",null,\\\"i6NW6e\\\"],[45459555,null,false,null,null,null,\\\"Imeoqb\\\"],[45792579,null,false,null,null,null,\\\"hDlJ9d\\\"],[45447441,null,false,null,null,null,\\\"lGu6U\\\"],[45532880,null,true,null,null,null,\\\"tCJq5e\\\"],[45447452,null,null,null,\\\"\\\",null,\\\"iTkiFf\\\"],[45447444,null,true,null,null,null,\\\"j1Sd4d\\\"],[45447427,10000,null,null,null,null,\\\"IrjXhf\\\"],[45447447,null,null,null,\\\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\\\",null,\\\"Ia4eSd\\\"],[45447453,null,null,null,\\\"\\\",null,\\\"JNfYbb\\\"]],\\\"CAMSER0I88O5KQgCCL+NDKWf6wQI\\\"]]]\",\"UDh4De\":\"//www.google.com/setprefs?cs\\u003d0\\u0026sig\\u003d0_kUquVjSLOVCnSp-YDc5RfzkrWUA%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"UTVOtf\":false,\"UUFaWc\":\"%.@.null,1000,2]\",\"Vvafkd\":false,\"Y12zTb\":\"//www.google.com/setprefs?cs\\u003d1\\u0026sig\\u003d0_kUquVjSLOVCnSp-YDc5RfzkrWUA%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"Yllh3e\":\"%.@.1785973162201375,75480995,354305434]\",\"b5W2zf\":\"default_DotsSplashUi_desktop_ms\",\"cfb2h\":\"boq_dotssplashserver_20260802.06_p0\",\"eNnkwf\":\"1785973162\",\"eptZe\":\"/_/DotsSplashUi/\",\"fPDxwd\":[97493636,97493658,105739270],\"gGcLoe\":false,\"hbSvMb\":[97785986,1714254,97493636,97493658,1706538,97442197,97675219,98073362,105901316,105739270,106113460,97656897,13404283,13404289,97785970,97493620,97493642,97442181,98073330,105739254,97656881],\"hsFLT\":\"%.@.null,10,3]\",\"iCzhFc\":false,\"k76Vlc\":[\"G-SYGF1G18MM\"],\"mc2ogb\":1,\"nQyAE\":{\"xGtuJf\":\"false\",\"IrjXhf\":\"10000\",\"hDlJ9d\":\"false\",\"dH92cf\":\"false\",\"i6NW6e\":\"cnn.com,eurasiantimes.com\",\"wRa13\":\"117964,122423\",\"tCJq5e\":\"true\",\"K01E3b\":\"114086,117964,122423,123687,126247\",\"JNfYbb\":\"\",\"AQrj7e\":\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\",\"gksIhe\":\"10000\",\"iTkiFf\":\"\",\"lGu6U\":\"false\",\"Ia4eSd\":\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\",\"arpmnf\":\"114086,117964,122423,123687,126247\",\"zjqpP\":\"true\"},\"p9hQne\":\"https://www.gstatic.com/_/boq-dots/_/r/\",\"qwAQke\":\"DotsSplashUi\",\"qymVe\":\"iKWP6SiHVUmPwFcsgwczg5OSh70\",\"r84ZEe\":\"//www.google.com/setprefs?sig\\u003d0_kUquVjSLOVCnSp-YDc5RfzkrWUA%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026safeui\\u003dimages\",\"rdVWlb\":0,\"rtQCxc\":240,\"u4g7r\":\"%.@.null,1,3]\",\"uS02ke\":\"qslzap-lDKP__tMPmov5qAE\",\"utHyne\":{\"/dssw.js?xhrRoot\\u003d%2F_%2FDotsSplashUi\\u0026mssRowKey\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.qrV8qT5_8xE.2018.O\\u0026buildLabel\\u003dboq_dotssplashserver_20260802.06_p0\":\"%.@.[null,null,null,\\\"/dssw.js?xhrRoot\\\\u003d%2F_%2FDotsSplashUi\\\\u0026mssRowKey\\\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.qrV8qT5_8xE.2018.O\\\\u0026buildLabel\\\\u003dboq_dotssplashserver_20260802.06_p0\\\"],\\\"\\\",true]\"},\"vXmutd\":\"%.@.\\\"US\\\",\\\"ZZ\\\",\\\"rLbzQg\\\\u003d\\\\u003d\\\"]\",\"vk7rPe\":\"//www.google.com/preferences?hl\\u003den-US\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en#appearance\",\"w2btAe\":\"%.@.null,null,\\\"\\\",false,null,null,null,false]\",\"ww0Jqc\":\"US\",\"x96UBf\":\"news.url.google.com\",\"xn5OId\":false,\"xnI9P\":true,\"xwAfE\":true,\"y2FhP\":\"prod\",\"yFnxrf\":1884,\"ysqeUe\":\"%.@.[1714259,13404283,13404289,15874407,40260062,40261562,40261571,40262007,40262028,40262208,40262379,40262396,40262405,40262408,40262431,72304157,99106383,99107170,102639914,104384300,104398823,104403486,104415750,104424925,104426719,104441052,104451552,104459252,104463141,104997031,106381282,115822001,115835391,116778925,117327663,117886247,119383102,119571506,119617109,120195911,122527787],false,true]\",\"zChJod\":\"%.@.]\"}; window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3804402, 0x281804c8, 0x400, ]; window.IJ_values = ['\\/\\/www.google.com\\/advanced_search?hl\\x3den-US\\x26fg\\x3d1',[null,null,\"\",false,null,null,null,false],'0','www.google.com','https:\\/\\/news.google.com\\/', null ,'boq_dotssplashserver_20260802.06_p0','news.google.com','US:en', 0.0 , 1.0 , 0.0 , null , null , null ,'','-cZY5QoF2AV0Hb1CDMrRzA','GG3yNE0cKcnTV7droFUFVA','DEFAULT','English (United States)','', 2026.0 ,'https:\\/\\/news.google.com\\/rss\\/articles\\/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI', null ,'ltr', false ,'https:\\/\\/accounts.google.com\\/AccountChooser?continue\\x3dhttps:\\/\\/news.google.com\\/rss\\/articles\\/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\x26hl\\x3den-US','\\/\\/accounts.googl",
+        "image_url": "images/3163155b31b50498.webp",
+        "image_credit": "湖北日报传媒集团",
+        "image_kind": "source",
+        "image_source_url": "https://hbrbapp.hubeidaily.net/2dcb433bba01433facb646aff7c0985a.png",
+        "image_status": "downloaded",
+        "image_phash": "3e7e7c3c00000000",
+        "community_signals": []
+      },
+      {
+        "id": "f1a27e549c44bb8af491",
+        "category": "sports",
+        "title": "全民健身 “热辣滚烫” - 搜狐网",
+        "summary": "全民健身 “热辣滚烫” 搜狐网",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA",
+        "source": "搜狐网",
+        "published_at_bjt": "2026-08-06T07:01:24+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 2,
+        "engagement": 0,
+        "full_body": "window.WIZ_global_data = {\"AfY8Hf\":true,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\",\"/swg/\",\"/swg/*\"],\"FL1an\":false,\"FdrFJe\":\"27136364245645559\",\"Fwhl2e\":\"%.@.[\\\"en-US\\\",\\\"US\\\",[\\\"FINANCE_TOP_INDICES\\\",\\\"GENESIS_PUBLISHER_SECTION\\\",\\\"WEB_TEST_1_0_0\\\"],null,null,1,1,\\\"US:en\\\",null,null,null,null,null,null,null,false],\\\"en-US\\\",\\\"US\\\",true,[3,5,9,19],1,true,\\\"958125641\\\",null,null,null,false]\",\"GASP4\":1333,\"Guyvcf\":\"/home\",\"HiPsbb\":1,\"Im6cmf\":\"/_/DotsSplashUi\",\"JgLEj\":0,\"LVIXXb\":1,\"LoQv7e\":false,\"MT7f9b\":[],\"MUE6Ne\":\"dots-splash\",\"MZbqOb\":\"//www.google.com/setprefs?cs\\u003d2\\u0026sig\\u003d0_GPdQNUDyWmE053PZbE8iCZuyaI0%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"MuJWjd\":false,\"QrtxK\":\"\",\"S06Grb\":\"\",\"S6lZl\":116942117,\"TSDtV\":\"%.@.[[null,[[45447451,null,null,null,\\\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\\\",null,\\\"AQrj7e\\\"],[45447446,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"arpmnf\\\"],[45447445,10000,null,null,null,null,\\\"gksIhe\\\"],[45447442,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"K01E3b\\\"],[45447443,null,null,null,\\\"117964,122423\\\",null,\\\"wRa13\\\"],[45641040,null,true,null,null,null,\\\"SEyySc\\\"],[45447425,null,false,null,null,null,\\\"dH92cf\\\"],[45646097,null,true,null,null,null,\\\"zjqpP\\\"],[45447432,null,false,null,null,null,\\\"xGtuJf\\\"],[45447448,null,null,null,\\\"cnn.com,eurasiantimes.com\\\",null,\\\"i6NW6e\\\"],[45459555,null,false,null,null,null,\\\"Imeoqb\\\"],[45792579,null,false,null,null,null,\\\"hDlJ9d\\\"],[45447441,null,false,null,null,null,\\\"lGu6U\\\"],[45532880,null,true,null,null,null,\\\"tCJq5e\\\"],[45447452,null,null,null,\\\"\\\",null,\\\"iTkiFf\\\"],[45447444,null,true,null,null,null,\\\"j1Sd4d\\\"],[45447427,10000,null,null,null,null,\\\"IrjXhf\\\"],[45447447,null,null,null,\\\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\\\",null,\\\"Ia4eSd\\\"],[45447453,null,null,null,\\\"\\\",null,\\\"JNfYbb\\\"]],\\\"CAMSER0I88O5KQgCCL+NDKWf6wQI\\\"]]]\",\"UDh4De\":\"//www.google.com/setprefs?cs\\u003d0\\u0026sig\\u003d0_GPdQNUDyWmE053PZbE8iCZuyaI0%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"UTVOtf\":false,\"UUFaWc\":\"%.@.null,1000,2]\",\"Vvafkd\":false,\"Y12zTb\":\"//www.google.com/setprefs?cs\\u003d1\\u0026sig\\u003d0_GPdQNUDyWmE053PZbE8iCZuyaI0%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"Yllh3e\":\"%.@.1785973163032135,75480995,354305434]\",\"b5W2zf\":\"default_DotsSplashUi_desktop_ms\",\"cfb2h\":\"boq_dotssplashserver_20260802.06_p0\",\"eNnkwf\":\"1785973162\",\"eptZe\":\"/_/DotsSplashUi/\",\"fPDxwd\":[97493636,97493658,105739270],\"gGcLoe\":false,\"hbSvMb\":[97785986,1714249,97493636,97493658,1706538,97442197,97675219,98073362,105901316,105739270,106113460,97656897,13404284,13404289,97785970,97493620,97493642,97442181,98073330,105739254,97656881],\"hsFLT\":\"%.@.null,10,3]\",\"iCzhFc\":false,\"k76Vlc\":[\"G-SYGF1G18MM\"],\"mc2ogb\":1,\"nQyAE\":{\"xGtuJf\":\"false\",\"IrjXhf\":\"10000\",\"hDlJ9d\":\"false\",\"dH92cf\":\"false\",\"i6NW6e\":\"cnn.com,eurasiantimes.com\",\"wRa13\":\"117964,122423\",\"tCJq5e\":\"true\",\"K01E3b\":\"114086,117964,122423,123687,126247\",\"JNfYbb\":\"\",\"AQrj7e\":\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\",\"gksIhe\":\"10000\",\"iTkiFf\":\"\",\"lGu6U\":\"false\",\"Ia4eSd\":\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\",\"arpmnf\":\"114086,117964,122423,123687,126247\",\"zjqpP\":\"true\"},\"p9hQne\":\"https://www.gstatic.com/_/boq-dots/_/r/\",\"qwAQke\":\"DotsSplashUi\",\"qymVe\":\"LQAbIza7sQWNKdFRUE8k7Q1Am7Y\",\"r84ZEe\":\"//www.google.com/setprefs?sig\\u003d0_GPdQNUDyWmE053PZbE8iCZuyaI0%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026safeui\\u003dimages\",\"rdVWlb\":0,\"rtQCxc\":240,\"u4g7r\":\"%.@.null,1,3]\",\"uS02ke\":\"q8lzaof7AaP__tMPmov5qAE\",\"utHyne\":{\"/dssw.js?xhrRoot\\u003d%2F_%2FDotsSplashUi\\u0026mssRowKey\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.qrV8qT5_8xE.2018.O\\u0026buildLabel\\u003dboq_dotssplashserver_20260802.06_p0\":\"%.@.[null,null,null,\\\"/dssw.js?xhrRoot\\\\u003d%2F_%2FDotsSplashUi\\\\u0026mssRowKey\\\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.qrV8qT5_8xE.2018.O\\\\u0026buildLabel\\\\u003dboq_dotssplashserver_20260802.06_p0\\\"],\\\"\\\",true]\"},\"vXmutd\":\"%.@.\\\"US\\\",\\\"ZZ\\\",\\\"rLbzQg\\\\u003d\\\\u003d\\\"]\",\"vk7rPe\":\"//www.google.com/preferences?hl\\u003den-US\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en#appearance\",\"w2btAe\":\"%.@.null,null,\\\"\\\",false,null,null,null,false]\",\"ww0Jqc\":\"US\",\"x96UBf\":\"news.url.google.com\",\"xn5OId\":false,\"xnI9P\":true,\"xwAfE\":true,\"y2FhP\":\"prod\",\"yFnxrf\":1884,\"ysqeUe\":\"%.@.[1714244,13404284,13404289,15833571,15874407,40260062,40261562,40261571,40262007,40262028,40262208,40262379,40262396,40262405,40262408,40262431,72304157,99106383,99107170,99186682,102639914,104384299,104398823,104403486,104415750,104424925,104426719,104441052,104443158,104451552,104459252,104463141,104997031,106381282,115822001,115835391,116778925,117327663,117886247,118812450,119383102,119571506,119617109,120124972,120195911,122527788,122535268,122535270],false,true]\",\"zChJod\":\"%.@.]\"}; window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3804402, 0x281804c8, 0x400, ]; window.IJ_values = ['\\/\\/www.google.com\\/advanced_search?hl\\x3den-US\\x26fg\\x3d1',[null,null,\"\",false,null,null,null,false],'0','www.google.com','https:\\/\\/news.google.com\\/', null ,'boq_dotssplashserver_20260802.06_p0','news.google.com','US:en', 0.0 , 1.0 , 0.0 , null , null , null ,'','SrdZ0B7TQO4tGlEVOE_aNA','H50Rb5YyDw4GXB7XCB5I-Q','DEFAULT','English (United States)','', 2026.0 ,'https:\\/\\/news.google.com\\/rss\\/articles\\/CBMijAFBVV95cUxPeVEzd",
+        "image_url": "images/3a444514c3745fee.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "image_kind": "fallback",
+        "image_source_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "image_status": "source_unavailable",
+        "image_phash": "ffe0e1c337e7e3f3",
+        "community_signals": []
+      },
+      {
+        "id": "47b8ff7ad78a843a7117",
+        "category": "sports",
+        "title": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - 手机新浪网",
+        "summary": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 手机新浪网",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB",
+        "source": "手机新浪网",
+        "published_at_bjt": "2026-08-06T00:16:17+08:00",
+        "language": "zh",
+        "region": "domestic",
+        "authority_tier": 2,
+        "engagement": 0,
+        "full_body": "window.WIZ_global_data = {\"AfY8Hf\":true,\"Dftppe\":\"%.@.]\",\"DpimGf\":false,\"EP1ykd\":[\"/_/*\",\"/_/SubscribewithgoogleClientUi\",\"/_/SubscribewithgoogleClientUi/*\",\"/_nm\",\"/_nm/\",\"/_nm/*\",\"/accounts/*\",\"/debug\",\"/debug/\",\"/debug/*\",\"/eval\",\"/eval/*\",\"/swg\",\"/swg/\",\"/swg/*\"],\"FL1an\":false,\"FdrFJe\":\"433697852766098103\",\"Fwhl2e\":\"%.@.[\\\"en-US\\\",\\\"US\\\",[\\\"FINANCE_TOP_INDICES\\\",\\\"GENESIS_PUBLISHER_SECTION\\\",\\\"WEB_TEST_1_0_0\\\"],null,null,1,1,\\\"US:en\\\",null,null,null,null,null,null,null,false],\\\"en-US\\\",\\\"US\\\",true,[3,5,9,19],1,true,\\\"958125641\\\",null,null,null,false]\",\"GASP4\":1333,\"Guyvcf\":\"/home\",\"HiPsbb\":1,\"Im6cmf\":\"/_/DotsSplashUi\",\"JgLEj\":0,\"LVIXXb\":1,\"LoQv7e\":false,\"MT7f9b\":[],\"MUE6Ne\":\"dots-splash\",\"MZbqOb\":\"//www.google.com/setprefs?cs\\u003d2\\u0026sig\\u003d0_Fml6sclyW-vv2TZxWfIw-DG-tcc%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"MuJWjd\":false,\"QrtxK\":\"\",\"S06Grb\":\"\",\"S6lZl\":116942117,\"TSDtV\":\"%.@.[[null,[[45447451,null,null,null,\\\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\\\",null,\\\"AQrj7e\\\"],[45447446,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"arpmnf\\\"],[45447445,10000,null,null,null,null,\\\"gksIhe\\\"],[45447442,null,null,null,\\\"114086,117964,122423,123687,126247\\\",null,\\\"K01E3b\\\"],[45447443,null,null,null,\\\"117964,122423\\\",null,\\\"wRa13\\\"],[45641040,null,true,null,null,null,\\\"SEyySc\\\"],[45447425,null,false,null,null,null,\\\"dH92cf\\\"],[45646097,null,true,null,null,null,\\\"zjqpP\\\"],[45447432,null,false,null,null,null,\\\"xGtuJf\\\"],[45447448,null,null,null,\\\"cnn.com,eurasiantimes.com\\\",null,\\\"i6NW6e\\\"],[45459555,null,false,null,null,null,\\\"Imeoqb\\\"],[45792579,null,false,null,null,null,\\\"hDlJ9d\\\"],[45447441,null,false,null,null,null,\\\"lGu6U\\\"],[45532880,null,true,null,null,null,\\\"tCJq5e\\\"],[45447452,null,null,null,\\\"\\\",null,\\\"iTkiFf\\\"],[45447444,null,true,null,null,null,\\\"j1Sd4d\\\"],[45447427,10000,null,null,null,null,\\\"IrjXhf\\\"],[45447447,null,null,null,\\\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\\\",null,\\\"Ia4eSd\\\"],[45447453,null,null,null,\\\"\\\",null,\\\"JNfYbb\\\"]],\\\"CAMSER0I88O5KQgCCL+NDKWf6wQI\\\"]]]\",\"UDh4De\":\"//www.google.com/setprefs?cs\\u003d0\\u0026sig\\u003d0_Fml6sclyW-vv2TZxWfIw-DG-tcc%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"UTVOtf\":false,\"UUFaWc\":\"%.@.null,1000,2]\",\"Vvafkd\":false,\"Y12zTb\":\"//www.google.com/setprefs?cs\\u003d1\\u0026sig\\u003d0_Fml6sclyW-vv2TZxWfIw-DG-tcc%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026hl\\u003den-US\",\"Yllh3e\":\"%.@.1785973163833362,70076906,1780738176]\",\"b5W2zf\":\"default_DotsSplashUi_desktop_ms\",\"cfb2h\":\"boq_dotssplashserver_20260802.06_p0\",\"eNnkwf\":\"1785973163\",\"eptZe\":\"/_/DotsSplashUi/\",\"fPDxwd\":[97493636,97493658,105739270],\"gGcLoe\":false,\"hbSvMb\":[97493658,97656897,105901316,97442197,98073362,97785986,1714255,97675219,106113460,105739270,1706538,97493636,13404284,13404288,97493642,97656881,97442181,98073330,97785970,105739254,97493620],\"hsFLT\":\"%.@.null,10,3]\",\"iCzhFc\":false,\"k76Vlc\":[\"G-SYGF1G18MM\"],\"mc2ogb\":1,\"nQyAE\":{\"xGtuJf\":\"false\",\"IrjXhf\":\"10000\",\"hDlJ9d\":\"false\",\"dH92cf\":\"false\",\"i6NW6e\":\"cnn.com,eurasiantimes.com\",\"wRa13\":\"117964,122423\",\"tCJq5e\":\"true\",\"K01E3b\":\"114086,117964,122423,123687,126247\",\"JNfYbb\":\"\",\"AQrj7e\":\"glbl_20_blog,spain_blog,20_web,pol_twitter,spn_twitter\",\"gksIhe\":\"10000\",\"iTkiFf\":\"\",\"lGu6U\":\"false\",\"Ia4eSd\":\"us_2020_elections,us_2020_elections_local_news_with_summary_submix;gemini_briefing_local_v2,gemini_briefing_local_news_with_summary_submix;local_v2,home_local_news_submix\",\"arpmnf\":\"114086,117964,122423,123687,126247\",\"zjqpP\":\"true\"},\"p9hQne\":\"https://www.gstatic.com/_/boq-dots/_/r/\",\"qwAQke\":\"DotsSplashUi\",\"qymVe\":\"IQIb4TNbknhKdVxAres9mYbXxYs\",\"r84ZEe\":\"//www.google.com/setprefs?sig\\u003d0_Fml6sclyW-vv2TZxWfIw-DG-tcc%3D\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en\\u0026safeui\\u003dimages\",\"rdVWlb\":0,\"rtQCxc\":240,\"u4g7r\":\"%.@.null,1,3]\",\"uS02ke\":\"q8lzatLuMuqTtdEPgNGP0QY\",\"utHyne\":{\"/dssw.js?xhrRoot\\u003d%2F_%2FDotsSplashUi\\u0026mssRowKey\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.qrV8qT5_8xE.2018.O\\u0026buildLabel\\u003dboq_dotssplashserver_20260802.06_p0\":\"%.@.[null,null,null,\\\"/dssw.js?xhrRoot\\\\u003d%2F_%2FDotsSplashUi\\\\u0026mssRowKey\\\\u003dboq-dots.DotsSplashUi_desktop_ms.en_US.qrV8qT5_8xE.2018.O\\\\u0026buildLabel\\\\u003dboq_dotssplashserver_20260802.06_p0\\\"],\\\"\\\",true]\"},\"vXmutd\":\"%.@.\\\"US\\\",\\\"ZZ\\\",\\\"rLbzQg\\\\u003d\\\\u003d\\\"]\",\"vk7rPe\":\"//www.google.com/preferences?hl\\u003den-US\\u0026prev\\u003dhttps://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB?hl%3Den-US%26gl%3DUS%26ceid%3DUS:en#appearance\",\"w2btAe\":\"%.@.null,null,\\\"\\\",false,null,null,null,false]\",\"ww0Jqc\":\"US\",\"x96UBf\":\"news.url.google.com\",\"xn5OId\":false,\"xnI9P\":true,\"xwAfE\":true,\"y2FhP\":\"prod\",\"yFnxrf\":1884,\"ysqeUe\":\"%.@.[1714259,13404284,13404288,15874407,25942133,40260062,40261562,40261571,40262007,40262028,40262208,40262379,40262396,40262405,40262408,40262431,72304157,99106383,99107170,102639914,104398823,104403486,104415750,104424925,104426719,104441052,104451552,104459252,104463141,104997031,106381282,115822001,115835391,116778925,117327663,117886247,119079960,119383102,119571506,119617109,120195911,122501447,122516574,122527788],false,true]\",\"zChJod\":\"%.@.]\"}; window[\"_F_toggles_default_DotsSplashUi_desktop_ms\"] = [0x50218, 0x3804402, 0x281804c8, 0x400, ]; window.IJ_values = ['\\/\\/www.google.com\\/advanced_search?hl\\x3den-US\\x26fg\\x3d1',[null,null,\"\",false,null,null,null,false],'0','www.google.com','https:\\/\\/news.google.com\\/', null ,'boq_dotssplashserver_20260802.06_p0','news.google.com','US:en', 0.0 , 1.0 , 0.0 , null , null , null ,'','awu6wqx6RyWmuUPnPh0u1g','bsZUv19MOj-npYTihpBrGA','DEFAULT','English (United States)','', 2026.0 ,'https:\\/\\/news.google.com\\/rss\\/articles\\/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmho",
+        "image_url": "images/c0e166fc78302763.webp",
+        "image_credit": "手机新浪网",
+        "image_kind": "source",
+        "image_source_url": "http://n.sinaimg.cn/sinakd20100/397/w1280h717/20260806/d5dd-dc1c94558270cddab70a262b15c3fbdb.jpg",
+        "image_status": "downloaded",
+        "image_phash": "0111818787c7c7c7",
+        "community_signals": []
+      },
+      {
+        "id": "a3127fa5ddffd4573ca0",
+        "category": "sports",
+        "title": "Rockets march on after easy win against Phoenix",
+        "summary": "Trent Rockets' continued their excellent form as they comfortably beat Birmingham Phoenix by seven wickets to move four points clear at the top of the men's Hundred table, with two matches to go in the league phase.",
+        "url": "https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o",
+        "source": "BBC Sport",
+        "published_at_bjt": "2026-08-06T04:36:08+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: The Hundred: Trent Rockets vs Birmingham Phoenix Highlights\n\nURL Source: https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o\n\nMarkdown Content:\n[BBC Homepage](https://www.bbc.com/)\n\n*   [Skip to content](https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o#main-heading)\n*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)\n\n*   [Sign in](https://session.bbc.com/session?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsport%2Fcricket%2Fvideos%2Fcr49d69ene3o&userOrigin=SPORT_GNL&sequenceId=10c9896f-734e-4a99-8769-77c5d55aa06a)\n\n*   [Home](https://www.bbc.com/)\n*   [News](https://www.bbc.com/news)\n*   [Sport](https://www.bbc.com/sport)\n*   [Business](https://www.bbc.com/business)\n*   [Technology](https://www.bbc.com/technology)\n*   [Health](https://www.bbc.com/health)\n*   [Culture](https://www.bbc.com/culture)\n*   [Arts](https://www.bbc.com/arts)\n*   [Travel](https://www.bbc.com/travel)\n*   [Earth](https://www.bbc.com/future-planet)\n*   [Audio](https://www.bbc.com/audio)\n*   [Video](https://www.bbc.com/video)\n*   [Live](https://www.bbc.com/live)\n\n[More menu](https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o#global-navigation-more-menu)\n\n[More menu](https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o#global-navigation-more-menu)\n\n[Search BBC](https://www.bbc.com/search?d=SPORT_GNL)\n\n*   [Home](https://www.bbc.com/)\n*   [News](https://www.bbc.com/news)\n*   [Sport](https://www.bbc.com/sport)\n*   [Business](https://www.bbc.com/business)\n*   [Technology](https://www.bbc.com/technology)\n*   [Health](https://www.bbc.com/health)\n*   [Culture](https://www.bbc.com/culture)\n*   [Arts](https://www.bbc.com/arts)\n*   [Travel](https://www.bbc.com/travel)\n*   [Earth](https://www.bbc.com/future-planet)\n*   [Audio](https://www.bbc.com/audio)\n*   [Video](https://www.bbc.com/video)\n*   [Live](https://www.bbc.com/live)\n\nClose menu\n\n[BBC Sport](https://www.bbc.co.uk/sport)\n\n[Menu](https://www.bbc.co.uk/sport/all-sports)\n\n*   [Home](https://www.bbc.co.uk/sport)\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [Cricket](https://www.bbc.co.uk/sport/cricket)\n*   [Formula 1](https://www.bbc.co.uk/sport/formula1)\n*   [Rugby U](https://www.bbc.co.uk/sport/rugby-union)\n*   [Tennis](https://www.bbc.co.uk/sport/tennis)\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Cycling](https://www.bbc.co.uk/sport/cycling)\n*   [Athletics](https://www.bbc.co.uk/sport/athletics)\n\n[More](https://www.bbc.co.uk/sport/all-sports)\n\n**A-Z Sports**\n*   [American Football](https://www.bbc.co.uk/sport/american-football)\n*   [Athletics](https://www.bbc.co.uk/sport/athletics)\n*   [Basketball](https://www.bbc.co.uk/sport/basketball)\n*   [Boxing](https://www.bbc.co.uk/sport/boxing)\n*   [Commonwealth Games](https://www.bbc.co.uk/sport/commonwealth-games)\n*   [Cricket](https://www.bbc.co.uk/sport/cricket)\n*   [Cycling](https://www.bbc.co.uk/sport/cycling)\n*   [Darts](https://www.bbc.co.uk/sport/darts)\n*   [Disability Sport](https://www.bbc.co.uk/sport/disability-sport)\n*   [Football](https://www.bbc.co.uk/sport/football)\n*   [Formula 1](https://www.bbc.co.uk/sport/formula1)\n*   [Gaelic Games](https://www.bbc.co.uk/sport/northern-ireland/gaelic-games)\n*   [Golf](https://www.bbc.co.uk/sport/golf)\n*   [Gymnastics](https://www.bbc.co.uk/sport/gymnastics)\n*   [Horse Racing](https://www.bbc.co.uk/sport/horse-racing)\n*   [Mixed Martial Arts](https://www.bbc.co.uk/sport/mixed-martial-arts)\n*   [Motorsport](https://www.bbc.co.uk/sport/motorsport)\n*   [Netball](https://www.bbc.co.uk/sport/netball)\n*   [Rugby League](https://www.bbc.co.uk/sport/rugby-league)\n*   [Rugby Union](https://www.bbc.co.uk/sport/rugby-union)\n*   [Snooker](https://www.bbc.co.uk/sport/snooker)\n*   [Swimming](https://www.bbc.co.uk/sport/swimming)\n*   [Tennis](https://www.bbc.co.uk/sport/tennis)\n*   [Full Sports A-Z](https://www.bbc.co.uk/sport/all-sports)\n\n**More from Sport**\n*   [England](https://www.bbc.co.uk/sport/england)\n*   [Scotland](https://www.bbc.co.uk/sport/scotland)\n*   [Wales](https://www.bbc.co.uk/sport/wales)\n*   [Northern Ireland](https://www.bbc.co.uk/sport/northern-ireland)\n*   [News Feeds](https://www.bbc.co.uk/sport/15890345)\n*   [Help & FAQs](https://www.bbc.co.uk/sport/15561348)\n\n*   [The Hundred](https://www.bbc.co.uk/sport/cricket/the-hundred)\n*   [Men's Scores & Fixtures](https://www.bbc.co.uk/sport/cricket/mens-england-the-hundred/scores-fixtures)\n*   [Women's Scores & Fixtures](https://www.bbc.co.uk/sport/cricket/womens-england-the-hundred/scores-fixtures)\n*   [Men's Tables](https://www.bbc.co.uk/sport/cricket/mens-england-the-hundred/table)\n*   [Women's Tables](https://www.bbc.co.uk/sport/cricket/womens-england-the-hundred/table)\n*   [Squads](https://www.bbc.co.uk/sport/cricket/articles/c07jxzp2vl7o)\n\n# Rockets march on after easy win against Phoenix\n\n## This content is not available in your location.\n\nThere was an error\n\nTrent Rockets' continued their excellent form as they comfortably beat Birmingham Phoenix by seven wickets to move four points clear at the top of the men's Hundred table, with two matches to go in the league phase.\n\nREAD MORE: [The Hundred: Who needs what to progress from group stages?](https://www.bbc.co.uk/sport/cricket/articles/cpq842rpnwro)\n\n_Available to UK users only._\n\n*   Subsection [The Hundred](https://www.bbc.co.uk/sport/cricket/the-hundred) \n\n*   Published 2 hours ago \n\nShare\n\nclose panel\n\nShare page\n\nCopy link\n\n[About sharing](https://www.bbc.co.uk/usingthebbc/terms/can-i-share-things-from-the-bbc)\n\nRead description\n\n## Editor's recommendations\n\n*   \n[Rockets march on after easy win against Phoenix. Video, 00:09:04 Rockets march on after easy win against Phoenix](https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o) \n\n    *   Subsection [The Hundred](https://www.bbc.co.uk/sport/cricket/the-hundred) \n    \n\n    *   Published 2 hours ago \n\n9:04\n\n![Image 1: Ben Duckett](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/c3d3/live/4ff2ee50-9109-11f1-b8ee-9b3c26ad07bb.jpg)\n\n*   \n[Up Next. Chelsea lose friendly as Juventus score stunning winner. Video, 00:01:24 Chelsea lose friendly as Juventus score stunning winner](https://www.bbc.co.uk/sport/football/videos/c62qvzn4zx1o) \n\n    *   Subsection [Football](https://www.bbc.co.uk/sport/football) \n    \n\n    *   Published 6 hours ago \n\nUp Next\n\n1:24\n\n![Image 2: Zeki Celik and Joao Pedro](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/443a/live/ba594120-90e8-11f1-b2ab-0dd01740f9f6.jpg)\n\n*   \n[Want to score more runs? Gay's batting masterclass. Video, 00:03:04 Want to score more runs? Gay's batting masterclass](https://www.bbc.co.uk/sport/cricket/videos/c2048q16xlvo) \n\n    *   Subsection [The Hundred](https://www.bbc.co.uk/sport/cricket/the-hundred) \n    \n\n    *   Published 5 hours ago \n\n3:04\n\n![Image 3: Emilio Gay and Michael Vaughan discuss running](https://ichef.bbci.co.uk/ace/standard/400/cpsprodpb/5727/live/064011a0-90f7-11f1-b8ee-9b3c26ad07bb.jpg)\n\n*   \n[Root looks refreshed and ready to retake captaincy reins - Cook. Vide",
+        "image_url": "images/ed02faeb4ece1118.webp",
+        "image_credit": "BBC Sport",
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c3d3/live/4ff2ee50-9109-11f1-b8ee-9b3c26ad07bb.jpg",
+        "image_status": "downloaded",
+        "image_phash": "f8f13df810a0b861",
+        "community_signals": []
+      },
+      {
+        "id": "1cca90e89358780486e6",
+        "category": "sports",
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "summary": "Gianni Infantino will remain as Fifa president after receiving the backing of senior executives, but \"sincerely apologises\" for errors made in his controversial private investment plans.",
+        "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
+        "source": "BBC Sport",
+        "published_at_bjt": "2026-08-06T05:37:08+08:00",
+        "language": "en",
+        "region": "global",
+        "authority_tier": 1,
+        "engagement": 0,
+        "full_body": "Title: Gianni Infantino says sorry but remains as Fifa president after executive meeting\n\nURL Source: https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo\n\nPublished Time: 2026-08-05T21:37:08.896Z\n\nMarkdown Content:\n**Gianni Infantino has apologised for \"errors\" he made in controversial plans to sell off stakes in competitions to private investors, but will remain Fifa president after receiving the backing of senior executives in a meeting in Morocco.**\n\nInfantino summoned members of the management board to Fifa's Africa office in Rabat on Wednesday following mounting criticism of his [aborted proposals](https://www.bbc.com/sport/football/articles/czekr6kn58po), with world football's governing body releasing a statement of support four hours after the meeting ended.\n\nEuropean football's governing body Uefa said at the weekend that it has lost confidence in Infantino, calling the Fifa Forward Enterprise (FFE) proposal a \"shabby, back room, opaque deal\".\n\nMuch criticism has come from within Fifa, including secretary general Mattias Grafstrom, who was at Wednesday's meeting. In an internal memo sent to Fifa staff on Tuesday, he wrote that the situation is \"a sad and reproachable series of events\".\n\nHowever, in a statement following the meeting, Grafstrom and the managament board \"reaffirmed their full support\" for Infantino as president.\n\nInfantino and Grafstrom also sent a signed letter - seen by the BBC - to Fifa's vice-presidents, council and 211 member associations saying they \"sincerely apologise\" for their errors and \"commit to them not happening again\".\n\nThe two were pictured attending a Women's Africa Cup of Nations match together in Rabat after the meeting.\n\nInfantino had offered all associations $40m (£30m) if they backed a proposal for private investment in its tournaments, including the men's and women's World Cups, through a new subsidiary, FFE.\n\nFifa said that during Wednesday's meeting \"mistakes\" regarding FFE were \"acknowledged\", saying it was \"not the intention\" for the Fifa council and members association to \"feel excluded from the process and that the process should have been handled differently\".\n\nThe governing body added it \"acknowledged that errors were also made after the proposal was leaked to media\" - with the Times breaking the story of Infantino's plan on 28 July.\n\nHowever, the statement also said the organisation \"will no longer tolerate any attacks on its integrity, good governance and due process and will take all necessary measures to protect and safeguard its name and reputation\".\n\nEarlier, Fifa denied a story in the Times that Infantino had promised Morocco it will host the 2030 World Cup final in exchange for its support.\n\nFifa said it was a \"false and misleading\" claim and that a decision on where to hold the final, with the tournament also hosted by Spain and Portugal, will be made \"in due course\".\n\nInfantino will hope that this begins to draw a line under the latest, and perhaps biggest, controversy that has beset his 10-year tenure.\n\nHowever, this show of support from Fifa executives followed yet more stinging criticism of the Swiss.\n\nCanadian Prime Minister Mark Carney, whose country hosted the recent World Cup with the United States and Mexico, said he no longer had confidence in Infantino.\n\nFormer Barcelona, Real Madrid and Portugal winger Luis Figo, who ran for the Fifa presidency against Infantino's predecessor Sepp Blatter in 2015 before withdrawing, called on him to immediately resign.\n\nFigo said: \"Infantino has debased the office that he promised to elevate.\n\n\"It is too late to save his dignity but it is not too late to save football.\"\n\nBut Infantino, 56, looks set to fight for re-election for a fourth term.\n\nRivals have until 18 November to put their names forward to stand against him, with the election to be held at the Fifa Congress in Morocco in March 2027.\n\nA candidate requires 106 votes from Fifa's 211 members to win.\n\nUefa, however, may well have other ideas.\n\nAt the weekend, European football's governing body said it had [lost confidence](https://www.bbc.com/sport/football/articles/c04kr2nv3v3o) in Infantino's leadership and [threatened legal action against Fifa](https://www.bbc.com/sport/football/articles/cp30vg829nxo).\n\nEarlier this week several member associations - [including Wales](https://www.bbc.com/sport/football/articles/ckg9z094v8go), with England set to follow suit - withdrew support for his re-election.\n\nFifa also said that although \"mistakes were made, everything that was done was done in full compliance with the Fifa regulatory framework\". It added it felt the outcomes of the meeting will \"strengthen Fifa's governance\" and \"restore confidence in the organisation\".\n\nIt is unlikely that such statements and the approval of a group of executives will dampen Uefa's anger.\n\nUefa has been quick to react to every twist and turn ever since Infantino's FFE plan emerged.\n\nFrom the initial rejection of FFE, to the seismic moment when all 55 member associations threatened to boycott Fifa's competitions, through to the effective vote of no confidence.\n\nBut Uefa has a problem, and it is not an insignificant hurdle to overcome.\n\nSince Infantino performed his U-turn, only Concacaf as a confederation has criticised the Fifa president. But, unlike Uefa, it did not go as far as to say it had lost confidence in him.\n\nWhile the Asian confederation did reject the plan, there has been no blanket statement since Infantino aborted it.\n\nUefa has a great deal of power, but it cannot realistically overthrow Infantino on its own. It needs more global support.\n\nOutside of Europe, so far only Jordan - one of a handful of the 211 member associations not to have signed a letter of support for Infantino's re-election before this controversy - have publicly called for him to go.\n\nThe list of countries who have underscored their support is much longer - admittedly from within Infantino's firm power base in Asia and Africa.\n\nIn recent days Egypt, Morocco, Niger, Mauritania, DR Congo and the Philippines have all backed Infantino.\n\nSuch countries have benefited from funding via Infantino's Fifa Forward programme, the forerunner to FFE, to the tune of $8m (£5.94m) in each three-year cycle.\n\nUefa has to find a way to persuade such countries that another presidential candidate can offer the same financial programmes, but with greater transparency and reform.\n\nInfantino, however, already has their loyalty.\n\nAll the other recent controversies could not touch Infantino - from the way Saudi Arabia won the hosting rights to the 2034 World Cup, to US President Donald Trump's Fifa Peace Prize, to Folarin Balogun's escape from suspension at the World Cup.\n\nThis time, an attempt to sell off a slice of the commercial and ticketing rights of Fifa's competitions was a step too far for many.\n\nNot simply because of the optics of such a move, but also that it was kept secret from other senior members of the Fifa hierarchy and that the beneficiary of the d",
+        "image_url": "images/b1aeac6cf4956281.webp",
+        "image_credit": "BBC Sport",
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+        "image_status": "downloaded",
+        "image_phash": "1b1b181818181818",
+        "community_signals": []
+      }
+    ],
+    "fact_packs": [
+      {
+        "story_id": "42122e8702d12974f63d",
+        "headline": "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "facts": [
+          "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 湖北日报传媒集团"
+        ],
+        "sources": [
+          {
+            "article_id": "42122e8702d12974f63d",
+            "title": "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+            "source": "湖北日报传媒集团",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI",
+            "published_at_bjt": "2026-08-06T06:44:52+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [
+          "未取得有效正文，只能使用来源摘要或标题"
+        ],
+        "community_signals": []
+      },
+      {
+        "story_id": "f1a27e549c44bb8af491",
+        "headline": "全民健身 “热辣滚烫” - 搜狐网",
+        "facts": [
+          "全民健身 “热辣滚烫” - 搜狐网"
+        ],
+        "sources": [
+          {
+            "article_id": "f1a27e549c44bb8af491",
+            "title": "全民健身 “热辣滚烫” - 搜狐网",
+            "source": "搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA",
+            "published_at_bjt": "2026-08-06T07:01:24+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "1f9c135ad5ccc3b2a383",
+            "title": "全民健身 乐享健康 - 人民日报",
+            "source": "人民日报",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXy1YVnNZU0JPYVBnNnNmOEJ3dkdjc2NhUmllQWxBcW03eWxGS3VxS0pvY0ppNENlRlB0Sm50d2NQeTdvd0hsd1F3V2psZzJvd24tVFhiOWhIVlRRa1VpRUlTaXlGWjAweVhadXEyZFVSa1VTN0hNM2tmVHJfN1pZeQ",
+            "published_at_bjt": "2026-08-02T11:56:31+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "b0cc61d858d9a12f12c6",
+            "title": "全民健身日，沪上“乒乓响” - 新体育网",
+            "source": "新体育网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nRmdnMUF1T2lsUkNqbkRfb1NFX21QcUlJdnZtUWh3STJpTkJmeTZGMXpNRUxJM2VxaUVqSlVtNEs0T1dDNW1wc29EcC1mX2ZhTmVnSWxqRjh6ai1zVi1INnJvbTBCcy1ESmdQRGt3bw",
+            "published_at_bjt": "2026-08-05T21:01:05+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "0fb9befa027681e4bdbe",
+            "title": "全民健身——草原上的赛马盛会 - 新华网",
+            "source": "新华网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFVkYWh0dkFFakQzNzJDZDZ1LThqNDdNQ3VfV3U4ajRNckRiSGF4c0JpR2VrbkdtU2VVaFZwX1VsOXVHa1lrX0R6STF5NzVEU1hXVVJiZWdvalZMSUtiTWpjQWR5M010UVhIdndpM1FlSTJnT2FQUzhuSmh2cE4xMnl3",
+            "published_at_bjt": "2026-08-05T18:23:01+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [
+          "未取得有效正文，只能使用来源摘要或标题"
+        ],
+        "community_signals": []
+      },
+      {
+        "story_id": "47b8ff7ad78a843a7117",
+        "headline": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - 手机新浪网",
+        "facts": [
+          "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 手机新浪网"
+        ],
+        "sources": [
+          {
+            "article_id": "47b8ff7ad78a843a7117",
+            "title": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - 手机新浪网",
+            "source": "手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB",
+            "published_at_bjt": "2026-08-06T00:16:17+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "ee629823baf2cefebf59",
+            "title": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - Sina Sports",
+            "source": "Sina Sports",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkVZTGdlNjVPcE9JQ3dVS3AxajBDUFB3ZXpBQjZnZG43QWo0ZmtlOVZGOWduVEpFOXhGMmE0bVpsVG5iNWtBT0pRQnJqMjV4bUstY3J3eU5OSlU0VWZud0FWNkZ6NGMtRHZUTkhuZGZXcndBbFd2eUdTcjRXNzdaY3VHclhZb1FJajFhd2xWa3ZtNGJzeldkQTdBeXRKSVQtanJ3RjNHT1liQUVQLUdUaE0yVQ",
+            "published_at_bjt": "2026-08-06T05:20:57+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [
+          "未取得有效正文，只能使用来源摘要或标题"
+        ],
+        "community_signals": []
+      },
+      {
+        "story_id": "a3127fa5ddffd4573ca0",
+        "headline": "Rockets march on after easy win against Phoenix",
+        "facts": [
+          "Title: The Hundred: Trent Rockets vs Birmingham Phoenix Highlights",
+          "*   [Accessibility Help](https://www.bbc.co.uk/accessibility/)",
+          "*   [Sign in](https://session.bbc.com/session?lang=en-GB&ptrt=https%3A%2F%2Fwww.bbc.com%2Fsport%2Fcricket%2Fvideos%2Fcr49d69ene3o&userOrigin=SPORT_GNL&sequenceId=10c9896f-734e-4a99-8769-77c5d55aa06a)",
+          "*   [Home](https://www.bbc.com/)",
+          "*   [News](https://www.bbc.com/news)",
+          "*   [Sport](https://www.bbc.com/sport)",
+          "*   [Business](https://www.bbc.com/business)",
+          "*   [Technology](https://www.bbc.com/technology)"
+        ],
+        "sources": [
+          {
+            "article_id": "a3127fa5ddffd4573ca0",
+            "title": "Rockets march on after easy win against Phoenix",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o",
+            "published_at_bjt": "2026-08-06T04:36:08+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "1c48c66e0f4845eed2f7",
+            "title": "Rockets march on after easy win while Buttler makes history in The Hundred - Oche180",
+            "source": "Oche180",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWdIUWZJazIyRUlQQTk5RFpYU0FKd1dVWXVtNXVVMndUTndJbURRSTFCN191dEZOSkpiaXhpUUhVTmIwYlpwdzFSOFB1elo0dmZwM21qaV9LRkJuYnFnMGNWV0Q1UkV4eHJsUVpEUmNWS2xjMmoyNjV4czc3TUVKVTMxZXY1ZmpPaGpOa1NXTzJFcFp6UHFGVERLdUFrb3Fl",
+            "published_at_bjt": "2026-08-06T05:38:45+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "df5b700a771f69a01022",
+            "title": "The Hundred: Trent Rockets vs Birmingham Phoenix Highlights - BBC",
+            "source": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xOFo3ZThmcm13T0NINENac0ptd2FCZnV3XzR2OVA0bFdxNEhrbWwxQjJjYnloMmtkanFLRVVIWF9PQ1J6WGpzWld0WGFxb0I1RVJzVWFhOGdvSDV5a2VISG1zVDdEZw",
+            "published_at_bjt": "2026-08-06T04:36:08+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      },
+      {
+        "story_id": "1cca90e89358780486e6",
+        "headline": "Infantino sorry for errors but stays Fifa president",
+        "facts": [
+          "Title: Gianni Infantino says sorry but remains as Fifa president after executive meeting",
+          "**Gianni Infantino has apologised for \"errors\" he made in controversial plans to sell off stakes in competitions to private investors, but will remain Fifa president after receiving the backing of senior executives in a meeting in Morocco.**",
+          "Infantino summoned members of the management board to Fifa's Africa office in Rabat on Wednesday following mounting criticism of his [aborted proposals](https://www.bbc.com/sport/football/articles/czekr6kn58po), with world football's governing body releasing a statement of support four hours after the meeting ended.",
+          "European football's governing body Uefa said at the weekend that it has lost confidence in Infantino, calling the Fifa Forward Enterprise (FFE) proposal a \"shabby, back room, opaque deal\".",
+          "Much criticism has come from within Fifa, including secretary general Mattias Grafstrom, who was at Wednesday's meeting. In an internal memo sent to Fifa staff on Tuesday, he wrote that the situation is \"a sad and reproachable series of events\".",
+          "However, in a statement following the meeting, Grafstrom and the managament board \"reaffirmed their full support\" for Infantino as president.",
+          "Infantino and Grafstrom also sent a signed letter - seen by the BBC - to Fifa's vice-presidents, council and 211 member associations saying they \"sincerely apologise\" for their errors and \"commit to them not happening again\".",
+          "The two were pictured attending a Women's Africa Cup of Nations match together in Rabat after the meeting."
+        ],
+        "sources": [
+          {
+            "article_id": "1cca90e89358780486e6",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
+            "published_at_bjt": "2026-08-06T05:37:08+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "24f8a4e426154e2f174b",
+            "title": "Infantino sorry for 'errors' but gets FIFA board's 'full support' - ESPN",
+            "source": "ESPN",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXZ6YUNOQmtyVTZpeS1FNkl4M3dMNEt5M0FPa0VZSDN1THNtc2pqRUcwNi1SME5XSVo1bEhtVVRsSk9EbURTNW1GMzJ4SG5XSk55TTFhYWNkY1pBeEs4bmEtd3pVOWdkOHJ2VW90MnpQUFVIZEo3Z2N5azRNY0ZSZkZtXy1QdUxZVF81UTBVeC1XVDBSQ0lMcXdyZ0tJUXEwX2RELVdfQVgxQXlY",
+            "published_at_bjt": "2026-08-06T07:02:15+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "32449b21a495d7cc441e",
+            "title": "Gianni Infantino says sorry but remains as Fifa president after executive meeting - BBC",
+            "source": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xTkZoakFjRFltWDhmQUN1RUpZSFc4UDBsZUQ1VTlFcEk5UHlJWFA5NlRsNlAzLWFyWlV3dGlJN05GVEhhczFjSHotQ3VzQzNneFhhVkxJdGNNaWFlYnBkN1pNUVExa0RCcEE",
+            "published_at_bjt": "2026-08-06T05:37:08+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "3a295f19eac607f65515",
+            "title": "Fifa bosses back Infantino to stay as president, sorry for World Cup sell-off plan - South China Morning Post",
+            "source": "South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHl6NXRPc3IyTmxSUjV0MXpaUlViWXNVRVo5TWM1SlRfbFlZcFlxQ1EwRC1OSTJFREpjY1BTOWxvZWZHT1N6VmRKTmJnSUVXR29oeXpROWF3dHJkSllOU3NoTEFWSWRKZFV3NzhWZENsZDh3LU5iOGpLZmdoek1qVkZlVjllbzlpWmhPZEwyX3dZTXlWXzQ4TjVyTW9xQUdkQURjWGJwNEppbUFZOFNRZDQzZFFMcmppcmtFMEZ5bUXSAcABQVVfeXFMUG45emV1d1RXMmpyYkI5ZzBBeVVqdk80bUx4cGZHU2t0empJcjBNSjJpSTl3R2w0WjEzeF84ZnI4MUM3MjNJaFhPSUhCNkdNaUlNZHVJb2U4N19JZnNJR01SLTJVR2YyQTEzdkhzU2RUNU1QX3EtNE1FY3FXZEVRSDdjS3hGWHhMck53eGFBanU5UjFDMVZZZERKbTAweFpVV0ZQZEJsM244anFxYVY5OWdOY2pzeDBORmhxR21rdVhl",
+            "published_at_bjt": "2026-08-06T07:05:46+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "uncertainties": [],
+        "community_signals": []
+      }
+    ]
+  },
+  "reading": {
+    "title": "全民健身日：从黄冈夜市到CBA引援，今天你动了吗？",
+    "lead": "今天是8月8日全民健身日，从湖北黄冈的夏夜赶集会到上海乒乓响，从CBA重磅引援到国际足联的风波，体育的热度在各地升温。我们梳理了五条值得关注的动态，看看它们如何影响你的运动生活。",
+    "sections": [
+      {
+        "story_id": "42122e8702d12974f63d",
+        "title": "湖北全民健身“赶集会”点亮黄冈夏夜",
+        "dek": "一场把健身融入夜市的创新尝试，让运动变得触手可及。",
+        "body": "近期傍晚，湖北黄冈的夏夜被一场特别的“赶集会”点亮。这不是普通的集市，而是全民健身的现场——据湖北日报报道，这场活动把健身项目搬进了夜市，让市民在逛街纳凉的同时，就能体验运动的乐趣。想象一下，你一边吃着烤串，一边能看到旁边的空地上有人在跳操、打太极，或者试试投篮机，这种“边逛边练”的场景，打破了健身房的围墙，也拉近了运动与日常生活的距离。活动组织者显然动了心思，把健身指导、趣味比赛和休闲娱乐打包在一起，让不同年龄层的人都能找到自己的节奏。对于很多平时不爱动的人来说，这种低门槛的参与方式，可能比办张健身卡更有效。\n\n这种“赶集会”的形式，其实反映了全民健身推广的一种新思路：不再依赖强制性的运动任务，而是把运动嵌入到人们已有的生活场景中。夜市是夏夜人流量最大的地方，把健身项目放在这里，等于把运动送到了潜在参与者的眼皮底下。你不需要专门换运动服、跑一趟健身房，只需要在散步或购物时，顺便尝试一下。这种“顺便”的体验，往往能降低心理门槛，让那些对运动有畏难情绪的人迈出第一步。\n\n从实际效果看，这种活动对社区凝聚力的提升也有帮助。当邻里在同一个场地运动、交流，社区的氛围会变得更融洽。而且，这类活动通常免费或低成本，对普通家庭来说，是一种零负担的健康投资。如果你所在的城市也有类似的“健身赶集”活动，不妨去凑个热闹，哪怕只是看看，也可能激发你尝试新运动的兴趣。毕竟，运动的第一步，往往是先让自己出现在运动现场。",
+        "takeaway": "如果你觉得去健身房太正式，不妨留意社区或公园里的这类“健身赶集”活动，零成本尝试，说不定能发现一项喜欢的运动。",
+        "image_url": "images/3163155b31b50498.webp",
+        "image_credit": "湖北日报传媒集团",
+        "source_ids": [
+          "42122e8702d12974f63d"
+        ],
+        "source_refs": [
+          {
+            "article_id": "42122e8702d12974f63d",
+            "title": "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+            "source": "湖北日报传媒集团",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE93Y21sejN3T1JMX0Q4Y0g1Z0pkNVhQS0p5UFJ1ZEJRRGljX3VmRmV1TG5va2JsZkNIbnMwWFJuZkhMdXZGMkpBZHlEMkhOUlY2eFlBRFhoQnI",
+            "published_at_bjt": "2026-08-06T06:44:52+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://hbrbapp.hubeidaily.net/2dcb433bba01433facb646aff7c0985a.png",
+        "image_status": "downloaded",
+        "image_phash": "3e7e7c3c00000000"
+      },
+      {
+        "story_id": "f1a27e549c44bb8af491",
+        "title": "全民健身“热辣滚烫”：从草原赛马到上海乒乓",
+        "dek": "全民健身日前后，各地活动百花齐放，运动成为生活方式。",
+        "body": "全民健身日前后，全国上下掀起了一股运动热潮。人民日报、新华网等多家媒体报道了各地丰富多彩的健身活动：在内蒙古草原，赛马盛会展现了传统体育的魅力；在上海，乒乓球爱好者们用“乒乓响”迎接节日；还有更多地方组织了健步走、广场舞、篮球赛等。这些活动不只是比赛，更是全民参与的节日。值得注意的是，今年的活动更强调“乐享健康”，把运动与快乐结合，而不是追求竞技成绩。比如草原赛马，既是竞技，也是文化传承；上海乒乓，则让国球走进社区。这种多样化的供给，让不同兴趣、不同体能的人都能找到适合自己的运动方式，也呼应了全民健身国家战略的初衷——让运动成为生活习惯，而非一时兴起。\n\n从这些活动中，我们可以看到全民健身的几个新趋势。一是运动场景的多元化，不再局限于体育场馆，而是延伸到草原、社区、夜市等日常空间。二是运动形式的融合化，传统与现代结合，比如赛马与旅游结合，乒乓球与社区活动结合。三是参与人群的广泛化，从儿童到老人，都能找到适合自己的项目。这种变化，得益于政策引导和基层创新，也反映了人们对健康生活方式的追求。\n\n对普通人来说，这些活动的意义在于，它告诉你运动不必是严肃的、竞技的，而可以是有趣的、社交的。你不需要有运动天赋，只需要愿意尝试。比如，你可以从每天散步半小时开始，或者约朋友打场球，就能逐步养成习惯。全民健身日的热闹，不应该只是一天的狂欢，而应该成为你日常生活的起点。记住，运动的最大障碍不是身体，而是心理。当你把运动看作一种享受，而不是任务，你就能坚持下去。",
+        "takeaway": "别把运动想得太复杂，从每天散步半小时开始，或者约朋友打场球，就能逐步养成习惯。",
+        "image_url": "images/3a444514c3745fee.webp",
+        "image_credit": "伊恩每日 · 本地题图",
+        "source_ids": [
+          "f1a27e549c44bb8af491",
+          "1f9c135ad5ccc3b2a383",
+          "b0cc61d858d9a12f12c6",
+          "0fb9befa027681e4bdbe"
+        ],
+        "source_refs": [
+          {
+            "article_id": "f1a27e549c44bb8af491",
+            "title": "全民健身 “热辣滚烫” - 搜狐网",
+            "source": "搜狐网",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeVEzdGhfdTQyaGVHekpIQWdOeWR0RU9haTdJMVZIRHBGUm1oQVF2RUhadWJKZDUyZENTaF9wUUdFY1ZuenVFUlkxZTVTRlJoMUVod3pEVFFyYmZDRnJzOWFGSmVETFRrMHhqMXZOS2lvWEJranNjMGlJQ29GeUxfU3dSRGhLYUpfOUNJVA",
+            "published_at_bjt": "2026-08-06T07:01:24+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "1f9c135ad5ccc3b2a383",
+            "title": "全民健身 乐享健康 - 人民日报",
+            "source": "人民日报",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNXy1YVnNZU0JPYVBnNnNmOEJ3dkdjc2NhUmllQWxBcW03eWxGS3VxS0pvY0ppNENlRlB0Sm50d2NQeTdvd0hsd1F3V2psZzJvd24tVFhiOWhIVlRRa1VpRUlTaXlGWjAweVhadXEyZFVSa1VTN0hNM2tmVHJfN1pZeQ",
+            "published_at_bjt": "2026-08-02T11:56:31+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "b0cc61d858d9a12f12c6",
+            "title": "全民健身日，沪上“乒乓响” - 新体育网",
+            "source": "新体育网",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nRmdnMUF1T2lsUkNqbkRfb1NFX21QcUlJdnZtUWh3STJpTkJmeTZGMXpNRUxJM2VxaUVqSlVtNEs0T1dDNW1wc29EcC1mX2ZhTmVnSWxqRjh6ai1zVi1INnJvbTBCcy1ESmdQRGt3bw",
+            "published_at_bjt": "2026-08-05T21:01:05+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "0fb9befa027681e4bdbe",
+            "title": "全民健身——草原上的赛马盛会 - 新华网",
+            "source": "新华网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPOFVkYWh0dkFFakQzNzJDZDZ1LThqNDdNQ3VfV3U4ajRNckRiSGF4c0JpR2VrbkdtU2VVaFZwX1VsOXVHa1lrX0R6STF5NzVEU1hXVVJiZWdvalZMSUtiTWpjQWR5M010UVhIdndpM1FlSTJnT2FQUzhuSmh2cE4xMnl3",
+            "published_at_bjt": "2026-08-05T18:23:01+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "fallback",
+        "image_source_url": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
+        "image_status": "source_unavailable",
+        "image_phash": "ffe0e1c337e7e3f3"
+      },
+      {
+        "story_id": "47b8ff7ad78a843a7117",
+        "title": "CBA新赛季前瞻：首钢签下广厦双外援，冲击总冠军",
+        "dek": "北京首钢的引援动作，为新赛季的争冠格局增添了变数。",
+        "body": "8月6日，据新浪体育报道，北京首钢男篮签下了此前效力于浙江广厦的两名外援布朗和桑普森。这一操作被外界解读为球队蓄力新赛季、冲击总冠军的信号。布朗和桑普森在广厦的表现有目共睹，他们的加盟将直接增强首钢的后场火力和内线防守。对于首钢来说，上赛季的成绩并不理想，这次引援显然是针对短板进行补强。不过，外援融入需要时间，化学反应如何，还要看教练组的调配。对CBA整体而言，强队之间的军备竞赛加剧，新赛季的竞争格局可能更加激烈。球迷们可以期待，新赛季的京沪大战、京粤对决，会因这些变化而更具看点。\n\n从战术角度看，布朗是一名得分能力突出的后卫，他的突破和三分能为首钢提供稳定的外线火力；桑普森则是内线悍将，篮板和防守是他的强项。两人的组合，正好补强了首钢上赛季暴露出的进攻乏力和内线薄弱问题。但篮球是团队运动，外援的个人能力再强，也需要与本土球员磨合。首钢的国内球员如翟晓川、方硕等，能否与新外援产生化学反应，是决定球队上限的关键。\n\n这笔引援也反映了CBA联赛的竞争趋势：各队都在加大投入，引进高水平外援，以提升竞争力。这对联赛的观赏性来说是好事，但也带来了一个问题：本土球员的成长空间可能被压缩。如何在追求成绩和培养新人之间取得平衡，是每支球队都需要思考的。对球迷而言，新赛季的CBA将更加精彩，但我们也应该关注本土球员的表现，毕竟中国篮球的未来，最终要靠他们。",
+        "takeaway": "看CBA时，除了关注球星，也可以留意球队的战术配合和外援融入情况，这会让你更懂门道。",
+        "image_url": "images/c0e166fc78302763.webp",
+        "image_credit": "手机新浪网",
+        "source_ids": [
+          "47b8ff7ad78a843a7117",
+          "ee629823baf2cefebf59"
+        ],
+        "source_refs": [
+          {
+            "article_id": "47b8ff7ad78a843a7117",
+            "title": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - 手机新浪网",
+            "source": "手机新浪网",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbnctc0JqODZrUklhanI1YWQ0d1FDbVptbEZjU21FdzVkUmpUU0l2anIyME1WbmEySXg2SWlOZVBQRDk3a2ZqWU5NdFJESFN5ZGFiNEZUM1hudmhoZ2RJRDBMSVNhRUFUZWh1RnhNcGZRbGZGMDR5dzRfeFl5MUQydldB",
+            "published_at_bjt": "2026-08-06T00:16:17+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "ee629823baf2cefebf59",
+            "title": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - Sina Sports",
+            "source": "Sina Sports",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMkVZTGdlNjVPcE9JQ3dVS3AxajBDUFB3ZXpBQjZnZG43QWo0ZmtlOVZGOWduVEpFOXhGMmE0bVpsVG5iNWtBT0pRQnJqMjV4bUstY3J3eU5OSlU0VWZud0FWNkZ6NGMtRHZUTkhuZGZXcndBbFd2eUdTcjRXNzdaY3VHclhZb1FJajFhd2xWa3ZtNGJzeldkQTdBeXRKSVQtanJ3RjNHT1liQUVQLUdUaE0yVQ",
+            "published_at_bjt": "2026-08-06T05:20:57+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "http://n.sinaimg.cn/sinakd20100/397/w1280h717/20260806/d5dd-dc1c94558270cddab70a262b15c3fbdb.jpg",
+        "image_status": "downloaded",
+        "image_phash": "0111818787c7c7c7"
+      },
+      {
+        "story_id": "a3127fa5ddffd4573ca0",
+        "title": "The Hundred：火箭队轻松取胜，巴特勒创造历史",
+        "dek": "英格兰百球赛，火箭队延续强势，巴特勒再写纪录。",
+        "body": "在英格兰的The Hundred板球赛中，特伦特火箭队以一场轻松胜利击败伯明翰凤凰队，继续高歌猛进。据BBC报道，这场比赛中，火箭队的整体表现稳健，攻防两端都压制对手。更值得一提的是，巴特勒在比赛中创造了历史，具体细节虽未详述，但足以让球迷兴奋。The Hundred是近年来板球改革的新赛制，每队100球，节奏更快，更吸引年轻观众。火箭队的胜利，一方面源于球员的个人能力，另一方面也体现了团队战术的执行力。对于板球运动而言，这样的赛事创新正在扩大其受众基础。\n\nThe Hundred的赛制设计，是为了适应现代观众的观赛习惯。传统板球比赛可能持续数天，而The Hundred压缩到几个小时，每队只有100球，节奏紧凑，悬念迭起。这种改革，让板球这项历史悠久的运动焕发了新的活力。巴特勒的纪录，具体是什么，报道没有细说，但可以推测是个人得分或击球效率方面的里程碑。他的表现，不仅是个人的荣耀，也为球队的胜利奠定了基础。\n\n对于普通观众来说，The Hundred是一个很好的入门选择。板球规则复杂，但The Hundred简化了赛制，新手可以尝试观看，感受快节奏的乐趣。你不需要了解所有细节，只需要欣赏球员的击球、投球和防守，就能感受到运动的魅力。而且，这种短赛制的比赛，更适合忙碌的现代人，你可以在一个晚上看完一场比赛，而不必花费整天时间。如果你对板球感兴趣，不妨从The Hundred开始。",
+        "takeaway": "板球规则复杂，但The Hundred简化了赛制，新手可以尝试观看，感受快节奏的乐趣。",
+        "image_url": "images/ed02faeb4ece1118.webp",
+        "image_credit": "BBC Sport",
+        "source_ids": [
+          "a3127fa5ddffd4573ca0",
+          "1c48c66e0f4845eed2f7",
+          "df5b700a771f69a01022"
+        ],
+        "source_refs": [
+          {
+            "article_id": "a3127fa5ddffd4573ca0",
+            "title": "Rockets march on after easy win against Phoenix",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/cricket/videos/cr49d69ene3o",
+            "published_at_bjt": "2026-08-06T04:36:08+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "1c48c66e0f4845eed2f7",
+            "title": "Rockets march on after easy win while Buttler makes history in The Hundred - Oche180",
+            "source": "Oche180",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZWdIUWZJazIyRUlQQTk5RFpYU0FKd1dVWXVtNXVVMndUTndJbURRSTFCN191dEZOSkpiaXhpUUhVTmIwYlpwdzFSOFB1elo0dmZwM21qaV9LRkJuYnFnMGNWV0Q1UkV4eHJsUVpEUmNWS2xjMmoyNjV4czc3TUVKVTMxZXY1ZmpPaGpOa1NXTzJFcFp6UHFGVERLdUFrb3Fl",
+            "published_at_bjt": "2026-08-06T05:38:45+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "df5b700a771f69a01022",
+            "title": "The Hundred: Trent Rockets vs Birmingham Phoenix Highlights - BBC",
+            "source": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xOFo3ZThmcm13T0NINENac0ptd2FCZnV3XzR2OVA0bFdxNEhrbWwxQjJjYnloMmtkanFLRVVIWF9PQ1J6WGpzWld0WGFxb0I1RVJzVWFhOGdvSDV5a2VISG1zVDdEZw",
+            "published_at_bjt": "2026-08-06T04:36:08+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/standard/1024/cpsprodpb/c3d3/live/4ff2ee50-9109-11f1-b8ee-9b3c26ad07bb.jpg",
+        "image_status": "downloaded",
+        "image_phash": "f8f13df810a0b861"
+      },
+      {
+        "story_id": "1cca90e89358780486e6",
+        "title": "国际足联风波：因凡蒂诺道歉但留任，FIFA改革遇挫",
+        "dek": "因凡蒂诺为争议计划道歉，但获得执委会支持，继续掌舵FIFA。",
+        "body": "国际足联主席因凡蒂诺在摩洛哥拉巴特召开的一次执委会会议后，为自己在“出售赛事股份给私人投资者”计划中的“错误”道歉，但得到了执委会的“全力支持”，将继续担任主席。据BBC报道，该计划因缺乏透明度而遭到包括欧足联在内的多方批评，甚至被形容为“肮脏的后台交易”。因凡蒂诺在会议后四小时，FIFA发布了一份支持声明。尽管他道歉，但批评声音并未平息，FIFA内部也有高层对此表示失望。这一事件反映了国际足联在治理和商业化之间的张力。对普通球迷而言，这类新闻可能显得遥远，但它影响着未来世界杯等赛事的举办方式和资金流向，进而影响观赛体验。\n\n这个所谓的“FIFA Forward Enterprise”计划，简单来说，就是想把FIFA旗下的一些赛事商业权益打包卖给私人投资者，以获取巨额资金。但问题在于，这个计划缺乏透明度，被批评为“暗箱操作”。欧足联甚至公开表示对因凡蒂诺失去信心。因凡蒂诺的道歉，虽然承认了“错误”，但并没有改变他留任的事实。执委会的“全力支持”，意味着他暂时度过了信任危机，但内部的裂痕已经存在。\n\n对普通球迷来说，这类新闻可能显得遥远，但它影响着未来世界杯等赛事的举办方式和资金流向，进而影响观赛体验。比如，如果FIFA引入私人投资者，可能会推高转播费用，最终转嫁给球迷。或者，赛事的举办地选择可能更倾向于商业利益，而非足球发展。因此，关注体育治理新闻，能帮助你理解赛事背后的商业逻辑，做出更理性的判断。作为球迷，我们不仅关注场上的比赛，也应该关注场外的博弈，因为那决定了我们能看到什么样的比赛。",
+        "takeaway": "关注体育治理新闻，能帮助你理解赛事背后的商业逻辑，做出更理性的判断。",
+        "image_url": "images/b1aeac6cf4956281.webp",
+        "image_credit": "BBC Sport",
+        "source_ids": [
+          "1cca90e89358780486e6",
+          "24f8a4e426154e2f174b",
+          "32449b21a495d7cc441e",
+          "3a295f19eac607f65515"
+        ],
+        "source_refs": [
+          {
+            "article_id": "1cca90e89358780486e6",
+            "title": "Infantino sorry for errors but stays Fifa president",
+            "source": "BBC Sport",
+            "url": "https://www.bbc.co.uk/sport/football/articles/clyq3el5gkqo",
+            "published_at_bjt": "2026-08-06T05:37:08+08:00",
+            "authority_tier": 1
+          },
+          {
+            "article_id": "24f8a4e426154e2f174b",
+            "title": "Infantino sorry for 'errors' but gets FIFA board's 'full support' - ESPN",
+            "source": "ESPN",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOXZ6YUNOQmtyVTZpeS1FNkl4M3dMNEt5M0FPa0VZSDN1THNtc2pqRUcwNi1SME5XSVo1bEhtVVRsSk9EbURTNW1GMzJ4SG5XSk55TTFhYWNkY1pBeEs4bmEtd3pVOWdkOHJ2VW90MnpQUFVIZEo3Z2N5azRNY0ZSZkZtXy1QdUxZVF81UTBVeC1XVDBSQ0lMcXdyZ0tJUXEwX2RELVdfQVgxQXlY",
+            "published_at_bjt": "2026-08-06T07:02:15+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "32449b21a495d7cc441e",
+            "title": "Gianni Infantino says sorry but remains as Fifa president after executive meeting - BBC",
+            "source": "BBC",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xTkZoakFjRFltWDhmQUN1RUpZSFc4UDBsZUQ1VTlFcEk5UHlJWFA5NlRsNlAzLWFyWlV3dGlJN05GVEhhczFjSHotQ3VzQzNneFhhVkxJdGNNaWFlYnBkN1pNUVExa0RCcEE",
+            "published_at_bjt": "2026-08-06T05:37:08+08:00",
+            "authority_tier": 2
+          },
+          {
+            "article_id": "3a295f19eac607f65515",
+            "title": "Fifa bosses back Infantino to stay as president, sorry for World Cup sell-off plan - South China Morning Post",
+            "source": "South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHl6NXRPc3IyTmxSUjV0MXpaUlViWXNVRVo5TWM1SlRfbFlZcFlxQ1EwRC1OSTJFREpjY1BTOWxvZWZHT1N6VmRKTmJnSUVXR29oeXpROWF3dHJkSllOU3NoTEFWSWRKZFV3NzhWZENsZDh3LU5iOGpLZmdoek1qVkZlVjllbzlpWmhPZEwyX3dZTXlWXzQ4TjVyTW9xQUdkQURjWGJwNEppbUFZOFNRZDQzZFFMcmppcmtFMEZ5bUXSAcABQVVfeXFMUG45emV1d1RXMmpyYkI5ZzBBeVVqdk80bUx4cGZHU2t0empJcjBNSjJpSTl3R2w0WjEzeF84ZnI4MUM3MjNJaFhPSUhCNkdNaUlNZHVJb2U4N19JZnNJR01SLTJVR2YyQTEzdkhzU2RUNU1QX3EtNE1FY3FXZEVRSDdjS3hGWHhMck53eGFBanU5UjFDMVZZZERKbTAweFpVV0ZQZEJsM244anFxYVY5OWdOY2pzeDBORmhxR21rdVhl",
+            "published_at_bjt": "2026-08-06T07:05:46+08:00",
+            "authority_tier": 2
+          }
+        ],
+        "image_kind": "source",
+        "image_source_url": "https://ichef.bbci.co.uk/ace/branded_sport/1200/cpsprodpb/ff53/live/5bb2a070-90cb-11f1-822b-5340fee140e1.jpg",
+        "image_status": "downloaded",
+        "image_phash": "1b1b181818181818"
+      }
+    ],
+    "synthesis": "今天的体育新闻呈现两个维度：一是全民健身的基层活力，各地以多样活动迎接全民健身日，强调参与和乐趣；二是职业体育的资本与治理动态，CBA球队引援、国际足联内部争议，反映体育产业背后的博弈。对普通人而言，前者是直接可参与的日常，后者则影响观赛体验和体育生态。"
+  },
+  "podcast": {
+    "title": "全民健身热浪与体育风云：从黄冈到拉巴特",
+    "description": "今天聊聊全民健身的热闹景象、CBA重磅引援、板球赛场上的高光时刻，以及国际足联的一场风波。",
+    "blocks": [
+      {
+        "block_id": "b1",
+        "speaker": "ian",
+        "role": "opening",
+        "text": "你好，欢迎收听「伊恩每日·运动」。今天是2026年8月6日。这两天，国内全民健身的氛围特别浓，从湖北黄冈的夏夜赶集，到各地的全民健身日活动，都透着热气。与此同时，CBA那边传来重磅签约，国际足联也有一场风波。今天咱们就聊聊这些事儿，从身边的大众健身，到职业体育的台前幕后。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 0.0,
+        "duration_sec": 26.952
+      },
+      {
+        "block_id": "b2",
+        "speaker": "ian",
+        "role": "story",
+        "text": "先说国内。湖北黄冈举办了一场全民健身“赶集会”，把健身活动搬到了夏夜，现场有各种运动体验和表演。这种形式挺接地气，把健身变成了像赶集一样热闹的社交活动。我注意到，现在各地都在搞类似的创新，比如上海有“乒乓响”活动，草原上有赛马盛会。全民健身不再是单调的跑步、举铁，而是融入了地方特色和趣味性。这对普通人来说，意味着运动的门槛降低了，更容易找到适合自己的方式。",
+        "story_id": "42122e8702d12974f63d",
+        "audio_file": "",
+        "start_sec": 28.152,
+        "duration_sec": 34.8
+      },
+      {
+        "block_id": "b3",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，我平时工作忙，下班就想躺着，怎么才能坚持运动啊？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 64.152,
+        "duration_sec": 5.472
+      },
+      {
+        "block_id": "b4",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "这个问题很多人都有。其实，不必强求每天一小时，可以从碎片时间开始，比如下班后散步20分钟，或者在家做几组深蹲。关键是找到乐趣，就像黄冈的“赶集会”，把运动变成一种社交和娱乐。你也可以约朋友一起，互相监督，或者尝试一些新颖的课程，比如舞蹈、飞盘，让运动变得好玩。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 70.824,
+        "duration_sec": 25.992
+      },
+      {
+        "block_id": "b5",
+        "speaker": "ian",
+        "role": "story",
+        "text": "8月6日，湖北黄冈的夏夜被一场特别的“赶集会”点亮。这不是普通的集市，而是全民健身的现场。湖北日报的报道说，这场活动把健身器材、专业指导和趣味项目搬到了市民身边，让运动变得像逛街一样自然。同一天，搜狐网用“热辣滚烫”形容这股健身热潮，人民日报也发文倡导“全民健身 乐享健康”。这些报道背后，是一个清晰的事实：健身正在从“小众爱好”变成“大众日常”。\n\n你可能会问，为什么今年夏天全民健身这么火？一个重要的推手是8月8日全民健身日。为了迎接这个节点，各地都在“整活”。上海举办了“乒乓响”活动，把国球玩出了新花样；草原上则有赛马盛会，把传统体育和现代健身结合起来。这些活动有个共同点：它们不要求你有多高的水平，而是让你先“玩起来”。\n\n对普通人来说，这其实是个好消息。很多人觉得健身门槛高，要么需要办卡，要么需要装备，要么怕自己动作不标准被笑话。但你看这些活动，乒乓响可能就是在社区摆几张球台，赛马盛会更多是观赏和体验，赶集会则把体测、指导送到你面前。它们都在传递同一个信号：运动不必严肃，先迈出第一步最重要。\n\n当然，全民健身的推进也面临现实挑战。比如，如何让活动不流于形式，如何让设施真正惠及长期坚持的人，而不是只在节日热闹一下。这些都需要持续投入和精细运营。但至少，当越来越多的人愿意在夏夜走出家门，去体验一次运动，这个趋势本身就是积极的。\n\n我的判断是，全民健身的关键不在于你跑得多快、举得多重，而在于你找到一种让自己舒服的方式，并坚持下去。它可以是晚饭后的散步，也可以是周末的一场球赛。就像黄冈的赶集会，它不追求竞技成绩，只希望更多人动起来。所以，如果你还在犹豫，不妨就从今晚开始，下楼走一走，或者约朋友打场球。你会发现，运动带来的快乐，远比想象中简单。",
+        "story_id": "f1a27e549c44bb8af491",
+        "audio_file": "",
+        "start_sec": 98.016,
+        "duration_sec": 138.216
+      },
+      {
+        "block_id": "b6",
+        "speaker": "ian",
+        "role": "story",
+        "text": "CBA休赛期的重磅消息来了：北京首钢签下了广厦的双外援布朗和桑普森，目标直指新赛季总冠军。这消息一出，球迷圈就炸了，毕竟这两位在广厦的表现有目共睹。\n\n先说说布朗，他上赛季在广厦场均能砍下接近30分，是联盟里最犀利的得分手之一，突破、三分样样精通，关键时刻的大心脏更是让人印象深刻。桑普森则是内线支柱，篮板和防守是他的看家本领，场均两双的数据不在话下，还能送出几个盖帽。这两人一外一内，正好补上了首钢的短板。\n\n首钢上赛季的问题很明显：进攻火力不足，关键时刻没人能稳定得分。布朗的加入，等于给球队装上了最强发动机；而桑普森的到来，则让内线防守和篮板有了保障。这波操作，堪称对症下药。\n\n不过，签下强援只是第一步。外援融入球队需要时间，尤其是和国内球员的化学反应。布朗和桑普森在广厦打的是另一种体系，到了首钢，战术打法、队友习惯都要重新适应。而且，CBA的竞争越来越激烈，辽宁、广东、新疆这些强队都在补强，光靠两个外援就想夺冠，没那么简单。\n\n咱们普通人看球，也常有个误区：以为球星堆砌就等于冠军。其实，篮球是五个人的运动，团队配合、防守强度、教练的临场调度，这些才是决定胜负的关键。就像咱们平时健身，光买一堆器械放在家里，不坚持练，身材也不会变好。\n\n这笔签约，首钢的意图很明显，就是要增强火力，冲击总冠军。但最终能不能成，还得看教练怎么用，球员怎么磨合。新赛季，咱们拭目以待。\n\n对咱们普通球迷来说，这消息也提醒我们：无论做什么事，光有好的条件还不够，还得靠团队协作和持续努力。就像健身，坚持才是王道。好了，今天就说这么多，咱们下期见。",
+        "story_id": "47b8ff7ad78a843a7117",
+        "audio_file": "",
+        "start_sec": 237.432,
+        "duration_sec": 130.128
+      },
+      {
+        "block_id": "b7",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，外援在CBA的作用真有那么大吗？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 368.76,
+        "duration_sec": 3.936
+      },
+      {
+        "block_id": "b8",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "外援确实重要，尤其在关键球处理上。但CBA历史上，靠单打独斗的外援拿冠军的很少。比如广东宏远，他们强调整体，外援融入体系。首钢签下布朗和桑普森，不只是要得分，更要带动全队。如果只靠外援刷分，遇到强队可能会吃亏。所以，这笔签约是补强，但最终效果还要看教练怎么用。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 373.896,
+        "duration_sec": 27.288
+      },
+      {
+        "block_id": "b9",
+        "speaker": "ian",
+        "role": "story",
+        "text": "昨晚，英国板球 Hundred 联赛的赛场上，Trent Rockets 轻松击败了 Birmingham Phoenix，继续着他们的连胜势头。这场比赛最让人记住的，是 Buttler 创造了一项历史纪录——虽然具体数据我还没拿到，但现场的气氛已经说明了一切。Rockets 的胜利靠的是整体发挥，而 Phoenix 则暴露了进攻乏力的问题。\n\n先说说 Hundred 这个赛制。它和传统板球不一样，每队只打 100 个球，比赛节奏快，大概两个多小时就能结束，特别适合新手观看。你不需要懂复杂的规则，只要看球飞向哪里、跑动得分，就能感受到那种紧张感。昨晚的比赛中，Rockets 的击球手们从一开始就掌控了局面，他们的跑动积极，击球果断，而 Phoenix 的投球手们似乎找不到节奏，让对手频频得分。\n\nButtler 的纪录具体是什么，我还在核实，但可以确定的是，他在 Phoenix 队中是个亮点。尽管球队输了，他的个人表现依然抢眼。这让我想到，在团队运动中，个人的闪光时刻往往能成为球迷记忆中的经典，即使结果不尽如人意。\n\n为什么 Rockets 能赢？关键在于他们的整体配合。板球不是一个人的运动，投球、击球、防守，每个环节都需要默契。Rockets 在防守时站位精准，接球稳健，而 Phoenix 则在关键时刻出现失误，比如漏接球或者跑位错误，这些细节决定了比赛的走向。\n\n对于普通人来说，Hundred 联赛其实是个很好的入门选择。你不需要了解板球的历史，只要打开电视，就能感受到那种现场的热闹。而且，这种短赛制也适合忙碌的上班族，下班后看一场，既放松又刺激。如果你对板球感兴趣，不妨从 Hundred 开始，慢慢你会发现，这项运动其实很有趣。\n\n当然，Phoenix 的失利也提醒我们，任何比赛，进攻乏力都是致命伤。就像我们平时健身，如果只注重力量训练而忽视有氧，体能就会跟不上。同样，在团队运动中，如果只靠一两个明星球员，而整体配合不默契，很难走远。\n\n后续，Rockets 能否延续连胜？Phoenix 又会如何调整？这些都是值得关注的看点。而对于我们普通人，从这场比赛里，我学到的是：无论做什么，团队合作和整体规划，永远比单打独斗更重要。",
+        "story_id": "a3127fa5ddffd4573ca0",
+        "audio_file": "",
+        "start_sec": 402.384,
+        "duration_sec": 158.832
+      },
+      {
+        "block_id": "b10",
+        "speaker": "listener",
+        "role": "question",
+        "text": "伊恩，板球规则那么复杂，我们怎么才能看懂？",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 562.416,
+        "duration_sec": 4.488
+      },
+      {
+        "block_id": "b11",
+        "speaker": "ian",
+        "role": "answer",
+        "text": "确实，板球规则对新手不太友好。但 Hundred 联赛做了简化，每队只有100球，节奏快很多。你不需要懂所有细节，先看比分怎么涨，哪个队进攻更猛就行。就像看棒球，先感受气氛，慢慢就懂了。而且这种短赛制很适合电视转播，画面紧凑，容易上手。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 568.104,
+        "duration_sec": 23.28
+      },
+      {
+        "block_id": "b12",
+        "speaker": "ian",
+        "role": "story",
+        "text": "国际足联主席因凡蒂诺，最近摊上事了。他提出一个叫“国际足联前进企业”的计划，想把一部分赛事股份卖给私人投资者，说白了就是拉投资、换现金。但这个计划还没落地就夭折了，因为批评声太大。欧足联直接说这是“肮脏、幕后、不透明的交易”。连国际足联内部都看不下去，秘书长格拉斯特伦在给员工的备忘录里写道，这是一连串“令人遗憾、该受指责的事件”。\n\n8月5号，因凡蒂诺把管理层叫到摩洛哥拉巴特的国际足联非洲办公室开会。四个小时后，国际足联发声明，说因凡蒂诺为“错误”道歉，但董事会给他“全力支持”，他继续当主席。\n\n你可能会问，这个计划到底想干嘛？简单说，国际足联想把旗下一些赛事的商业权益打包卖给私人投资者，比如世界杯的转播权、赞助权这些。好处是短期内能拿到一大笔钱，但坏处是，这些核心资产的控制权可能落到私人手里，长期来看，国际足联自己说了不算了。而且整个过程据说没怎么公开，外界根本不知道细节，难怪被骂“不透明”。\n\n因凡蒂诺道歉了，但没下台。这背后其实是国际足联内部治理的老问题：权力太集中，决策不透明。这次事件给普通球迷的提醒是，体育管理需要透明和问责。你喜欢的球队、你关注的赛事，背后那些管理者，他们的决定会直接影响比赛能不能办、怎么办。如果连国际足联这种顶级机构都这么折腾，那基层体育组织的管理就更得盯着点。\n\n好在，这个计划已经叫停了，至少短期内不会再有类似操作。但接下来，因凡蒂诺怎么修复和欧足联的关系，怎么让国际足联的决策更公开，这才是真正的考验。咱们球迷，就等着看后续吧。",
+        "story_id": "1cca90e89358780486e6",
+        "audio_file": "",
+        "start_sec": 592.584,
+        "duration_sec": 119.952
+      },
+      {
+        "block_id": "b13",
+        "speaker": "ian",
+        "role": "synthesis",
+        "text": "今天这几件事，看似不相关，但都指向一个主题：体育的活力来自参与和信任。全民健身的兴起，让运动成为生活的一部分；职业球队的引援，是为了在竞争中取胜；而国际足联的风波，则提醒我们，体育组织的决策需要公开透明。对我们普通人来说，不管是在黄冈赶集，还是看CBA，或是关注国际足联，都能感受到体育的多样性和复杂性。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 713.736,
+        "duration_sec": 29.352
+      },
+      {
+        "block_id": "b14",
+        "speaker": "ian",
+        "role": "closing",
+        "text": "今天的「伊恩每日·运动」就到这里。明天继续聊，我们不见不散。",
+        "story_id": "",
+        "audio_file": "",
+        "start_sec": 744.288,
+        "duration_sec": 5.904
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_id": "opening",
+        "title": "开场",
+        "start_sec": 0.0,
+        "story_id": ""
+      },
+      {
+        "chapter_id": "story-1",
+        "title": "湖北全民健身“赶集会”点亮黄冈夏夜- 湖北日报新闻客户端 - 湖北日报传媒集团",
+        "start_sec": 28.152,
+        "story_id": "42122e8702d12974f63d"
+      },
+      {
+        "chapter_id": "story-2",
+        "title": "全民健身 “热辣滚烫” - 搜狐网",
+        "start_sec": 98.016,
+        "story_id": "f1a27e549c44bb8af491"
+      },
+      {
+        "chapter_id": "story-3",
+        "title": "重磅补强！首钢签下广厦双外援布朗+桑普森 蓄力新赛季冲击CBA总冠军 - 手机新浪网",
+        "start_sec": 237.432,
+        "story_id": "47b8ff7ad78a843a7117"
+      },
+      {
+        "chapter_id": "story-4",
+        "title": "Rockets march on after easy win against Phoenix",
+        "start_sec": 402.384,
+        "story_id": "a3127fa5ddffd4573ca0"
+      },
+      {
+        "chapter_id": "story-5",
+        "title": "Infantino sorry for errors but stays Fifa president",
+        "start_sec": 592.584,
+        "story_id": "1cca90e89358780486e6"
+      },
+      {
+        "chapter_id": "synthesis",
+        "title": "主题复盘",
+        "start_sec": 713.736,
+        "story_id": ""
+      }
+    ],
+    "full_audio_file": "episode.mp3",
+    "total_duration_sec": 750.2,
+    "tts_provider": "edge",
+    "waveform_peaks": [
+      0.4723,
+      0.4089,
+      0.3438,
+      0.4732,
+      0.3781,
+      0.3651,
+      0.507,
+      0.4299,
+      0.3833,
+      0.43,
+      0.4411,
+      0.4814,
+      0.3973,
+      0.3945,
+      0.5991,
+      0.3943,
+      0.5208,
+      0.4155,
+      0.4575,
+      0.4161,
+      0.3459,
+      0.4387,
+      0.3985,
+      0.386,
+      0.3958,
+      0.5846,
+      0.5898,
+      0.3914,
+      0.4786,
+      0.3814,
+      0.4859,
+      0.3875,
+      0.484,
+      0.3731,
+      0.5556,
+      0.4641,
+      0.4645,
+      0.4027,
+      0.4031,
+      0.3918,
+      0.3858,
+      0.4564,
+      0.4555,
+      0.4223,
+      0.4177,
+      0.3123,
+      0.4835,
+      0.3918,
+      0.4333,
+      0.3558,
+      0.3304,
+      0.3404,
+      0.4458,
+      0.3642,
+      0.4254,
+      0.4407,
+      0.3824,
+      0.3711,
+      0.4898,
+      0.3905,
+      0.372,
+      0.4283,
+      0.4641,
+      0.444,
+      0.4006,
+      0.4124,
+      0.4346,
+      0.5139,
+      0.3873,
+      0.4816,
+      0.3985,
+      0.5029,
+      0.3768,
+      0.3605,
+      0.4184,
+      0.46,
+      0.4534,
+      0.4272,
+      0.6641,
+      0.416,
+      0.3849,
+      0.3521,
+      0.453,
+      0.4264,
+      0.3473,
+      0.477,
+      0.475,
+      0.3996,
+      0.3257,
+      0.5121,
+      0.4926,
+      0.5056,
+      0.4298,
+      0.4908,
+      0.4783,
+      0.5674,
+      0.5093,
+      0.3665,
+      0.5109,
+      0.5008,
+      0.4099,
+      0.6729,
+      0.433,
+      0.5107,
+      0.4151,
+      0.3984,
+      0.3579,
+      0.3864,
+      0.4047,
+      0.434,
+      0.3912,
+      0.3839,
+      0.4401,
+      0.4414,
+      0.4855,
+      0.5579,
+      0.3476,
+      0.4381,
+      0.43,
+      0.3889,
+      0.5346,
+      0.3426,
+      0.4568,
+      0.4587,
+      0.4221,
+      0.3688,
+      0.4608,
+      0.4529,
+      0.4091,
+      0.4521,
+      0.4683,
+      0.3953,
+      0.3864,
+      0.4156,
+      0.4829,
+      0.4278,
+      0.4529,
+      0.4052,
+      0.368,
+      0.4565,
+      0.5363,
+      0.4486,
+      0.431,
+      0.4487,
+      0.4109,
+      0.4177,
+      0.3445,
+      0.4566,
+      0.4575,
+      0.3502,
+      0.4433,
+      0.3567,
+      0.4847,
+      0.3449,
+      0.4044,
+      0.4595,
+      0.4347,
+      0.3934,
+      0.3546,
+      0.45
+    ]
+  },
+  "status": "failed",
+  "created_at_bjt": "2026-08-06T07:41:24+08:00",
+  "updated_at_bjt": "2026-08-06T07:43:44+08:00",
+  "published_at_bjt": "",
+  "feishu_notified_at_bjt": ""
+}
