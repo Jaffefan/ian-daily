@@ -1,5 +1,9 @@
 {
-  "date_bjt": "2026-08-05",
-  "episode_ids": [],
-  "prepared_at_bjt": "2026-08-05T13:23:42+08:00"
+  "date_bjt": "2026-08-06",
+  "episode_ids": [
+    "2026-08-06-sports",
+    "2026-08-06-education",
+    "2026-08-06-tech"
+  ],
+  "prepared_at_bjt": "2026-08-06T09:22:42+08:00"
 }

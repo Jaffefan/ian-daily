@@ -3,7 +3,7 @@
   "channels": {
     "tech": {
       "attempts": 1,
-      "status": "quality_passed",
+      "status": "published",
       "stages": {
         "preflight": {
           "status": "completed",
@@ -53,11 +53,11 @@
       },
       "errors": [],
       "episode_id": "2026-08-06-tech",
-      "updated_at_bjt": "2026-08-06T07:35:29+08:00"
+      "updated_at_bjt": "2026-08-06T09:24:06+08:00"
     },
     "education": {
       "attempts": 1,
-      "status": "quality_passed",
+      "status": "published",
       "stages": {
         "preflight": {
           "status": "completed",
@@ -107,11 +107,11 @@
       },
       "errors": [],
       "episode_id": "2026-08-06-education",
-      "updated_at_bjt": "2026-08-06T07:39:20+08:00"
+      "updated_at_bjt": "2026-08-06T09:24:05+08:00"
     },
     "sports": {
       "attempts": 2,
-      "status": "quality_passed",
+      "status": "published",
       "stages": {
         "preflight": {
           "status": "completed",
@@ -161,12 +161,82 @@
       },
       "errors": [],
       "episode_id": "2026-08-06-sports",
-      "updated_at_bjt": "2026-08-06T09:13:39+08:00"
+      "updated_at_bjt": "2026-08-06T09:24:04+08:00"
     }
   },
   "notifications": {
     "generation:sports": "2026-08-06T08:14:29+08:00"
   },
-  "release": {},
-  "updated_at_bjt": "2026-08-06T09:13:39+08:00"
+  "release": {
+    "sports": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-08-06-sports",
+          "at_bjt": "2026-08-06T09:22:43+08:00"
+        },
+        "verified": {
+          "detail": "2026-08-06-sports",
+          "at_bjt": "2026-08-06T09:24:03+08:00"
+        },
+        "feishu_notified": {
+          "detail": "2026-08-06-sports",
+          "at_bjt": "2026-08-06T09:24:04+08:00"
+        },
+        "published": {
+          "detail": "2026-08-06-sports",
+          "at_bjt": "2026-08-06T09:24:04+08:00"
+        }
+      },
+      "detail": "2026-08-06-sports",
+      "at_bjt": "2026-08-06T09:24:04+08:00"
+    },
+    "education": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-08-06-education",
+          "at_bjt": "2026-08-06T09:22:43+08:00"
+        },
+        "verified": {
+          "detail": "2026-08-06-education",
+          "at_bjt": "2026-08-06T09:24:03+08:00"
+        },
+        "feishu_notified": {
+          "detail": "2026-08-06-education",
+          "at_bjt": "2026-08-06T09:24:05+08:00"
+        },
+        "published": {
+          "detail": "2026-08-06-education",
+          "at_bjt": "2026-08-06T09:24:05+08:00"
+        }
+      },
+      "detail": "2026-08-06-education",
+      "at_bjt": "2026-08-06T09:24:05+08:00"
+    },
+    "tech": {
+      "status": "published",
+      "stages": {
+        "prepared": {
+          "detail": "2026-08-06-tech",
+          "at_bjt": "2026-08-06T09:22:43+08:00"
+        },
+        "verified": {
+          "detail": "2026-08-06-tech",
+          "at_bjt": "2026-08-06T09:24:03+08:00"
+        },
+        "feishu_notified": {
+          "detail": "2026-08-06-tech",
+          "at_bjt": "2026-08-06T09:24:06+08:00"
+        },
+        "published": {
+          "detail": "2026-08-06-tech",
+          "at_bjt": "2026-08-06T09:24:06+08:00"
+        }
+      },
+      "detail": "2026-08-06-tech",
+      "at_bjt": "2026-08-06T09:24:06+08:00"
+    }
+  },
+  "updated_at_bjt": "2026-08-06T09:24:06+08:00"
 }
