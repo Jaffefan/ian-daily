@@ -11,7 +11,7 @@ from ian_daily import config
 from ian_daily.agents import audit_editions
 from ian_daily.calibration import CALIBRATION_CASES, calibration_status
 from ian_daily.doctor import run_doctor
-from ian_daily.images import resolve_story_images
+from ian_daily.images import build_gimi_illustration_prompt, resolve_story_images
 from ian_daily.model_api import _record, usage_anomaly, usage_report
 from ian_daily.models import Article, AudioBlock, BriefStory, ContentBrief, FactPack, PodcastEpisode, ReadingEdition, ReadingSection, SourceRef
 from ian_daily.operations import RunLedgerStore
@@ -101,6 +101,18 @@ class DoctorAndUsageTests(unittest.TestCase):
 
 
 class CalibrationAndImageTests(unittest.TestCase):
+    def test_gimi_prompt_is_grounded_in_article_and_category(self):
+        article = _article(1)
+        article.full_body = "芯片工厂调整产线，工程师正在评估成本与交付影响。"
+
+        prompt = build_gimi_illustration_prompt(article, "tech", "普通用户需要关注设备价格与兼容性。")
+
+        self.assertIn(article.title, prompt)
+        self.assertIn("产品方案式编辑插画", prompt)
+        self.assertIn("设备价格与兼容性", prompt)
+        self.assertIn("不得杜撰", prompt)
+        self.assertIn("无文字", prompt)
+
     def test_meta_image_resolves_relative_url(self):
         markup = '<meta content="/media/cover.jpg" property="og:image">'
         self.assertEqual("https://news.example/media/cover.jpg", _meta_image(markup, "https://news.example/story/1"))
@@ -157,6 +169,24 @@ class CalibrationAndImageTests(unittest.TestCase):
         self.assertEqual("source", article.image_kind)
         self.assertEqual(discovered, article.image_source_url)
         self.assertEqual("downloaded", article.image_status)
+
+    def test_missing_source_uses_gimi_illustration_before_local_fallback(self):
+        article = _article(1)
+        section = ReadingSection(article.id, article.title, "dek", "article analysis" * 100, "takeaway", "", "", [], [])
+        reading = ReadingEdition("title", "lead", [section], "end")
+
+        def generate(_article, _category, target, article_text=""):
+            from ian_daily.images import _fallback
+            self.assertIn("article analysis", article_text)
+            _fallback(article, "tech", target)
+            return True
+
+        with tempfile.TemporaryDirectory() as temp, patch("ian_daily.sources.discover_article_images", return_value=[]), patch("ian_daily.images._download", return_value=False), patch("ian_daily.images._generate", side_effect=generate):
+            resolve_story_images("tech", [article], reading, Path(temp))
+
+        self.assertEqual("ai", article.image_kind)
+        self.assertEqual("generated", article.image_status)
+        self.assertIn("Gimi", article.image_credit)
 
 
 class WorkflowTests(unittest.TestCase):

@@ -193,8 +193,8 @@ async def _render_provider(podcast: PodcastEpisode, category: str, root: Path, p
                 output.writeframes(b"\x00\x00" * pause_frames)
                 cursor_frames += pause_frames
     raw_duration = cursor_frames / sample_rate
-    if raw_duration > 1080:
-        target_duration = 1075.0
+    if raw_duration > config.MAX_AUDIO_DURATION_SEC:
+        target_duration = config.MAX_AUDIO_DURATION_SEC - 5.0
         tempo = raw_duration / target_duration
         normalized = master.with_name(".master-normalized.wav")
         subprocess.run(

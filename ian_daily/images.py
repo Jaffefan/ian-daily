@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import hashlib
+import re
 from io import BytesIO
 from pathlib import Path
 
@@ -47,15 +48,44 @@ def _download(url: str, target: Path, referer: str = "") -> bool:
         return False
 
 
-def _generate(article: Article, category: str, target: Path) -> bool:
+def build_gimi_illustration_prompt(article: Article, category: str, article_text: str = "") -> str:
+    """Translate an article into a Gimi-style editorial illustration brief."""
+    styles = {
+        "tech": (
+            "产品方案式编辑插画",
+            "用真实设备、工作场景和产业关系表现技术如何落地，结构清晰、理性克制",
+        ),
+        "education": (
+            "暖调绘本式编辑插画",
+            "用学校、家庭或学习现场中的具体人物关系表现影响，温和但不粉饰问题",
+        ),
+        "sports": (
+            "怪诞手绘式动态编辑插画",
+            "用关键动作、场地和战术关系形成清楚动线，明快有现场感但不虚构赛况",
+        ),
+    }
+    style_name, style_direction = styles[category]
+    source = re.sub(r"\s+", " ", " ".join((article.title, article.summary, article.full_body, article_text))).strip()
+    source = source[:1800]
+    return (
+        "请根据下列新闻内容创作一张与事件直接相关的中文深度文章配图。"
+        f"采用Gimi配图工作流的{style_name}，无固定IP角色，横向16:9构图。"
+        f"视觉方向：{style_direction}。"
+        "先确定一个能让读者立即理解事件的核心场景，再用二至三个真实可推导的物件或环境细节补充证据；"
+        "画面需要有明确的前景、中景、背景和从主体到影响对象的阅读顺序。"
+        "只能表现文章已经提供的事实与影响，不得杜撰人物身份、比赛结果、产品外观、校徽、机构标志或现场细节。"
+        "不要使用无关图库意象，不要拼贴多个互不相干的场景。"
+        "无文字、无字母、无数字、无Logo、无水印、无界面截图。自然色彩，适合公众号长文。"
+        f"文章内容：{source}"
+    )
+
+
+def _generate(article: Article, category: str, target: Path, article_text: str = "") -> bool:
     if not config.SILICONFLOW_API_KEY:
         return False
     try:
         import httpx
-        prompt = (
-            f"Editorial documentary illustration for a Chinese {category} analysis article about: {article.title}. "
-            "Specific real-world scene, human scale, restrained magazine photography, natural colors, no text, no logo, no watermark."
-        )
+        prompt = build_gimi_illustration_prompt(article, category, article_text)
         response = httpx.post(
             f"{config.SILICONFLOW_BASE_URL}/images/generations",
             headers={"Authorization": f"Bearer {config.SILICONFLOW_API_KEY}"},
@@ -150,8 +180,8 @@ def resolve_story_images(
         kind = "source"
         status = "downloaded"
         if not downloaded:
-            if _generate(article, category, target):
-                credit = "AI 生成 · 伊恩每日"
+            if _generate(article, category, target, f"{section.title} {section.dek} {section.body}"):
+                credit = "AI 生成 · Gimi 配图工作流 · 伊恩每日"
                 kind = "ai"
                 status = "generated"
             else:

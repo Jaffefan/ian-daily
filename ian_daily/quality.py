@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import re
 
+from . import config
 from .models import EpisodeBundle, QualityReport
 
 
@@ -53,11 +54,13 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
     if len(image_hashes) != len(set(image_hashes)):
         errors.append("同一期存在重复事件配图")
     minimum_reading_chars = max(500, story_count * 400)
-    minimum_podcast_chars = {1: 1000, 2: 1700, 3: 2500, 4: 3400, 5: 3800}.get(story_count, 1000)
+    minimum_podcast_chars = config.PODCAST_MIN_CHARS
     if reading_chars < minimum_reading_chars:
         errors.append(f"图文版过短：{reading_chars} 字，当前事件量至少需要 {minimum_reading_chars} 字")
     if podcast_chars < minimum_podcast_chars:
-        errors.append(f"播客内容过短：{podcast_chars} 字，当前事件量至少需要 {minimum_podcast_chars} 字")
+        errors.append(f"播客内容过短：{podcast_chars} 字，约 4000 字的节目至少需要 {minimum_podcast_chars} 字")
+    if podcast_chars > config.PODCAST_MAX_CHARS:
+        errors.append(f"播客内容过长：{podcast_chars} 字，约 4000 字的节目最多允许 {config.PODCAST_MAX_CHARS} 字")
 
     listeners = [block for block in bundle.podcast.blocks if block.speaker == "listener"]
     minimum_listeners = 1 if story_count == 1 else 2
@@ -79,16 +82,11 @@ def evaluate_bundle(bundle: EpisodeBundle, audit_errors: list[str] | None = None
         if not bundle.podcast.full_audio_file or duration <= 0:
             errors.append("缺少完整播客音频")
         else:
-            minimum_duration, maximum_duration = {
-                1: (180, 480),
-                2: (300, 660),
-                3: (480, 840),
-                4: (660, 1080),
-                5: (780, 1080),
-            }.get(story_count, (180, 1080))
+            minimum_duration = config.MIN_AUDIO_DURATION_SEC
+            maximum_duration = config.MAX_AUDIO_DURATION_SEC
             if not minimum_duration <= duration <= maximum_duration:
                 errors.append(
-                    f"音频时长 {duration / 60:.1f} 分钟，不在当前事件量对应的 "
+                    f"音频时长 {duration / 60:.1f} 分钟，不在统一发布门禁 "
                     f"{minimum_duration / 60:.0f}—{maximum_duration / 60:.0f} 分钟范围内"
                 )
         if not bundle.podcast.chapters:

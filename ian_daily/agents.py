@@ -196,8 +196,8 @@ def generate_reading(category: str, selected: list[Article], packs: list[FactPac
 def generate_podcast(category: str, packs: list[FactPack], brief: ContentBrief | None = None) -> PodcastEpisode:
     brief = brief or _local_brief(category, "", packs)
     count = len(packs)
-    minimum_chars = {5: 3800, 4: 3400, 3: 2500, 2: 1700, 1: 1000}[count]
-    target = "3900至4600" if count >= 4 else {3: "2700至3400", 2: "1900至2600", 1: "1100至1700"}[count]
+    minimum_chars = config.PODCAST_MIN_CHARS
+    target = f"{config.PODCAST_TARGET_CHARS - 200}至{config.PODCAST_TARGET_CHARS + 200}"
     questions = "1至2" if count == 1 else "2至3"
     task = {
         "edition": "完整声音播客，不朗读图文", "story_count": count,
@@ -244,7 +244,7 @@ def generate_podcast(category: str, packs: list[FactPack], brief: ContentBrief |
             "story_id": pack.story_id,
             "headline": pack.headline,
             "current_text": current,
-            "requirements": "仅依据对应ContentBrief，写成700至850中文字的声音叙事；先讲事实，再解释机制、代价、普通人影响和判断；不得复述其他事件。",
+            "requirements": "仅依据对应ContentBrief，写成700至900中文字的声音叙事；先讲事实，再解释机制、代价、普通人影响和判断；不得复述其他事件。整期总字数仍以约4000字为准。",
             "output": "story_id,text",
         }, 2200, 0.45)
         candidate = str(repaired.get("text") or "").strip()

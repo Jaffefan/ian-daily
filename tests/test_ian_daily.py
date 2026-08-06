@@ -88,7 +88,7 @@ class QualityTests(unittest.TestCase):
         self.assertNotIn("a3", {block.block_id for block in normalized})
         self.assertNotIn("a4", {block.block_id for block in normalized})
 
-    def test_single_story_short_episode_can_publish(self):
+    def test_single_story_episode_can_publish_at_seven_minutes(self):
         item = article(1, "domestic")
         ref = SourceRef(item.id, item.title, item.source, item.url, item.published_at_bjt, 1)
         pack = FactPack(item.id, item.title, ["可核对事实" * 30], [ref])
@@ -101,16 +101,22 @@ class QualityTests(unittest.TestCase):
             "单主题播客", "简介",
             [
                 AudioBlock("open", "ian", "opening", "声音开场" * 35),
-                AudioBlock("story", "ian", "story", "现场叙事与人物处境" * 120, item.id),
+                AudioBlock("story", "ian", "story", "现场叙事与人物处境" * 330, item.id),
                 AudioBlock("question", "listener", "question", "这件事和普通人有什么关系？", item.id),
-                AudioBlock("answer", "ian", "answer", "具体回答与行动建议" * 35, item.id),
+                AudioBlock("answer", "ian", "answer", "具体回答与行动建议" * 50, item.id),
                 AudioBlock("close", "ian", "closing", "声音收束" * 30),
             ],
-            [Chapter("story-1", "事件一", 20, item.id)], "episode.mp3", 300,
+            [Chapter("story-1", "事件一", 20, item.id)], "episode.mp3", 420,
         )
         bundle = EpisodeBundle("2026-01-01-education", 2, "education", "教育", "2026-01-01", DailyStorySet("education", "2026-01-01", [item], [pack]), reading, podcast)
         report = evaluate_bundle(bundle)
         self.assertTrue(report.publishable, report.errors)
+
+        bundle.podcast.total_duration_sec = 419
+        self.assertTrue(any("7—16" in error for error in evaluate_bundle(bundle).errors))
+
+        bundle.podcast.total_duration_sec = 961
+        self.assertTrue(any("7—16" in error for error in evaluate_bundle(bundle).errors))
 
     def test_blocks_article_narration_and_missing_audio(self):
         articles = [article(i, "domestic" if i < 2 else "global") for i in range(4)]
@@ -198,7 +204,7 @@ class LowCostPipelineTests(unittest.TestCase):
             if stage == "podcast":
                 return {"title": "播客", "description": "简介", "blocks": [
                     {"block_id": "open", "speaker": "ian", "role": "opening", "text": "开场", "story_id": ""},
-                    {"block_id": "story", "speaker": "ian", "role": "story", "text": "声音叙事" * 220, "story_id": item.id},
+                    {"block_id": "story", "speaker": "ian", "role": "story", "text": "声音叙事" * 900, "story_id": item.id},
                     {"block_id": "q", "speaker": "listener", "role": "question", "text": "这意味着什么？", "story_id": item.id},
                     {"block_id": "answer", "speaker": "ian", "role": "answer", "text": "回答" * 80, "story_id": item.id},
                     {"block_id": "end", "speaker": "ian", "role": "closing", "text": "收束", "story_id": ""},
