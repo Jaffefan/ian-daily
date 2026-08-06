@@ -10,14 +10,6 @@ on:
       - "ian_daily/site.py"
       - "tools/capture_missing_images.py"
       - "data/release-trigger.txt"
-  schedule:
-    - cron: "1 1 * * *"
-    - cron: "11 1 * * *"
-    - cron: "21 1 * * *"
-    - cron: "31 1 * * *"
-    - cron: "41 1 * * *"
-    - cron: "51 1 * * *"
-    - cron: "5 2 * * *"
   workflow_dispatch:
     inputs:
       rebuild:

@@ -34,7 +34,7 @@ python -m ian_daily review --port 5211
 
 节目按频道保存在 `data/episodes/<category>/<episode_id>/`，公开站点只生成到本仓库的 `site/`。旧 `data/drafts/` 可通过 `python -m ian_daily migrate-storage` 幂等迁移。
 
-GitHub Actions 每天北京时间 06:30 生成，06:50 与 07:10 只重试失败或缺失频道；09:01—09:51 每十分钟执行一次幂等发布，10:05 执行宽限重试。只有 Pages 页面、图片和 MP3 验证通过后才标记发布并发送飞书。前两次生成失败保持静默，07:10 后仍失败才通知；10:05 后仍未上线才发送发布异常。每日运行状态保存在 `data/runs/`，模型用量保存在 `data/usage/`；日志只记录输入长度与 SHA-256，不保存完整 Prompt。
+自 2026-08-06 最后一期发布完成后，`ian-daily` 的自动生成与发布计划已暂停。两个 Workflow 仅保留 `workflow_dispatch`，现有网站、节目归档和手动恢复能力继续保留；恢复日更前必须由用户明确确认并重新配置 schedule。运行状态保存在 `data/runs/`，模型用量保存在 `data/usage/`；日志只记录输入长度与 SHA-256，不保存完整 Prompt。
 
 完整排障和恢复步骤见 [`docs/runbook.md`](docs/runbook.md)。
 

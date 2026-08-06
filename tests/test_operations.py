@@ -160,20 +160,16 @@ class CalibrationAndImageTests(unittest.TestCase):
 
 
 class WorkflowTests(unittest.TestCase):
-    def test_generate_workflow_has_three_attempts_and_retry_command(self):
+    def test_generate_workflow_is_manual_only_while_paused(self):
         workflow = (Path(__file__).parents[1] / ".github" / "workflows" / "generate.yml").read_text(encoding="utf-8")
-        self.assertIn('cron: "30 22 * * *"', workflow)
-        self.assertIn('cron: "50 22 * * *"', workflow)
-        self.assertIn('cron: "10 23 * * *"', workflow)
-        self.assertIn("python -m ian_daily retry-failed", workflow)
-        self.assertIn("github.event.schedule == '10 23 * * *'", workflow)
-        self.assertIn("python -m ian_daily notify-usage-anomaly", workflow)
+        self.assertIn("workflow_dispatch:", workflow)
+        self.assertNotIn("schedule:", workflow)
+        self.assertNotIn("push:", workflow)
 
-    def test_publish_failure_notification_waits_until_ten_oh_five(self):
+    def test_publish_workflow_has_no_schedule_while_paused(self):
         workflow = (Path(__file__).parents[1] / ".github" / "workflows" / "publish.yml").read_text(encoding="utf-8")
-        self.assertIn('cron: "5 2 * * *"', workflow)
-        self.assertIn("github.event.schedule == '5 2 * * *'", workflow)
-        self.assertNotIn("always() && github.event.schedule == '51 1 * * *'", workflow)
+        self.assertIn("workflow_dispatch:", workflow)
+        self.assertNotIn("schedule:", workflow)
 
 
 if __name__ == "__main__":

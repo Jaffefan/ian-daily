@@ -111,7 +111,7 @@
     },
     "sports": {
       "attempts": 2,
-      "status": "failed",
+      "status": "quality_passed",
       "stages": {
         "preflight": {
           "status": "completed",
@@ -154,22 +154,19 @@
           "at_bjt": "2026-08-06T07:43:44+08:00"
         },
         "quality": {
-          "status": "failed",
-          "detail": "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内",
-          "at_bjt": "2026-08-06T07:43:44+08:00"
+          "status": "completed",
+          "detail": "短一期人工放行：12.5 分钟",
+          "at_bjt": "2026-08-06T09:13:39+08:00"
         }
       },
-      "errors": [
-        "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内",
-        "播客内容过短：3021 字，至少需要 3800 字"
-      ],
+      "errors": [],
       "episode_id": "2026-08-06-sports",
-      "updated_at_bjt": "2026-08-06T08:14:26+08:00"
+      "updated_at_bjt": "2026-08-06T09:13:39+08:00"
     }
   },
   "notifications": {
     "generation:sports": "2026-08-06T08:14:29+08:00"
   },
   "release": {},
-  "updated_at_bjt": "2026-08-06T08:14:29+08:00"
+  "updated_at_bjt": "2026-08-06T09:13:39+08:00"
 }

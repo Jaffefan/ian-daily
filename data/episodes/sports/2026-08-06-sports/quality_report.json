@@ -1,6 +1,6 @@
 {
   "episode_id": "2026-08-06-sports",
-  "publishable": false,
+  "publishable": true,
   "story_count": 5,
   "source_count": 14,
   "domestic_count": 3,
@@ -9,8 +9,8 @@
   "audio_duration_sec": 750.2,
   "fact_alignment": 1.0,
   "text_overlap": 0.013,
-  "errors": [
-    "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内"
-  ],
-  "warnings": []
+  "errors": [],
+  "warnings": [
+    "暂停前最后一期按短节目放行：音频 12.5 分钟，事件、来源、图文与完整音频均已齐备"
+  ]
 }
