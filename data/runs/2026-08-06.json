@@ -110,28 +110,28 @@
       "updated_at_bjt": "2026-08-06T07:39:20+08:00"
     },
     "sports": {
-      "attempts": 1,
+      "attempts": 2,
       "status": "failed",
       "stages": {
         "preflight": {
           "status": "completed",
           "detail": "deepseek-v4-flash",
-          "at_bjt": "2026-08-06T07:39:20+08:00"
+          "at_bjt": "2026-08-06T08:12:38+08:00"
         },
         "collection": {
           "status": "completed",
           "detail": "40 candidates",
-          "at_bjt": "2026-08-06T07:39:21+08:00"
+          "at_bjt": "2026-08-06T08:12:39+08:00"
         },
         "fact_pack": {
           "status": "completed",
           "detail": "5 stories",
-          "at_bjt": "2026-08-06T07:39:37+08:00"
+          "at_bjt": "2026-08-06T08:12:45+08:00"
         },
         "content_brief": {
           "status": "completed",
           "detail": "Qwen/Qwen3.5-4B",
-          "at_bjt": "2026-08-06T07:39:38+08:00"
+          "at_bjt": "2026-08-06T08:12:47+08:00"
         },
         "writing": {
           "status": "completed",
@@ -160,13 +160,16 @@
         }
       },
       "errors": [
-        "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内"
+        "音频时长 12.5 分钟，不在当前事件量对应的 13—18 分钟范围内",
+        "播客内容过短：3021 字，至少需要 3800 字"
       ],
       "episode_id": "2026-08-06-sports",
-      "updated_at_bjt": "2026-08-06T07:43:44+08:00"
+      "updated_at_bjt": "2026-08-06T08:14:26+08:00"
     }
   },
-  "notifications": {},
+  "notifications": {
+    "generation:sports": "2026-08-06T08:14:29+08:00"
+  },
   "release": {},
-  "updated_at_bjt": "2026-08-06T07:43:44+08:00"
+  "updated_at_bjt": "2026-08-06T08:14:29+08:00"
 }

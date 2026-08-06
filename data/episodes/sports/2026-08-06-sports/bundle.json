@@ -877,9 +877,9 @@
       0.45
     ]
   },
-  "status": "failed",
+  "status": "generated",
   "created_at_bjt": "2026-08-06T07:41:24+08:00",
-  "updated_at_bjt": "2026-08-06T07:43:44+08:00",
+  "updated_at_bjt": "2026-08-06T08:12:37+08:00",
   "published_at_bjt": "",
   "feishu_notified_at_bjt": ""
 }
