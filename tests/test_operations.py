@@ -170,6 +170,7 @@ class WorkflowTests(unittest.TestCase):
         workflow = (Path(__file__).parents[1] / ".github" / "workflows" / "publish.yml").read_text(encoding="utf-8")
         self.assertIn("workflow_dispatch:", workflow)
         self.assertNotIn("schedule:", workflow)
+        self.assertNotIn("push:", workflow)
 
 
 if __name__ == "__main__":
